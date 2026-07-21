@@ -1,0 +1,416 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <!-- Google Fots -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<!--<link href="https://fonts.googleapis.com/css2?family=Inter|Noto+Sans+SC:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">-->
+      <!-- Remixicon Icon -->
+      <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+      <!-- Remixicon Icon -->
+      <!-- Bootstrap CSS -->
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+      <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+      <!-- Main CSS -->
+      <link href="assets/css/main.css" rel="stylesheet">
+      <link rel="apple-touch-icon" sizes="180x180" href="assets/ico/apple-touch-icon.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="assets/ico/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="assets/ico/favicon-16x16.png">
+	  <link rel="icon" type="image/x-icon" href="assets/ico/favicon.ico">
+      <link rel="manifest" href="assets/ico/site.webmanifest">
+	  
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load("current", {packages:["corechart"]});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Work Type', 'Avg work%'],
+          ['Software Solution Architecture and Design',     35],
+          ['Team Management & Planning',      30],
+          ['Drive Enterprise Intiative',  20],
+          ['Stakeholder Management', 10],
+          ['Vendor / Supplier Management',    5]
+        ]);
+
+        var options = {
+          pieHole: 0.4,
+		  legend: {position: 'none'},
+		  'chartArea': {'width': '100%', 'height': '80%'},
+		  colors: [ '#78a1bb' , '#272635', '#A6A6A8', '#CECECE', '#E8E9F3']
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById('donutchart'));
+        chart.draw(data, options);
+      }
+    </script>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-XQ6KVSDDBZ"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-XQ6KVSDDBZ');
+	</script>	
+
+    <title>Benny Foo - ESFP-A</title>
+  </head>
+  <body>
+   
+    <!-- header -->
+    <header class="ds-header" id="site-header">
+        <div class="container">
+            <div class="ds-header-inner">
+              <!-- logo -->
+              <a href="index.html" class="ds-logo">
+                <span>BF</span>Benny Foo
+              </a>
+              <!-- logo -->
+              <!-- social -->
+			  <!--<div class="ds-button-sec text-center">
+                <a href="#" class="ds-button">Download</a>
+			  </div>
+			  -->
+              <ul class="ds-social">
+                <!--<li><a href="#" target="_blank"><i class="ri-github-fill"></i></a></li>
+                <li><a href="#" target="_blank"><i class="ri-stack-overflow-line"></i></a></li>-->
+                <li><a href="https://www.linkedin.com/in/bennyfoo/" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
+              </ul>
+              <!-- social -->
+            </div>
+        </div>
+    </header>
+    <!-- header -->
+    <!-- banner -->
+    <div class="ds-banner">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7 col-xxl-7">
+            <section>
+                <h1>
+                  <span>Hi there</span>
+                  I am Benny Foo <br> 
+                  <p>Transformative Technology Leader | Driving Innovation and Empowering High-Performance Teams for Business Success</p>
+                </h1>
+                <ul class="ds-numbervalulist">
+                  <li>
+                    <strong>18+</strong>
+                    <span>Experience</span>
+                  </li>
+                  <li>
+                    <strong>7+</strong>
+                    <span>Roles</span>
+                  </li>
+                  <li>
+                    <strong>30+</strong>
+                    <span>Solutions</span>
+                  </li>
+                </ul>
+            </section>
+          </div>
+          <div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
+            <figure>
+              <img class="headerimg" src="assets/images/ProfileWhite.jpg">
+            </figure>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- banner -->
+
+    <!-- about -->
+    <div class="ds-about-section">
+      <div class="container">
+        <section>
+            <h2 class="ds-heading">About Me</h2>
+            <p>
+			<span style="font-weight: 600;">Highly skilled and driven Technology Engineering Director</span> with <span style="font-weight: 600;">over 18 years of exceptional experience</span>. I have led regional development teams, delivering innovative software solutions. As a <span style="font-weight: 600;">collaborative leader</span>, I foster a culture of teamwork and innovation, nurturing high-performance teams.
+			</p>
+			<p>
+			My expertise lies in specializing in <span style="font-weight: 600;">custom web development</span>, adept at capturing business processes information and presenting valuable business insights to senior management. I take great delight in leveraging technology solutions to solve complex business problems effectively.
+			</p>
+			<p>
+			Throughout my career, I have donned various hats, from a seasoned consultant to a proficient business operations and technology delivery director. This diverse background has equipped me with a holistic understanding of the industry and a unique ability to bridge the gap between business needs and cutting-edge technological advancements.
+			</p>
+			<p>
+			<span style="font-weight: 600;">Passionate, forward-thinking, and results-oriented</span>, I am eager to bring my extensive skill set to drive your organization's success, empowering teams to reach their full potential and delivering unparalleled solutions that shape the future of your business.
+			</p>
+            
+        </section>
+      </div>
+    </div>
+    <!-- about -->
+
+    <!--  Skills -->
+    <div class="ds-skills-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+             <h2 class="ds-heading">Tech Stack</h2>
+             <ul class="ds-skills-list">
+               <li>Azure PaaS</li>
+               <li>React JS</li>
+               <li>.Net C#</li>
+               <li>Node.js</li>
+               <li>MS SQL</li>
+               <li>Azure APIM</li>
+               <li>Dev Ops</li>
+               <li>Power BI</li>
+               <li>MS CRM Dynamic</li>
+               <li>SNKY</li>
+             </ul>
+          </div>
+          <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <h2 class="ds-heading">Other Skills</h2>
+            <ul class="ds-skills-list">
+              <li>Software Delivery and Solution Design</li>
+              <li>Team Building and Mentoring</li>
+              <li>Agile Project Management</li>
+              <li>Enterprise Architecture</li>
+              <li>Collaboration / Relationship Management</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+	
+	
+	<!--  Time Spent -->
+    <div class="ds-skills-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+             <h2 class="ds-heading">How I usually spent my time</h2>
+			  <div id="donutchart" style="height: 500px;"></div>
+          </div>
+          <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 d-flex align-items-center">
+				<h2 class="ds-heading"></h2>
+				<ul class="list-group">
+				  <li class="list-group-item">
+					 <span class="badge bg-blue">35%</span>
+					<label class="form-check-label legend">Software Solution Architecture and Design</label>
+				  </li>
+				  <li class="list-group-item">
+					 <span class="badge bg-raisinblack">30%</span>
+					<label class="form-check-label legend">Team Management & Planning</label>
+				  </li>
+				  <li class="list-group-item">
+					 <span class="badge bg-frenchgrey">20%</span>
+					<label class="form-check-label legend">Drive Enterprise Intiative</label>
+				  </li>
+				  <li class="list-group-item">
+					 <span class="badge bg-silver">10%</span>
+					<label class="form-check-label legend">Stakeholder Management</label>
+				  </li>
+				  <li class="list-group-item">
+					 <span class="badge bg-ghostwhite color-raisinblack">5%</span>
+					<label class="form-check-label legend">Vendor / Supplier Management</label>
+				  </li>
+				</ul>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--  Skills -->
+
+   <!-- Experience -->
+   <div class="ds-experience-section">
+     <div class="container">
+        <h2 class="ds-heading">Work Experience</h2>
+        <div class="row ds-experience-list">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+              <section>
+                <img src="assets/images/JLLT.png" class="img-thumbnail rounded float-start" alt="..." style="margin:0px 20px 0px 5px;width: 100px;height: 100px;object-fit: contain;">
+				<span class="ds-year">2012 - Present</span>
+                <h3 class="ds-officename"><div class="abbr_office" title="JLL Technologies"> <span>JLLT<span> </div></h3>
+                <span class="ds-department">Director, Software Engineering</span>
+                <p>Accomplished the successful deployment of CRM & Real Estate Data management solutions across the Asia Pacific region, leveraging best practices from local business process. The integrated solution not only grants businesses valuable insights, providing a competitive edge against competitors, but also facilitates increased transaction closures. Additionally, it serves as a central integration hub for other enterprise systems like PeopleSoft for finance and Eloqua for marketing. Collaborating closely with the product/program team, I continuously deliver cutting-edge software solutions within the Ecosystem. As the application owner, I ensure strict alignment with Enterprise standards for infrastructure and technology stack.</p>
+                <ul>
+                  <li>Championed and orchestrated the Software Engineering Practice for JLL’s Leasing Business, supervising 10 active applications with a focus on creating scalable and sustainable solutions.</li>
+                  <li>Executed the successful rollout of a regional CRM and Real Estate data management solution, streamlining leasing operations across the Asia Pacific and boosting productivity.</li>
+				  <li>Implemented multiple large-scale data migrations across 15 countries, facilitating operational support and ensuring successful adoption.</li>
+				  <li>Empowered as a trusted Subject Matter Expert and business partner,delivering technical expertise and designing solutions for various business requests.</li>
+				  <li>Engaged proactively with the Enterprise team, standardizing global engineering practices in security, test automation, and enterprise services. As a result, we achieved enhanced security, streamlined testing, and optimized enterprise operations.</li>
+				  <li>Forged robust partnerships with local IT teams, seamlessly integrating local initiatives into regional solutions for enhanced efficiency and collaboration.</li>
+				  <li>Collaborated proactively with an external IT/HR vendor to develop resource augmentation, resulting in significant cost savings and ensuring efficient adherence to project requirements and schedules.</li>
+				  <li>JLLT Hackathon finalist in 2021.</li>
+				  <li>Awarded additional stock options in 2018 as part of a talent retention program.</li>
+
+                </ul>
+              </section>
+            </div>
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+              <section>
+                <img src="assets/images/EMC.png" class="img-thumbnail rounded float-start" alt="..." style="margin:0px 20px 0px 5px;width: 100px;height: 100px;object-fit: contain;">
+				<span class="ds-year">2009 - 2012</span>
+                <h3 class="ds-officename"><div class="abbr_office" title="EMC International SARL (Now Dell EMC)"> <span>EMC<span> </div></h3>
+                <span class="ds-department">Manager Business Operation</span>
+                <p>Successfully deployed an innovative forecasting and workflow system in the Asia Pacific region, ensuring a consistent approach to opportunity management and analytics across different theatres. This system not only establishes the gold standard for best practices in Asia Pacific but also serves as the live solution for future migration into SFDC for global consolidation. Actively engaged in strategy discussions and development with corporate, I play a pivotal role as the execution engine for deployment in APJ.</p>
+				<p>Moreover, I am instrumental in creating and providing analytic, statistical models, and MIS support to cross-functional business leaders, including CFO, SVP, and Directors. My contributions enhance decision-making processes and facilitate data-driven insights for key stakeholders.</p>
+                <ul>
+                  <li>Oversaw operations and empowered a team of over 80 sales representatives across the Asia Pacific region, resulting in increased revenue (300M+), streamlined processes, and enhanced customer satisfaction.</li>
+                  <li>Championed the implementation of a system to manage sales forecast activities, resulting in streamlined processes, improved decision-making,and enhanced change management.</li>
+				  <li>Engineered and oversaw an automated forecast report, delivering actionable business insights to senior management.</li>
+				  <li>Served as the subject matter expert for engaging in discussions with cross-functional groups, driving impactful changes and initiatives that positively influenced renewal business.</li>
+				  <li>Attained an invitation to the prestigious APJ President’s Club in 2012, recognizing exceptional performance and celebrating outstanding achievements.</li>
+				  <li>Achieved consecutive promotions, demonstrating exceptional performance and unwavering dedication year after year.</li>
+				  <li>Received stock options as recognition for exceptional contributions<a>, driving notable productivity improvements in the business.</li>
+                </ul>
+              </section>
+            </div>
+			<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+              <section>
+                <img src="assets/images/AvanadeAsia.png" class="img-thumbnail rounded float-start" alt="..." style="margin:0px 20px 0px 5px;width: 100px;height: 100px;object-fit: contain;">
+				<span class="ds-year">2006 - 2009</span>
+                <h3 class="ds-officename"><div class="abbr_office" title="Avanade Asia Pte Ltd"> <span>Avanade Asia<span> </div></h3>
+                <span class="ds-department">Senior Consultant</span>
+                <p>
+					As a Resident Consultant at Global Investment Corporation of Singapore, I have successfully designed and implemented multiple mission-critical systems used for investment analysis. These systems encompass a comprehensive range, including data warehousing, reporting models, ETL solutions, and transaction workflow systems. Over the course of 3.5 years, I have assumed various pivotal roles, transitioning from a developer to a team lead, and eventually serving as a solution architect. One of my most significant achievements was leading a high-impact project worth over a million dollars, managing a dynamic team of more than 10 members to ensure its successful delivery.
+				</p>
+                <ul>
+					<li>Led as a resident consultant for a prestigious client, successfully delivering multiple mission-critical projects.</li>
+					<li>Appointed by clients to mentor in-house developers through a complete SDLC cycle, resulting in accelerated skill development, improved code quality, and enhanced project delivery.</li>
+				    <li>Collaborated with sales to craft compelling new project proposals, delivering well-defined solutions and accurate budgetary estimates.</li>
+					<li>Engage actively in talent recruitment, cultivating</a> a high-performing and skilled team that delivered exceptional results.</li>	
+					<li>Achieved repeated promotions in 3.5 years, demonstrating exceptional performance and unwavering dedication year after year.</li>
+                </ul>
+              </section>
+            </div>
+			<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+              <section>
+                 <img src="assets/images/scs.jpg" class="img-thumbnail rounded float-start" alt="..." style="margin:0px 20px 0px 5px;width: 100px;height: 100px;object-fit: contain;">
+				<span class="ds-year">2006 - 2009</span>
+                <h3 class="ds-officename"><div class="abbr_office" title="Singapore Computer System (Now NCS)"> <span>SCS<span> </div></h3>
+                <span class="ds-department">Program Analyst</span>
+                <p>
+					This is my first professional role within an established enterprise corporation, I immersed myself in software development for workflow applications tailored to commercial sectors. Notably, the pilot application was transformed into a market-ready product, successfully selling it to other commercial banks. As a pioneering development team member, I assumed the role of team lead, overseeing the customization and seamless rollout of subsequent projects. Beyond core project delivery, I actively participated in other enterprise initiatives, including operationalizing offshore development models and enhancing application support frameworks. Additionally, I played a key role in recruiting top talent for the offshore and support teams.
+				</p>
+                <ul>
+					<li>Being trusted and assumed the role of team lead in the second project, guiding the team to successful project completion.</li>
+					<li>Pioneered the off-shore development model and orchestrated the operational management of a team of developers in Chengdu, resulting in project cost saving, resource augmentation, and successful project delivery.</li>
+					<li>Led the evaluation of solutions and crafted application maintenance projects proposal for one of the strategic clients, resulting in cost-effective maintenance and increased customer satisfaction.</li>
+					<li>Engage actively in talent recruitment, cultivating a high-performing and skilled team that delivered exceptional results.</li>	
+                </ul>
+              </section>
+            </div>
+        </div>
+     </div>
+   </div>
+    <!-- Experience -->
+
+    <!-- about -->
+    <div class="ds-learning-section">
+      <div class="container">
+        <section>
+            <h2 class="ds-heading">My Learning</h2>
+			<p>
+			<b>Bachelor of Computing, Deakin University</b>
+			</p>			
+			<ul>
+					<li>AZ-900 - Microsoft Azure Fundamentals</li>
+					<li>Luma - Human Centric Design</li>
+					<li>Lean Six Sigma Yellow Belt Training</li>
+					<li>Essential of Management Training (APJ)</li>
+					<li>Crucial Conversion Training</li>
+                </ul>
+            
+        </section>
+      </div>
+    </div>
+
+
+   <!--  Work -->
+   <div class="ds-work-section">
+     <div class="container">
+          <h2 class="ds-heading">Work References</h2>
+          <div class="ds-work-list-section">
+            <div class="ds-work-list">
+              <div class="row">
+                  <div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7 col-xxl-7">
+                      <section>
+                          <h3 class="ds-work-tilte">Platform Rewiring</h3>
+                          <p>Embarked on a transformative journey to rewire the backend platform, aiming to curtail license costs associated with third-party vendor maintenance. This legacy integration platform has sustained operations for over 15 years, interfacing with various packaged solutions. Given the limited knowledge of original requirements and existing implementation, my role as engineering lead involved orchestrating a team of engineers to reverse-engineer code, conduct rigorous testing, and meticulously devise the design for the "to be" solution. A comprehensive transition plan was meticulously crafted to ensure minimal business disruption.
+						  </p>
+						  <p>
+							The resultant impact of this initiative transcends mere cost savings, amounting to a substantial $1.7 million in maintenance expense reduction. Moreover, the application's liberation from legacy dependencies has propelled its scalability, unlocking newfound potential.</p>
+                          <!--<a href="works-setails.html" class="ds-button">Details</a>-->
+                      </section>
+                  </div>
+                  <div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5 col-xxl-5" >
+                      <figure><img  src="assets/images/Backend-Rewiring.jpeg"></figure>
+                  </div>
+              </div>
+            </div>
+			<div class="ds-work-list">
+              <div class="row">
+                  <div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7 col-xxl-7">
+                      <section>
+                          <h3 class="ds-work-tilte">Human Centric Design</h3>
+                          <p>
+Collaborated with a design and research firm to facilitate a comprehensive discovery workshop, delving into the utilization of our current application by internal users across Asia pacific. Analyzing the workshop findings, I meticulously pinpointed areas primed for enhancement within the existing application. This strategic effort is geared towards perpetuating heightened adoption rates and maximizing the application's contribution to overall business success.
+</p>
+<p>
+I assumed a pivotal role as the principal liaison for research, enabling them to gain insight into the conceptualization behind the application's current feature set. I am also responsible in identifying suitable workshop participants and themes, while also fulfilling the crucial responsibility of chief architect in collaborative problem-solving sessions, aimed at addressing targeted challenge.</p>
+                          
+                      </section>
+                  </div>
+                  <div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
+                       <figure><img src="assets/images/DayInLife.jpeg"></figure>
+                  </div>
+              </div>
+            </div>
+            <div class="ds-work-list">
+              <div class="row">
+                  <div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7 col-xxl-7">
+                      <section>
+                          <h3 class="ds-work-tilte">Digital Transformation</h3>
+                          <p>		  
+As the Technology Manager for a core business division, I spearheaded a collaborative effort with Global Technology to implement a unified CRM system throughout the Asia Pacific region. This initiative involved replacing disparate applications and spreadsheets that were previously used for data management. In conjunction with Data Engineer team, we meticulously devised customer and real estate schemas, effectively centralizing business insights and ensuring standardization across the entire region.
+</p>
+<p>
+The evolution of this journey unfolded as our primary dataset expanded and gained utility. Through the partnership of the regional application team under my guidance, several other business processes were seamlessly transitioned into the digital realm. This ecosystem has profoundly empowered our business users by furnishing them with real-time business insights, thus enhancing their ability to cater to clients efficiently and effectively.
+</p>
+                      </section>
+                  </div>
+                  <div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
+                      <figure><img src="assets/images/JLLT_MarketLink.jpeg" /></figure>
+                  </div>
+              </div>
+            </div>
+            
+          </div>
+     </div>
+   </div>
+   <!--  Work -->
+
+   <!--  footer -->
+   <footer class="ds-footer text-center">
+     <div class="container">
+        <section>
+          <span>Stay in touch</span>
+          <h4>Ready to talk?</h4>
+          <p>Feel free to contact me</p>
+          <a href="mailto:bennyfoocy@gmail.com" class="ds-button">Lets Talk</a>
+        </section>
+        <span class="ds-copyright">© 2022 All rights reserved. Free minimal bootstrap template by <a href="https://designstub.com/" target="_blank">Designstub</a>.</span>
+     </div>
+   </footer>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    -->
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
