@@ -2,10 +2,28 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-08-03
-run_count: 6
-digest_count: 6
+last_run: 2026-08-04
+run_count: 7
+digest_count: 7
 entries:
+  - fingerprint: alcorn-state-madagascar-ai-cheating-trick
+    title: "Alcorn State professor's hidden 'Madagascar' prompt exposes AI cheating in 32 of 35 students"
+    first_seen: 2026-08-04
+    digest: ai-impact-on-education-2026-Aug-04.html
+    urls:
+      - https://www.foxnews.com/media/mississippi-professor-reveals-hidden-way-expose-ai-cheating-viral-video
+      - https://www.supertalk.fm/alcorn-state-professor-uses-hidden-method-to-catch-32-students-using-ai/
+      - https://ktla.com/news/college-professor-tricks-students-with-hidden-ai-prompt/
+      - https://www.today.com/parents/family/professor-catches-ai-cheating-hidden-word-rcna589421
+      - https://hbcugameday.com/2026/07/30/at-alcorn-state-ai-isnt-the-enemy-students-misusing-it-is/
+  - fingerprint: students-first-act-2026-k12-ai-policy
+    title: "Teens' AI policy draft becomes the formal STUDENTS FIRST Act of 2026, released by AASA"
+    first_seen: 2026-08-04
+    digest: ai-impact-on-education-2026-Aug-04.html
+    urls:
+      - https://www.aasa.org/news-media/news/2026/08/03/students-produce-national-framework-for-ai-in-america's-schools
+      - https://www.kpbs.org/news/education/2026/07/30/adults-have-struggled-to-set-rules-for-ai-in-school-these-teens-figured-it-out
+      - https://www.houstonpublicmedia.org/npr/2026/07/30/nx-s1-5853571/adults-have-struggled-to-set-rules-for-ai-in-school-these-teens-figured-it-out/
   - fingerprint: unam-ai-cheating-investigation-results-control-exam-aug2026
     title: "UNAM's AI-cheating investigation results are in: 3,000 tests voided, 58,000 applicants face an in-person do-over"
     first_seen: 2026-08-03
@@ -253,6 +271,10 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-04
+- **Alcorn State professor's hidden 'Madagascar' prompt exposes AI cheating in 32 of 35 students** — a viral TikTok detection trick reignited the academic-integrity debate. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-04.html)
+- **Teens' AI policy draft becomes the formal STUDENTS FIRST Act of 2026, released by AASA** — updating our July 30 coverage: the student-authored K-12 AI policy passed 82–16 in a mock Senate and was formally released August 3, headed to AASA's ~10,000-member school-leader network. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-04.html)
 
 ## 2026-Aug-03
 - **UNAM's AI-cheating investigation results are in: 3,000 tests voided, 58,000 applicants face an in-person do-over** — update to our July 29 coverage: UNAM's commission confirmed cheating via phones, companions, and identity theft, invalidated ~3,000 exams, and now requires an in-person control exam for 58,000 applicants before the Aug 10 semester start. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-03.html)
