@@ -95,6 +95,49 @@
     });
   }
 
+  /* ---------- Mobile nav toggle ---------- */
+  (function () {
+    var nav = document.querySelector('.nav');
+    var links = nav && nav.querySelector('.nav-links');
+    if (!nav || !links) return;
+
+    if (!links.id) links.id = 'nav-links';
+
+    var toggle = document.createElement('button');
+    toggle.type = 'button';
+    toggle.className = 'nav-toggle';
+    toggle.setAttribute('aria-label', 'Toggle menu');
+    toggle.setAttribute('aria-expanded', 'false');
+    toggle.setAttribute('aria-controls', links.id);
+    toggle.innerHTML = '<span class="nav-toggle-bars"><span></span><span></span><span></span></span>';
+    nav.insertBefore(toggle, links.nextSibling);
+
+    function close() {
+      links.classList.remove('is-open');
+      toggle.setAttribute('aria-expanded', 'false');
+    }
+    function open() {
+      links.classList.add('is-open');
+      toggle.setAttribute('aria-expanded', 'true');
+    }
+
+    toggle.addEventListener('click', function () {
+      if (links.classList.contains('is-open')) close(); else open();
+    });
+    links.addEventListener('click', function (e) {
+      if (e.target.tagName === 'A') close();
+    });
+    document.addEventListener('click', function (e) {
+      if (!nav.contains(e.target)) close();
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') close();
+    });
+    window.addEventListener('resize', function () {
+      if (window.innerWidth > 900) close();
+    });
+  })();
+
   /* ---------- Sticky offset: how far the dark block out-sizes the viewport ---------- */
   var inkBlock = document.getElementById('ink');
   function setStick() {

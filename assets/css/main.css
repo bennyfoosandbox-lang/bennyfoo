@@ -189,6 +189,40 @@ main {
 .nav-actions { display: flex; align-items: center; gap: 0.9rem; }
 .nav-linkedin { display: inline-flex; }
 
+/* Hamburger toggle: JS-injected, hidden until the mobile breakpoint shows it */
+.nav-toggle {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  flex: none;
+  border: 1px solid var(--hairline-dark);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--ink-text);
+  cursor: pointer;
+}
+.nav-toggle-bars {
+  position: relative;
+  width: 16px;
+  height: 11px;
+}
+.nav-toggle-bars span {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 1.5px;
+  background: currentColor;
+  transition: transform 0.25s var(--ease), opacity 0.2s var(--ease), top 0.25s var(--ease);
+}
+.nav-toggle-bars span:nth-child(1) { top: 0; }
+.nav-toggle-bars span:nth-child(2) { top: 5px; }
+.nav-toggle-bars span:nth-child(3) { top: 10px; }
+.nav-toggle[aria-expanded="true"] .nav-toggle-bars span:nth-child(1) { top: 5px; transform: rotate(45deg); }
+.nav-toggle[aria-expanded="true"] .nav-toggle-bars span:nth-child(2) { opacity: 0; }
+.nav-toggle[aria-expanded="true"] .nav-toggle-bars span:nth-child(3) { top: 5px; transform: rotate(-45deg); }
+
 /* ---------- Hero ---------- */
 
 .hero {
@@ -1016,10 +1050,37 @@ textarea.tool-text[readonly] { background: var(--band); }
 /* ---------- Responsive ---------- */
 
 @media (max-width: 900px) {
-  .nav-links { display: none; }
+  .nav-toggle { display: inline-flex; }
+  .nav-links {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 5;
+    flex-direction: column;
+    gap: 0;
+    margin-left: 0;
+    padding: 0.4rem var(--pad) 1rem;
+    background: var(--ink-soft);
+    border-bottom: 1px solid var(--hairline-dark);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-8px);
+    transition: opacity 0.2s var(--ease), transform 0.2s var(--ease), visibility 0.2s;
+  }
+  .nav-links.is-open {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+  .nav-links a {
+    padding: 0.85rem 0.2rem;
+    border-bottom: 1px dotted var(--hairline-dark);
+  }
+  .nav-links a:last-child { border-bottom: none; }
   .tool-grid { grid-template-columns: 1fr; }
   .tool-text { min-height: 220px; }
-  .nav { gap: 1rem; }
+  .nav { position: relative; gap: 1rem; }
   .nav-actions { margin-left: auto; }
 
   .hero-inner { grid-template-columns: 1fr; }
