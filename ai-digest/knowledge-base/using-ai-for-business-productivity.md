@@ -1,0 +1,731 @@
+---
+topic: "Using AI for Business Productivity"
+topic_slug: using-ai-for-business-productivity
+created: 2026-07-20
+last_run: 2026-08-04
+run_count: 16
+digest_count: 16
+entries:
+  - fingerprint: palantir-q2-2026-earnings-commercial-ai-platform-surge
+    title: "Palantir's Q2 2026 earnings blow past expectations as commercial AI platform revenue surges"
+    first_seen: 2026-08-04
+    digest: using-ai-for-business-productivity-2026-Aug-04.html
+    urls:
+      - https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html
+      - https://www.businesswire.com/news/home/20260802523449/en/Palantir-Reports-Q2-2026-U.S.-Comm-Revenue-Growth-of-149-YY-and-Revenue-Growth-of-93-YY-Raises-FY-2026-Revenue-Guidance-to-82-YY-Growth-and-U.S.-Comm-Revenue-Guidance-to-134-YY-Crushing-Consensus-Expectations
+      - https://pulse2.com/palantir-closes-220-deals-worth-at-least-1-million-as-revenue-jumps-93-for-q2-2026/
+  - fingerprint: microsoft-project-perception-public-preview-agentic-security
+    title: "Microsoft's Project Perception — agentic AI security operations — enters public preview"
+    first_seen: 2026-08-04
+    digest: using-ai-for-business-productivity-2026-Aug-04.html
+    urls:
+      - https://www.geekwire.com/2026/microsoft-escalates-the-ai-cybersecurity-race-with-project-perception-and-a-new-in-house-model/
+      - https://futurumgroup.com/insights/microsofts-project-perception-bets-on-agents-that-act-not-just-alert/
+      - https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/
+  - fingerprint: cloudflare-agents-week-2026-agentic-cloud-infrastructure
+    title: "Cloudflare's Agents Week lays out infrastructure for the 'agentic cloud'"
+    first_seen: 2026-08-04
+    digest: using-ai-for-business-productivity-2026-Aug-04.html
+    urls:
+      - https://blog.cloudflare.com/agents-week-in-review/
+      - https://www.cloudflare.com/agents-week/press-releases/
+      - https://www.startuphub.ai/ai-news/artificial-intelligence/2026/cloudflare-plans-for-the-agent-cloud
+  - fingerprint: ai4-2026-las-vegas-conference-opens-hinton-ng-feifei-li
+    title: "Ai4 2026 opens in Las Vegas with Hinton, Ng and Fei-Fei Li on one stage"
+    first_seen: 2026-08-04
+    digest: using-ai-for-business-productivity-2026-Aug-04.html
+    urls:
+      - https://www.techtimes.com/articles/322674/20260802/ai4-2026-opens-tuesday-hinton-ng-face-off-ais-existential-stakes.htm
+      - https://finance.yahoo.com/sectors/technology/articles/ai4-2026-unveils-expanded-exhibit-191000645.html
+  - fingerprint: freehand-75m-series-b-ai-supply-chain-agents-fortune-500
+    title: "Freehand raises $75M to put AI agents in charge of Fortune 500 supply-chain spend"
+    first_seen: 2026-08-04
+    digest: using-ai-for-business-productivity-2026-Aug-04.html
+    urls:
+      - https://techfundingnews.com/freehand-raises-75m-as-meta-and-unilever-hand-their-supply-chains-to-ai-agents/
+      - https://www.forbes.com/sites/davidprosser/2026/07/29/freehand-raises-75-million-as-its-ai-agents-target-the-supply-chain/
+      - https://www.pymnts.com/news/investment-tracker/2026/freehand-raises-75-million-to-automate-enterprise-procurement-and-payments/
+  - fingerprint: sf-fed-small-business-ai-adoption-46pct-2026
+    title: "Fed survey: nearly half of small employer firms now use AI, but almost none have gone past experimenting"
+    first_seen: 2026-08-03
+    digest: using-ai-for-business-productivity-2026-Aug-03.html
+    urls:
+      - https://www.frbsf.org/research-and-insights/publications/community-development-research-briefs/2026/07/ai-adoption-in-small-businesses-2024-sbcs/
+      - https://fedinprint.org/item/fedfcb/103580
+      - https://fedcommunities.org/small-business-owners-using-ai-surprising-ways/
+  - fingerprint: qualcomm-completes-modular-acquisition-enterprise-ai-compute
+    title: "Qualcomm completes its Modular acquisition, betting on AI compute portability"
+    first_seen: 2026-08-03
+    digest: using-ai-for-business-productivity-2026-Aug-03.html
+    urls:
+      - https://www.prnewswire.com/news-releases/qualcomm-completes-acquisition-of-modular-302837286.html
+      - https://www.hpcwire.com/aiwire/2026/07/29/qualcomm-completes-acquisition-of-modular/
+      - https://pulse2.com/qualcomm-completes-acquisition-of-modular-to-expand-ai-compute-platform-from-edge-to-cloud/
+  - fingerprint: hubspot-agent-hub-agent-builder-public-beta-agent-sprawl
+    title: "HubSpot opens Agent Hub and Agent Builder to fight AI agent sprawl"
+    first_seen: 2026-08-03
+    digest: using-ai-for-business-productivity-2026-Aug-03.html
+    urls:
+      - https://www.hubspot.com/company-news/meet-agent-hub-and-agent-builder
+      - https://www.cmswire.com/customer-experience/hubspot-debuts-agent-hub-to-unify-ai-agents/
+      - https://www.cxtoday.com/ai-automation-in-cx/hubspot-takes-aim-at-ai-agent-sprawl/
+  - fingerprint: vention-uk-us-dach-ai-pilots-survey-2026
+    title: "Vention survey: UK, US and DACH firms have largely exited the AI pilot phase, but strategy now splits them"
+    first_seen: 2026-08-03
+    digest: using-ai-for-business-productivity-2026-Aug-03.html
+    urls:
+      - https://ventionteams.com/newsroom/regional-ai-adoption-strategy-us-uk-dach-2026
+      - https://itbrief.co.uk/story/uk-firms-move-beyond-ai-pilots-vention-survey-finds
+  - fingerprint: amazon-q2-2026-aws-bedrock-acceleration-220b-capex
+    title: "Amazon's AWS accelerates for a 5th straight quarter as Bedrock and AI demand surge"
+    first_seen: 2026-08-02
+    digest: using-ai-for-business-productivity-2026-Aug-02.html
+    urls:
+      - https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html
+      - https://www.gurufocus.com/news/8993599/amazoncom-inc-amzn-q2-2026-earnings-call-highlights-record-revenue-and-aws-acceleration-fuel-optimism
+      - https://www.investing.com/news/transcripts/earnings-call-transcript-amazon-tops-q2-2026-estimates-as-aws-growth-accelerates-93CH-4826442
+  - fingerprint: unitedhealth-ai-runs-every-function-q2-2026
+    title: "UnitedHealth: AI now runs every function of its business"
+    first_seen: 2026-08-02
+    digest: using-ai-for-business-productivity-2026-Aug-02.html
+    urls:
+      - https://www.pymnts.com/earnings/2026/unitedhealths-ai-runs-every-function-of-its-business/
+      - https://www.businesswire.com/news/home/20260716830877/en/UnitedHealth-Group-Reports-Second-Quarter-2026-Results
+      - https://www.techtimes.com/articles/320782/20260716/unitedhealth-shatters-estimates-ai-trims-medical-costs-270-basis-points.htm
+  - fingerprint: exlservice-ai-led-revenue-61pct-q2-2026
+    title: "ExlService's AI-led services now drive 61% of revenue, and growth is accelerating"
+    first_seen: 2026-08-02
+    digest: using-ai-for-business-productivity-2026-Aug-02.html
+    urls:
+      - https://www.gurufocus.com/news/8987657/exlservice-holdings-inc-exls-q2-2026-earnings-call-highlights-strong-growth-in-ai-and-data-services
+      - https://www.investing.com/news/company-news/exl-q2-2026-slides-ai-revenue-surges-31-guidance-raised-93CH-4821064
+      - https://simplywall.st/stocks/us/commercial-services/nasdaq-exls/exlservice-holdings/news/exlservice-holdings-exls-stock-jumps-as-ai-growth-lifts-outl/amp
+  - fingerprint: elastic-openai-enterprise-unstructured-data-agents
+    title: "Elastic and OpenAI team up to ground AI agents in companies' unstructured data"
+    first_seen: 2026-08-02
+    digest: using-ai-for-business-productivity-2026-Aug-02.html
+    urls:
+      - https://www.hpcwire.com/bigdatawire/this-just-in/elastic-and-openai-collaborate-to-bring-frontier-intelligence-to-unstructured-enterprise-data/
+      - https://www.hpcwire.com/aiwire/2026/07/30/elastic-and-openai-collaborate-to-bring-frontier-intelligence-to-unstructured-enterprise-data/
+      - https://martechseries.com/predictive-ai/ai-platforms-machine-learning/elastic-and-openai-collaborate-to-bring-frontier-intelligence-to-unstructured-enterprise-data/
+  - fingerprint: eu-ai-act-gpai-enforcement-august-2-2026
+    title: "The EU AI Act's enforcement teeth go live tomorrow — and they reach U.S. businesses too"
+    first_seen: 2026-08-01
+    digest: using-ai-for-business-productivity-2026-Aug-01.html
+    urls:
+      - https://www.techi.com/eu-ai-act-gpai-enforcement-august-2026/
+      - https://beam.ai/agentic-insights/eu-ai-act-enforcement-august-2-2026-gpai-fines
+      - https://compliancehub.wiki/eu-ai-act-gpai-enforcement-august-2026-readiness/
+  - fingerprint: stlouisfed-fortune-ai-productivity-earnings-calls-490k
+    title: "Fed researchers: AI's productivity payoff is still invisible in the data — and that may be normal"
+    first_seen: 2026-08-01
+    digest: using-ai-for-business-productivity-2026-Aug-01.html
+    urls:
+      - https://fortune.com/2026/07/31/ai-productivity-doesnt-show-up-in-data-earnings-calls-st-louis-fed/
+      - https://www.stlouisfed.org/on-the-economy/2026/jul/ai-productivity-what-firms-say-earnings-calls
+  - fingerprint: adp-q4-fy2026-earnings-ai-assist-hcm-agents
+    title: "ADP rides AI to a record quarter — HCM agents now reach nearly all 1.1 million clients"
+    first_seen: 2026-08-01
+    digest: using-ai-for-business-productivity-2026-Aug-01.html
+    urls:
+      - https://finance.biggo.com/news/US_ADP_2026-07-29
+      - https://www.sahmcapital.com/news/content/adp-stock-surges-on-strong-q4-earnings-beat-ai-tools-power-up-growth-2026-07-29
+      - https://www.gurufocus.com/news/8987638/automatic-data-processing-inc-adp-q4-2026-earnings-call-highlights-strong-revenue-growth-and-strategic-ai-investments
+  - fingerprint: oracle-google-cloud-gemini-fusion-netsuite
+    title: "Oracle wires Google's Gemini models directly into Fusion and NetSuite"
+    first_seen: 2026-08-01
+    digest: using-ai-for-business-productivity-2026-Aug-01.html
+    urls:
+      - https://www.oracle.com/europe/news/announcement/oracle-to-make-gemini-models-available-2026-07-30/
+      - https://www.prnewswire.com/news-releases/oracle-to-make-gemini-models-available-to-thousands-of-enterprise-applications-customers-302838995.html
+      - https://thenextweb.com/news/oracle-google-gemini-fusion-netsuite-enterprise-apps
+  - fingerprint: 8x8-ai-studio-extends-across-organization
+    title: "8x8 pushes AI Studio past the contact center into every business function"
+    first_seen: 2026-08-01
+    digest: using-ai-for-business-productivity-2026-Aug-01.html
+    urls:
+      - https://www.businesswire.com/news/home/20260730084852/en/8x8-Extends-AI-Across-the-Entire-Organization-Bringing-Enterprise-Grade-Intelligence-and-Automation-to-Every-Team
+      - https://telecomreseller.com/2026/07/30/8x8-extends-ai-across-the-entire-organization-bringing-enterprise-grade-intelligence-and-automation-to-every-team/
+      - https://www.martechcube.com/8x8-brings-enterprise-ai-and-automation-to-every-team/
+  - fingerprint: microsoft-fy26-q4-earnings-azure-100b-copilot-30m-seats
+    title: "Microsoft's Azure crosses $100B as Copilot hits 30 million paid seats"
+    first_seen: 2026-07-31
+    digest: using-ai-for-business-productivity-2026-Jul-31.html
+    urls:
+      - https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html
+      - https://fortune.com/2026/07/29/microsoft-azure-100-billion-annual-revenue-earnings-revenue-cloud-ai/
+      - https://news.microsoft.com/source/2026/07/29/microsoft-cloud-and-ai-strength-fuels-fourth-quarter-results-4/
+  - fingerprint: publicis-sapient-2026-global-enterprise-ai-report-readiness-gap
+    title: "Publicis Sapient: 73% of enterprises use AI regularly, only 10% call it core to operations"
+    first_seen: 2026-07-31
+    digest: using-ai-for-business-productivity-2026-Jul-31.html
+    urls:
+      - https://www.publicissapient.com/company/news/ai-adoption-enterprise-readiness-report-2026
+      - https://www.marketscale.com/industries/software-and-technology/publicis-sapients-2026-enterprise-ai-report-finds-wide-adoption-but-only-10-say-its-core-to-operations
+      - https://idm.net.au/article/0015677-ai-everywhere-transformation-nowhere-report
+  - fingerprint: cognizant-q2-2026-earnings-ai-value-gap-paused-deployments
+    title: "Cognizant: a quarter of enterprises have paused AI deployments over unproven ROI"
+    first_seen: 2026-07-31
+    digest: using-ai-for-business-productivity-2026-Jul-31.html
+    urls:
+      - https://finance.yahoo.com/markets/stocks/articles/cognizant-technology-solutions-corp-ctsh-210324104.html
+      - https://www.gurufocus.com/news/8987630/cognizant-technology-solutions-corp-ctsh-q2-2026-earnings-call-highlights-strong-revenue-growth-and-strategic-ai-advancements
+      - https://finance.biggo.com/news/US_CTSH_2026-07-29
+  - fingerprint: qihoo360-nanowork-enterprise-agent-platform-launch
+    title: "China's 360 enters the office-AI-agent race with a free-token push for small business"
+    first_seen: 2026-07-31
+    digest: using-ai-for-business-productivity-2026-Jul-31.html
+    urls:
+      - https://finance.biggo.com/news/87f5cac9-72cf-4810-98a1-9b65e5e407b4
+      - https://allweatherfinance.com/360-enters-the-office-ai-race/
+  - fingerprint: meta-zuckerberg-enterprise-ai-beyond-agents-personal-agents
+    title: "Zuckerberg: Meta's enterprise AI opportunity goes well beyond agents"
+    first_seen: 2026-07-31
+    digest: using-ai-for-business-productivity-2026-Jul-31.html
+    urls:
+      - https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/
+      - https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/
+      - https://theaiinsider.tech/2026/07/30/zuckerberg-outlines-metas-ai-ambitions-spanning-enterprise-personal-agents-and-app-development/
+  - fingerprint: meta-q2-2026-ai-capex-free-cash-flow-crater
+    title: "Meta's AI capex crushes free cash flow — and Zuckerberg raises the spending floor anyway"
+    first_seen: 2026-07-30
+    digest: using-ai-for-business-productivity-2026-Jul-30.html
+    urls:
+      - https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html
+      - https://fortune.com/2026/07/29/meta-earnings-zuckerberg-hints-cloud-business-free-cash-flow-capex/
+      - https://www.techtimes.com/articles/322139/20260729/meta-q2-beats-revenue-while-legal-charges-ai-spending-destroy-free-cash-flow.htm
+      - https://www.reuters.com/business/meta-narrows-annual-capex-forecast-ai-buildout-grows-2026-07-29/
+  - fingerprint: harness-finops-2026-ai-spend-waste-governance-gap
+    title: "New Harness report: roughly a quarter of enterprise AI spend is wasted, and nobody owns the bill"
+    first_seen: 2026-07-30
+    digest: using-ai-for-business-productivity-2026-Jul-30.html
+    urls:
+      - https://www.prnewswire.com/news-releases/new-harness-report-reveals-enterprise-ai-spend-has-outgrown-the-systems-built-to-track-it-302837776.html
+      - https://www.ciodive.com/news/control-AI-costs-spending-harness/826492/
+      - https://uk.advfn.com/stock-market/share-news/New-Harness-Report-Reveals-Enterprise-AI-Spend-Has/99003360
+  - fingerprint: conference-board-ai-skilling-gap-todays-ai-not-tomorrows-jobs
+    title: "The Conference Board: companies are training workers for today's AI job, not tomorrow's"
+    first_seen: 2026-07-30
+    digest: using-ai-for-business-productivity-2026-Jul-30.html
+    urls:
+      - https://www.conference-board.org/press/ai-skilling
+      - https://www.prnewswire.com/news-releases/report-most-organizations-are-preparing-workers-for-todays-ai-not-tomorrows-jobs-302836842.html
+      - https://www.fairplaytalks.com/2026/07/30/most-employers-are-preparing-workers-for-todays-ai-but-not-tomorrows-jobs-global-study-warns/
+  - fingerprint: ziprecruiter-2026-ai-employer-report-hiring-not-firing
+    title: "ZipRecruiter: employers using AI are hiring more, not less — but the bar is rising"
+    first_seen: 2026-07-30
+    digest: using-ai-for-business-productivity-2026-Jul-30.html
+    urls:
+      - https://www.marketscreener.com/news/ziprecruiter-finds-that-as-ai-adoption-rises-so-does-hiring-ce7f51d3d989f621
+      - https://www.aol.com/articles/businesses-using-ai-hiring-not-133006000.html
+      - https://techrseries.com/health/ziprecruiter-finds-that-as-ai-adoption-rises-so-does-hiring/
+  - fingerprint: servicenow-flat-headcount-2026-ai-restructuring-mcdermott
+    title: "ServiceNow's flat-headcount plan: let AI absorb attrition instead of backfilling"
+    first_seen: 2026-07-30
+    digest: using-ai-for-business-productivity-2026-Jul-30.html
+    urls:
+      - https://app.dealroom.co/news/feed/servicenow-cuts-several-hundred-jobs-in-global-restructuring-amid-ai-pressure
+      - https://www.peoplematters.in/news/strategic-hr/servicenow-cuts-several-hundred-roles-as-ceo-targets-flat-headcount-in-2026-51104
+      - https://www.whatjobs.com/news/servicenow-ceo-says-ai-gains-could-keep-headcount-flat-even-as-company-integrates-acquisitions/
+      - https://www.calcalistech.com/ctechnews/article/vagyi75mz
+  - fingerprint: visa-ai-layoffs-2600-jobs-efficiency
+    title: "Visa cuts 2,600 jobs, 7% of its workforce, as CEO ties the reshuffle to AI"
+    first_seen: 2026-07-29
+    digest: using-ai-for-business-productivity-2026-Jul-29.html
+    urls:
+      - https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html
+      - https://www.bloomberg.com/news/articles/2026-07-28/visa-to-cut-7-of-workforce-as-ceo-seeks-to-revamp-payments-firm
+      - https://www.fastcompany.com/91581050/visa-layoffs-today-jobs-slashed-ceo-memo-ai-acceleration
+      - https://www.sfchronicle.com/bayarea/article/visa-layoffs-ai-san-francisco-jobs-22363783.php
+  - fingerprint: dun-bradstreet-ai-momentum-survey-q3-2026-data-readiness
+    title: "Dun & Bradstreet: three-quarters of businesses now see AI returns — but only 6% have data ready to scale them"
+    first_seen: 2026-07-29
+    digest: using-ai-for-business-productivity-2026-Jul-29.html
+    urls:
+      - https://www.prnewswire.com/news-releases/dun--bradstreets-ai-momentum-survey-of-10-000-businesses-finds-enterprise-ai-returns-continue-to-advance-but-only-6-have-the-data-ready-to-scale-them-302836464.html
+      - https://www.stocktitan.net/news/DNB/dun-bradstreet-s-ai-momentum-survey-of-10-000-businesses-finds-08ntdo2vvott.html
+  - fingerprint: cognizant-emea-ai-unit-agentic-scaling-88pct-pilot-failure
+    title: "Cognizant launches an EMEA AI Unit built to beat the industry's 88% agentic-pilot failure rate"
+    first_seen: 2026-07-29
+    digest: using-ai-for-business-productivity-2026-Jul-29.html
+    urls:
+      - https://www.prnewswire.com/news-releases/cognizant-launches-emea-ai-unit-to-help-enterprises-scale-agentic-ai-adoption-302835936.html
+      - https://www.techtimes.com/articles/321781/20260728/cognizant-launches-emea-ai-unit-enterprise-agent-pilots-fail-scale.htm
+      - https://news.cognizant.com/2026-07-28-Cognizant-launches-EMEA-AI-Unit-to-help-enterprises-scale-agentic-AI-adoption
+      - https://aithority.com/machine-learning/cognizant-launches-emea-ai-unit-to-help-enterprises-scale-agentic-ai-adoption/
+  - fingerprint: ntt-harvard-optimal-ai-agent-count-coordination-overhead
+    title: "NTT Research and Harvard: there's an optimal number of AI agents, and enterprises are blowing past it"
+    first_seen: 2026-07-29
+    digest: using-ai-for-business-productivity-2026-Jul-29.html
+    urls:
+      - https://www.businesswire.com/news/home/20260728154606/en/How-Many-AI-Agents-Are-Too-Many-NTT-Research-and-Harvard-University-Research-Reveals-Key-Insights-for-Using-Agentic-AI-in-the-Workplace
+      - https://www.theregister.com/ai-and-ml/2026/07/28/too-many-ai-agents-can-get-in-each-others-way/5279292
+      - https://www.financialcontent.com/article/bizwire-2026-7-28-how-many-ai-agents-are-too-many-ntt-research-and-harvard-university-research-reveals-key-insights-for-using-agentic-ai-in-the-workplace
+  - fingerprint: snowflake-cortex-ai-gateway-agent-governance-cost-control
+    title: "Snowflake launches Cortex AI Gateway to stop enterprise AI agents from running up runaway bills"
+    first_seen: 2026-07-29
+    digest: using-ai-for-business-productivity-2026-Jul-29.html
+    urls:
+      - https://www.snowflake.com/en/news/press-releases/snowflake-advances-the-trusted-agentic-enterprise-era-with-unified-monitoring-and-cost-management/
+      - https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs
+      - https://www.hpcwire.com/aiwire/2026/07/28/snowflake-advances-the-trusted-agentic-enterprise-era-with-unified-monitoring-and-cost-management/
+      - https://www.channele2e.com/news/snowflake-unifies-ai-agent-security-governance-and-cost-controls-with-cortex-ai-gateway
+  - fingerprint: openai-task-crossover-ai-blurring-job-boundaries
+    title: "OpenAI research: AI is scrambling job specialization, not just automating tasks"
+    first_seen: 2026-07-28
+    digest: using-ai-for-business-productivity-2026-Jul-28.html
+    urls:
+      - https://www.axios.com/2026/07/27/openai-chatgpt-work-specialists
+      - https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/
+      - https://www.ibtimes.com/openai-found-that-ai-blurring-career-boundaries-workers-are-using-llms-do-other-peoples-tasks-3805752
+      - https://www.techtimes.com/articles/321676/20260727/chatgpt-scrambles-specialization-nearly-half-job-specific-ai-use-crosses-role-lines.htm
+  - fingerprint: cognizant-anthropic-global-premier-partner-350k
+    title: "Cognizant becomes Anthropic's Global Premier Partner, extends Claude to 350,000 staff"
+    first_seen: 2026-07-28
+    digest: using-ai-for-business-productivity-2026-Jul-28.html
+    urls:
+      - https://news.cognizant.com/2026-07-27-Cognizant-and-Anthropic-expand-partnership-to-embed-Claude-in-Cognizants-industry-platforms,-helping-clients-close-the-gap-between-AI-promise-and-business-outcomes
+      - https://www.anthropic.com/news/cognizant-anthropic
+      - https://www.business-standard.com/industry/news/cognizant-deepens-anthropic-tie-up-with-claude-partner-network-expansion-126072701324_1.html
+      - https://www.hpcwire.com/aiwire/2026/07/27/cognizant-deepens-anthropic-alliance-to-scale-enterprise-ai-adoption/
+  - fingerprint: ibm-ibv-ai-process-redesign-37-percent-value
+    title: "IBM: only 37% of AI initiatives delivered the business value leaders expected in 2025"
+    first_seen: 2026-07-28
+    digest: using-ai-for-business-productivity-2026-Jul-28.html
+    urls:
+      - https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/ai-process-redesign
+  - fingerprint: hcltech-economist-tmt-ai-confidence-impact-gap
+    title: "Telecom, media and tech firms: AI confidence is high, revenue impact still isn't"
+    first_seen: 2026-07-28
+    digest: using-ai-for-business-productivity-2026-Jul-28.html
+    urls:
+      - https://www.prnewswire.co.uk/news-releases/economist-enterprise-research-supported-by-hcltech-confirms-confidence-in-ai-is-high-for-the-telecom-media-semiconductor-and-technology-tmt-industry-but-business-impact-is-still-limited-302835200.html
+      - https://uktechnews.co.uk/2026/07/23/hcltech-report-exposes-widening-ai-divide-with-only-18-of-enterprises-seeing-revenue-impact-despite-near-universal-adoption/
+      - https://businessnewsthisweek.com/business/hcltech-report-exposes-widening-ai-divide-with-only-18-percent-of-enterprises-seeing-revenue-impact-despite-near-universal-adoption/
+  - fingerprint: alphabet-q2-2026-gemini-enterprise-fortune-100
+    title: "Alphabet: Gemini Enterprise now used by 90% of the Fortune 100"
+    first_seen: 2026-07-28
+    digest: using-ai-for-business-productivity-2026-Jul-28.html
+    urls:
+      - https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html
+      - https://www.tribuneindia.com/news/business/google-cloud-revenue-jumps-82-in-q2-on-strong-ai-demand-gemini-enterprise-used-by-90-of-fortune-100-pichai/
+      - https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q2-2026/
+  - fingerprint: corporate-america-ai-token-cost-rationing
+    title: "Corporate America starts rationing AI as the token bill comes due"
+    first_seen: 2026-07-27
+    digest: using-ai-for-business-productivity-2026-Jul-27.html
+    urls:
+      - https://finance.yahoo.com/technology/ai/articles/corporate-america-rationing-ai-because-172413130.html
+      - https://www.marketscale.com/industries/software-and-technology/enterprise-ai-spending-hits-a-wall-companies-ration-tokens-redirect-budgets
+      - https://mediacopilot.ai/corporate-america-rationing-ai-costs/
+  - fingerprint: bessemer-ai-hiring-productivity-tech-companies-study
+    title: "Bessemer study: AI is reshaping hiring, not just tasks, at fast-growing tech firms"
+    first_seen: 2026-07-27
+    digest: using-ai-for-business-productivity-2026-Jul-27.html
+    urls:
+      - https://impressivetimes.com/business/ai-adoption-in-technology-companies-report/
+      - https://m.economictimes.com/tech/artificial-intelligence/ai-adoption-reshapes-workflows-and-hiring-across-high-growth-technology-companies-report/articleshow/132638128.cms
+      - https://www.latestly.com/technology/is-ai-adoption-changing-hiring-trends-across-tech-companies-heres-what-study-says-7532638.html
+  - fingerprint: fleet-dm-it-leaders-ai-governance-foundation-gap
+    title: "7 in 10 IT leaders are deploying AI without the governance foundation to do it safely"
+    first_seen: 2026-07-27
+    digest: using-ai-for-business-productivity-2026-Jul-27.html
+    urls:
+      - https://www.cybersecurity-insiders.com/fleet-research-7-in-10-it-leaders-missing-the-foundation-for-enterprise-ai/
+      - https://www.prnewswire.com/news-releases/new-research-7-in-10-it-leaders-are-skipping-the-foundation-required-for-safe-enterprise-ai-302832001.html
+  - fingerprint: woori-bank-ai-agents-corporate-finance-push
+    title: "Woori Bank bets its second-half turnaround on AI agents across corporate finance and sales"
+    first_seen: 2026-07-27
+    digest: using-ai-for-business-productivity-2026-Jul-27.html
+    urls:
+      - https://finance.biggo.com/news/6abe7c38-0654-4472-9d6e-8b6fcccebe2b
+      - https://www.koreaherald.com/article/10812777
+      - https://en.sedaily.com/finance/2026/07/26/woori-bank-to-deploy-ai-agents-for-data-driven-sales-push
+  - fingerprint: openai-presence-enterprise-agent-deployment
+    title: "OpenAI launches Presence, a white-glove product for deploying enterprise AI agents with guardrails"
+    first_seen: 2026-07-27
+    digest: using-ai-for-business-productivity-2026-Jul-27.html
+    urls:
+      - https://openai.com/index/introducing-openai-presence/
+      - https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots
+      - https://www.helpnetsecurity.com/2026/07/22/openai-presence-ai-agent-platform/
+  - fingerprint: mckinsey-agentic-ai-response-refinement-over-budget
+    title: "McKinsey: 60% of agentic AI costs go to response refinement — 93% of enterprises are already over budget"
+    first_seen: 2026-07-26
+    digest: using-ai-for-business-productivity-2026-Jul-26.html
+    urls:
+      - https://www.mckinsey.com/capabilities/quantumblack/our-insights/is-that-ai-agent-worth-it-agentic-economics-and-the-modern-operating-model
+      - https://www.marketscale.com/industries/software-and-technology/60-of-agentic-ai-costs-go-to-response-refinement-and-most-enterprises-are-already-over-budget
+      - https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agent-economics-to-shape-next-phase-of-enterprise-genai-adoption-60-of-agentic-ai-costs-go-to-response-refinement-mckinsey/articleshow/132455285.cms
+  - fingerprint: sonata-enterprise-ai-coding-to-business-execution
+    title: "Enterprise AI's center of gravity shifts from developer speed to business execution"
+    first_seen: 2026-07-26
+    digest: using-ai-for-business-productivity-2026-Jul-26.html
+    urls:
+      - https://cio.economictimes.indiatimes.com/news/artificial-intelligence/enterprise-ai-focus-shifts-from-coding-productivity-to-business-execution/132618606
+      - https://www.thehansindia.com/tech/enterprise-ai-focus-shifts-from-coding-productivity-to-business-execution-report-1101262
+      - https://www.livemint.com/technology/enterprise-ai-focus-shifts-from-coding-productivity-to-business-execution-report-11784948881876.html
+  - fingerprint: sap-ciodive-enterprise-ai-insights-not-cost-savings
+    title: "SAP survey: enterprise AI is delivering insights, not the cost savings CIOs budgeted for"
+    first_seen: 2026-07-26
+    digest: using-ai-for-business-productivity-2026-Jul-26.html
+    urls:
+      - https://www.ciodive.com/news/enterprise-roi-value-savings/825234/
+      - https://www.marketscale.com/industries/software-and-technology/enterprise-ai-is-delivering-business-insights-but-not-the-cost-savings-cios-expected
+  - fingerprint: writer-workplace-intelligence-ai-divide-performative-value
+    title: "97% of companies have deployed AI agents — 55% call the result a 'chaotic free-for-all'"
+    first_seen: 2026-07-26
+    digest: using-ai-for-business-productivity-2026-Jul-26.html
+    urls:
+      - https://www.ibtimes.com/corporate-ai-divide-performative-adopters-vs-value-creators-3805709
+      - https://writer.com/blog/enterprise-ai-adoption-2026/
+      - https://productimpactpod.com/news/enterprise-ai-deployment-roi-gap-97-percent-deployed-29-percent-value/
+  - fingerprint: ibm-apac-ai-first-roadmap-2030
+    title: "IBM lays out an 'AI-first enterprise' roadmap for Asia-Pacific, targeting 2030"
+    first_seen: 2026-07-26
+    digest: using-ai-for-business-productivity-2026-Jul-26.html
+    urls:
+      - https://www.manilatimes.net/2026/07/26/business/sunday-business-it/ibm-lays-out-ai-first-roadmap-for-apac/2391403
+      - https://mb.com.ph/2026/07/22/the-race-to-be-an-ai-first-enterprise-has-begun-ibm-plans-for-asia-pacific-to-lead-by-2030
+      - https://asean.newsroom.ibm.com/APAC-AI-Outlook-Report
+  - fingerprint: hitachi-agentic-ai-240x-productivity
+    title: "Hitachi claims up to 240x productivity gains from its new Agentic AI Integration Platform"
+    first_seen: 2026-07-25
+    digest: using-ai-for-business-productivity-2026-Jul-25.html
+    urls:
+      - https://finance.biggo.com/news/3469aaac-71ca-4b99-a509-681e41f1b6ea
+      - https://jp.ibtimes.com/hitachi-launches-agentic-ai-platform-after-200-fold-productivity-result-102993
+      - https://www.europesays.com/3151804/
+  - fingerprint: domino-enterprise-ai-roi-plateau-2026
+    title: "The AI ROI plateau holds for a second straight year — even as production quality climbs"
+    first_seen: 2026-07-25
+    digest: using-ai-for-business-productivity-2026-Jul-25.html
+    urls:
+      - https://www.prnewswire.com/news-releases/ai-roi-fails-to-outpace-spend-for-57-of-enterprises-unchanged-since-2025-even-as-93-now-report-improved-production-302830222.html
+      - https://www.carriermanagement.com/news/2026/07/22/290293.htm
+      - https://www.telecomreviewamericas.com/articles/reports-and-coverage/enterprise-ai-hits-a-reality-check-57-still-failing-to-outpace-investment-returns/
+  - fingerprint: kyndryl-people-readiness-workforce-gap
+    title: "Kyndryl: AI now runs in 57% of enterprise core processes, but workforce readiness is sliding backward"
+    first_seen: 2026-07-25
+    digest: using-ai-for-business-productivity-2026-Jul-25.html
+    urls:
+      - https://www.marketscale.com/industries/software-and-technology/kyndryl-report-ai-is-in-57-of-enterprise-core-processes-but-workforce-readiness-is-falling-behind
+      - https://www.networkworld.com/article/4191742/kyndryl-ai-success-hinges-on-workforce-readiness.html
+      - https://www.prnewswire.com/news-releases/kyndryl-report-ai-adoption-accelerates-as-workforce-readiness-becomes-the-roi-difference-maker-302810837.html
+  - fingerprint: amazon-agi-layoffs-200b-ai-infra
+    title: "Amazon cuts jobs in its AGI unit even as it commits $200B to AI infrastructure"
+    first_seen: 2026-07-25
+    digest: using-ai-for-business-productivity-2026-Jul-25.html
+    urls:
+      - https://www.techtimes.com/articles/321341/20260723/amazon-cuts-agi-jobs-while-pouring-200-billion-ai-infrastructure.htm
+      - https://www.geekwire.com/2026/amazon-cuts-jobs-in-agi-group-as-it-puts-more-focus-on-customer-facing-ai/
+      - https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html
+  - fingerprint: witnessai-hidden-cost-enterprise-ai-incidents
+    title: "The hidden cost of enterprise AI: 43% of firms report $2M+ in AI security-incident costs"
+    first_seen: 2026-07-25
+    digest: using-ai-for-business-productivity-2026-Jul-25.html
+    urls:
+      - https://itbrief.co.nz/story/ai-security-incidents-cost-large-firms-millions-study-finds
+      - https://www.prnewswire.com/news-releases/new-witnessai-report-reveals-the-financial-cost-and-risk-factors-of-enterprise-ai-adoption-302831518.html
+      - https://vmblog.com/news/new-witnessai-report-reveals-the-financial-cost-and-risk-factors-of-enterprise-ai-adoption/
+  - fingerprint: brown-brown-anthropic-ai-first-transformation
+    title: "Brown & Brown deploys Claude to 23,000 employees, reports 2x-8x developer productivity gains"
+    first_seen: 2026-07-24
+    digest: using-ai-for-business-productivity-2026-Jul-24.html
+    urls:
+      - https://www.stocktitan.net/news/BRO/brown-brown-enlists-anthropic-mc-kinsey-and-accenture-to-help-gnwgzeuua7y1.html
+      - https://www.citybiz.co/article/878114/brown-brown-launches-ai-first-strategy-with-anthropic-mckinsey-and-accenture/
+      - https://www.quiverquant.com/news/Brown+%26+Brown+Announces+AI-First+Enterprise+Strategy+and+Expanded+Partnerships+with+Anthropic%2C+McKinsey+and+Accenture
+  - fingerprint: avalara-cfo-ai-roi-governance-gap
+    title: "92% of CFOs feel pressure to prove AI ROI — but governance is falling further behind"
+    first_seen: 2026-07-24
+    digest: using-ai-for-business-productivity-2026-Jul-24.html
+    urls:
+      - https://www.esgdive.com/news/92-cfos-top-finance-staff-pressure-show-roi-ai-avalara/826030/
+      - https://cfo.economictimes.indiatimes.com/news/cfo-tech/cfos-deploy-agentic-ai-with-speed-but-roi-and-governance-take-a-hit-report/132573779
+      - https://www.ciol.com/news/85-of-indian-cfos-face-pressure-to-prove-ai-roi-avalara-study-12189729
+  - fingerprint: adecco-group-hybrid-workforce-orchestration
+    title: "Adecco Group: AI is redesigning work faster than it's eliminating jobs — but most firms haven't caught up"
+    first_seen: 2026-07-24
+    digest: using-ai-for-business-productivity-2026-Jul-24.html
+    urls:
+      - https://www.prnewswire.com/news-releases/ai-is-redesigning-work-adecco-group-whitepaper-reveals-the-need-for-hybrid-workforce-orchestration-302832386.html
+      - https://www.staffingindustry.com/news/global-daily-news/adecco-group-says-firms-must-redesign-work-to-realise-ai-benefits
+      - https://www.adeccogroup.com/our-group/media/press-releases/global-study-finds-widening-gap-between-ai-ambition-and-workforce-readiness
+  - fingerprint: databricks-microsoft-ai-alliance-2030
+    title: "Databricks and Microsoft extend their enterprise AI alliance into the 2030s"
+    first_seen: 2026-07-24
+    digest: using-ai-for-business-productivity-2026-Jul-24.html
+    urls:
+      - https://mexicobusiness.news/cloudanddata/news/databricks-microsoft-extend-enterprise-ai-alliance-2030
+      - https://channellife.com.au/story/databricks-deepens-microsoft-tie-up-into-the-2030s
+  - fingerprint: yiren-digital-ai-agent-efficiency-gains
+    title: "Yiren Digital cuts manual work ~45%, lifts tickets-per-staffer 47% with AI agents"
+    first_seen: 2026-07-24
+    digest: using-ai-for-business-productivity-2026-Jul-24.html
+    urls:
+      - https://www.stocktitan.net/news/YRD/yiren-digital-accelerates-operating-efficiency-through-ai-agent-zj55eu00h081.html
+      - https://www.prnewswire.com/news-releases/yiren-digital-accelerates-operating-efficiency-through-ai-agent-deployment-302833201.html
+      - https://uk.finance.yahoo.com/news/yiren-digital-accelerates-operating-efficiency-100000184.html
+  - fingerprint: openai-chatgpt-work-mode-small-business-push
+    title: "OpenAI's ChatGPT Work mode aims to run 95% of a one-person business"
+    first_seen: 2026-07-23
+    digest: using-ai-for-business-productivity-2026-Jul-23.html
+    urls:
+      - https://www.entrepreneur.com/business-news/chatgpts-new-work-mode-can-run-95-of-a-one-person-business-no-hiring-or-coding-required
+      - https://www.pymnts.com/news/artificial-intelligence/2026/openai-launches-program-to-accelerate-small-business-ai-adoption/
+      - https://9to5mac.com/2026/07/21/openai-launches-small-business-program-as-it-touts-10m-chatgpt-work-and-codex-users/
+  - fingerprint: ai-driven-layoffs-monday-uber-efficiency
+    title: "Monday.com and Uber cut jobs while explicitly crediting AI for the efficiency"
+    first_seen: 2026-07-23
+    digest: using-ai-for-business-productivity-2026-Jul-23.html
+    urls:
+      - https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/
+      - https://www.bloomberg.com/news/articles/2026-07-22/uber-cuts-10-of-customer-service-jobs-citing-embrace-of-ai
+      - https://en.globes.co.il/en/article-mondaycom-to-lay-off-620-as-it-adapts-to-ai-1001550113
+  - fingerprint: boomi-forrester-ai-agent-trust-gap
+    title: "86% of enterprises have deployed AI agents — only 34% trust what they do"
+    first_seen: 2026-07-23
+    digest: using-ai-for-business-productivity-2026-Jul-23.html
+    urls:
+      - https://www.01net.it/86-of-enterprises-have-deployed-ai-agents-just-34-trust-them-boomi-study-finds/
+      - https://salestechstar.com/predictive-ai-artificial-intelligence/86-of-enterprises-have-deployed-ai-agents-just-34-trust-them-boomi-study-finds/
+      - https://businessupturn.com/brand-post/86-of-enterprises-have-deployed-ai-agents-just-34-trust-them-boomi-study-finds/
+  - fingerprint: barclays-ai-not-boosting-productivity-update
+    title: "Barclays: broad AI productivity gains still aren't showing up"
+    first_seen: 2026-07-23
+    digest: using-ai-for-business-productivity-2026-Jul-23.html
+    urls:
+      - https://finance.yahoo.com/technology/ai/articles/ai-isn-t-boosting-productivity-075841363.html
+      - https://www.telegraph.co.uk/business/2026/07/22/ai-isnt-boosting-productivity-says-barclays/
+  - fingerprint: gallup-q2-2026-ai-adoption-jump-productivity-gap
+    title: "Gallup: organizational AI adoption just had its sharpest jump yet — profits haven't followed"
+    first_seen: 2026-07-23
+    digest: using-ai-for-business-productivity-2026-Jul-23.html
+    urls:
+      - https://www.usnews.com/news/national-news/articles/2026-07-21/survey-more-than-half-of-u-s-employees-now-use-ai-at-work
+      - https://www.leadwithai.co/article/ai-adoption-jumps-47-percent-gallup-2026
+      - https://www.gallup.com/workplace/704225/rising-adoption-spurs-workforce-changes.aspx
+  - fingerprint: hackett-group-ai-hr-benchmarks-recruiter-productivity
+    title: "Hackett Group: AI-redesigned HR could cut cost-per-hire 61% and lift recruiter output 119%"
+    first_seen: 2026-07-22
+    digest: using-ai-for-business-productivity-2026-Jul-22.html
+    urls:
+      - https://www.businesswire.com/news/home/20260720149559/en/The-Hackett-Group-Introduces-AI-World-Class-HR-Benchmarks
+      - https://www.morningstar.com/news/business-wire/20260720149559/the-hackett-group-introduces-ai-world-class-hr-benchmarks
+      - https://techrseries.com/hiring/the-hackett-group-introduces-ai-world-class-hr-benchmarks/
+  - fingerprint: box-ai-agent-governance-controls-enterprise-content
+    title: "Box ties AI-agent access controls to enterprise content as governance becomes the adoption bottleneck"
+    first_seen: 2026-07-22
+    digest: using-ai-for-business-productivity-2026-Jul-22.html
+    urls:
+      - https://www.businesswire.com/news/home/20260721998096/en/Box-Unveils-New-Controls-to-Secure-AI-Agents-Operating-Across-Enterprise-Content
+      - https://siliconangle.com/2026/07/21/box-adds-security-controls-govern-ai-agents-working-enterprise-content/
+      - https://finance.yahoo.com/technology/ai/articles/box-unveils-controls-secure-ai-150000349.html
+  - fingerprint: harness-agent-dlc-ai-agent-lifecycle
+    title: "Harness brings CI/CD discipline to AI agents with a full 'Agent Development Lifecycle'"
+    first_seen: 2026-07-22
+    digest: using-ai-for-business-productivity-2026-Jul-22.html
+    urls:
+      - https://siliconangle.com/2026/07/21/harness-launches-agent-dlc-developers-deploy-ai-agents-using-familiar-processes-tools/
+      - https://www.harness.io/blog/introducing-harness-agent-dlc
+      - https://www.prnewswire.com/news-releases/introducing-harness-agent-dlc-new-capabilities-for-the-ai-agent-development-lifecycle-302830967.html
+  - fingerprint: activtrak-ai-workplace-busier-not-shorter-focus-decline
+    title: "AI is making the workday busier, not shorter — 104% more email, focus time at a 3-year low"
+    first_seen: 2026-07-22
+    digest: using-ai-for-business-productivity-2026-Jul-22.html
+    urls:
+      - https://www.theaustralian.com.au/business/technology/why-artificial-intelligence-has-so-far-failed-to-fix-broken-workplaces/news-story/824a6556649d833c15615516efd41f6c
+      - https://www.activtrak.com/blog/2026-state-of-the-workplace/
+      - https://www.inc.com/bruce-crumley/ai-is-boosting-productivity-but-data-shows-employee-workloads-are-getting-heavier/91316283
+  - fingerprint: ai-business-formation-surge-mixed-jobs-247wallst
+    title: "AI-driven business formation surging 45% faster than overall U.S. startup growth, but jobs lag"
+    first_seen: 2026-07-22
+    digest: using-ai-for-business-productivity-2026-Jul-22.html
+    urls:
+      - https://247wallst.com/investing/2026/07/20/ai-is-creating-more-businesses-but-is-it-creating-more-jobs/
+      - https://finance.yahoo.com/small-business/articles/ai-creating-more-businesses-creating-123657332.html
+  - fingerprint: microsoft-25b-enterprise-ai-push
+    title: "Microsoft pours $2.5B and 6,000 people into getting enterprises to actually use AI"
+    first_seen: 2026-07-20
+    digest: using-ai-for-business-productivity-2026-Jul-20.html
+    urls:
+      - https://americanbazaaronline.com/2026/07/02/microsoft-mobilizes-workers-to-accelerate-enterprise-ai-adoption-483962/
+      - https://learn.microsoft.com/en-us/partner-center/announcements/2026-june
+  - fingerprint: accenture-google-cloud-midmarket-agents
+    title: "Accenture and Google Cloud ship pre-built agents at the mid-market"
+    first_seen: 2026-07-20
+    digest: using-ai-for-business-productivity-2026-Jul-20.html
+    urls:
+      - https://marketscale.com/industries/software-and-technology/accenture-edge-and-google-cloud-target-midmarket-ai-gap-with-pre-built-agentic-tools
+  - fingerprint: ai-productivity-paradox-atlanta-fed
+    title: "The productivity paradox hardens: big task-level gains, flat firm-level results"
+    first_seen: 2026-07-20
+    digest: using-ai-for-business-productivity-2026-Jul-20.html
+    urls:
+      - https://www.atlantafed.org/research-and-data/publications/working-papers/2026/03/25/04-artificial-intelligence-productivity-and-the-workforce-evidence-from-corporate-executives
+      - https://blog.saner.ai/ai-at-work-statistics/
+  - fingerprint: banks-agentic-ai-productivity-race
+    title: "Banks turn agentic AI into a productivity arms race"
+    first_seen: 2026-07-20
+    digest: using-ai-for-business-productivity-2026-Jul-20.html
+    urls:
+      - https://news.lee.net/news/nation-world/business/banks-ramp-up-digital-assistants-in-productivity-race/article_9cf149e8-f2dd-5e7a-abe1-0ae3a407aa88.html
+      - https://www.tradingview.com/news/prnewswire:6b481f04722be:0-dbs-named-asia-s-best-digital-bank-by-euromoney-recognised-for-its-ai-leadership-and-responsible-innovation/
+  - fingerprint: ai-adoption-skills-gap-and-cost
+    title: "The hard part isn't the model — it's the people and the bill"
+    first_seen: 2026-07-20
+    digest: using-ai-for-business-productivity-2026-Jul-20.html
+    urls:
+      - https://www.calcalistech.com/ctechnews/article/bjnyp8c4fe
+      - https://www.cutoday.info/THE-feature/AI-s-Hidden-Cost-Why-the-Biggest-Enterprise-Challenge-May-Be-Paying-for-It
+  - fingerprint: gartner-cfo-ai-productivity-value-gap
+    title: "Gartner: CFOs' AI investments lean toward productivity, boards want more"
+    first_seen: 2026-07-21
+    digest: using-ai-for-business-productivity-2026-Jul-21.html
+    urls:
+      - https://www.gartner.com/en/newsroom/press-releases/2026-07-20-gartner-survey-shows-45-percent-of-cfos-say-their-ai-investments-lean-towwards-productivity-while-20-percent-say-these-investments-lean-towards-decision-quality
+  - fingerprint: microsoft-copilot-cowork-metered-claude-integration
+    title: "Microsoft's July Copilot drop: Cowork goes GA and metered, Claude joins Copilot Chat"
+    first_seen: 2026-07-21
+    digest: using-ai-for-business-productivity-2026-Jul-21.html
+    urls:
+      - https://winbuzzer.com/2026/07/20/microsoft-made-copilot-cowork-a-metered-agent-in-june-xcxwbn/
+      - https://inews.zoombangla.com/microsoft-365-copilot-july-2026-updates/
+      - https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes
+  - fingerprint: xai-grok-free-office-addins-vs-copilot
+    title: "xAI undercuts Copilot with free Grok add-ins for Word, Excel and PowerPoint"
+    first_seen: 2026-07-21
+    digest: using-ai-for-business-productivity-2026-Jul-21.html
+    urls:
+      - https://cryptobriefing.com/xai-grok-microsoft-office-free-add-ins/
+      - https://cryptobriefing.com/xai-grok-microsoft-excel-add-in/
+  - fingerprint: infotech-94pct-developers-ai-productivity-governance-lag
+    title: "94% of developers report AI productivity gains, but governance lags"
+    first_seen: 2026-07-21
+    digest: using-ai-for-business-productivity-2026-Jul-21.html
+    urls:
+      - https://www.prnewswire.com/news-releases/94-of-developers-report-ai-productivity-gains-but-governance-maturity-lags-behind-adoption-finds-new-study-from-info-tech-research-group-872619996.html
+      - https://sg.finance.yahoo.com/news/94-developers-report-ai-productivity-190600336.html
+  - fingerprint: world-bank-barclays-organizational-readiness-productivity
+    title: "World Bank and Barclays: AI's productivity payoff hinges on people, not the model"
+    first_seen: 2026-07-21
+    digest: using-ai-for-business-productivity-2026-Jul-21.html
+    urls:
+      - https://colombiaone.com/2026/07/20/ai-productivity-worker-world-bank/
+      - https://home.barclays/insights/2026/07/AI-No-Longer-Future-Opportunity-Food-Manufacturers-Becoming-Competitive-Necessity/
+---
+
+# Knowledge Base — Using AI for Business Productivity
+
+Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-04
+- **Palantir's Q2 2026 earnings blow past expectations as commercial AI platform revenue surges** — revenue $1.94B (+93% YoY), U.S. commercial revenue +149% YoY to $764M, 220 seven-figure deals closed, FY26 guidance raised to 82% growth; shares jumped ~12% after hours. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-04.html)
+- **Microsoft's Project Perception enters public preview** — agentic cybersecurity platform built on a new MAI-Cyber-1-Flash model; red/blue/green agents map, triage, and remediate threats with human approval required for consequential actions. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-04.html)
+- **Cloudflare's Agents Week lays out infrastructure for the "agentic cloud"** — Browser Run (4x concurrency), "Unweight" lossless compression (up to 22% model footprint reduction), zero-trust Outbound Workers for sandboxed agents; announcements run through August 7. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-04.html)
+- **Ai4 2026 opens in Las Vegas with Hinton, Ng and Fei-Fei Li on one stage** — ~12,000 attendees, nearly 400 exhibitors (up from ~225 in 2025); enterprise-focused tracks on deployment, governance, and workforce transformation run through August 6. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-04.html)
+- **Freehand raises $75M to put AI agents in charge of Fortune 500 supply-chain spend** — agents manage procurement for Meta, Unilever, J&J, Pfizer and others; customers report 5-10% spend recovery, 5-7x faster workflows, 70%+ shorter procure-to-pay cycles. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-04.html)
+
+## 2026-Aug-03
+- **Fed survey: nearly half of small employer firms now use AI, but almost none have gone past experimenting** — SF Fed brief on the 2025 Small Business Credit Survey (6,525 firms): 46% now use AI, +15% planning within 12 months, but only 7% call it fully integrated and a third have no plans to adopt. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-03.html)
+- **Qualcomm completes its Modular acquisition, betting on AI compute portability** — closed July 29; folds Modular's Mojo/MAX/Modular Cloud stack in, names founder Chris Lattner EVP of Advanced AI Software and Platforms, targeting cross-hardware agentic-workload deployment. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-03.html)
+- **HubSpot opens Agent Hub and Agent Builder to fight AI agent sprawl** — public beta since July 23 for Professional/Enterprise customers; one console to view and govern every agent touching a customer account, plus a no-code agent builder. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-03.html)
+- **Vention survey: UK, US and DACH firms have largely exited the AI pilot phase** — 450+ companies surveyed; only 5% of UK firms still piloting, 41% call AI central to their business, 79% use AI somewhere in software development. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-03.html)
+
+## 2026-Aug-02
+- **Amazon's AWS accelerates for a 5th straight quarter as Bedrock and AI demand surge** — AWS revenue growth hit 36.7% YoY, $496B backlog, Bedrock spend exceeded all prior quarters combined; 2026 capex raised to ~$220B. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-02.html)
+- **UnitedHealth: AI now runs every function of its business** — every claim, prior auth, and patient interaction routed through AI; 96% first-pass prior-auth approval; Q2 operating earnings up 55% YoY. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-02.html)
+- **ExlService's AI-led services now drive 61% of revenue** — that segment's growth accelerated to 30% YoY; total revenue up 16% to $595M, guidance raised. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-02.html)
+- **Elastic and OpenAI team up to ground agents in unstructured enterprise data** — pairs Elasticsearch retrieval/governance with OpenAI reasoning models for context-aware agents, observability, and security ops. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-02.html)
+
+## 2026-Aug-01
+- **The EU AI Act's enforcement teeth go live tomorrow** — August 2, 2026: Commission/AI Office gain power to demand documentation, evaluate models, and fine GPAI providers up to 3% of global turnover or €15M; extraterritorial reach pulls in U.S. businesses using AI tools. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-01.html)
+- **Fed researchers: AI's productivity payoff is still invisible in the data** — St. Louis Fed analysis of ~490,000 earnings calls (2000-2025, 5,198 firms) finds AI talk surging but no aggregate productivity bump yet; likened to a century-old J-curve pattern seen with electrification. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-01.html)
+- **ADP rides AI to a record quarter** — FY26 Q4 beat estimates (+7% revenue, +17% adjusted EPS); HCM agents reach nearly all 1.1M clients, 12M ADP Assist conversations in FY26, 45,000 compliance insights surfaced since January. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-01.html)
+- **Oracle wires Google's Gemini models directly into Fusion and NetSuite** — expanded Oracle/Google Cloud partnership embeds Gemini in Oracle AI Agent Studio and NetSuite; Oracle shares jumped ~6.5-8% on the news. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-01.html)
+- **8x8 pushes AI Studio past the contact center into every business function** — multi-model support, voice-built agents, 11 third-party connectors, plus "Pulse" governed company memory and "Resolve" incident alerting. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-01.html)
+
+## 2026-Jul-31
+- **Microsoft's Azure crosses $100B as Copilot hits 30 million paid seats** — FY26 Q4 earnings: Azure revenue >$100B annualized, FY26 revenue $331B, Microsoft 365 Copilot at 30M paid seats (up from ~20M in April), GitHub Copilot at 50M users. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-31.html)
+- **Publicis Sapient: 73% of enterprises use AI regularly, only 10% call it core to operations** — 2026 Global Enterprise AI Report, 1,550 decision-makers surveyed; 42% say their org isn't structured to capture AI's value. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-31.html)
+- **Cognizant: a quarter of enterprises have paused AI deployments over unproven ROI** — Q2 2026 earnings call: 1-in-4 clients paused deployments, two-thirds of Global 2000 lack measurable gains; internally, Cognizant's adjusted operating income per associate rose 7.1%. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-31.html)
+- **China's 360 enters the office-AI-agent race with a free-token push for small business** — Zhou Hongyi launches "Nano Work," a multi-agent office platform; 100M free tokens for early adopters, targeting 1,000 small businesses. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-31.html)
+- **Zuckerberg: Meta's enterprise AI opportunity goes well beyond agents** — Q2 2026 earnings call: "personal superintelligence" agents pitched as Meta's next revenue line; business agents already live for 1M+ businesses on WhatsApp/Messenger. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-31.html)
+
+## 2026-Jul-30
+- **Meta's AI capex crushes free cash flow — and Zuckerberg raises the spending floor anyway** — Q2 2026 capex hit $31.1B (+83% YoY), free cash flow fell to $784M from $8.55B; 2026 capex floor raised to $130B-$145B, funded partly with ~$25B in new debt. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-30.html)
+- **New Harness report: roughly a quarter of enterprise AI spend is wasted, and nobody owns the bill** — 700-leader FinOps survey: ~25% of AI spend wasted, over half of orgs have no single cost owner, only 1 in 5 can trace a cost spike within hours. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-30.html)
+- **The Conference Board: companies are training workers for today's AI job, not tomorrow's** — 55% of workers use AI weekly but only a third got employer AI training in 6 months; just 48% feel given enough time to build AI skills. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-30.html)
+- **ZipRecruiter: employers using AI are hiring more, not less — but the bar is rising** — 1,000+ US employer survey: 92% some AI adoption, 35% say AI will grow headcount, 57% raised productivity expectations of staff. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-30.html)
+- **ServiceNow's flat-headcount plan: let AI absorb attrition instead of backfilling** — several hundred roles cut; CEO McDermott aims to end 2026 at flat headcount by not backfilling attrition, citing AI-driven productivity. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-30.html)
+
+## 2026-Jul-29
+- **Visa cuts 2,600 jobs, 7% of its workforce, as CEO ties the reshuffle to AI** — cuts hit tech/product teams hardest; CEO Ryan McInerney says AI is "shaping the way work gets done at Visa" as savings get reinvested in affluent customers, cross-border payments, and remittances. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-29.html)
+- **Dun & Bradstreet: three-quarters of businesses now see AI returns — but only 6% have data ready to scale them** — quarterly survey of 10,000 businesses across 32 countries; 34% now "scaling AI," but data readiness, not ROI, is the binding constraint. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-29.html)
+- **Cognizant launches EMEA AI Unit built to beat the industry's 88% agentic-pilot failure rate** — three-tier "Frontier Deployed Engineering" delivery model, 5,000 Frontier Certified engineers planned, two live pharma deployments cited. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-29.html)
+- **NTT Research and Harvard: there's an optimal number of AI agents, and enterprises are blowing past it** — coordination overhead between agents becomes the limiting factor before task capacity runs out. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-29.html)
+- **Snowflake launches Cortex AI Gateway to stop enterprise AI agents from running up runaway bills** — unified governance/cost-attribution layer for first- and third-party agents (Claude Code, Cursor); security integrations with 1Password, SailPoint, Saviynt and others. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-29.html)
+
+## 2026-Jul-28
+- **OpenAI research: AI is scrambling job specialization, not just automating tasks** — 44% of occupation-specific ChatGPT requests cross into another profession's work, per an 800,000-message study; smaller businesses cross boundaries even more, using AI to plug expertise gaps. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-28.html)
+- **Cognizant becomes Anthropic's Global Premier Partner, extends Claude to 350,000 staff** — 30,000+ associates already Claude-trained; contract-intelligence deployment cut review time 40%, lifted extraction accuracy above 88%. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-28.html)
+- **IBM: only 37% of AI initiatives delivered the business value leaders expected in 2025** — typical enterprise AI portfolio made $115M net value (51% ROI) but 21% of ROI was lost to IT/technical-debt friction, not model quality. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-28.html)
+- **Telecom, media and tech firms: AI confidence is high, revenue impact still isn't** — Economist Enterprise/HCLTech study of 200+ TMT C-suite execs: only 18% see significant revenue impact despite near-universal adoption; just 20% have an upskilling strategy. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-28.html)
+- **Alphabet: Gemini Enterprise now used by 90% of the Fortune 100** — Google Cloud revenue +82% YoY in Q2 2026; existing enterprise customers expanding usage over 50% beyond original commitments. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-28.html)
+
+## 2026-Jul-27
+- **Corporate America starts rationing AI as the token bill comes due** — Uber, Meta, Microsoft, Salesforce and DoorDash ration model access after blowing through annual AI budgets in as little as 3 months; companies now route routine work to cheap "mini-models" and reserve frontier models for high-value tasks. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-27.html)
+- **Bessemer study: AI reshapes hiring, not just tasks, at fast-growing tech firms** — nearly half of surveyed companies get higher productivity without adding headcount; Claude named most widely adopted platform; finance/HR furthest along, sales/marketing still can't tie AI to revenue. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-27.html)
+- **7 in 10 IT leaders deploy AI without the governance foundation to do it safely** — Fleet Device Management: only 29.6% prioritize infrastructure-as-code even as 46.5% rank AI automation as top investment; average enterprise runs 14 AI apps, IT sees only 4. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-27.html)
+- **Woori Bank bets its second-half turnaround on AI agents across corporate finance and sales** — AI agents deployed across 29 operations; 82.5% of annual $14.7B "productive finance" lending target hit in H1 after a 58% QoQ profit jump. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-27.html)
+- **OpenAI launches Presence, a white-glove enterprise AI agent deployment product** — consulting-style rollout (no self-serve tier) for voice/chat agents with guardrails; OpenAI's own support line now resolves ~75% of issues without a human; early adopters include BBVA Mexico, SoftBank, IAG. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-27.html)
+
+## 2026-Jul-26
+- **McKinsey: 60% of agentic AI costs go to response refinement, 93% over budget** — inference token prices collapsed but enterprise AI spend tripled anyway; iterative check/correct/refine cycles, not raw inference, are the dominant cost driver. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-26.html)
+- **Enterprise AI's center of gravity shifts from developer speed to business execution** — report argues coding-speed metrics are a poor proxy for business acceleration; proposes "context-to-code" over "prompt-to-code." [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-26.html)
+- **SAP survey: enterprise AI delivers insights, not the cost savings CIOs budgeted for** — real value shows up in customer insights/operational intelligence, not the headcount/IT-cost savings written into original business cases. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-26.html)
+- **97% of companies have deployed AI agents — 55% call it a "chaotic free-for-all"** — Writer/Workplace Intelligence survey of 2,400: only 29% see significant gen-AI returns; 67% of execs suspect an AI-tool-related data leak already occurred. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-26.html)
+- **IBM lays out an "AI-first enterprise" roadmap for Asia-Pacific, targeting 2030** — cites research projecting 40%+ productivity gains by 2030; partners with Foxconn's Visionbay.ai on a sovereign AI platform for the region. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-26.html)
+
+## 2026-Jul-25
+- **Hitachi claims up to 240x productivity gains from its new Agentic AI Integration Platform** — AI agents applied across the full system-development lifecycle; ~200x design-to-testing, up to 240x in requirements definition. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-25.html)
+- **The AI ROI plateau holds for a second straight year** — Domino Data Lab's 5th annual report: 57% of enterprises' AI ROI still fails to outpace spend (unchanged since 2025), even as 93% report improved production capability (up from 88%). [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-25.html)
+- **Kyndryl: AI in 57% of enterprise core processes, workforce readiness sliding** — up from 35% a year ago, but only 23% of leaders feel their workforce is ready (down 6pts) and just 11% have hit both AI objectives. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-25.html)
+- **Amazon cuts jobs in its AGI unit while committing $200B to AI infrastructure** — post-training/model-customization roles cut, overlapping with what its new Nova Forge product automates for customers. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-25.html)
+- **The hidden cost of enterprise AI** — WitnessAI: 43% of firms report $2M+ in AI security-incident costs; 70% use/pilot autonomous agents but only 18% have them fully inventoried. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-25.html)
+
+## 2026-Jul-24
+- **Brown & Brown deploys Claude to 23,000 employees, reports 2x-8x developer productivity gains** — AI-first transformation with Anthropic, McKinsey and Accenture; 80-90% troubleshooting time cut, 80% of teammates rate Claude Code 5/5. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-24.html)
+- **92% of CFOs feel pressure to prove AI ROI, governance lags** — Avalara survey of 1,505 finance leaders: half say AI agents show only limited ROI, 76% lack in-house expertise to explain how their AI works. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-24.html)
+- **Adecco Group: AI redesigning work faster than eliminating jobs** — but only 18-20% of US/EU firms have scaled AI into core workflows; proposes "hybrid workforce orchestration" model. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-24.html)
+- **Databricks and Microsoft extend enterprise AI alliance into the 2030s** — deeper Azure Databricks/Azure Cobalt integration to ground AI agents in business-specific data. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-24.html)
+- **Yiren Digital: AI agents cut manual work ~45%, lift tickets-per-staffer 47%** — concrete before/after back-office efficiency numbers from a real agentic AI deployment. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-24.html)
+
+## 2026-Jul-20 (baseline run)
+- **Microsoft's $2.5B enterprise AI push** — 6,000 staff mobilized; Copilot 365 SKUs made permanent. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-20.html)
+- **Accenture + Google Cloud pre-built mid-market agents** — packaged agentic tools for mid-sized firms. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-20.html)
+- **The AI productivity paradox** — Atlanta Fed: task-level gains large, firm-level impact undetected. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-20.html)
+- **Banks' agentic AI productivity race** — DBS books ~S$1B in AI/ML value. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-20.html)
+- **Adoption reality check** — skills gap now the top barrier; AI-at-scale cost a hidden challenge. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-20.html)
+
+## 2026-Jul-21
+- **Gartner: CFOs' AI spend leans productivity, boards want more** — 45% of finance AI investment targets productivity vs. 20% decision quality; productivity gains plateau without broader business change. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-21.html)
+- **Microsoft's July Copilot drop** — Copilot Cowork goes GA and metered/credit-billed; Claude joins Copilot Chat as a selectable model; 40+ features shipped. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-21.html)
+- **xAI undercuts Copilot with free Grok Office add-ins** — Word, Excel, PowerPoint add-ins free vs. Copilot's ~$30/seat. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-21.html)
+- **94% of developers report AI productivity gains, but governance lags** — Info-Tech study: defect reduction widespread, but only 37.4% have formal AI governance at the Build stage. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-21.html)
+- **World Bank + Barclays: productivity payoff hinges on people, not the model** — AI follows an electrification-style "J-curve"; skills/data literacy are the real barrier. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-21.html)
+
+## 2026-Jul-22
+- **Hackett Group: AI-redesigned HR benchmarks** — recruiter productivity up to 119% higher, cost-per-hire down up to 61% when AI redesigns the whole talent-acquisition workflow. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-22.html)
+- **Box ties AI-agent access controls to enterprise content** — governance/security named the #1 barrier (90% of IT leaders) to letting agents touch enterprise data. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-22.html)
+- **Harness Agent DLC** — CI/CD-style build/test/deploy/govern lifecycle for AI agents, with automatic regression evals when models change. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-22.html)
+- **AI making the workday busier, not shorter** — ActivTrak's 443M-hour dataset: email time +104%, focus time at a 3-year low after AI adoption. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-22.html)
+- **AI-driven business formation surging 45% faster than overall U.S. startup growth** — but job creation isn't keeping pace outside the largest AI investors. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-22.html)
+
+## 2026-Jul-23
+- **OpenAI's ChatGPT Work mode aims to run 95% of a one-person business** — new delegation-style mode plus a small-business push; ChatGPT Work + Codex hit 10M users. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-23.html)
+- **Monday.com and Uber cut jobs while explicitly crediting AI for the efficiency** — Monday.com cuts 20% of staff, Uber cuts 10% of customer-service roles; AI now the top cited layoff reason for a 4th straight month. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-23.html)
+- **86% of enterprises have deployed AI agents — only 34% trust what they do** — Boomi/Forrester study ties the trust gap to governance, not model quality; governed orgs see far higher productivity payoff. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-23.html)
+- **Barclays: broad AI productivity gains still aren't showing up** — only 14% daily AI use in Q2 2026; economy-wide productivity gains estimated at just 0.1%-0.3%/year, updating Barclays' Jul-21 "J-curve" framing. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-23.html)
+- **Gallup: organizational AI adoption just had its sharpest jump yet — profits haven't followed** — org adoption hit 47% (from 41%), but most firms still report no real profit/productivity gains. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-23.html)

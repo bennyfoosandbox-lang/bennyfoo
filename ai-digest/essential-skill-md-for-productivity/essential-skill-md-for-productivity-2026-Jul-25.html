@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Essential SKILL.md Skills for Improving Productivity — 25 Jul 2026</title>
+  <meta name="description" content="Essential SKILL.md Skills for Improving Productivity — daily research digest, Saturday, 25 July 2026.">
+  <meta name="theme-color" content="#0a0a0b">
+
+  <link rel="preload" href="../../assets/fonts/satoshi-900.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="../../assets/fonts/satoshi-400.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="../../assets/css/main.css">
+  <noscript><style>.reveal { opacity: 1 !important; transform: none !important; } .reveal-mask > span { transform: none !important; }</style></noscript>
+
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/ico/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/ico/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/ico/favicon-16x16.png">
+  <link rel="icon" type="image/x-icon" href="../../assets/ico/favicon.ico">
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XQ6KVSDDBZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-XQ6KVSDDBZ');
+  </script>
+</head>
+<body class="util">
+
+  <div class="util-hero">
+    <header class="nav">
+      <a class="nav-name" href="../../">Benny Foo</a>
+      <nav class="nav-links" aria-label="Sections">
+        <a href="../../#work">The AI work</a>
+        <a href="../../#record">Track record</a>
+        <a href="../../#career">Career</a>
+        <a href="../" aria-current="page">AI Digest</a>
+        <a href="../../utilities/">Utilities</a>
+      </nav>
+      <div class="nav-actions">
+        <a class="nav-linkedin" href="https://www.linkedin.com/in/bennyfoo/" target="_blank" rel="noopener" aria-label="LinkedIn profile">
+          <svg role="img" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.225 0z"/></svg>
+        </a>
+        <a class="btn btn-primary btn-small" href="mailto:bennyfoocy@gmail.com">Get in touch</a>
+      </div>
+    </header>
+
+    <div class="util-hero-inner">
+      <p class="eyebrow">AI Digest · Essential SKILL.md Skills for Improving Productivity</p>
+      <h1>Essential SKILL.md Skills for Improving Productivity</h1>
+      <p class="util-hero-sub">Saturday, 25 July 2026</p>
+      <span class="digest-tally">5 new items · 9 already-known skipped · run #6</span>
+    </div>
+  </div>
+
+  <main>
+    <section class="section util-section">
+      <div class="digest-body">
+        <nav class="digest-nav-links">
+          <a href="./index.html">← All Essential SKILL.md Skills for Improving Productivity digests</a>
+          <a href="../">AI Digest home</a>
+          <a href="../knowledge-base/essential-skill-md-for-productivity.md">Knowledge base</a>
+        </nav>
+
+        <div class="digest-legend">
+          Citation status <span class="digest-dot ok"></span> reachable ·
+          <span class="digest-dot bad"></span> could not reach ·
+          <span class="digest-dot warn"></span> slow / timed out ·
+          <span class="digest-dot"></span> unknown.
+          <b>Best-effort only:</b> browsers can't read a cross-origin link's exact HTTP status, so
+          this detects dead domains and network failures, not every dead page. Always click through to confirm.
+          <button class="digest-recheck" id="recheck">Re-check all</button>
+        </div>
+
+          <article class="digest-item">
+    <h2>1. Claude Code v2.1.219 ships Opus 5 as default and reopens nested subagent depth to 3</h2>
+    <p>Claude Code v2.1.219, released July 24, pairs the debut of Claude Opus 5 &mdash; now the default Opus model with a 1M-token context window and a 2.5x-speed Fast mode &mdash; with a string of changes that touch how skills and subagents actually run. The bundled <code>claude-api</code> skill was updated to default to Opus 5, with documented migration steps from Opus 4.8, and a new <code>workflowSizeGuideline</code> settings key lets teams set the advisory workflow-size ceiling from any config file rather than just <code>/config</code>. Most notably for anyone chaining skills into subagents, nested subagent spawning now defaults to depth 3, up from the depth-1 cap that v2.1.217 had just set two days earlier &mdash; a fast reversal that shows Anthropic still tuning the safety/utility tradeoff on subagent fan-out. The release also adds a <code>sandbox.network.strictAllowlist</code> setting that silently blocks non-allowlisted hosts for sandboxed commands, aimed at CI runs where nobody is present to approve a permission prompt.</p>
+    <p class="digest-sources">Sources:
+      <a class="cite" href="https://dev.classmethod.jp/en/articles/20260725-cc-updates-v2-1-219/" target="_blank" rel="noopener">DevelopersIO: Claude Code v2.1.219 Major Updates</a><span class="link-status" data-url="https://dev.classmethod.jp/en/articles/20260725-cc-updates-v2-1-219/"></span>,
+      <a class="cite" href="https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md" target="_blank" rel="noopener">GitHub: claude-code CHANGELOG.md</a><span class="link-status" data-url="https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"></span>
+    </p>
+  </article>
+          <article class="digest-item">
+    <h2>2. SkillCorpus filters 821,000 public skills down to a 96,401-skill curated corpus &mdash; and proves curation pays off</h2>
+    <p>A nine-author paper on arXiv (last revised July 23) tackles the question the &ldquo;essential skills&rdquo; debate keeps dancing around: does more of the open SKILL.md ecosystem actually help agents, or just add noise? The team crawled roughly 821,000 public skills, ran them through a multi-stage pipeline scored on utility, robustness and safety, and kept 96,401 organized into a 16-class taxonomy, then paired the corpus with a fine-tuned retrieval-and-selection stack that matches task-relevant skills to a given job. Feeding agents the curated SkillCorpus set instead of the raw ecosystem produced consistent gains across three benchmarks (SkillsBench, GDPVal, QwenClawBench), with the largest jump &mdash; +7.5 percentage points &mdash; on SkillsBench. The authors call it the first end-to-end account of when a curated, retrieval-served skill corpus improves real agent tasks and where the benefit runs out &mdash; directly relevant to anyone deciding whether to hand-pick a handful of skills or subscribe to a giant marketplace.</p>
+    <p class="digest-sources">Sources:
+      <a class="cite" href="https://arxiv.org/abs/2607.15557" target="_blank" rel="noopener">arXiv: SkillCorpus</a><span class="link-status" data-url="https://arxiv.org/abs/2607.15557"></span>,
+      <a class="cite" href="https://www.themoonlight.io/en/review/skillcorpus-consolidating-and-evaluating-the-open-skill-ecosystem-for-real-world-llm-agents" target="_blank" rel="noopener">The Moonlight: literature review of SkillCorpus</a><span class="link-status" data-url="https://www.themoonlight.io/en/review/skillcorpus-consolidating-and-evaluating-the-open-skill-ecosystem-for-real-world-llm-agents"></span>
+    </p>
+  </article>
+          <article class="digest-item">
+    <h2>3. Visual Studio ships built-in .NET and Azure skills &mdash; but leaves them off by default until the data says otherwise</h2>
+    <p>Starting with the 18.8 release, Visual Studio now bundles built-in Agent Skills written by Microsoft's own .NET and Azure teams, including <code>dotnet-webapi</code> for scaffolding ASP.NET Core endpoints with correct HTTP semantics, <code>analyzing-dotnet-performance</code> for catching roughly 50 known .NET anti-patterns, and a three-skill Azure deployment chain (<code>azure-prepare</code> &rarr; <code>azure-validate</code> &rarr; <code>azure-deploy</code>). Unlike most vendor skill pushes, Microsoft is shipping these turned off by default and tracking their real-world efficacy on a public dashboard before flipping them on, citing the shift to usage-based Copilot billing as the reason every token needs to earn its keep. It's a notable contrast to the &ldquo;install everything&rdquo; instinct driving most skill marketplaces, and a concrete example of the curate-before-you-enable discipline that item 2's SkillCorpus paper argues for at ecosystem scale.</p>
+    <p class="digest-sources">Sources:
+      <a class="cite" href="https://devblogs.microsoft.com/visualstudio/built-in-agent-skills-in-visual-studio/" target="_blank" rel="noopener">Visual Studio Blog: Built-in Agent Skills</a><span class="link-status" data-url="https://devblogs.microsoft.com/visualstudio/built-in-agent-skills-in-visual-studio/"></span>,
+      <a class="cite" href="https://visualstudiomagazine.com/articles/2026/07/21/visual-studio-2026-gives-copilot-built-in-skills--and-makes-them-prove-their-worth.aspx" target="_blank" rel="noopener">Visual Studio Magazine coverage</a><span class="link-status" data-url="https://visualstudiomagazine.com/articles/2026/07/21/visual-studio-2026-gives-copilot-built-in-skills--and-makes-them-prove-their-worth.aspx"></span>
+    </p>
+  </article>
+          <article class="digest-item">
+    <h2>4. Google preps a native Skills menu for Gemini web and desktop, beyond Chrome's slash commands</h2>
+    <p>Testing Catalog reports Google is building a native Skills menu inside Gemini's desktop and web clients that would let users upload, create, and edit reusable Skills directly in any chat &mdash; not just through the Chrome sidebar slash-command flow Google shipped back in April. The same builds carry traces of a broader Skills rollout across Gemini and AI Studio, alongside a parallel push to bring Gemini Live's real-time voice mode to desktop and web for the first time. If it ships as previewed, it would put Google's Gemini apps on similar footing to Claude and ChatGPT, where reusable skills already live directly inside the main chat surface rather than being bolted onto a single browser extension.</p>
+    <p class="digest-sources">Sources:
+      <a class="cite" href="https://www.testingcatalog.com/google-preparing-skills-and-gemini-live-for-web-rollout/" target="_blank" rel="noopener">Testing Catalog: Skills and Gemini Live for web</a><span class="link-status" data-url="https://www.testingcatalog.com/google-preparing-skills-and-gemini-live-for-web-rollout/"></span>,
+      <a class="cite" href="https://www.testingcatalog.com/google-prepares-broader-rollout-of-skills-for-gemini-and-ai-studio/" target="_blank" rel="noopener">Testing Catalog: broader Skills rollout for Gemini/AI Studio</a><span class="link-status" data-url="https://www.testingcatalog.com/google-prepares-broader-rollout-of-skills-for-gemini-and-ai-studio/"></span>
+    </p>
+  </article>
+          <article class="digest-item">
+    <h2>5. Alibaba Cloud bakes &ldquo;reusable agent skills&rdquo; into a new agent-native cloud architecture</h2>
+    <p>At WAIC 2026 on July 18, Alibaba Cloud unveiled Agent Native Cloud, expanding its AgentRun platform with two new products &mdash; AgentLoop for real-time tracing and optimization of agent performance, and AgentTeams for coordinating and governing multi-agent workflows &mdash; alongside infrastructure the company says is tuned specifically for reusable agent skills, identity integration, and workload isolation. It's a sign that &ldquo;skills as a first-class cloud primitive&rdquo; is spreading beyond the Anthropic/OpenAI/Microsoft/Google axis that has dominated skill coverage this year, with a major Chinese cloud provider building skill reuse and governance directly into its agent infrastructure rather than leaving it to individual coding assistants.</p>
+    <p class="digest-sources">Sources:
+      <a class="cite" href="https://www.alibabacloud.com/blog/alibaba-cloud-unveils-agent-native-innovations-at-waic-2026_603377" target="_blank" rel="noopener">Alibaba Cloud Community blog</a><span class="link-status" data-url="https://www.alibabacloud.com/blog/alibaba-cloud-unveils-agent-native-innovations-at-waic-2026_603377"></span>,
+      <a class="cite" href="https://www.alibabagroup.com/en-US/document-2016703577908576256" target="_blank" rel="noopener">Alibaba Group announcement</a><span class="link-status" data-url="https://www.alibabagroup.com/en-US/document-2016703577908576256"></span>
+    </p>
+  </article>
+
+        <p class="digest-footnote">Scanned ~100 candidates (75 web search, 25 Firecrawl) across the last 24&ndash;48h; widened to a 7&ndash;10 day window to reach five items with genuine novelty, since same-day SKILL.md-specific news was thin today. Items 3&ndash;5 are noted as earlier-in-the-week developments above.<br>
+          Generated <time datetime="2026-07-25T09:00:00Z">2026-07-25T09:00:00Z</time> ·
+          Knowledge base: <a href="../knowledge-base/essential-skill-md-for-productivity.md">Essential SKILL.md Skills for Improving Productivity</a></p>
+
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <span>&copy; 2026 Benny Foo</span>
+      <div class="footer-links">
+        <a href="../../">Home</a>
+        <a href="../">AI Digest</a>
+        <a href="mailto:bennyfoocy@gmail.com">bennyfoocy@gmail.com</a>
+        <a href="https://www.linkedin.com/in/bennyfoo/" target="_blank" rel="noopener">LinkedIn</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../../assets/js/main.js"></script>
+  <script>
+  (function(){
+    var TIMEOUT_MS = 8000;
+    function makeDot(statusEl){
+      var dot = document.createElement("span");
+      dot.className = "digest-dot checking";
+      dot.title = "Checking link…";
+      statusEl.replaceWith(dot);
+      dot.dataset.url = statusEl.dataset.url;
+      return dot;
+    }
+    function setDot(dot, cls, title){ dot.className = "digest-dot " + cls; dot.title = title; }
+    function checkOne(dot){
+      var url = dot.dataset.url;
+      setDot(dot, "checking", "Checking link…");
+      var ctrl = new AbortController();
+      var timer = setTimeout(function(){ ctrl.abort(); }, TIMEOUT_MS);
+      fetch(url, { mode: "no-cors", method: "GET", signal: ctrl.signal, redirect: "follow" })
+        .then(function(){ clearTimeout(timer);
+          setDot(dot, "ok", "Domain responded (exact page not verifiable cross-origin). Click through to confirm."); })
+        .catch(function(err){ clearTimeout(timer);
+          if(err && err.name === "AbortError"){
+            setDot(dot, "warn", "No response within " + (TIMEOUT_MS/1000) + "s — may be slow or blocking checks.");
+          } else {
+            setDot(dot, "bad", "Could not reach this domain (dead, offline, or blocking the check). Click through to confirm.");
+          }
+        });
+    }
+    function checkAll(){ document.querySelectorAll(".digest-dot[data-url]").forEach(checkOne); }
+    document.querySelectorAll(".link-status[data-url]").forEach(function(s){ checkOne(makeDot(s)); });
+    var btn = document.getElementById("recheck");
+    if(btn) btn.addEventListener("click", checkAll);
+  })();
+  </script>
+</body>
+</html>
