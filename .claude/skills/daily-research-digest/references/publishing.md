@@ -61,6 +61,10 @@ After writing the new digest, rebuild `ai-digest/{slug}/index.html` from `assets
 
 If this is the **first-ever** topic for the site (i.e. `ai-digest/` doesn't exist yet), also add "AI Digest" to the main nav and footer of `bennyfoo/index.html` and every `bennyfoo/utilities/*.html` page — see any existing nav for the pattern (`<a href="ai-digest/">AI Digest</a>` from the root, `<a href="../ai-digest/">AI Digest</a>` from one level down). This is a one-time change; skip it once the link already exists.
 
+## Keeping `sitemap.xml` current
+
+`bennyfoo/sitemap.xml` (repo root) lists the site's stable/evergreen URLs, including each topic's index page (`https://bennyfoo.vercel.app/ai-digest/{slug}/`) — not the individual dated digest pages, which churn daily and are reachable from that topic index instead. If this run creates a **brand-new topic folder**, add a `<url>` entry for its index page to `sitemap.xml` (same pattern as the existing `ai-digest/*/index.html` entries). Existing topics need no sitemap change on routine runs.
+
 ## Runtime citation checker
 
 Unchanged in behavior from earlier versions: a best-effort, client-side, no-cors liveness probe (`.digest-dot` classes driven by the inline `<script>` at the bottom of `digest-template.html`). It reports "domain responded / didn't," not a real HTTP status, because static hosting can't do a server-side check without a serverless function. That's an acceptable tradeoff here — bennyfoo is a Vercel project already, so a `/api/check.js` server-side upgrade (real HTTP status, no CORS limit) is possible later if the best-effort signal ever feels too soft; it isn't built yet, so don't assume it exists.
