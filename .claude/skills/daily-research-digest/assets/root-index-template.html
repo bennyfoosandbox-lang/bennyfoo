@@ -1,10 +1,31 @@
+<!--
+  ROOT LANDING TEMPLATE — regenerate REPO_DIR/index.html every run so newly added
+  topics appear. REPO_DIR for this skill is the ai-digest/ subfolder of the
+  bennyfoo repo (github.com/bennyfoosandbox-lang/bennyfoo) — this is the AI
+  Digest hub, NOT the site's true root index.html (that's the profile
+  homepage; never touch it from this skill). It lists every topic and links
+  into that topic's own index.html. Placeholders:
+    {{CARDS}}        one card per topic, e.g.
+        <a class="util-card" href="./using-ai-for-business-productivity/index.html">
+          <span class="util-card-tag">Business · Daily</span>
+          <h3>Using AI for Business Productivity</h3>
+          <p>One-line description of what this topic covers.</p>
+          <span class="util-card-go">6 digests · latest 20 Jul 2026 →</span>
+        </a>
+    {{GENERATED_AT}} ISO timestamp of last regeneration
+
+  The description in each card is written once when a topic is first added
+  (pick something short and topic-specific) and then carried forward
+  unchanged on every regeneration — don't regenerate it from scratch each
+  run, just re-derive the digest count and latest date.
+-->
 <!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Markdown to Email | Benny Foo</title>
-  <meta name="description" content="Turn AI-generated markdown into rich formatted text — bold, lists, links and tables — that pastes cleanly into Outlook, Gmail or Word. Runs entirely in your browser.">
+  <title>AI Digest — Benny Foo</title>
+  <meta name="description" content="Automated daily research digests, scanned, deduped and synthesized every day.">
   <meta name="theme-color" content="#0a0a0b">
 
   <link rel="preload" href="../assets/fonts/satoshi-900.woff2" as="font" type="font/woff2" crossorigin>
@@ -35,8 +56,8 @@
         <a href="../#work">The AI work</a>
         <a href="../#record">Track record</a>
         <a href="../#career">Career</a>
-        <a href="../ai-digest/">AI Digest</a>
-        <a href="./" aria-current="page">Utilities</a>
+        <a href="./" aria-current="page">AI Digest</a>
+        <a href="../utilities/">Utilities</a>
       </nav>
       <div class="nav-actions">
         <a class="nav-linkedin" href="https://www.linkedin.com/in/bennyfoo/" target="_blank" rel="noopener" aria-label="LinkedIn profile">
@@ -47,40 +68,20 @@
     </header>
 
     <div class="util-hero-inner">
-      <p class="eyebrow" id="eyebrow">Utilities &middot; Text</p>
-      <h1>Markdown to Email.</h1>
-      <p class="util-hero-sub">AI tools answer in markdown — paste it into an email and you get asterisks and pound signs. Paste it here instead, and copy rich formatted text that drops straight into Outlook, Gmail or Word.</p>
+      <p class="eyebrow">AI Digest</p>
+      <h1>Research digests, made for me.</h1>
+      <p class="util-hero-sub">Topics I track every day: scanned across dozens of sources, deduped against months of history, and synthesized into a top-5 with real citations.</p>
     </div>
   </div>
 
   <main>
     <section class="section util-section">
-      <div class="tool-panel reveal">
-        <div class="tool-actions">
-          <button class="btn btn-primary" id="paste-btn" data-magnetic>Paste &amp; convert</button>
-          <p class="tool-status" id="tool-status" role="status" aria-live="polite"></p>
+      <div class="digest-body">
+        <div class="util-grid">
+          {{CARDS}}
         </div>
 
-        <div class="tool-grid">
-          <div class="tool-pane">
-            <div class="tool-pane-head">
-              <label for="tool-in">Markdown in</label>
-              <button class="tool-mini" id="clear-btn" type="button">Clear</button>
-            </div>
-            <textarea class="tool-text" id="tool-in" spellcheck="false" placeholder="Press Ctrl+V / &#8984;V here — or hit &ldquo;Paste &amp; convert&rdquo;."></textarea>
-          </div>
-          <div class="tool-pane">
-            <div class="tool-pane-head">
-              <label id="tool-out-label">Email preview</label>
-              <span class="tool-meta" id="tool-meta"></span>
-              <button class="tool-mini" id="copy-btn" type="button">Copy</button>
-              <button class="tool-mini" id="copy-html-btn" type="button">HTML</button>
-            </div>
-            <div class="tool-render" id="tool-out" aria-labelledby="tool-out-label" data-placeholder="Formatted preview appears here — and copies as rich text."></div>
-          </div>
-        </div>
-
-        <p class="tool-note">Everything runs locally in your browser. Nothing you paste leaves this page. Want to strip formatting instead? Use the <a href="clipboard-cleaner.html">Clipboard Cleaner</a>.</p>
+        <p class="digest-footnote">Last updated <time datetime="{{GENERATED_AT}}">{{GENERATED_AT}}</time>.</p>
       </div>
     </section>
   </main>
@@ -89,7 +90,8 @@
     <div class="footer-inner">
       <span>&copy; 2026 Benny Foo</span>
       <div class="footer-links">
-        <a href="./">All utilities</a>
+        <a href="../">Home</a>
+        <a href="./">AI Digest</a>
         <a href="mailto:bennyfoocy@gmail.com">bennyfoocy@gmail.com</a>
         <a href="https://www.linkedin.com/in/bennyfoo/" target="_blank" rel="noopener">LinkedIn</a>
       </div>
@@ -97,7 +99,5 @@
   </footer>
 
   <script src="../assets/js/main.js"></script>
-  <script src="../assets/js/tool-common.js"></script>
-  <script src="../assets/js/markdown-to-email.js"></script>
 </body>
 </html>
