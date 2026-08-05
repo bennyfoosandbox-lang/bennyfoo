@@ -2,10 +2,45 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-08-04
-run_count: 16
-digest_count: 16
+last_run: 2026-08-05
+run_count: 17
+digest_count: 17
 entries:
+  - fingerprint: skill-alpha-rl-progressive-skill-generation
+    title: "Skill-α trains agents to write their own skills, one evaluable edit at a time"
+    first_seen: 2026-08-05
+    digest: essential-skill-md-for-productivity-2026-Aug-05.html
+    urls:
+      - https://arxiv.org/abs/2608.01678
+      - https://arxiv.org/html/2608.01678
+      - https://github.com/ejhshen/skill-alpha
+  - fingerprint: copilot-studio-github-copilot-harness-ga
+    title: "Microsoft's Copilot Studio GitHub Copilot harness reaches general availability"
+    first_seen: 2026-08-05
+    digest: essential-skill-md-for-productivity-2026-Aug-05.html
+    urls:
+      - https://techcommunity.microsoft.com/blog/copilot-studio-blog/more-powerful-agents-and-workflows-for-autonomous-business-processes-introducing/4542969
+      - https://www.hubsite365.com/en-ww/crm-pages/inside-the-new-agent-and-workflow-harness-copilot-studio-updates-august-2026-eb36a7d1-fe43-4b8a-8cf8-f299a1cf44b2.htm
+  - fingerprint: crun-ai-media-generation-skill-set
+    title: "Crun AI open-sources a SKILL.md-compatible media-generation skill set"
+    first_seen: 2026-08-05
+    digest: essential-skill-md-for-productivity-2026-Aug-05.html
+    urls:
+      - https://www.prurgent.com/2026-08-04/pressrelease476851.htm
+  - fingerprint: blackhat-2026-post-injection-framework-exploitation
+    title: "Black Hat USA 2026: Check Point reframes agent exploitation around framework logic, not skill content"
+    first_seen: 2026-08-05
+    digest: essential-skill-md-for-productivity-2026-Aug-05.html
+    urls:
+      - https://forkast.news/black-hat-usa-2026-signals-agent-exploitation-has-become-its-own-infrastructure-discipline/
+      - https://www.straiker.ai/blog/black-hat-usa-2026-ai-security-talks
+  - fingerprint: gemini-enterprise-skills-lifecycle-governance
+    title: "Google adds Agent Skills Lifecycle Governance to Gemini Enterprise"
+    first_seen: 2026-08-05
+    digest: essential-skill-md-for-productivity-2026-Aug-05.html
+    urls:
+      - https://docs.cloud.google.com/gemini-enterprise-agent-platform/govern/policies/govern-agent-skills
+      - https://docs.cloud.google.com/gemini-enterprise-agent-platform/release-notes
   - fingerprint: nvidia-skillspector-open-source-scanner
     title: "NVIDIA open-sources SkillSpector to triage agent skills before they're installed"
     first_seen: 2026-08-04
@@ -518,6 +553,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Aug-05
+- **Skill-α (arXiv 2608.01678)** — RL method frames skill generation as a sequential editing process with a "rollback reward" that scores each edit by comparing downstream execution before/after; reference implementation skill-alpha on GitHub. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-05.html)
+- **Copilot Studio GitHub Copilot harness reaches GA** — the rebuild previewed 28 Jul hits general availability; agents invoke Agent Skills-format skills on Opus 5 / GPT-5.6 Sol / Fable 5 for long-horizon business processes. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-05.html)
+- **Crun AI media-generation skill set** — open-source, SKILL.md-compatible skills routing image/video/music/speech generation across 138 models via Crun's API; works with Claude Code, Codex, Cursor. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-05.html)
+- **Black Hat USA 2026 — Check Point "No Tools Required"** — reframes agent exploitation around framework decision-making logic (LangChain, CrewAI, AutoGen, Semantic Kernel runtimes) rather than skill/tool content; delayed-execution injection, cross-agent propagation, memory poisoning. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-05.html)
+- **Gemini Enterprise Agent Skills Lifecycle Governance** — semantic governance policies restrict which skills an agent can dynamically load per session, targeting context poisoning and supply-chain exploits. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-05.html)
+
+Note: 17th consecutive daily run. Firecrawl was unavailable (out of credits, HTTP 402) — web-search-only, ~38 targeted queries. Item 2 is a materially new GA milestone building on the 28 Jul preview entry (kept as a distinct fingerprint rather than merged, since GA is a real status change). Item 5's underlying docs date to late July but nothing this specific to runtime skill governance had surfaced before, so it's included as a widened-window item per the skill's fallback rule.
 
 ## 2026-Aug-04
 - **NVIDIA SkillSpector** — open-source, Apache-licensed scanner (64 patterns/16 categories + optional LLM pass) returns a 0-100 risk score for any SKILL.md before install; backing research found 26.1% of 42,447 scanned skills vulnerable, 5.2% likely malicious. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-04.html)
