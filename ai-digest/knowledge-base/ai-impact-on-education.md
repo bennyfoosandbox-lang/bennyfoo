@@ -2,10 +2,25 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-08-04
-run_count: 7
-digest_count: 7
+last_run: 2026-08-05
+run_count: 8
+digest_count: 8
 entries:
+  - fingerprint: openai-chatgpt-edu-teachers-codex-education-plugins-aug2026
+    title: "OpenAI turns ChatGPT Edu and ChatGPT for Teachers into agentic classroom assistants"
+    first_seen: 2026-08-05
+    digest: ai-impact-on-education-2026-Aug-05.html
+    urls:
+      - https://openai.com/index/learn-teach-chatgpt-work-codex/
+      - https://www.theregister.com/ai-and-ml/2026/08/04/openai-wants-teachers-and-profs-to-foist-their-work-off-on-chatgpt/5283064
+      - https://www.edtechinnovationhub.com/news/openai-opens-codex-powered-workspace-agents-to-chatgpt-edu-and-teachers-plans
+  - fingerprint: google-gemini-classroom-all-ages-expansion-aug10-2026
+    title: "Google throws open Gemini in Classroom to K-12 students of every age, starting August 10"
+    first_seen: 2026-08-05
+    digest: ai-impact-on-education-2026-Aug-05.html
+    urls:
+      - https://www.techlusive.in/news/google-brings-gemini-in-classroom-to-younger-students-with-ai-powered-study-features-1670681/
+      - https://support.google.com/edu/classroom/answer/15410566?hl=en
   - fingerprint: alcorn-state-madagascar-ai-cheating-trick
     title: "Alcorn State professor's hidden 'Madagascar' prompt exposes AI cheating in 32 of 35 students"
     first_seen: 2026-08-04
@@ -271,6 +286,10 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-05
+- **OpenAI turns ChatGPT Edu and ChatGPT for Teachers into agentic classroom assistants** — three new plugins bring Codex-powered "workspace agent" capabilities to K-12 educators, college instructors, and college students, alongside a 12-months-free Pro-access program for academic researchers. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-05.html)
+- **Google throws open Gemini in Classroom to K-12 students of every age, starting August 10** — a "Learn with Gemini" prompt on assignments lets students pull guided study sessions, quizzes and flashcards from their own class materials, expanding a tool previously limited to admin-approved higher-ed users. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-05.html)
 
 ## 2026-Aug-04
 - **Alcorn State professor's hidden 'Madagascar' prompt exposes AI cheating in 32 of 35 students** — a viral TikTok detection trick reignited the academic-integrity debate. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-04.html)
