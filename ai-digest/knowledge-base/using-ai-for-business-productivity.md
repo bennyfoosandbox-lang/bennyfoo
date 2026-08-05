@@ -2,10 +2,49 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-08-04
-run_count: 16
-digest_count: 16
+last_run: 2026-08-05
+run_count: 17
+digest_count: 17
 entries:
+  - fingerprint: alibaba-qwen3-8-max-qwenwork-launch-august-2026
+    title: "Alibaba's Qwen3.8-Max undercuts OpenAI and Anthropic on price for enterprise agentic work"
+    first_seen: 2026-08-05
+    digest: using-ai-for-business-productivity-2026-Aug-05.html
+    urls:
+      - https://www.techtimes.com/articles/322773/20260803/qwen38-max-debuts-arenaai-qwenwork-brings-china-state-law-risk-enterprise-workflows.htm
+      - https://www.infoworld.com/article/4204415/alibaba-takes-aim-at-openai-and-anthropic-with-qwen3-8-max-launch.html
+      - https://dataconomy.com/2026/08/03/qwen3-8-max-ai-model/
+  - fingerprint: cloudflare-wallets-cloudflare-pay-ai-agents-payment-identity
+    title: "Cloudflare gives AI agents a bank account: Wallets and cloudflare.pay go live"
+    first_seen: 2026-08-05
+    digest: using-ai-for-business-productivity-2026-Aug-05.html
+    urls:
+      - https://www.cloudflare.com/press/press-releases/2026/cloudflare-gives-ai-agents-an-identity-and-a-wallet/
+      - https://fortune.com/2026/08/04/cloudflare-ai-agents-wallets-id/
+      - https://www.pymnts.com/news/artificial-intelligence/2026/cloudflare-issues-ai-agents-wallet-identity/
+  - fingerprint: anaconda-acquires-enkrypt-ai-security-compliance
+    title: "Anaconda buys Enkrypt AI to bolt security and compliance onto the whole agent stack"
+    first_seen: 2026-08-05
+    digest: using-ai-for-business-productivity-2026-Aug-05.html
+    urls:
+      - https://www.hpcwire.com/aiwire/2026/08/04/anaconda-acquires-enkrypt-ai-to-secure-the-trillion-token-enterprise/
+      - https://www.anaconda.com/blog/anaconda-acquires-enkrypt-ai
+  - fingerprint: databahn-40m-series-b-agentic-data-control-plane
+    title: "DataBahn raises $40M to become the traffic controller for enterprise AI's data"
+    first_seen: 2026-08-05
+    digest: using-ai-for-business-productivity-2026-Aug-05.html
+    urls:
+      - https://www.prnewswire.com/news-releases/databahn-raises-40-million-series-b-led-by-insight-partners-to-accelerate-innovation-across-the-agentic-data-control-plane-302838690.html
+      - https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/
+      - https://techstartups.com/2026/07/30/ai-infrastructure-startup-databahn-raises-40m-series-b-to-build-agentic-data-control-plane-for-enterprise-ai/
+  - fingerprint: hush-security-30m-series-a-ai-agent-identity-governance
+    title: "Hush Security raises $30M as Fortune 500 firms brace for 150,000 AI agents each"
+    first_seen: 2026-08-05
+    digest: using-ai-for-business-productivity-2026-Aug-05.html
+    urls:
+      - https://www.prnewswire.com/news-releases/hush-security-raises-30m-to-close-the-ai-agent-governance-gap-with-akamai-joining-as-strategic-investor-302836307.html
+      - https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/
+      - https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread
   - fingerprint: palantir-q2-2026-earnings-commercial-ai-platform-surge
     title: "Palantir's Q2 2026 earnings blow past expectations as commercial AI platform revenue surges"
     first_seen: 2026-08-04
@@ -619,6 +658,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-05
+- **Alibaba's Qwen3.8-Max undercuts OpenAI and Anthropic on price for enterprise agentic work** — 2.4T-parameter model + QwenWork enterprise agent platform launched Aug 3; 1M-token context, 16-day autonomous coding run in testing, API priced ~40%/24% of Claude Opus 5's input/output rates. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-05.html)
+- **Cloudflare gives AI agents a bank account: Wallets and cloudflare.pay go live** — Aug 4 launch lets businesses extend verifiable identity and a guardrailed stablecoin wallet (spending cap, merchant allowlist, transaction ceiling) to individual agents. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-05.html)
+- **Anaconda buys Enkrypt AI to bolt security and compliance onto the whole agent stack** — Aug 4 acquisition folds red-teaming (300+ attack categories), runtime guardrails, and NIST/EU AI Act compliance automation into the Anaconda Platform. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-05.html)
+- **DataBahn raises $40M to become the traffic controller for enterprise AI's data** — Series B led by Insight Partners ($59M total raised) builds an "agentic data control plane" governing and routing enterprise data to AI agents and models; 400%+ YoY revenue growth. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-05.html)
+- **Hush Security raises $30M as Fortune 500 firms brace for 150,000 AI agents each** — Series A (Akamai as strategic investor) scales an identity/access-governance platform for AI agents; Gartner projects 150,000 agents per Fortune 500 firm by 2028, up from under 15 a year ago. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-05.html)
 
 ## 2026-Aug-04
 - **Palantir's Q2 2026 earnings blow past expectations as commercial AI platform revenue surges** — revenue $1.94B (+93% YoY), U.S. commercial revenue +149% YoY to $764M, 220 seven-figure deals closed, FY26 guidance raised to 82% growth; shares jumped ~12% after hours. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-04.html)

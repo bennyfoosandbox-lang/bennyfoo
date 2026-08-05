@@ -1,0 +1,175 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Using AI for Business Productivity — 5 Aug 2026</title>
+<style>
+  :root{
+    --bg:#f7f8fa; --card:#ffffff; --ink:#1a1d24; --muted:#5b6270; --line:#e5e8ee;
+    --accent:#2f6df6; --ok:#1a9d5a; --bad:#d23b3b; --warn:#c98a00; --unknown:#9aa1ad;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#0f1319; --card:#161b23; --ink:#e8ebf1; --muted:#9aa3b2; --line:#242c38;
+      --accent:#6ea0ff; --ok:#3ecb7f; --bad:#ff6b6b; --warn:#e0a94a; --unknown:#6b7482; }
+  }
+  :root[data-theme="light"]{ --bg:#f7f8fa; --card:#fff; --ink:#1a1d24; --muted:#5b6270; --line:#e5e8ee; --unknown:#9aa1ad; }
+  :root[data-theme="dark"]{ --bg:#0f1319; --card:#161b23; --ink:#e8ebf1; --muted:#9aa3b2; --line:#242c38; --unknown:#6b7482; }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
+  .wrap{max-width:760px;margin:0 auto;padding:32px 20px 80px;}
+  header.top{border-bottom:1px solid var(--line);padding-bottom:20px;margin-bottom:8px;}
+  .eyebrow{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);font-weight:700;margin:0 0 6px;}
+  h1{font-size:26px;line-height:1.25;margin:0 0 10px;}
+  .meta{color:var(--muted);font-size:14px;margin:2px 0;}
+  .tally{display:inline-block;margin-top:10px;padding:4px 10px;border:1px solid var(--line);
+    border-radius:999px;font-size:13px;color:var(--muted);background:var(--card);}
+  nav.links{margin:14px 0 0;font-size:14px;}
+  nav.links a{color:var(--accent);text-decoration:none;margin-right:16px;}
+  nav.links a:hover{text-decoration:underline;}
+  .legend{margin:22px 0 4px;padding:12px 14px;background:var(--card);border:1px solid var(--line);
+    border-radius:10px;font-size:13px;color:var(--muted);}
+  .legend b{color:var(--ink);}
+  .legend .dot{position:static;margin:0 4px 0 2px;vertical-align:baseline;}
+  article.item{background:var(--card);border:1px solid var(--line);border-radius:12px;
+    padding:20px 22px;margin:18px 0;}
+  article.item h2{font-size:19px;margin:0 0 8px;line-height:1.3;}
+  article.item p{margin:0 0 10px;}
+  .sources{font-size:14px;color:var(--muted);}
+  .sources a.cite{color:var(--accent);text-decoration:none;}
+  .sources a.cite:hover{text-decoration:underline;}
+  .dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-left:5px;
+    background:var(--unknown);vertical-align:middle;cursor:help;transition:background .2s;}
+  .dot.checking{background:var(--unknown);animation:pulse 1s ease-in-out infinite;}
+  .dot.ok{background:var(--ok);} .dot.bad{background:var(--bad);} .dot.warn{background:var(--warn);}
+  @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+  .recheck{margin-left:8px;font-size:12px;color:var(--muted);background:none;border:1px solid var(--line);
+    border-radius:6px;padding:2px 8px;cursor:pointer;}
+  .recheck:hover{border-color:var(--accent);color:var(--accent);}
+  footer.foot{margin-top:36px;padding-top:18px;border-top:1px solid var(--line);
+    color:var(--muted);font-size:13px;}
+  footer.foot a{color:var(--accent);}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <p class="eyebrow">Daily Research Digest</p>
+    <h1>Using AI for Business Productivity</h1>
+    <p class="meta">Wednesday, 5 August 2026</p>
+    <span class="tally">5 new items · 13 already-known skipped · run #17</span>
+    <nav class="links">
+      <a href="./index.html">← All digests</a>
+      <a href="../knowledge-base/using-ai-for-business-productivity.md">Knowledge base</a>
+    </nav>
+  </header>
+
+  <div class="legend">
+    Citation status <span class="dot ok"></span> reachable ·
+    <span class="dot bad"></span> could not reach ·
+    <span class="dot warn"></span> slow / timed out ·
+    <span class="dot"></span> unknown.
+    <b>Best-effort only:</b> browsers can't read a cross-origin link's exact HTTP status, so
+    this detects dead domains and network failures, not every dead page. Always click through to confirm.
+    <button class="recheck" id="recheck">Re-check all</button>
+  </div>
+
+  <article class="item">
+    <h2>1. Alibaba's Qwen3.8-Max undercuts OpenAI and Anthropic on price for enterprise agentic work</h2>
+    <p>On August 3, Alibaba released Qwen3.8-Max to global developers and simultaneously launched QwenWork, an enterprise workplace AI agent platform, in public beta. The 2.4-trillion-parameter multimodal model supports a 1-million-token context window and is tuned for autonomous coding and long-horizon execution — in internal testing it ran a real software engineering project unsupervised for 16 days straight. Alibaba priced API access at roughly 40% of Claude Opus 5's input-token rate and 24% of its output-token rate, undercutting the two biggest enterprise incumbents just as businesses weigh which vendor to standardize agentic workflows on. For companies budgeting agent token spend — a cost cited elsewhere as a growing constraint on AI rollouts — a credible low-cost, high-capability alternative changes the calculus for scaling pilots into production.</p>
+    <p class="sources">Sources:
+      <a class="cite" href="https://www.techtimes.com/articles/322773/20260803/qwen38-max-debuts-arenaai-qwenwork-brings-china-state-law-risk-enterprise-workflows.htm" target="_blank" rel="noopener">Tech Times</a><span class="link-status" data-url="https://www.techtimes.com/articles/322773/20260803/qwen38-max-debuts-arenaai-qwenwork-brings-china-state-law-risk-enterprise-workflows.htm"></span>,
+      <a class="cite" href="https://www.infoworld.com/article/4204415/alibaba-takes-aim-at-openai-and-anthropic-with-qwen3-8-max-launch.html" target="_blank" rel="noopener">InfoWorld</a><span class="link-status" data-url="https://www.infoworld.com/article/4204415/alibaba-takes-aim-at-openai-and-anthropic-with-qwen3-8-max-launch.html"></span>,
+      <a class="cite" href="https://dataconomy.com/2026/08/03/qwen3-8-max-ai-model/" target="_blank" rel="noopener">Dataconomy</a><span class="link-status" data-url="https://dataconomy.com/2026/08/03/qwen3-8-max-ai-model/"></span>
+    </p>
+  </article>
+
+  <article class="item">
+    <h2>2. Cloudflare gives AI agents a bank account: Wallets and cloudflare.pay go live</h2>
+    <p>On August 4, Cloudflare announced Cloudflare Wallets and cloudflare.pay, letting any account extend a stable, verifiable identity to individual AI agents and fund a stablecoin wallet those agents can spend from autonomously. Businesses set guardrails — a spending cap, an approved-merchant allowlist, and a per-transaction ceiling — so an agent booking software, buying data, or paying for APIs can't exceed what a human authorized. Wallet-handle reservations opened immediately, with full on/off-ramping following in the coming months. It's a concrete step toward "agentic commerce," addressing a real operational gap: businesses running fleets of autonomous agents have had no standard, auditable way to let those agents transact on their behalf.</p>
+    <p class="sources">Sources:
+      <a class="cite" href="https://www.cloudflare.com/press/press-releases/2026/cloudflare-gives-ai-agents-an-identity-and-a-wallet/" target="_blank" rel="noopener">Cloudflare</a><span class="link-status" data-url="https://www.cloudflare.com/press/press-releases/2026/cloudflare-gives-ai-agents-an-identity-and-a-wallet/"></span>,
+      <a class="cite" href="https://fortune.com/2026/08/04/cloudflare-ai-agents-wallets-id/" target="_blank" rel="noopener">Fortune</a><span class="link-status" data-url="https://fortune.com/2026/08/04/cloudflare-ai-agents-wallets-id/"></span>,
+      <a class="cite" href="https://www.pymnts.com/news/artificial-intelligence/2026/cloudflare-issues-ai-agents-wallet-identity/" target="_blank" rel="noopener">PYMNTS</a><span class="link-status" data-url="https://www.pymnts.com/news/artificial-intelligence/2026/cloudflare-issues-ai-agents-wallet-identity/"></span>
+    </p>
+  </article>
+
+  <article class="item">
+    <h2>3. Anaconda buys Enkrypt AI to bolt security and compliance onto the whole agent stack</h2>
+    <p>On August 4, data-science platform Anaconda announced it has acquired AI-security startup Enkrypt AI, folding pre-deployment red-teaming across 300+ attack categories, real-time runtime guardrails against jailbreaks and data leakage, and compliance automation for frameworks like the NIST AI Risk Management Framework and the EU AI Act directly into the Anaconda Platform. The move lets Anaconda govern the full lifecycle from a developer's first prompt through an AI-native application running in production, rather than bolting on security after deployment. It lands two days after the EU AI Act's general-purpose-AI enforcement powers switched on, and speaks directly to a gap recurring across recent surveys in this digest: enterprises are deploying agents faster than they can govern them. Consolidating security and compliance tooling into existing developer platforms is one path to closing that gap without slowing down shipping.</p>
+    <p class="sources">Sources:
+      <a class="cite" href="https://www.hpcwire.com/aiwire/2026/08/04/anaconda-acquires-enkrypt-ai-to-secure-the-trillion-token-enterprise/" target="_blank" rel="noopener">AIwire (HPCwire)</a><span class="link-status" data-url="https://www.hpcwire.com/aiwire/2026/08/04/anaconda-acquires-enkrypt-ai-to-secure-the-trillion-token-enterprise/"></span>,
+      <a class="cite" href="https://www.anaconda.com/blog/anaconda-acquires-enkrypt-ai" target="_blank" rel="noopener">Anaconda</a><span class="link-status" data-url="https://www.anaconda.com/blog/anaconda-acquires-enkrypt-ai"></span>
+    </p>
+  </article>
+
+  <article class="item">
+    <h2>4. DataBahn raises $40M to become the traffic controller for enterprise AI's data</h2>
+    <p>Texas-based DataBahn closed a $40 million Series B led by Insight Partners, with Forgepoint, GTM Capital and S3 Ventures also participating, bringing total funding to $59 million, to build out its "agentic data control plane" — infrastructure that activates, governs, and routes enterprise data to the AI agents, copilots, and models that need it, rather than just moving it wholesale. The company reports over 400% year-over-year revenue growth, 180% net revenue retention, and zero customer churn. The bet is that as companies deploy more agents, the bottleneck shifts from model capability to whether the right, well-governed data reaches those agents in real time — echoing a recurring finding in this digest that only a small fraction of businesses consider their data actually ready to scale AI. Fresh capital for data-plumbing-for-AI infrastructure suggests investors see that readiness gap as the next major enterprise spending category.</p>
+    <p class="sources">Sources:
+      <a class="cite" href="https://www.prnewswire.com/news-releases/databahn-raises-40-million-series-b-led-by-insight-partners-to-accelerate-innovation-across-the-agentic-data-control-plane-302838690.html" target="_blank" rel="noopener">PR Newswire</a><span class="link-status" data-url="https://www.prnewswire.com/news-releases/databahn-raises-40-million-series-b-led-by-insight-partners-to-accelerate-innovation-across-the-agentic-data-control-plane-302838690.html"></span>,
+      <a class="cite" href="https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/" target="_blank" rel="noopener">SecurityWeek</a><span class="link-status" data-url="https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/"></span>,
+      <a class="cite" href="https://techstartups.com/2026/07/30/ai-infrastructure-startup-databahn-raises-40m-series-b-to-build-agentic-data-control-plane-for-enterprise-ai/" target="_blank" rel="noopener">Tech Startups</a><span class="link-status" data-url="https://techstartups.com/2026/07/30/ai-infrastructure-startup-databahn-raises-40m-series-b-to-build-agentic-data-control-plane-for-enterprise-ai/"></span>
+    </p>
+  </article>
+
+  <article class="item">
+    <h2>5. Hush Security raises $30M as Fortune 500 firms brace for 150,000 AI agents each</h2>
+    <p>Hush Security raised a $30 million Series A, with Akamai joining as a strategic investor alongside Battery Ventures and YL Ventures, to expand a platform that manages identity and access for AI agents the way companies manage service accounts and machine credentials. The platform lets enterprises register agents, strip out standing credentials in favor of scoped just-in-time permissions, log every action, and revoke access centrally — addressing what Gartner projects will be an average of 150,000 AI agents per Fortune 500 company by 2028, up from under 15 a year ago. Despite that scale, Omdia research cited in coverage found 96% of organizations are still governing agents with frameworks built for human, not autonomous, users. The raise brings Hush's total funding to $41 million in under a year since emerging from stealth — another signal that agent-identity governance is becoming its own enterprise software category rather than a feature bolted onto existing identity tools.</p>
+    <p class="sources">Sources:
+      <a class="cite" href="https://www.prnewswire.com/news-releases/hush-security-raises-30m-to-close-the-ai-agent-governance-gap-with-akamai-joining-as-strategic-investor-302836307.html" target="_blank" rel="noopener">PR Newswire</a><span class="link-status" data-url="https://www.prnewswire.com/news-releases/hush-security-raises-30m-to-close-the-ai-agent-governance-gap-with-akamai-joining-as-strategic-investor-302836307.html"></span>,
+      <a class="cite" href="https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/" target="_blank" rel="noopener">SecurityWeek</a><span class="link-status" data-url="https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/"></span>,
+      <a class="cite" href="https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread" target="_blank" rel="noopener">VentureBeat</a><span class="link-status" data-url="https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread"></span>
+    </p>
+  </article>
+
+  <footer class="foot">
+    <p>Scanned roughly 180 candidates across ~25 targeted web searches spanning product launches, funding, earnings, layoffs, regulation and adoption surveys. Firecrawl was unavailable this run (account returned HTTP 402 / out of credits) — degraded to web-search-only per this skill's fallback policy. Items 4 and 5 are dated July 29–30 (widened slightly beyond the 24h window since same-day dedup-passing coverage was thin) and were confirmed materially new against the knowledge base.</p>
+    <p>Generated <time datetime="2026-08-05T10:16:19Z">2026-08-05T10:16:19Z</time> ·
+       Knowledge base: <a href="../knowledge-base/using-ai-for-business-productivity.md">Using AI for Business Productivity</a></p>
+  </footer>
+</div>
+
+<script>
+(function(){
+  // Progressive enhancement only: content above is fully readable without this.
+  var TIMEOUT_MS = 8000;
+
+  function makeDot(statusEl){
+    var dot = document.createElement("span");
+    dot.className = "dot checking";
+    dot.title = "Checking link…";
+    statusEl.replaceWith(dot);         // swap the placeholder span for a live dot
+    dot.dataset.url = statusEl.dataset.url;
+    return dot;
+  }
+
+  function setDot(dot, cls, title){ dot.className = "dot " + cls; dot.title = title; }
+
+  function checkOne(dot){
+    var url = dot.dataset.url;
+    setDot(dot, "checking", "Checking link…");
+    var ctrl = new AbortController();
+    var timer = setTimeout(function(){ ctrl.abort(); }, TIMEOUT_MS);
+    // no-cors: we can't read the status (that's the browser security boundary),
+    // but a resolved promise means the host responded; a rejection means the
+    // domain is dead / unreachable / blocked. That's the honest signal we surface.
+    fetch(url, { mode: "no-cors", method: "GET", signal: ctrl.signal, redirect: "follow" })
+      .then(function(){ clearTimeout(timer);
+        setDot(dot, "ok", "Domain responded (exact page not verifiable cross-origin). Click through to confirm."); })
+      .catch(function(err){ clearTimeout(timer);
+        if(err && err.name === "AbortError"){
+          setDot(dot, "warn", "No response within " + (TIMEOUT_MS/1000) + "s — may be slow or blocking checks.");
+        } else {
+          setDot(dot, "bad", "Could not reach this domain (dead, offline, or blocking the check). Click through to confirm.");
+        }
+      });
+  }
+
+  function checkAll(){
+    document.querySelectorAll(".dot[data-url]").forEach(checkOne);
+  }
+
+  // Initial pass: convert placeholder spans into dots and probe each.
+  document.querySelectorAll(".link-status[data-url]").forEach(function(s){ checkOne(makeDot(s)); });
+  var btn = document.getElementById("recheck");
+  if(btn) btn.addEventListener("click", checkAll);
+})();
+</script>
