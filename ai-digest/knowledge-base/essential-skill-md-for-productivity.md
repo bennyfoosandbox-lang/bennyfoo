@@ -2,10 +2,52 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-08-05
-run_count: 17
-digest_count: 17
+last_run: 2026-08-07
+run_count: 18
+digest_count: 18
 entries:
+  - fingerprint: cloudflare-os-open-source-agent-workspace-skills
+    title: "Cloudflare open-sources Cloudflare OS, an agent workspace built around a shared skills library"
+    first_seen: 2026-08-07
+    digest: essential-skill-md-for-productivity-2026-Aug-07.html
+    urls:
+      - https://blog.cloudflare.com/cloudflare-os/
+      - https://www.cloudflare.com/press/press-releases/2026/cloudflare-os-is-the-first-ai-workspace-built-around-how-companies-actually-work/
+      - https://siliconangle.com/2026/08/05/cloudflare-launches-cloudflare-os-open-source-ai-agentic-workspace-enterprise/
+      - https://decrypt.co/374997/cloudflare-os-inside-open-source-ai-agent-platform
+  - fingerprint: claude-inference-hooks-dlp-skills-beta
+    title: "Anthropic ships inference hooks, letting Claude Enterprise vet skill/tool responses before the model sees them"
+    first_seen: 2026-08-07
+    digest: essential-skill-md-for-productivity-2026-Aug-07.html
+    urls:
+      - https://claude.com/blog/claude-enterprise-inference-hooks
+      - https://www.unite.ai/anthropic-puts-inline-data-loss-prevention-inside-claude-enterprise/
+      - https://platform.claude.com/docs/en/manage-claude/inference-hooks
+  - fingerprint: mitiga-skillgate-promptlogger-instruction-files
+    title: "Mitiga finds 1,230+ leaked API keys in AI instruction files, launches free Skillgate scanner"
+    first_seen: 2026-08-07
+    digest: essential-skill-md-for-productivity-2026-Aug-07.html
+    urls:
+      - https://www.csoonline.com/article/4204731/attackers-are-crafting-malicious-ai-instruction-files-to-turn-your-agentic-workflows-into-quiet-criminal-helpers.html
+      - https://www.mitiga.io/blog/malware-in-ai-instruction-files-skillgate
+      - https://www.mitiga.io/press-release/mitiga-labs-launches-skillgate-to-detect-risks-in-ai-agent-skills-and-configurations
+      - https://skillgate.mitiga.io/
+  - fingerprint: ambition-agent-skills-sales-management-launch
+    title: "Ambition packages sales-management rituals into a composable Agent Skills library"
+    first_seen: 2026-08-07
+    digest: essential-skill-md-for-productivity-2026-Aug-07.html
+    urls:
+      - https://www.prnewswire.com/news-releases/agent-skills-the-ai-operating-system-for-sales-managers-302843878.html
+      - https://www.aol.com/articles/agent-skills-ai-operating-system-145100000.html
+      - https://aijourn.com/agent-skills-the-ai-operating-system-for-sales-managers/
+  - fingerprint: cequence-ai-gateway-skill-registry-launch
+    title: "Cequence adds a Skill Registry to AI Gateway, completing its 'Agentic Zero Trust' ring around MCP, APIs, and LLMs"
+    first_seen: 2026-08-07
+    digest: essential-skill-md-for-productivity-2026-Aug-07.html
+    urls:
+      - https://www.cequence.ai/news/cequence-security-launches-ai-gateway-safely-enabling-enterprises-to-realize-the-promise-of-agentic-ai-productivity/
+      - https://securitymea.com/2026/07/31/cequence-brings-agentic-zero-trust-across-mcp-api-and-llm/
+      - https://channelpostmea.com/2026/07/31/cequence-extends-zero-trust-across-mcp-apis-and-llms/
   - fingerprint: skill-alpha-rl-progressive-skill-generation
     title: "Skill-α trains agents to write their own skills, one evaluable edit at a time"
     first_seen: 2026-08-05
@@ -553,6 +595,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Aug-07
+- **Cloudflare OS** — open-sourced 5 Aug as the centerpiece of Agents Week 2026; self-hostable agent workspace combining a shared org-wide skills library, zero-trust "Gatekeepers" governance, and modifiable micro-apps; launching with implementation partners Presidio and Happy Cog. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-07.html)
+- **Anthropic inference hooks (beta)** — Claude Enterprise feature routes every prompt and every skill/tool response through a customer's own security server for an allow/deny verdict before it reaches Claude; webhook schema compatible with Netskope, Palo Alto Networks, Proofpoint, Zscaler. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-07.html)
+- **Mitiga Skillgate + PromptLogger research** — 50,000+ AI instruction files scanned (Apr-Jun) across 7,000+ repos found 1,230+ leaked API keys/tokens and attacker-controlled ANTHROPIC_BASE_URL overrides; free public scanner launched (distinct from the unrelated arXiv "SkillGate" paper logged 30 Jul). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-07.html)
+- **Ambition Agent Skills** — composable sales-management skill library (coaching prep, pipeline inspection, forecast reviews, QBR analysis) built on Ambition's Performance Graph, launched 5 Aug. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-07.html)
+- **Cequence AI Gateway Skill Registry** — curated, once-vetted skill sets reusable across agents; part of a four-registry release (AI Discovery, API Registry, LLM Registry, Skill Registry) completing Cequence's "Agentic Zero Trust" coverage of MCP, APIs, and LLMs. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-07.html)
+
+Note: 18th run, following a one-day gap since the 05 Aug run (actual run date landed 07 Aug). Firecrawl was unavailable all run (out of credits, HTTP 402 on every call) — web-search-only, ~58 targeted queries. Item 5 (Cequence) falls slightly outside the strict 24h window (dated 30-31 Jul) but is the freshest available coverage of a still-current, on-topic governance launch, per the skill's fallback rule.
 
 ## 2026-Aug-05
 - **Skill-α (arXiv 2608.01678)** — RL method frames skill generation as a sequential editing process with a "rollback reward" that scores each edit by comparing downstream execution before/after; reference implementation skill-alpha on GitHub. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-05.html)
