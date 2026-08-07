@@ -2,10 +2,48 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-08-05
-run_count: 8
-digest_count: 8
+last_run: 2026-08-07
+run_count: 9
+digest_count: 9
 entries:
+  - fingerprint: ai-detectors-banned-assessment-redesign-wave-aug2026
+    title: "60+ universities abandon AI detectors for redesigned assessments"
+    first_seen: 2026-08-07
+    digest: ai-impact-on-education-2026-Aug-07.html
+    urls:
+      - https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/08/05/ai-detectors-are-out-new-approaches-are
+      - https://aiweekly.co/alerts/yale-johns-hopkins-waterloo-pull-back-on-ai-detection-tools
+  - fingerprint: purdue-global-lawtone-bowles-disability-ai-detection-lawsuit
+    title: "Disabled Purdue Global law student's AI-cheating case becomes a fight over sealed court records"
+    first_seen: 2026-08-07
+    digest: ai-impact-on-education-2026-Aug-07.html
+    urls:
+      - https://www.theindianalawyer.com/articles/case-spotlights-challenges-in-detecting-ai-in-student-work
+      - https://innercitypress.com/innd1purdueglobalicp073026.html
+  - fingerprint: cs-enrollment-decline-campus-ai-response-aug6-update
+    title: "CS enrollment craters further (8.4%) as colleges rewire the rest of campus around AI"
+    first_seen: 2026-08-07
+    digest: ai-impact-on-education-2026-Aug-07.html
+    urls:
+      - https://fortune.com/2026/08/06/computer-science-enrollment-plunging-ai-college-campus/
+      - https://startupfortune.com/computer-science-enrollment-falls-for-the-first-time-in-20-years-as-ai-reshapes-who-gets-hired/
+      - https://www.usnews.com/news/best-states/kansas/articles/2026-08-03/at-colleges-the-ai-boom-means-everyone-wants-to-dabble-in-computer-science
+  - fingerprint: amira-learning-nm-ai-reading-assessment-pushback
+    title: "New Mexico districts pause state-mandated Amira AI reading test over privacy and accuracy concerns"
+    first_seen: 2026-08-07
+    digest: ai-impact-on-education-2026-Aug-07.html
+    urls:
+      - https://www.edweek.org/technology/school-districts-push-back-against-state-required-ai-reading-assessments/2026/08
+      - https://www.santafenewmexican.com/news/education/new-mexico-officials-ai-testing-company-defend-programs-use-in-schools/article_ac01259e-1a36-4236-aed2-426f2426bad6.html
+      - https://www.abqjournal.com/news/students-read-aloud-ai-scores-them/3029121
+  - fingerprint: defending-education-dei-ai-teachers-unions-report
+    title: "Watchdog report says AFT's $23M AI-training push with Microsoft, OpenAI, Anthropic is a DEI vehicle"
+    first_seen: 2026-08-07
+    digest: ai-impact-on-education-2026-Aug-07.html
+    urls:
+      - https://www.foxnews.com/politics/report-uncovers-education-groups-dei-push-shape-artificial-intelligence-used-classrooms
+      - https://defendinged.org/investigations/dei-in-ai-unions-and-associations/
+      - https://www.aft.org/AI
   - fingerprint: openai-chatgpt-edu-teachers-codex-education-plugins-aug2026
     title: "OpenAI turns ChatGPT Edu and ChatGPT for Teachers into agentic classroom assistants"
     first_seen: 2026-08-05
@@ -286,6 +324,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-07
+- **60+ universities abandon AI detectors for redesigned assessments** — MIT, Yale, Georgetown, Vanderbilt, Northwestern, Johns Hopkins, Waterloo, UC Berkeley and others across five countries have banned or disabled AI-detection tools as unreliable, shifting instead to oral defenses, in-class writing and process-based grading. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-07.html)
+- **Disabled Purdue Global law student's AI-cheating case becomes a fight over sealed court records** — Nicole Lawtone-Bowles says AI-detection findings mistook accommodations for her disability (speech-to-text use) as evidence of cheating; Purdue Global's July 30 opposition to unsealing the record adds a media-access dispute to the underlying disability-rights claim. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-07.html)
+- **CS enrollment craters further (8.4%) as colleges rewire the rest of campus around AI** — update to our August 3 coverage: fresh Fortune reporting adds University of Florida (200+ AI courses, 71% of spring grads), Ohio State's AI-fluency graduation requirement (class of 2029), and Colby College's liberal-arts approach. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-07.html)
+- **New Mexico districts pause state-mandated Amira AI reading test over privacy and accuracy concerns** — Los Alamos Public Schools halts use of the voice-recognition K-2 assessment tool pending answers on data storage and retention, amid teacher reports of accent-related scoring errors. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-07.html)
+- **Watchdog report says AFT's $23M AI-training push with Microsoft, OpenAI, Anthropic is a DEI vehicle** — Defending Education's late-July investigation into NEA/AFT AI guidance draws union pushback; included as a fresh-to-KB storyline despite predating our usual 24h window. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-07.html)
 
 ## 2026-Aug-05
 - **OpenAI turns ChatGPT Edu and ChatGPT for Teachers into agentic classroom assistants** — three new plugins bring Codex-powered "workspace agent" capabilities to K-12 educators, college instructors, and college students, alongside a 12-months-free Pro-access program for academic researchers. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-05.html)
