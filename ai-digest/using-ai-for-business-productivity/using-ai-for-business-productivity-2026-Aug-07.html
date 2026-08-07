@@ -1,0 +1,176 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Using AI for Business Productivity — 7 Aug 2026</title>
+<style>
+  :root{
+    --bg:#f7f8fa; --card:#ffffff; --ink:#1a1d24; --muted:#5b6270; --line:#e5e8ee;
+    --accent:#2f6df6; --ok:#1a9d5a; --bad:#d23b3b; --warn:#c98a00; --unknown:#9aa1ad;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#0f1319; --card:#161b23; --ink:#e8ebf1; --muted:#9aa3b2; --line:#242c38;
+      --accent:#6ea0ff; --ok:#3ecb7f; --bad:#ff6b6b; --warn:#e0a94a; --unknown:#6b7482; }
+  }
+  :root[data-theme="light"]{ --bg:#f7f8fa; --card:#fff; --ink:#1a1d24; --muted:#5b6270; --line:#e5e8ee; --unknown:#9aa1ad; }
+  :root[data-theme="dark"]{ --bg:#0f1319; --card:#161b23; --ink:#e8ebf1; --muted:#9aa3b2; --line:#242c38; --unknown:#6b7482; }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
+  .wrap{max-width:760px;margin:0 auto;padding:32px 20px 80px;}
+  header.top{border-bottom:1px solid var(--line);padding-bottom:20px;margin-bottom:8px;}
+  .eyebrow{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);font-weight:700;margin:0 0 6px;}
+  h1{font-size:26px;line-height:1.25;margin:0 0 10px;}
+  .meta{color:var(--muted);font-size:14px;margin:2px 0;}
+  .tally{display:inline-block;margin-top:10px;padding:4px 10px;border:1px solid var(--line);
+    border-radius:999px;font-size:13px;color:var(--muted);background:var(--card);}
+  nav.links{margin:14px 0 0;font-size:14px;}
+  nav.links a{color:var(--accent);text-decoration:none;margin-right:16px;}
+  nav.links a:hover{text-decoration:underline;}
+  .legend{margin:22px 0 4px;padding:12px 14px;background:var(--card);border:1px solid var(--line);
+    border-radius:10px;font-size:13px;color:var(--muted);}
+  .legend b{color:var(--ink);}
+  .legend .dot{position:static;margin:0 4px 0 2px;vertical-align:baseline;}
+  article.item{background:var(--card);border:1px solid var(--line);border-radius:12px;
+    padding:20px 22px;margin:18px 0;}
+  article.item h2{font-size:19px;margin:0 0 8px;line-height:1.3;}
+  article.item p{margin:0 0 10px;}
+  .sources{font-size:14px;color:var(--muted);}
+  .sources a.cite{color:var(--accent);text-decoration:none;}
+  .sources a.cite:hover{text-decoration:underline;}
+  .dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-left:5px;
+    background:var(--unknown);vertical-align:middle;cursor:help;transition:background .2s;}
+  .dot.checking{background:var(--unknown);animation:pulse 1s ease-in-out infinite;}
+  .dot.ok{background:var(--ok);} .dot.bad{background:var(--bad);} .dot.warn{background:var(--warn);}
+  @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+  .recheck{margin-left:8px;font-size:12px;color:var(--muted);background:none;border:1px solid var(--line);
+    border-radius:6px;padding:2px 8px;cursor:pointer;}
+  .recheck:hover{border-color:var(--accent);color:var(--accent);}
+  footer.foot{margin-top:36px;padding-top:18px;border-top:1px solid var(--line);
+    color:var(--muted);font-size:13px;}
+  footer.foot a{color:var(--accent);}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <p class="eyebrow">Daily Research Digest</p>
+    <h1>Using AI for Business Productivity</h1>
+    <p class="meta">Friday, 7 August 2026</p>
+    <span class="tally">5 new items · 7 already-known skipped · run #18</span>
+    <nav class="links">
+      <a href="./index.html">← All digests</a>
+      <a href="../knowledge-base/using-ai-for-business-productivity.md">Knowledge base</a>
+    </nav>
+  </header>
+
+  <div class="legend">
+    Citation status <span class="dot ok"></span> reachable ·
+    <span class="dot bad"></span> could not reach ·
+    <span class="dot warn"></span> slow / timed out ·
+    <span class="dot"></span> unknown.
+    <b>Best-effort only:</b> browsers can't read a cross-origin link's exact HTTP status, so
+    this detects dead domains and network failures, not every dead page. Always click through to confirm.
+    <button class="recheck" id="recheck">Re-check all</button>
+  </div>
+
+  <article class="item">
+    <h2>1. Shopify's AI agents triple traffic and orders, driving 34% revenue growth</h2>
+    <p>Shopify's Q2 2026 earnings, reported this week, showed revenue up 34% year-over-year to $3.58 billion and gross merchandise volume up 32% to $116 billion, with the company crediting AI tools as a primary driver of the beat rather than a side feature. Its Sidekick AI assistant saw daily active merchants grow 3.6x year-over-year and daily sessions grow 4.8x, handling roughly 34 million conversations and helping merchants spin up about 36,000 custom apps in the quarter. Agentic AI traffic and orders to Shopify-powered storefronts each tripled year-over-year, and catalog-powered AI search converted at roughly twice the rate of search built on scraped data, pointing to a real commercial payoff from structured, agent-readable product data. The results moved several Wall Street analysts to raise price targets, treating Shopify's AI integration as a genuine growth driver rather than a narrative. For an SMB-heavy commerce platform, the numbers are an early, concrete data point that AI agents can move revenue for the businesses using them, not just cut internal costs.</p>
+    <p class="sources">Sources:
+      <a class="cite" href="https://www.retailtouchpoints.com/news/shopify-credits-ai-for-34-revenue-growth-in-q2-2026/620805/" target="_blank" rel="noopener">Retail TouchPoints</a><span class="link-status" data-url="https://www.retailtouchpoints.com/news/shopify-credits-ai-for-34-revenue-growth-in-q2-2026/620805/"></span>,
+      <a class="cite" href="https://theaiinsider.tech/2026/08/06/shopify-reports-ai-search-driving-revenue-growth-and-merchant-traffic-in-q2/" target="_blank" rel="noopener">The AI Insider</a><span class="link-status" data-url="https://theaiinsider.tech/2026/08/06/shopify-reports-ai-search-driving-revenue-growth-and-merchant-traffic-in-q2/"></span>,
+      <a class="cite" href="https://finance.yahoo.com/markets/stocks/articles/shopify-q2-2026-earnings-beat-121421648.html" target="_blank" rel="noopener">Yahoo Finance</a><span class="link-status" data-url="https://finance.yahoo.com/markets/stocks/articles/shopify-q2-2026-earnings-beat-121421648.html"></span>
+    </p>
+  </article>
+
+  <article class="item">
+    <h2>2. Uber says AI coding tools have essentially doubled engineer output</h2>
+    <p>In its Q2 2026 earnings call this week, Uber said engineer adoption of AI-based coding tools is now near 100%, and that code output per engineer has roughly doubled as a result, helping the company moderate headcount growth even as gross bookings jumped 22% year-over-year to more than $58 billion — a fourth straight quarter above 20% growth. Executives described the productivity gains as broad rather than singular, framing AI's benefit as "thousands of small hits and improvements" spread across the business rather than one breakthrough feature. Beyond engineering, Uber pointed to AI-driven tools like Cart Builder, which it says is increasing average order sizes by up to 2x in its delivery business, and the quarter included targeted, AI-linked headcount cuts of 10-20% in a couple of organizational units after effectiveness reviews. The results land in the same stretch in which Uber has drawn scrutiny for capping employee spend on AI coding tools like Claude Code after exhausting its 2026 budget months early, a reminder that productivity gains and cost control are now being managed as two sides of the same rollout. Together, the two data points make Uber one of the clearest large-company case studies yet of AI productivity gains showing up directly in reported financials.</p>
+    <p class="sources">Sources:
+      <a class="cite" href="https://www.gurufocus.com/news/9007223/uber-technologies-inc-uber-q2-2026-earnings-call-highlights-record-gross-bookings-and-free-cash-flow-fueled-by-ai-and-autonomous-vehicle-expansion" target="_blank" rel="noopener">GuruFocus</a><span class="link-status" data-url="https://www.gurufocus.com/news/9007223/uber-technologies-inc-uber-q2-2026-earnings-call-highlights-record-gross-bookings-and-free-cash-flow-fueled-by-ai-and-autonomous-vehicle-expansion"></span>,
+      <a class="cite" href="https://finance.biggo.com/news/US_UBER_2026-08-05" target="_blank" rel="noopener">BigGo Finance</a><span class="link-status" data-url="https://finance.biggo.com/news/US_UBER_2026-08-05"></span>,
+      <a class="cite" href="https://finance.yahoo.com/markets/stocks/articles/uber-technologies-inc-q2-2026-215536707.html" target="_blank" rel="noopener">Yahoo Finance</a><span class="link-status" data-url="https://finance.yahoo.com/markets/stocks/articles/uber-technologies-inc-q2-2026-215536707.html"></span>
+    </p>
+  </article>
+
+  <article class="item">
+    <h2>3. HappyRobot raises $150M, joins the unicorn club building AI agents for supply-chain ops</h2>
+    <p>HappyRobot, which builds AI agents that execute tasks inside enterprise operations rather than just chat, raised a $150 million Series C led by Prysm Capital and co-led by Eurazeo, valuing the company at $1.2 billion. The round brings HappyRobot's total funding to roughly $200 million and was joined by existing backers a16z, Base10 and Y Combinator alongside strategics including Koch Disruptive Technologies, Orange, Deutsche Telekom's T.Capital and — notably — Uber, one of its own enterprise customers. The company says it now works with more than 150 enterprise customers, including DHL, Kuehne + Nagel and Repsol, deploying agents that reason and act inside logistics, freight and supply-chain systems, and that it has grown 5x since its Series B roughly a year ago. With the new capital, HappyRobot plans to expand beyond supply chain into insurance, energy and utilities, telecom and airlines. The raise is one of the clearest signals yet that investors see durable enterprise demand for agents that plug directly into existing operational workflows, not just generate content.</p>
+    <p class="sources">Sources:
+      <a class="cite" href="https://tech.eu/2026/08/04/happyrobot-lands-150m-series-c-to-scale-agentic-ai-for-enterprise-operations/" target="_blank" rel="noopener">Tech.eu</a><span class="link-status" data-url="https://tech.eu/2026/08/04/happyrobot-lands-150m-series-c-to-scale-agentic-ai-for-enterprise-operations/"></span>,
+      <a class="cite" href="https://www.businesswire.com/news/home/20260804192350/en/HappyRobot-Raises-$150-Million-Series-C-to-Build-Enterprise-Superintelligence" target="_blank" rel="noopener">Business Wire</a><span class="link-status" data-url="https://www.businesswire.com/news/home/20260804192350/en/HappyRobot-Raises-$150-Million-Series-C-to-Build-Enterprise-Superintelligence"></span>,
+      <a class="cite" href="https://fortune.com/2026/08/04/happyrobot-worth-1-2-billion-founder-says-just-getting-started/" target="_blank" rel="noopener">Fortune</a><span class="link-status" data-url="https://fortune.com/2026/08/04/happyrobot-worth-1-2-billion-founder-says-just-getting-started/"></span>
+    </p>
+  </article>
+
+  <article class="item">
+    <h2>4. Zenity raises $125M as AI agent security becomes its own category</h2>
+    <p>Zenity, which monitors and governs AI agents as they gain access to enterprise systems and data, closed a $125 million Series C led by Norwest Venture Partners, with new investors Qumra Capital, SoftBank Vision Fund 2, Hitachi Ventures and LG Technology Ventures joining existing backers Vertex Ventures, Third Point Ventures, DTCP and Intel Capital. The round brings Zenity's total funding to about $185 million and comes as the company says it has tripled revenue in each of the past two years, with a third straight tripling on track for 2026. Norwest framed the investment around the idea that "the agent is the new perimeter" — as autonomous AI agents get standing access to sensitive business systems, traditional network and identity security models no longer cover the risk they introduce. The raise lands the same week as a separate $30 million round for rival Hush Security (covered in this digest's August 5 edition), underscoring how quickly a distinct AI-agent-governance market is forming around the broader rush to deploy agents in production. For enterprises racing to adopt agentic AI for productivity gains, Zenity's growth is a signal that governance and security are increasingly treated as a prerequisite for scaling, not an afterthought.</p>
+    <p class="sources">Sources:
+      <a class="cite" href="https://www.businesswire.com/news/home/20260803963850/en/Zenity-Raises-$125-Million-to-Secure-the-Era-of-1-Billion-AI-Agents" target="_blank" rel="noopener">Business Wire</a><span class="link-status" data-url="https://www.businesswire.com/news/home/20260803963850/en/Zenity-Raises-$125-Million-to-Secure-the-Era-of-1-Billion-AI-Agents"></span>,
+      <a class="cite" href="https://www.hpcwire.com/aiwire/2026/08/04/zenity-raises-125m-series-c-to-expand-ai-agent-security-platform/" target="_blank" rel="noopener">AIwire (HPCwire)</a><span class="link-status" data-url="https://www.hpcwire.com/aiwire/2026/08/04/zenity-raises-125m-series-c-to-expand-ai-agent-security-platform/"></span>,
+      <a class="cite" href="https://www.norwest.com/blog/the-agent-is-the-new-perimeter-why-were-leading-zenitys-series-c/" target="_blank" rel="noopener">Norwest Venture Partners</a><span class="link-status" data-url="https://www.norwest.com/blog/the-agent-is-the-new-perimeter-why-were-leading-zenitys-series-c/"></span>
+    </p>
+  </article>
+
+  <article class="item">
+    <h2>5. Google's Gemini Enterprise push collides with an AI talent exodus</h2>
+    <p>Even as Alphabet CEO Sundar Pichai touts 90% of Fortune 100 companies now using Gemini Enterprise and Google Cloud posts 82% quarterly growth, reporting this week describes a deepening talent exodus among the researchers who built Google's AI stack. Departures cited include Gemini co-lead Noam Shazeer, who left for OpenAI, and Nobel Chemistry laureate John Jumper, who moved to Anthropic, alongside broader unease following Jeff Dean's shift out of day-to-day leadership and Demis Hassabis stepping back from daily DeepMind management. Researchers quoted in the coverage point to frustration that Google Cloud sells scarce TPU compute to rivals like Anthropic even as internal teams compete for the same capacity, plus multiple layers of internal approval that make shipping research into products slower than at leaner competitors. The tension matters for enterprise buyers because Gemini Enterprise's product velocity and reliability depend on the research bench Google is now struggling to retain, even as the commercial product wins large customers. It's a reminder that enterprise AI platform competition is being fought as much over researcher retention as over quarterly adoption numbers.</p>
+    <p class="sources">Sources:
+      <a class="cite" href="https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html" target="_blank" rel="noopener">CNBC</a><span class="link-status" data-url="https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html"></span>,
+      <a class="cite" href="https://www.eweek.com/news/google-ai-talent-losses-gemini/" target="_blank" rel="noopener">eWeek</a><span class="link-status" data-url="https://www.eweek.com/news/google-ai-talent-losses-gemini/"></span>,
+      <a class="cite" href="https://www.breitbart.com/tech/2026/08/06/brain-drain-google-faces-talent-exodus-as-ai-priorities-change/" target="_blank" rel="noopener">Breitbart</a><span class="link-status" data-url="https://www.breitbart.com/tech/2026/08/06/brain-drain-google-faces-talent-exodus-as-ai-priorities-change/"></span>
+    </p>
+  </article>
+
+  <footer class="foot">
+    <p>Scanned roughly 100 candidates across ~20 targeted web searches spanning earnings calls, funding rounds, product launches, layoffs, regulation and adoption research. Firecrawl returned HTTP 402 (out of credits) on every query this run — degraded to web-search-only per this skill's fallback policy. Seven candidates matched already-known knowledge-base entries and were skipped: the EU AI Act's August 2 enforcement deadline, the AI4 2026 Las Vegas conference, enterprise "tokenpocalypse" budget-rationing coverage (including the Uber/Walmart token-cap stories), Alphabet's, Microsoft's, Amazon's and Meta's Q2 2026 earnings, and OpenAI's ChatGPT-for-small-business push.</p>
+    <p>Generated <time datetime="2026-08-07T12:00:00Z">2026-08-07T12:00:00Z</time> ·
+       Knowledge base: <a href="../knowledge-base/using-ai-for-business-productivity.md">Using AI for Business Productivity</a></p>
+  </footer>
+</div>
+
+<script>
+(function(){
+  // Progressive enhancement only: content above is fully readable without this.
+  var TIMEOUT_MS = 8000;
+
+  function makeDot(statusEl){
+    var dot = document.createElement("span");
+    dot.className = "dot checking";
+    dot.title = "Checking link…";
+    statusEl.replaceWith(dot);         // swap the placeholder span for a live dot
+    dot.dataset.url = statusEl.dataset.url;
+    return dot;
+  }
+
+  function setDot(dot, cls, title){ dot.className = "dot " + cls; dot.title = title; }
+
+  function checkOne(dot){
+    var url = dot.dataset.url;
+    setDot(dot, "checking", "Checking link…");
+    var ctrl = new AbortController();
+    var timer = setTimeout(function(){ ctrl.abort(); }, TIMEOUT_MS);
+    // no-cors: we can't read the status (that's the browser security boundary),
+    // but a resolved promise means the host responded; a rejection means the
+    // domain is dead / unreachable / blocked. That's the honest signal we surface.
+    fetch(url, { mode: "no-cors", method: "GET", signal: ctrl.signal, redirect: "follow" })
+      .then(function(){ clearTimeout(timer);
+        setDot(dot, "ok", "Domain responded (exact page not verifiable cross-origin). Click through to confirm."); })
+      .catch(function(err){ clearTimeout(timer);
+        if(err && err.name === "AbortError"){
+          setDot(dot, "warn", "No response within " + (TIMEOUT_MS/1000) + "s — may be slow or blocking checks.");
+        } else {
+          setDot(dot, "bad", "Could not reach this domain (dead, offline, or blocking the check). Click through to confirm.");
+        }
+      });
+  }
+
+  function checkAll(){
+    document.querySelectorAll(".dot[data-url]").forEach(checkOne);
+  }
+
+  // Initial pass: convert placeholder spans into dots and probe each.
+  document.querySelectorAll(".link-status[data-url]").forEach(function(s){ checkOne(makeDot(s)); });
+  var btn = document.getElementById("recheck");
+  if(btn) btn.addEventListener("click", checkAll);
+})();
+</script>

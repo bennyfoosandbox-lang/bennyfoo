@@ -2,10 +2,50 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-08-05
-run_count: 17
-digest_count: 17
+last_run: 2026-08-07
+run_count: 18
+digest_count: 18
 entries:
+  - fingerprint: shopify-q2-2026-earnings-ai-sidekick-agentic-growth
+    title: "Shopify's AI agents triple traffic and orders, driving 34% revenue growth"
+    first_seen: 2026-08-07
+    digest: using-ai-for-business-productivity-2026-Aug-07.html
+    urls:
+      - https://www.retailtouchpoints.com/news/shopify-credits-ai-for-34-revenue-growth-in-q2-2026/620805/
+      - https://theaiinsider.tech/2026/08/06/shopify-reports-ai-search-driving-revenue-growth-and-merchant-traffic-in-q2/
+      - https://finance.yahoo.com/markets/stocks/articles/shopify-q2-2026-earnings-beat-121421648.html
+  - fingerprint: uber-q2-2026-earnings-ai-coding-productivity-doubled
+    title: "Uber says AI coding tools have essentially doubled engineer output"
+    first_seen: 2026-08-07
+    digest: using-ai-for-business-productivity-2026-Aug-07.html
+    urls:
+      - https://www.gurufocus.com/news/9007223/uber-technologies-inc-uber-q2-2026-earnings-call-highlights-record-gross-bookings-and-free-cash-flow-fueled-by-ai-and-autonomous-vehicle-expansion
+      - https://finance.biggo.com/news/US_UBER_2026-08-05
+      - https://finance.yahoo.com/markets/stocks/articles/uber-technologies-inc-q2-2026-215536707.html
+  - fingerprint: happyrobot-150m-series-c-unicorn-enterprise-agents
+    title: "HappyRobot raises $150M, joins the unicorn club building AI agents for supply-chain ops"
+    first_seen: 2026-08-07
+    digest: using-ai-for-business-productivity-2026-Aug-07.html
+    urls:
+      - https://tech.eu/2026/08/04/happyrobot-lands-150m-series-c-to-scale-agentic-ai-for-enterprise-operations/
+      - https://www.businesswire.com/news/home/20260804192350/en/HappyRobot-Raises-$150-Million-Series-C-to-Build-Enterprise-Superintelligence
+      - https://fortune.com/2026/08/04/happyrobot-worth-1-2-billion-founder-says-just-getting-started/
+  - fingerprint: zenity-125m-series-c-ai-agent-security-governance
+    title: "Zenity raises $125M as AI agent security becomes its own category"
+    first_seen: 2026-08-07
+    digest: using-ai-for-business-productivity-2026-Aug-07.html
+    urls:
+      - https://www.businesswire.com/news/home/20260803963850/en/Zenity-Raises-$125-Million-to-Secure-the-Era-of-1-Billion-AI-Agents
+      - https://www.hpcwire.com/aiwire/2026/08/04/zenity-raises-125m-series-c-to-expand-ai-agent-security-platform/
+      - https://www.norwest.com/blog/the-agent-is-the-new-perimeter-why-were-leading-zenitys-series-c/
+  - fingerprint: google-ai-talent-exodus-gemini-enterprise-growth
+    title: "Google's Gemini Enterprise push collides with an AI talent exodus"
+    first_seen: 2026-08-07
+    digest: using-ai-for-business-productivity-2026-Aug-07.html
+    urls:
+      - https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html
+      - https://www.eweek.com/news/google-ai-talent-losses-gemini/
+      - https://www.breitbart.com/tech/2026/08/06/brain-drain-google-faces-talent-exodus-as-ai-priorities-change/
   - fingerprint: alibaba-qwen3-8-max-qwenwork-launch-august-2026
     title: "Alibaba's Qwen3.8-Max undercuts OpenAI and Anthropic on price for enterprise agentic work"
     first_seen: 2026-08-05
@@ -658,6 +698,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-07
+- **Shopify's AI agents triple traffic and orders, driving 34% revenue growth** — Q2 2026 revenue up 34% YoY to $3.58B; Sidekick daily active merchants up 3.6x YoY, ~34M conversations handled; agentic traffic/orders to storefronts each tripled YoY. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-07.html)
+- **Uber says AI coding tools have essentially doubled engineer output** — Q2 2026 earnings call: near-100% engineer adoption of AI coding tools, code output per engineer roughly doubled, gross bookings +22% YoY to $58B+. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-07.html)
+- **HappyRobot raises $150M, joins the unicorn club building AI agents for supply-chain ops** — Series C led by Prysm Capital/Eurazeo values the company at $1.2B; 150+ enterprise customers including DHL, Kuehne + Nagel, Repsol. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-07.html)
+- **Zenity raises $125M as AI agent security becomes its own category** — Series C led by Norwest Venture Partners ($185M total raised); revenue has tripled in each of the past two years. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-07.html)
+- **Google's Gemini Enterprise push collides with an AI talent exodus** — 90% of Fortune 100 use Gemini Enterprise and Google Cloud grew 82%, even as researchers including Noam Shazeer (to OpenAI) and John Jumper (to Anthropic) depart. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-07.html)
 
 ## 2026-Aug-05
 - **Alibaba's Qwen3.8-Max undercuts OpenAI and Anthropic on price for enterprise agentic work** — 2.4T-parameter model + QwenWork enterprise agent platform launched Aug 3; 1M-token context, 16-day autonomous coding run in testing, API priced ~40%/24% of Claude Opus 5's input/output rates. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-05.html)
