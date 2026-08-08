@@ -2,10 +2,36 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-08-07
-run_count: 18
-digest_count: 18
+last_run: 2026-08-08
+run_count: 19
+digest_count: 19
 entries:
+  - fingerprint: agent-plugins-1-0-open-standard-mcp-skills
+    title: "OpenAI, AWS, Microsoft, Cursor and Vercel unify agent extensions under an Agent Plugins 1.0 standard"
+    first_seen: 2026-08-08
+    digest: essential-skill-md-for-productivity-2026-Aug-08.html
+    urls:
+      - https://9to5mac.com/2026/08/06/gpt-5-turning-one-as-openai-shares-new-agent-plugins-standard/
+      - https://aws.amazon.com/blogs/opensource/aws-supports-agent-plugins-an-open-standard-for-portable-agent-extensions/
+      - https://vercel.com/blog/introducing-agent-plugins
+      - https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/
+      - https://aaif.io/blog/from-skills-and-tools-to-portable-agent-plugins
+      - https://github.com/agentplugins/agent-plugins-spec
+  - fingerprint: salesforce-agentic-enterprise-index-2nd-edition-skill-growth
+    title: "Salesforce's Agentic Enterprise Index: skills per agent tripled from 2 to 6 in a year"
+    first_seen: 2026-08-08
+    digest: essential-skill-md-for-productivity-2026-Aug-08.html
+    urls:
+      - https://www.salesforce.com/news/stories/agentic-enterprise-index-insights-2026/
+      - https://www.cio.com/article/4206780/agentic-ai-workforce-is-more-than-doubling-year-on-year-says-salesforce.html
+      - https://futurumgroup.com/insights/salesforces-agentic-enterprise-index-a-paradigm-shift-in-ai-deployment/
+  - fingerprint: field-aware-agent-skill-retrieval-arxiv
+    title: "Field Aware Agent Skill Retrieval shows skills retrieve better when fields aren't flattened"
+    first_seen: 2026-08-08
+    digest: essential-skill-md-for-productivity-2026-Aug-08.html
+    urls:
+      - https://arxiv.org/abs/2608.02880
+      - https://arxiv.org/html/2608.02880
   - fingerprint: cloudflare-os-open-source-agent-workspace-skills
     title: "Cloudflare open-sources Cloudflare OS, an agent workspace built around a shared skills library"
     first_seen: 2026-08-07
@@ -595,6 +621,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Aug-08
+- **Agent Plugins 1.0 open standard** — OpenAI, AWS, Cursor, GitHub, Microsoft and Vercel (Google joining shortly after) publish a vendor-neutral packaging spec bundling an Agent Skill with its MCP server config into one distributable plugin; v1.0.0 is a "working draft" with no portable credential mechanism yet, and notably ships without Anthropic among founding partners. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-08.html)
+- **Salesforce Agentic Enterprise Index, 2nd edition** — real Agentforce usage data (Feb 2025-Apr 2026) shows average skills-per-agent tripling from 2 to 6, activated agents per business nearly tripling (5→13), and time-to-stand-up-an-agent falling 53% to 1.9 days. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-08.html)
+- **Field Aware Agent Skill Retrieval (arXiv 2608.02880)** — UC Riverside/Nokia paper shows keeping a skill's name/description/body as separate fields (rather than flattening into one embedding) measurably improves hybrid retrieval on SkillRet and SRA-Bench. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-08.html)
+
+Note: 19th consecutive daily run. Firecrawl was reachable this run, but ~62 targeted web-search queries already surfaced enough well-corroborated, in-window material, so Firecrawl wasn't needed beyond spot-checks. Kept to 3 items rather than 5: several other candidates (a Claude Enterprise skill/plugin malicious-content scanning beta, a JetBrains CLion debugger skill, a Microsoft 365 Copilot theme-design skill) lacked a confidently pinned announcement date or clear novelty, so they were left out rather than padded in. Item 3 is dated Aug 3 (5 days old), a modest widen past the strict 24h window per the skill's fallback rule.
 
 ## 2026-Aug-07
 - **Cloudflare OS** — open-sourced 5 Aug as the centerpiece of Agents Week 2026; self-hostable agent workspace combining a shared org-wide skills library, zero-trust "Gatekeepers" governance, and modifiable micro-apps; launching with implementation partners Presidio and Happy Cog. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-07.html)
