@@ -2,10 +2,50 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-08-07
-run_count: 18
-digest_count: 18
+last_run: 2026-08-09
+run_count: 19
+digest_count: 19
 entries:
+  - fingerprint: atlassian-fy2026-q4-earnings-rovo-ai-adoption
+    title: "Atlassian's Rovo AI push pays off in a record Q4"
+    first_seen: 2026-08-09
+    digest: using-ai-for-business-productivity-2026-Aug-09.html
+    urls:
+      - https://www.theglobeandmail.com/investing/markets/stocks/TEAM/pressreleases/3727327/atlassian-posts-strong-q4-results-and-ai-momentum/
+      - https://www.investing.com/news/transcripts/earnings-call-transcript-atlassian-tops-q4-2026-estimates-shares-jump-35-93CH-4844647
+      - https://www.stocktitan.net/sec-filings/TEAM/8-k-atlassian-corp-reports-material-event-1b53d1a45da0.html
+  - fingerprint: axon-q2-2026-earnings-ai-era-plan-700pct
+    title: "Axon's AI Era Plan revenue jumps nearly 700%"
+    first_seen: 2026-08-09
+    digest: using-ai-for-business-productivity-2026-Aug-09.html
+    urls:
+      - https://www.prnewswire.com/news-releases/axon-reports-q2-2026-revenue-of-904-million-up-35-year-over-year-302844105.html
+      - https://finance.biggo.com/news/US_AXON_2026-08-05
+      - https://finance.yahoo.com/markets/stocks/articles/axon-enterprise-inc-axon-q2-070033622.html
+  - fingerprint: yellowai-bluerock-spac-merger-enterprise-agentic-ai
+    title: "Yellow.ai to go public in a $550M SPAC merger, betting on pure-play enterprise agentic AI"
+    first_seen: 2026-08-09
+    digest: using-ai-for-business-productivity-2026-Aug-09.html
+    urls:
+      - https://www.prnewswire.com/news-releases/yellowai-a-global-leader-in-enterprise-agentic-ai-to-go-public-via-550-million-merger-with-bluerock-acquisition-corp-nasdaq-blrk-302840634.html
+      - https://finance.yahoo.com/technology/ai/articles/yellow-ai-global-leader-enterprise-123000626.html
+      - https://aithority.com/machine-learning/yellow-ai-a-global-leader-in-enterprise-agentic-ai-to-go-public-via-550-million-merger-with-bluerock-acquisition-corp/
+  - fingerprint: plugandplay-forbes-enterprise-ai-production-roi-gap-2026
+    title: "Plug and Play survey: enterprise AI has crossed into production, not into proof"
+    first_seen: 2026-08-09
+    digest: using-ai-for-business-productivity-2026-Aug-09.html
+    urls:
+      - https://www.forbes.com/sites/sandycarter/2026/08/06/enterprise-ai-roi-production-survey/
+      - https://uk.finance.yahoo.com/news/enterprise-ai-leaders-ship-production-160000397.html
+      - https://www.efficientlyconnected.com/enterprise-ai-roi-measurement-production/
+  - fingerprint: salesforce-agentforce-army-hrc-9-2-million-deployment
+    title: "Salesforce puts Agentforce in front of 9.2 million soldiers, veterans and military families"
+    first_seen: 2026-08-09
+    digest: using-ai-for-business-productivity-2026-Aug-09.html
+    urls:
+      - https://www.salesforce.com/news/press-releases/2026/08/05/us-army-hrc-agentforce-ai-powered-support/
+      - https://www.businesswire.com/news/home/20260805744958/en/U.S.-Army-Human-Resources-Command-Deploys-Agentforce-to-Deliver-247-AI-Powered-Support-to-9.2-Million-Soldiers-Veterans-and-Military-Families
+      - https://www.stocktitan.net/news/CRM/u-s-army-human-resources-command-deploys-agentforce-to-deliver-24-7-wolo7zxvbm0j.html
   - fingerprint: shopify-q2-2026-earnings-ai-sidekick-agentic-growth
     title: "Shopify's AI agents triple traffic and orders, driving 34% revenue growth"
     first_seen: 2026-08-07
@@ -698,6 +738,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-09
+- **Atlassian's Rovo AI push pays off in a record Q4** — FY2026 Q4 revenue up 28% YoY to $1.77B, shares jumped ~35%; Rovo used by 80%+ of the Fortune 500, Rovo-assisted actions up 50% sequentially, adopters growing ARR 2x faster than non-adopters. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-09.html)
+- **Axon's AI Era Plan revenue jumps nearly 700%** — Q2 2026 revenue hit a record $904M (+35% YoY); AI Era Plan software revenue up ~700% YoY, ARR up 39% to $1.6B, FY26 growth guidance raised to 32-34%. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-09.html)
+- **Yellow.ai to go public in a $550M SPAC merger, betting on pure-play enterprise agentic AI** — merger with Bluerock Acquisition Corp. (Nasdaq: YAI); 650+ enterprise clients, $34M+ unaudited revenue, multi-LLM architecture trained on 16B+ conversations/year. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-09.html)
+- **Plug and Play survey: enterprise AI has crossed into production, not into proof** — 74% of the world's largest companies run AI in production, but half can't prove it delivers value; data foundations (71%) and governance friction (53%) are the top barriers. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-09.html)
+- **Salesforce puts Agentforce in front of 9.2 million soldiers, veterans and military families** — U.S. Army HRC deploys Agentforce via Missionforce National Security inside Salesforce's IL5-authorized cloud for 24/7 AI-powered support, humans retain authority over sensitive decisions. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-09.html)
 
 ## 2026-Aug-07
 - **Shopify's AI agents triple traffic and orders, driving 34% revenue growth** — Q2 2026 revenue up 34% YoY to $3.58B; Sidekick daily active merchants up 3.6x YoY, ~34M conversations handled; agentic traffic/orders to storefronts each tripled YoY. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-07.html)
