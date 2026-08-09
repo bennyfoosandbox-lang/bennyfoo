@@ -2,10 +2,53 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-08-07
-run_count: 9
-digest_count: 9
+last_run: 2026-08-09
+run_count: 10
+digest_count: 10
 entries:
+  - fingerprint: nyc-doe-ai-purchase-pause-moratorium-rally-aug2026
+    title: "NYC's fight over an AI moratorium in public schools escalates as the chancellor freezes new tech purchases"
+    first_seen: 2026-08-09
+    digest: ai-impact-on-education-2026-Aug-09.html
+    urls:
+      - https://www.chalkbeat.org/newyork/2026/07/08/kamar-samuels-requests-pause-on-software-purchases-amid-ai-backlash/
+      - https://gothamist.com/news/all-education-tech-purchases-on-pause-as-nyc-schools-wrestle-with-ai
+      - https://www.csmonitor.com/USA/Education/2026/0807/ai-risks-schools-students
+      - https://classsizematters.org/for-immediate-release-parents-teachers-students-and-advocates-rally-at-city-hall-for-a-moratorium-on-ai-in-nyc-schools/
+      - https://www.k12dive.com/news/nyc-schools-face-public-pressure-to-pause-ai-use-for-2-years/822673/
+  - fingerprint: fairfax-county-elementary-generative-ai-ban-device-restrictions
+    title: "Fairfax County bans generative AI for elementary students and pulls devices from pre-K and kindergarten"
+    first_seen: 2026-08-09
+    digest: ai-impact-on-education-2026-Aug-09.html
+    urls:
+      - https://www.ffxnow.com/2026/07/23/fairfax-county-school-board-approves-restrictions-on-generative-ai-digital-devices/
+      - https://patch.com/virginia/mclean/fairfax-school-board-bans-devices-youngest-students-advances-broader-tech
+      - https://annandaletoday.com/school-board-limits-the-use-of-technology-in-the-classroom/
+  - fingerprint: hr8747-k12-ai-literacy-readiness-act-committee-passage
+    title: "A federal K-12 AI literacy bill clears its first hurdle in the House"
+    first_seen: 2026-08-09
+    digest: ai-impact-on-education-2026-Aug-09.html
+    urls:
+      - https://www.congress.gov/bill/119th-congress/house-bill/8747/text/ih
+      - https://fine.house.gov/news/documentsingle.aspx?DocumentID=209
+      - https://news.bgov.com/bloomberg-government-news/ai-literacy-standards-legislation-advanced-by-house-committees
+      - https://legis1.com/news/house-education-bills-title-ix-ai-panel-advances
+  - fingerprint: kogod-american-university-three-year-ai-student-research-2026
+    title: "Three years of survey data: AI skills go from résumé boost to baseline job requirement"
+    first_seen: 2026-08-09
+    digest: ai-impact-on-education-2026-Aug-09.html
+    urls:
+      - https://kogod.american.edu/news/new-kogod-student-research-shows-ai-skills-have-become-a-workplace-expectation-not-a-differentiator
+      - https://www.axios.com/2026/08/04/college-ai-use-kogod-american-university
+      - https://poetsandquants.com/2026/08/04/ai-skills-arent-a-bonus-anymore-new-data-shows-theyre-the-price-of-entry/?pq-category=ai
+      - https://thenextweb.com/news/college-ai-use-spikes-kogod-survey-students
+  - fingerprint: manassas-school-board-ai-code-conduct-detector-skepticism
+    title: "A Virginia school board strips AI-specific language from its code of conduct, distrusting the detectors that would enforce it"
+    first_seen: 2026-08-09
+    digest: ai-impact-on-education-2026-Aug-09.html
+    urls:
+      - https://www.potomaclocal.com/2026/07/30/no-chatgpt-ban-manassas-school-board-ditches-ai-rules-after-detection-fight/
+      - https://www.potomaclocal.com/2026/07/15/manassas-board-member-demands-expensive-ai-software-before-banning-chatgpt-plagiarism/
   - fingerprint: ai-detectors-banned-assessment-redesign-wave-aug2026
     title: "60+ universities abandon AI detectors for redesigned assessments"
     first_seen: 2026-08-07
@@ -324,6 +367,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-09
+- **NYC's fight over an AI moratorium in public schools escalates as the chancellor freezes new tech purchases** — Chancellor Kamar Samuels asked principals to pause AI/edtech purchases pending final guidance, following a July 29 City Hall rally where parents, teachers, students and half the City Council called for a two-year moratorium across the 1.1M-student system. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-09.html)
+- **Fairfax County bans generative AI for elementary students and pulls devices from pre-K and kindergarten** — Virginia's largest district approved sweeping restrictions July 23: no generative AI for elementary students, written authorization required for secondary students, and no district-issued devices for pre-K/K starting 2026-27. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-09.html)
+- **A federal K-12 AI literacy bill clears its first hurdle in the House** — Rep. Randy Fine's K-12 AI Literacy and Readiness Act (H.R. 8747) passed the House Education and Workforce Committee, the first federal legislation on classroom AI literacy to advance past committee. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-09.html)
+- **Three years of survey data: AI skills go from résumé boost to baseline job requirement** — American University's Kogod School of Business finds employer AI-skill interview questions jumped from 11.6% to 42.6% of students in two years, alongside rising career-anxiety and calls for clearer ethics guidance. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-09.html)
+- **A Virginia school board strips AI-specific language from its code of conduct, distrusting the detectors that would enforce it** — Manassas City School Board voted 6-1 to drop explicit AI-cheating language after a board member cited a ~50% AI-detector error rate. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-09.html)
 
 ## 2026-Aug-07
 - **60+ universities abandon AI detectors for redesigned assessments** — MIT, Yale, Georgetown, Vanderbilt, Northwestern, Johns Hopkins, Waterloo, UC Berkeley and others across five countries have banned or disabled AI-detection tools as unreliable, shifting instead to oral defenses, in-class writing and process-based grading. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-07.html)
