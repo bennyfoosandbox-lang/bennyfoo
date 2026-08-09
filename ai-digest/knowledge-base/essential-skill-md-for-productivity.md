@@ -2,10 +2,36 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-08-08
-run_count: 19
-digest_count: 19
+last_run: 2026-08-09
+run_count: 20
+digest_count: 20
 entries:
+  - fingerprint: zenity-skills-sh-paperclip-credential-theft-1-7m-installs
+    title: "Zenity Labs uncovers a 1.7M-install credential-theft campaign hiding in trojanized skills.sh listings"
+    first_seen: 2026-08-09
+    digest: essential-skill-md-for-productivity-2026-Aug-09.html
+    urls:
+      - https://www.businesswire.com/news/home/20260806707467/en/Zenity-Labs-Uncovers-1.7-Million-Install-Malicious-Skills-Campaign-and-Dozens-of-Malicious-AI-Agent-Skills
+      - https://www.techradar.com/pro/security/experts-warn-malicious-ai-skills-are-hitting-more-victims-than-ever-with-one-family-amassing-1-7-million-downloads
+      - https://www.csoonline.com/article/4206851/trojanized-ai-skills-gain-1-7m-installs-in-agent-targeted-attack.html
+      - https://thenextweb.com/news/zenity-malicious-ai-skills-1-7m-installs-supply-chain-credential-theft
+      - https://vmblog.com/news/zenity-labs-uncovers-1-7-million-install-malicious-skills-campaign-and-dozens-of-malicious-ai-agent-skills/
+  - fingerprint: claude-code-skill-plugin-security-scanning-beta-v2-1-226
+    title: "Claude Code v2.1.226 ships beta skill-and-plugin security scanning with pass/warn/fail verdicts"
+    first_seen: 2026-08-09
+    digest: essential-skill-md-for-productivity-2026-Aug-09.html
+    urls:
+      - https://support.claude.com/en/articles/15927065-get-started-with-skill-and-plugin-scanning
+      - https://support.claude.com/en/articles/12512180-use-skills-in-claude
+      - https://releasebot.io/updates/anthropic/claude-code
+      - https://www.havoptic.com/tools/claude-code
+  - fingerprint: ponytail-benchmark-correction-82k-stars
+    title: "Ponytail's maintainer corrects its own headline benchmark to match independent tests, passes 82K stars"
+    first_seen: 2026-08-09
+    digest: essential-skill-md-for-productivity-2026-Aug-09.html
+    urls:
+      - https://www.infoq.com/news/2026/08/ponytail-agent-skill-benchmark/
+      - https://github.com/DietrichGebert/ponytail
   - fingerprint: agent-plugins-1-0-open-standard-mcp-skills
     title: "OpenAI, AWS, Microsoft, Cursor and Vercel unify agent extensions under an Agent Plugins 1.0 standard"
     first_seen: 2026-08-08
@@ -621,6 +647,11 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Aug-09
+- **Zenity Labs: 1.7M-install credential-theft campaign on skills.sh** — trojanized "Paperclip" skill family cloned legitimate skills, built up installs while clean, then weaponized to exfiltrate SSH keys, cloud/K8s/Docker credentials, and secrets; Vercel and Microsoft removed listings within ~12 hours of disclosure. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-09.html)
+- **Claude Code v2.1.226: beta skill & plugin security scanning** — Enterprise-only pass/warn/fail scan runs automatically on every third-party skill/plugin upload or edit, ~1-2 minutes; distinct from the Aug 7 inference-hooks DLP feature. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-09.html)
+- **Ponytail corrects its own benchmark, passes 82K stars** — maintainer rebuilt the headline "80-94% less code" claim as a real agentic benchmark after a contributor challenge, landing on ~54% average (matching independent tests this digest cited on Aug 1); star count grew 74K→82K in the same week. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-09.html)
 
 ## 2026-Aug-08
 - **Agent Plugins 1.0 open standard** — OpenAI, AWS, Cursor, GitHub, Microsoft and Vercel (Google joining shortly after) publish a vendor-neutral packaging spec bundling an Agent Skill with its MCP server config into one distributable plugin; v1.0.0 is a "working draft" with no portable credential mechanism yet, and notably ships without Anthropic among founding partners. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-08.html)
