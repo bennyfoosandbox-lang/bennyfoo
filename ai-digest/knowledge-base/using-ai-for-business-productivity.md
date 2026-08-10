@@ -2,10 +2,50 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-08-09
-run_count: 19
-digest_count: 19
+last_run: 2026-08-10
+run_count: 20
+digest_count: 20
 entries:
+  - fingerprint: cloudflare-q2-2026-earnings-majority-nonhuman-traffic
+    title: "Cloudflare's network crosses a milestone: more of its traffic is now AI agents than humans"
+    first_seen: 2026-08-10
+    digest: using-ai-for-business-productivity-2026-Aug-10.html
+    urls:
+      - https://www.investing.com/news/transcripts/earnings-call-transcript-cloudflare-tops-estimates-in-q2-2026-shares-jump-17-93CH-4844728
+      - https://finance.yahoo.com/technology/ai/articles/cloudflare-inc-net-q2-2026-050349210.html
+      - https://qz.com/cloudflare-earnings-ai-demand-full-year-forecast-080726
+  - fingerprint: sap-agent-sprawl-board-level-governance-gartner-150k
+    title: "SAP: AI agent sprawl has become a board-level risk, not just an IT problem"
+    first_seen: 2026-08-10
+    digest: using-ai-for-business-productivity-2026-Aug-10.html
+    urls:
+      - https://news.sap.com/2026/08/agent-sprawl-why-ai-governance-is-now-board-level-issue/
+      - https://simplywall.st/stocks/de/software/etr-sap/sap-shares/news/sap-xtrasap-launches-ai-agent-hub-as-enterprises-push-ai-ove
+      - https://finance.yahoo.com/technology/ai/articles/sap-xtra-sap-launches-ai-121416189.html
+  - fingerprint: genpact-q2-2026-earnings-agentic-operations-tcv
+    title: "Genpact's bet on \"Agentic Operations\" pays off: $1B+ in AI contract value, five times last year's pace"
+    first_seen: 2026-08-10
+    digest: using-ai-for-business-productivity-2026-Aug-10.html
+    urls:
+      - https://media.genpact.com/2026-08-06-Genpact-Reports-Second-Quarter-2026-Results
+      - https://www.investing.com/news/company-news/genpact-q2-2026-slides-agentic-operations-push-drives-24-ats-growth-93CH-4844885
+      - https://www.gurufocus.com/news/9015190/genpact-ltd-g-q2-2026-earnings-call-highlights-advanced-tech-surges-24-as-strategic-pivot-reshapes-growth-trajectory
+  - fingerprint: airbnb-q2-2026-earnings-ai-support-cost-reduction
+    title: "Airbnb says AI is cutting its support costs — and its CEO wants to spend a lot more on it"
+    first_seen: 2026-08-10
+    digest: using-ai-for-business-productivity-2026-Aug-10.html
+    urls:
+      - https://www.cnbc.com/2026/08/07/chesky-airbnb-ai-earnings.html
+      - https://www.customerexperiencedive.com/news/airbnb-reaches-another-service-milestone-with-its-ai-assistant/827358/
+      - https://finance.biggo.com/news/US_ABNB_2026-08-06
+  - fingerprint: epam-q2-2026-earnings-ai-native-revenue-agentic-harness
+    title: "EPAM's AI-native revenue keeps compounding as it rebuilds delivery around \"agentic harnesses\""
+    first_seen: 2026-08-10
+    digest: using-ai-for-business-productivity-2026-Aug-10.html
+    urls:
+      - https://www.fool.com/earnings/call-transcripts/2026/08/06/epam-epam-q2-2026-earnings-call-transcript/
+      - https://uk.finance.yahoo.com/news/epam-systems-inc-epam-q2-190356007.html
+      - https://stockstory.org/us/stocks/nyse/epam/news/earnings-call/epam-q2-deep-dive-north-american-growth-lags-as-ai-services-expand
   - fingerprint: atlassian-fy2026-q4-earnings-rovo-ai-adoption
     title: "Atlassian's Rovo AI push pays off in a record Q4"
     first_seen: 2026-08-09
@@ -738,6 +778,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-10
+- **Cloudflare's network crosses a milestone: more of its traffic is now AI agents than humans** — Q2 2026 revenue up 36% YoY to $696.1M; for the first time, more than half of network traffic was non-human (AI crawlers/agents/bots), full-year guidance raised to $2.864–$2.870B. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-10.html)
+- **SAP: AI agent sprawl has become a board-level risk, not just an IT problem** — Gartner forecasts 150,000+ AI agents per Fortune 500 enterprise by 2028; SAP LeanIX survey finds 98% have deployed agents but under half have an inventory of them; SAP's AI Agent Hub positioned as the governance fix. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-10.html)
+- **Genpact's bet on "Agentic Operations" pays off: $1B+ in AI contract value, five times last year's pace** — Q2 2026 revenue up 7.1% to $1.343B, Advanced Technology Solutions segment up 24.1% to 27% of revenue, full-year ATS guidance raised to 25%+. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-10.html)
+- **Airbnb says AI is cutting its support costs — and its CEO wants to spend a lot more on it** — Q2 2026 revenue up 17% to $3.61B; support cost per booking down ~16% YoY as AI resolves ~45% of issues unassisted; H1 2026 feature-ship rate up ~80% YoY. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-10.html)
+- **EPAM's AI-native revenue keeps compounding as it rebuilds delivery around "agentic harnesses"** — Q2 2026 AI-native revenue over $160M (11%+ of business), sixth straight quarter of double-digit sequential growth, full-year target ~$600M; named Databricks' 2026 AI Partner of the Year. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-10.html)
 
 ## 2026-Aug-09
 - **Atlassian's Rovo AI push pays off in a record Q4** — FY2026 Q4 revenue up 28% YoY to $1.77B, shares jumped ~35%; Rovo used by 80%+ of the Fortune 500, Rovo-assisted actions up 50% sequentially, adopters growing ARR 2x faster than non-adopters. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-09.html)
