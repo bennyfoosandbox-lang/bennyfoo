@@ -2,10 +2,51 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-08-09
-run_count: 10
-digest_count: 10
+last_run: 2026-08-11
+run_count: 11
+digest_count: 11
 entries:
+  - fingerprint: world-bank-wdr2026-ai-developing-countries-education
+    title: "The World Bank's 2026 development report says AI could transform education in poor countries — after infrastructure gaps close"
+    first_seen: 2026-08-11
+    digest: ai-impact-on-education-2026-Aug-11.html
+    urls:
+      - https://www.worldbank.org/en/news/press-release/2026/08/04/ai-offers-lifeline-to-developing-economies-in-an-era-of-weak-growth
+      - https://www.winssolutions.org/world-bank-ai-education-developing-countries/
+      - https://chinaglobalsouth.com/analysis/world-bank-ai-developing-countries-ai-report/
+  - fingerprint: florida-board-education-ai-internet-safety-rule-6a-1-0957
+    title: "Florida moves to force every school district to write AI into its internet-safety policy"
+    first_seen: 2026-08-11
+    digest: ai-impact-on-education-2026-Aug-11.html
+    urls:
+      - https://www.thecentersquare.com/florida/article_34f48483-4a61-4940-be1f-34d067fbedd5.html
+      - https://www.cbsnews.com/miami/news/floridas-department-of-education-school-districts-ai-rules/
+      - https://www.siia.net/siia-urges-florida-to-narrow-proposed-ai-rule-for-k-12-classrooms/
+      - https://www.wokv.com/news/local/florida-could-require-schools-set-rules-ai-use/RL6PJROT3JHHJIFYCBHGVE4KII/
+  - fingerprint: law-schools-ai-policy-crackdown-columbia-uchicago-fall2026
+    title: "Law schools draw sharper lines on AI ahead of fall: Columbia allows it with guardrails, Chicago bans devices outright"
+    first_seen: 2026-08-11
+    digest: ai-impact-on-education-2026-Aug-11.html
+    urls:
+      - https://www.law.com/newyorklawjournal/2026/08/07/columbia-laws-new-ai-policy-balances-ai-fluency-with-critical-thinking-skills/
+      - https://www.abajournal.com/news/article/columbia-law-school-updates-ai-policy-with-new-restrictions
+      - https://www.law.columbia.edu/news/archive/2026-2027-academic-policy-student-use-ai
+      - https://www.jurist.org/commentary/2026/07/law-school-ai-bans-teach-exactly-the-wrong-lesson/
+  - fingerprint: nea-aft-dei-ai-policy-push-backlash-aug10
+    title: "The AFT/NEA-vs-DEI-in-AI fight escalates: unions circulate model policy language, conservative outlets pile on"
+    first_seen: 2026-08-11
+    digest: ai-impact-on-education-2026-Aug-11.html
+    urls:
+      - https://yournews.com/2026/08/10/7148944/teachers-unions-push-for-dei-standards-in-k-12-artificial-intelligence/
+      - https://justthenews.com/politics-policy/education/teacher-unions-want-dei-programmed-artificial-intelligence-watchdog
+      - https://www.dailywire.com/news/teachers-unions-push-for-ai-tools-to-integrate-dei-in-schools
+      - https://www.libertynation.com/are-teachers-unions-sneaking-dei-into-classroom-ai/
+  - fingerprint: salinas-union-hsd-monterey-ai-policy-vote-aug11
+    title: "A Central California district (Salinas Union HSD) votes on formally welcoming AI into its classrooms"
+    first_seen: 2026-08-11
+    digest: ai-impact-on-education-2026-Aug-11.html
+    urls:
+      - https://www.montereycountynow.com/news/local_news/monterey-county-school-districts-to-roll-out-ai-policies-for-the-upcoming-school-year/article_b4b3bc77-c854-482c-a373-f906e532ab26.html
   - fingerprint: nyc-doe-ai-purchase-pause-moratorium-rally-aug2026
     title: "NYC's fight over an AI moratorium in public schools escalates as the chancellor freezes new tech purchases"
     first_seen: 2026-08-09
@@ -367,6 +408,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-11
+- **The World Bank's 2026 development report says AI could transform education in poor countries — after infrastructure gaps close** — the WDR 2026 argues AI could help developing nations leapfrog education and public-service gaps, but nearly a third of rural Sub-Saharan African schools still lack reliable electricity and two-thirds lack dependable internet. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-11.html)
+- **Florida moves to force every school district to write AI into its internet-safety policy** — a proposed amendment to Rule 6A-1.0957 would require all ~4,000 Florida public and charter schools to adopt AI safety rules by January 1, 2027, with a live fight over parental opt-in vs. opt-out. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-11.html)
+- **Law schools draw sharper lines on AI ahead of fall: Columbia allows it with guardrails, Chicago bans devices outright** — Columbia Law's new policy (effective Aug 1) permits AI for research but bars it from written analysis and exams, while UChicago Law bans laptops/tablets/phones for 1Ls to protect the Socratic method. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-11.html)
+- **The AFT/NEA-vs-DEI-in-AI fight escalates: unions circulate model policy language, conservative outlets pile on** — a week after the Defending Education report, the NEA's sample school-board policy requiring DEI safeguards in AI vendor tools drew a wider round of conservative coverage on August 10. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-11.html)
+- **A Central California district (Salinas Union HSD) votes on formally welcoming AI into its classrooms** — the district's board was scheduled to vote August 11 on an AI-use policy for 2026-27, one of several Monterey County districts finalizing rules alongside Pacific Grove Unified. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-11.html)
 
 ## 2026-Aug-09
 - **NYC's fight over an AI moratorium in public schools escalates as the chancellor freezes new tech purchases** — Chancellor Kamar Samuels asked principals to pause AI/edtech purchases pending final guidance, following a July 29 City Hall rally where parents, teachers, students and half the City Council called for a two-year moratorium across the 1.1M-student system. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-09.html)
