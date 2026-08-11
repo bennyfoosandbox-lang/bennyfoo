@@ -2,10 +2,46 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-08-09
-run_count: 20
-digest_count: 20
+last_run: 2026-08-11
+run_count: 21
+digest_count: 21
 entries:
+  - fingerprint: google-gemini-gems-retirement-skills-migration
+    title: "Google reportedly preparing a paid Skills replacement for free Gemini Gems, October 20 cutoff"
+    first_seen: 2026-08-11
+    digest: essential-skill-md-for-productivity-2026-Aug-11.html
+    urls:
+      - https://www.testingcatalog.com/google-may-retire-gems-in-october-forcing-migration-to-skills/
+      - https://www.androidauthority.com/google-retire-gemini-gems-leak-3696240/
+  - fingerprint: continualskillbench-explicit-skill-limited-benefit
+    title: "ContinualSkillBench finds explicit skill libraries barely beat plain in-context learning"
+    first_seen: 2026-08-11
+    digest: essential-skill-md-for-productivity-2026-Aug-11.html
+    urls:
+      - https://arxiv.org/abs/2608.03874
+      - https://huggingface.co/papers/2608.03874
+      - https://aiweekly.co/alerts/continualskillbench-llm-skill-libraries-mostly-match-prompts
+  - fingerprint: skillclone-behavioral-skill-reconstruction-ip-theft
+    title: "SkillClone shows a proprietary skill's behavior can be cloned via black-box interaction alone"
+    first_seen: 2026-08-11
+    digest: essential-skill-md-for-productivity-2026-Aug-11.html
+    urls:
+      - https://arxiv.org/abs/2608.04192
+      - https://arxiv.org/html/2608.04192
+  - fingerprint: antiskillbench-persona-skill-privacy-leakage
+    title: "AntiSkillBench: persona skills leak private details of the person they were distilled from"
+    first_seen: 2026-08-11
+    digest: essential-skill-md-for-productivity-2026-Aug-11.html
+    urls:
+      - https://arxiv.org/abs/2608.03700
+      - https://arxiv.org/html/2608.03700v1
+  - fingerprint: self-evolving-skill-feedback-dynamics-sparse-search
+    title: "Multi-round study finds self-evolving skills behave like sparse search, not steady improvement"
+    first_seen: 2026-08-11
+    digest: essential-skill-md-for-productivity-2026-Aug-11.html
+    urls:
+      - https://arxiv.org/abs/2608.02636
+      - https://arxiv.org/html/2608.02636
   - fingerprint: zenity-skills-sh-paperclip-credential-theft-1-7m-installs
     title: "Zenity Labs uncovers a 1.7M-install credential-theft campaign hiding in trojanized skills.sh listings"
     first_seen: 2026-08-09
@@ -647,6 +683,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Aug-11
+- **Google reportedly preparing to retire free Gemini Gems, force migration to paid Skills** — TestingCatalog found an unreleased in-app notice pointing to an October 20 cutoff with no automated migration path; Skills require a paid Google AI Pro/Ultra subscription and are region-limited, while Gems are free and universal. Not yet confirmed by Google. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-11.html)
+- **ContinualSkillBench: explicit skill libraries barely beat plain in-context learning** — new benchmark across five domains/100 subtasks finds agents that just carry forward conversational context perform comparably to agents with persistent skill libraries, on average; skills still win selectively on precise/repeatable tasks. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-11.html)
+- **SkillClone: a proprietary skill's behavior can be cloned via black-box interaction alone** — Behavioral Skill Reconstruction attack rebuilds a hidden skill's functionality from valid task requests and observed responses only, no file access needed; tested against 30 real skills. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-11.html)
+- **AntiSkillBench: persona skills leak the person they were distilled from** — new benchmark (7,500 dialogue traces, 50 profiles) finds privacy leakage and impersonation risk persist across all tested skill-distillation strategies and agent backbones; all four candidate defenses show only limited effectiveness. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-11.html)
+- **Multi-round study: self-evolving skills are sparse search, not steady improvement** — controlled study across five benchmarks/three models finds validation and downstream (robustness/transfer) results often favor different feedback views, with no consistently-winning strategy; complements Microsoft's SkillOpt (Jul 26). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-11.html)
 
 ## 2026-Aug-09
 - **Zenity Labs: 1.7M-install credential-theft campaign on skills.sh** — trojanized "Paperclip" skill family cloned legitimate skills, built up installs while clean, then weaponized to exfiltrate SSH keys, cloud/K8s/Docker credentials, and secrets; Vercel and Microsoft removed listings within ~12 hours of disclosure. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-09.html)
