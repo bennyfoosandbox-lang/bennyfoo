@@ -2,10 +2,54 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-08-10
-run_count: 20
-digest_count: 20
+last_run: 2026-08-11
+run_count: 21
+digest_count: 21
 entries:
+  - fingerprint: microsoft-copilot-autopilot-scout-paid-agent-tier-app-merge
+    title: "Microsoft folds Copilot into one app and adds a paid \"always-on\" agent tier"
+    first_seen: 2026-08-11
+    digest: using-ai-for-business-productivity-2026-Aug-11.html
+    urls:
+      - https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/
+      - https://gcn.com/microsoft-copilot-merges-into-one-unified/20629/
+      - https://mlq.ai/news/microsoft-merges-consumer-and-enterprise-copilot-into-single-app-launches-paid-autopilot-agents/
+      - https://www.techtimes.com/articles/319706/20260704/microsoft-copilot-merges-one-app-august-feature-cuts-reveal-paid-adoption-crisis.htm
+  - fingerprint: ai-agent-security-funding-surge-obsidian-oligo-varonis-august-2026
+    title: "Three AI-agent security vendors raise or ship in the same week"
+    first_seen: 2026-08-11
+    digest: using-ai-for-business-productivity-2026-Aug-11.html
+    urls:
+      - https://siliconangle.com/2026/08/04/obsidian-security-raises-85m-ai-agents-create-cybersecuritys-next-major-attack-surface/
+      - https://www.axios.com/pro/enterprise-software-deals/2026/08/04/obsidian-security-agents-crescent-cove
+      - https://siliconangle.com/2026/08/04/oligo-security-raises-60m-ai-speeds-exploit-development/
+      - https://www.securityweek.com/oligo-raises-60-million-for-runtime-security/
+      - https://www.globenewswire.com/news-release/2026/08/03/3337561/33473/en/Varonis-Introduces-Agent-Intent-Based-Access-Control.html
+      - https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/
+  - fingerprint: google-gemini-spark-chrome-auto-browse-us-rollout
+    title: "Gemini Spark starts operating Chrome directly to run errands for users"
+    first_seen: 2026-08-11
+    digest: using-ai-for-business-productivity-2026-Aug-11.html
+    urls:
+      - https://dataconomy.com/2026/08/04/google-chrome-browsing-gemini-spark-us-rollout/
+      - https://9to5google.com/2026/07/30/gemini-spark-chrome-auto-browse/
+      - https://www.digitaltrends.com/computing/gemini-spark-can-now-use-your-chrome-logins-and-saved-passwords-run-errands-on-your-behalf/
+      - https://www.itechpost.com/articles/236915/20260803/googles-gemini-spark-chrome-can-now-browse-web-using-agentic-ai-features-it-safe.htm
+  - fingerprint: upwork-mcp-server-ai-agents-hire-freelancers
+    title: "Upwork lets AI agents post jobs and hire freelancers on their own"
+    first_seen: 2026-08-11
+    digest: using-ai-for-business-productivity-2026-Aug-11.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/08/10/3342153/0/en/upwork-talent-is-now-everywhere-ai-works.html
+      - https://www.quiverquant.com/news/Upwork+Launches+MCP+Server+to+Connect+AI+Tools+Directly+to+Its+Marketplace
+  - fingerprint: trustscale-argus-ai-hallucination-detection-launch
+    title: "A startup ships a \"lie detector\" for AI-generated work"
+    first_seen: 2026-08-11
+    digest: using-ai-for-business-productivity-2026-Aug-11.html
+    urls:
+      - https://www.morningstar.com/news/accesswire/1198968msn/trustscale-launches-argus-to-detect-and-correct-ai-hallucinations-and-power-safe-enterprise-ai-adoption
+      - https://securitybrief.asia/story/trustscale-launches-argus-to-tackle-ai-hallucinations
+      - https://www.webnewswire.com/2026/08/06/trustscale-launches-argus-to-detect-and-correct-ai-hallucinations-and-power-safe-enterprise-ai-adoption/
   - fingerprint: cloudflare-q2-2026-earnings-majority-nonhuman-traffic
     title: "Cloudflare's network crosses a milestone: more of its traffic is now AI agents than humans"
     first_seen: 2026-08-10
@@ -916,3 +960,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **86% of enterprises have deployed AI agents — only 34% trust what they do** — Boomi/Forrester study ties the trust gap to governance, not model quality; governed orgs see far higher productivity payoff. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-23.html)
 - **Barclays: broad AI productivity gains still aren't showing up** — only 14% daily AI use in Q2 2026; economy-wide productivity gains estimated at just 0.1%-0.3%/year, updating Barclays' Jul-21 "J-curve" framing. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-23.html)
 - **Gallup: organizational AI adoption just had its sharpest jump yet — profits haven't followed** — org adoption hit 47% (from 41%), but most firms still report no real profit/productivity gains. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Jul-23.html)
+
+## 2026-Aug-11
+- **Microsoft folds Copilot into one app and adds a paid "always-on" agent tier** — Autopilot/Scout confirmed on the July 29 earnings call, targeting an August 2026 launch; background agent tasks priced separately from base Copilot seats. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-11.html)
+- **Three AI-agent security vendors raise or ship in the same week** — Obsidian Security ($85M Series D), Oligo Security ($60M) and Varonis's new Agent Intent-Based Access Control all landed within days of each other, chasing "agent sprawl" as a funding thesis. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-11.html)
+- **Gemini Spark starts operating Chrome directly to run errands for users** — US Pro/Ultra rollout (Aug 3) lets the agent use logged-in accounts and saved passwords for multi-step tasks, stopping short of completing payments unsupervised. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-11.html)
+- **Upwork lets AI agents post jobs and hire freelancers on their own** — new MCP server (Aug 10) turns a plain-language request into a job post, freelancer shortlist and drafted offer, no human required. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-11.html)
+- **A startup ships a "lie detector" for AI-generated work** — TrustScale's Argus checks AI output against source evidence before it's published; vendor-claimed accuracy gains, not yet independently verified. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-11.html)
