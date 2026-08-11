@@ -3,9 +3,41 @@ topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
 last_run: 2026-08-11
-run_count: 11
+run_count: 12
 digest_count: 11
 entries:
+  - fingerprint: charleston-county-sd-ai-policy-back-to-school-aug11
+    title: "Charleston County's AI policy goes live as students head back to class"
+    first_seen: 2026-08-11
+    digest: ai-impact-on-education-2026-Aug-11.html
+    urls:
+      - https://www.live5news.com/2026/08/11/students-return-school-ai-takes-seat-charleston-county-classrooms/
+      - https://abcnews4.com/news/local/preparing-students-for-an-ai-driven-future-ccsd-arms-teachers-classroom-with-ai-policy-class-student-teacher-learn-ethical-responsibility-what-is-the-right-thing-to-do-decision-news-charleston-south-carolina
+  - fingerprint: california-ai-bills-suspense-vote-aug13-education
+    title: "California's ~30 pending AI bills, including a classroom AI-literacy mandate, hit a do-or-die vote Thursday"
+    first_seen: 2026-08-11
+    digest: ai-impact-on-education-2026-Aug-11.html
+    urls:
+      - https://edsource.org/2026/california-education-bills-to-watch/763468
+      - https://www.transparencycoalition.ai/news/ai-legislative-update-august7-2026
+      - https://www.techtimes.com/articles/322386/20260731/california-ai-bills-face-kill-survive-vote-monday-eu-fines-start.htm
+  - fingerprint: eab-ai-college-search-survey-students-parents-aug2026
+    title: "AI has quietly become a college-search tool — for parents even more than for teens"
+    first_seen: 2026-08-11
+    digest: ai-impact-on-education-2026-Aug-11.html
+    urls:
+      - https://eab.com/about/newsroom/press/ai-in-college-search-survey/
+      - https://www.edweek.org/teaching-learning/ai-gains-ground-as-a-college-search-tool-for-parents/2026/08
+      - https://www.higheredjobs.com/articles/articleDisplay.cfm?ID=4617
+  - fingerprint: ai-deepfake-cyberbullying-schools-trend-aug2026
+    title: "Deepfake cyberbullying is 'supercharging' — and schools are rewriting policy to catch up"
+    first_seen: 2026-08-11
+    digest: ai-impact-on-education-2026-Aug-11.html
+    urls:
+      - https://www.edweek.org/technology/deepfakes-are-supercharging-cyberbullying-how-should-schools-respond/2026/08
+      - https://www.pbs.org/newshour/education/ap-report-rise-of-deepfake-cyberbullying-poses-a-growing-problem-for-schools
+      - https://www.nea.org/nea-today/all-news-articles/ai-deepfakes-disturbing-trend-school-cyberbullying
+      - https://www.rand.org/pubs/research_reports/RRA3930-5.html
   - fingerprint: world-bank-wdr2026-ai-developing-countries-education
     title: "The World Bank's 2026 development report says AI could transform education in poor countries — after infrastructure gaps close"
     first_seen: 2026-08-11
@@ -415,6 +447,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Law schools draw sharper lines on AI ahead of fall: Columbia allows it with guardrails, Chicago bans devices outright** — Columbia Law's new policy (effective Aug 1) permits AI for research but bars it from written analysis and exams, while UChicago Law bans laptops/tablets/phones for 1Ls to protect the Socratic method. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-11.html)
 - **The AFT/NEA-vs-DEI-in-AI fight escalates: unions circulate model policy language, conservative outlets pile on** — a week after the Defending Education report, the NEA's sample school-board policy requiring DEI safeguards in AI vendor tools drew a wider round of conservative coverage on August 10. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-11.html)
 - **A Central California district (Salinas Union HSD) votes on formally welcoming AI into its classrooms** — the district's board was scheduled to vote August 11 on an AI-use policy for 2026-27, one of several Monterey County districts finalizing rules alongside Pacific Grove Unified. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-11.html)
+- **Charleston County's AI policy goes live as students head back to class** — the January-approved policy took practical effect this week for ~50,000 students, with a hard rule that AI can't be the sole basis for discipline, grading or special-ed placement decisions. *(added in a same-day update run)* [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-11.html)
+- **California's ~30 pending AI bills, including a classroom AI-literacy mandate, hit a do-or-die vote Thursday** — AB 2071 (digital wellness/AI literacy in health classes) and AB 2876 (AI literacy in curriculum frameworks) face the August 13 Senate/Assembly Appropriations suspense-file hearing. *(added in a same-day update run)* [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-11.html)
+- **AI has quietly become a college-search tool — for parents even more than for teens** — new EAB surveys find 46% of high schoolers (up from 26% in 2025) and roughly a third of parents now use AI tools during the college search. *(added in a same-day update run)* [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-11.html)
+- **Deepfake cyberbullying is "supercharging" — and schools are rewriting policy to catch up** — an EdWeek/AP/RAND analysis finds 40-50% of students already aware of deepfakes circulating at their own school, with policy playing catch-up. *(added in a same-day update run)* [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-11.html)
 
 ## 2026-Aug-09
 - **NYC's fight over an AI moratorium in public schools escalates as the chancellor freezes new tech purchases** — Chancellor Kamar Samuels asked principals to pause AI/edtech purchases pending final guidance, following a July 29 City Hall rally where parents, teachers, students and half the City Council called for a two-year moratorium across the 1.1M-student system. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-09.html)
