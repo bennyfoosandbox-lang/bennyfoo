@@ -2,10 +2,52 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-08-11
-run_count: 21
-digest_count: 21
+last_run: 2026-08-12
+run_count: 22
+digest_count: 22
 entries:
+  - fingerprint: openai-nextslide-acquisition-office-suite
+    title: "OpenAI buys a presentation startup, assembling an office suite one acquisition at a time"
+    first_seen: 2026-08-12
+    digest: using-ai-for-business-productivity-2026-Aug-12.html
+    urls:
+      - https://www.forbes.com/sites/rachelwells/2026/08/09/openai-bought-a-presentation--startup-what-does-it-mean-for-your-job/
+      - https://finance.yahoo.com/technology/ai/articles/openai-acquires-presentation-startup-nextslide-194113669.html
+      - https://thenextweb.com/news/openai-nextslide-acquisition-office-suite-microsoft
+      - https://app.dealroom.co/news/note/openai-acquires-presentation-startup-nextslide
+  - fingerprint: openai-gpt-5-6-cyber-daybreak-expansion
+    title: "OpenAI arms vetted \"defenders\" with a cybersecurity model that ignores its own safety refusals"
+    first_seen: 2026-08-12
+    digest: using-ai-for-business-productivity-2026-Aug-12.html
+    urls:
+      - https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/
+      - https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks
+      - https://www.axios.com/2026/08/10/openai-gpt-astra-restrictions-safety-hacking-defenders
+      - https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html
+  - fingerprint: anthropic-claude-code-self-hosted-compliance-api-expansion
+    title: "Anthropic pushes Claude deeper into enterprise IT: self-hosted Claude Code, wider compliance coverage"
+    first_seen: 2026-08-12
+    digest: using-ai-for-business-productivity-2026-Aug-12.html
+    urls:
+      - https://claude.com/blog/compliance-api-cowork-and-claude-code
+      - https://enterprisedna.co/resources/news/anthropic-claude-code-self-hosted-runner-enterprise-2026/
+      - https://releasebot.io/updates/anthropic/claude
+  - fingerprint: datadog-q2-2026-earnings-ai-customers-80pct-arr
+    title: "Datadog: the fifth of its customers using AI tools now generate 80% of its revenue"
+    first_seen: 2026-08-12
+    digest: using-ai-for-business-productivity-2026-Aug-12.html
+    urls:
+      - https://www.gurufocus.com/news/9014386/datadog-inc-ddog-q2-2026-earnings-call-highlights-revenue-surges-36-to-112b-aidriven-growth-accelerates
+      - https://cryptobriefing.com/datadog-q2-2026-earnings-ai-launches/
+      - https://www.stocktitan.net/news/DDOG/datadog-announces-second-quarter-2026-financial-bvxibd32dyru.html
+      - https://finance.yahoo.com/markets/stocks/articles/datadog-inc-ddog-q2-2026-231928268.html
+  - fingerprint: air-aicockpit-one-enterprise-ai-governance-launch
+    title: "A new platform tries to put one dashboard over every AI tool a company uses"
+    first_seen: 2026-08-12
+    digest: using-ai-for-business-productivity-2026-Aug-12.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/08/10/3342167/0/en/ai-r-launches-unified-platform-for-enterprise-ai-governance.html
+      - https://aithority.com/security/ai-r-launches-unified-platform-for-enterprise-ai-governance/
   - fingerprint: microsoft-copilot-autopilot-scout-paid-agent-tier-app-merge
     title: "Microsoft folds Copilot into one app and adds a paid \"always-on\" agent tier"
     first_seen: 2026-08-11
@@ -967,3 +1009,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Gemini Spark starts operating Chrome directly to run errands for users** — US Pro/Ultra rollout (Aug 3) lets the agent use logged-in accounts and saved passwords for multi-step tasks, stopping short of completing payments unsupervised. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-11.html)
 - **Upwork lets AI agents post jobs and hire freelancers on their own** — new MCP server (Aug 10) turns a plain-language request into a job post, freelancer shortlist and drafted offer, no human required. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-11.html)
 - **A startup ships a "lie detector" for AI-generated work** — TrustScale's Argus checks AI output against source evidence before it's published; vendor-claimed accuracy gains, not yet independently verified. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-11.html)
+
+## 2026-Aug-12
+- **OpenAI buys a presentation startup, assembling an office suite one acquisition at a time** — NextSlide (Aug 9) turns documents and prompts into ready decks; second exit for its founder after Caper AI/Instacart. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-12.html)
+- **OpenAI arms vetted "defenders" with a cybersecurity model that ignores its own safety refusals** — GPT-5.6-Cyber and expanded Daybreak tiers (Aug 10-11) hit 95% completion on advanced cybersecurity tasks, restricted to trusted partners like Accenture, IBM and CrowdStrike. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-12.html)
+- **Anthropic pushes Claude deeper into enterprise IT** — self-hosted Claude Code runner (Aug 7) plus Compliance API coverage extended to Cowork and Claude Code (beta, Enterprise), closing the gap between agentic-tool adoption and security vetting. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-12.html)
+- **Datadog: the fifth of its customers using AI tools now generate 80% of its revenue** — Q2 2026 revenue up 36% to $1.12B; AI-integration customers (~20% of base) drive ~80% of ARR. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-12.html)
+- **A new platform tries to put one dashboard over every AI tool a company uses** — AI/R's AI/Cockpit One (Aug 10) adds SSO, per-agent telemetry and token-budget cost controls across a company's whole AI stack. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-12.html)
