@@ -2,10 +2,46 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-08-11
-run_count: 21
-digest_count: 21
+last_run: 2026-08-12
+run_count: 22
+digest_count: 22
 entries:
+  - fingerprint: claude-managed-agents-budget-advisor-geo-github-skills
+    title: "Claude Managed Agents ships budget caps, an advisor role, geo control, and GitHub-loaded skills in one week"
+    first_seen: 2026-08-12
+    digest: essential-skill-md-for-productivity-2026-Aug-12.html
+    urls:
+      - https://platform.claude.com/docs/en/release-notes/overview
+      - https://x.com/ClaudeDevs/status/2085853169930957158
+  - fingerprint: vercel-skills-sh-skill-packs-launch
+    title: "Vercel's skills.sh launches Skill Packs, bundling multiple agent skills into one shareable, installable unit"
+    first_seen: 2026-08-12
+    digest: essential-skill-md-for-productivity-2026-Aug-12.html
+    urls:
+      - https://vercel.com/changelog/skill-packs-are-now-available
+      - https://www.digitalapplied.com/blog/agent-skill-packs-package-ecosystem-supply-chain-risk
+  - fingerprint: malicious-skill-risk-assessment-mitre-attack-arxiv
+    title: "New benchmark maps malicious SKILL.md files onto MITRE ATT&CK via adversarially rewritten shell exploits"
+    first_seen: 2026-08-12
+    digest: essential-skill-md-for-productivity-2026-Aug-12.html
+    urls:
+      - https://arxiv.org/abs/2608.05223
+      - https://arxiv.org/pdf/2608.05223
+  - fingerprint: skilltrace-query-skill-graph-composable-agents
+    title: "SkillTrace treats skill selection as graph traversal, sets new SkillsBench state of the art"
+    first_seen: 2026-08-12
+    digest: essential-skill-md-for-productivity-2026-Aug-12.html
+    urls:
+      - https://arxiv.org/abs/2608.02356v1
+      - https://arxiv.org/html/2608.02356v1
+  - fingerprint: drata-ai-agent-governance-limited-availability
+    title: "Drata opens limited availability for AI Agent Governance, shipping deepest for Claude/Anthropic first"
+    first_seen: 2026-08-12
+    digest: essential-skill-md-for-productivity-2026-Aug-12.html
+    urls:
+      - https://drata.com/about/news/drata-extends-trust-management-platform-to-continuously-monitor-and-govern-ai-agents
+      - https://securityboulevard.com/2026/08/drata-opens-limited-availability-for-ai-agent-governance-product/
+      - https://itbrief.co.uk/story/drata-launches-ai-agent-governance-for-anthropic-users
   - fingerprint: google-gemini-gems-retirement-skills-migration
     title: "Google reportedly preparing a paid Skills replacement for free Gemini Gems, October 20 cutoff"
     first_seen: 2026-08-11
@@ -683,6 +719,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Aug-12
+- **Claude Managed Agents: budget caps, advisor, geo control, GitHub-loaded skills** — four updates shipped Aug 5-8: hard session budget caps (pauses with `budget_reached`), an "advisor" model the primary thread can consult mid-turn, `inference_geo` region pinning, and automatic discovery of skills from a mounted GitHub repo's `.claude/skills` directory. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-12.html)
+- **Vercel skills.sh launches Skill Packs** — bundle multiple agent skills (registry, local folders/zips, GitHub repos) into one shareable, `npx skills add`-installable pack with its own URL; extends the npm-for-skills model from single installs to curated collections. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-12.html)
+- **Malicious-skill risk assessment mapped to MITRE ATT&CK (arXiv 2608.05223)** — Monash/Transurban researchers used six LLMs to adversarially rewrite 471 real shell exploits as benign-looking "mandatory" skill steps, releasing a 2,826-skill, 11-tactic benchmark for scanner testing. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-12.html)
+- **SkillTrace (arXiv 2608.02356)** — treats skill selection as graph traversal (query hierarchy → candidate matching → dependency propagation) instead of single-shot retrieval; new SkillsBench SOTA at 53.17%, 91.43% on ALFWorld. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-12.html)
+- **Drata opens limited availability for AI Agent Governance** — Trust Management Platform extension for continuous discovery/monitoring/governance of enterprise AI agents and the skills/tools they load; ships deepest for Claude/Anthropic first. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-12.html)
+
+Note: 22nd consecutive daily run. Firecrawl returned HTTP 402 (out of credits) on the one probe made this run — web-search-only, ~85 targeted queries across product/platform updates, security research, and enterprise governance tooling. Nearly everything gathered in the strict last-24h window was a rehash of stories already logged in the 21 prior runs (Agent Plugins 1.0, Cequence AI Gateway, Claude for Teachers, various SkillCloak-adjacent scanner-evasion pieces), so today's five items are dated Aug 3-8 — the freshest genuinely new, on-topic, well-corroborated material found, a modest widen per the skill's fallback rule rather than padding with filler.
 
 ## 2026-Aug-11
 - **Google reportedly preparing to retire free Gemini Gems, force migration to paid Skills** — TestingCatalog found an unreleased in-app notice pointing to an October 20 cutoff with no automated migration path; Skills require a paid Google AI Pro/Ultra subscription and are region-limited, while Gems are free and universal. Not yet confirmed by Google. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-11.html)
