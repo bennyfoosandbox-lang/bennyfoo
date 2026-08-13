@@ -2,10 +2,47 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-08-12
-run_count: 22
-digest_count: 22
+last_run: 2026-08-13
+run_count: 23
+digest_count: 23
 entries:
+  - fingerprint: claude-code-auto-mode-default-aug14
+    title: "Claude Code makes auto mode the default for Pro, Max, and Team plans starting August 14"
+    first_seen: 2026-08-13
+    digest: essential-skill-md-for-productivity-2026-Aug-13.html
+    urls:
+      - https://claude.com/blog/auto-mode-default-in-claude-code
+      - https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/
+      - https://www.theregister.com/ai-and-ml/2026/08/10/claude-code-puts-auto-mode-in-the-drivers-seat/5285326
+  - fingerprint: agent-plugins-1-0-ga-vscode-copilot-cli-app
+    title: "Agent Plugins 1.0 goes from paper standard to GA inside VS Code, Copilot CLI, and the Copilot app"
+    first_seen: 2026-08-13
+    digest: essential-skill-md-for-productivity-2026-Aug-13.html
+    urls:
+      - https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app/
+      - https://code.visualstudio.com/docs/agent-customization/agent-plugins
+  - fingerprint: gitskills-dataset-arxiv-2608-10906
+    title: "GitSkills dataset puts a hard number on SKILL.md sprawl: 3.8M files, 1.9M distinct"
+    first_seen: 2026-08-13
+    digest: essential-skill-md-for-productivity-2026-Aug-13.html
+    urls:
+      - https://arxiv.org/abs/2608.10906v1
+      - https://arxiv.org/html/2608.10906v1
+  - fingerprint: skill-runtime-intelligence-evidence-calibrated-reconstruction
+    title: "New runtime-intelligence system tracks where a skill actually breaks — discovered, activated, or silently skipped"
+    first_seen: 2026-08-13
+    digest: essential-skill-md-for-productivity-2026-Aug-13.html
+    urls:
+      - https://arxiv.org/abs/2608.08793
+      - https://arxiv.org/html/2608.08793
+  - fingerprint: zenity-series-c-125m-funding
+    title: "Zenity raises $125M Series C, one of the largest checks yet for AI agent/skill governance"
+    first_seen: 2026-08-13
+    digest: essential-skill-md-for-productivity-2026-Aug-13.html
+    urls:
+      - https://www.businesswire.com/news/home/20260803963850/en/Zenity-Raises-$125-Million-to-Secure-the-Era-of-1-Billion-AI-Agents
+      - https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/
+      - https://techstartups.com/2026/08/03/ai-security-startup-zenity-raises-125m-to-secure-the-coming-wave-of-1-billion-ai-agents/
   - fingerprint: claude-managed-agents-budget-advisor-geo-github-skills
     title: "Claude Managed Agents ships budget caps, an advisor role, geo control, and GitHub-loaded skills in one week"
     first_seen: 2026-08-12
@@ -719,6 +756,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Aug-13
+- **Claude Code makes auto mode the default (Pro/Max/Team) starting Aug 14** — announced Aug 7; per-step approval prompts stop by default unless an action is judged irreversible, destructive, or aimed outside the environment. Anthropic cites a 1,053-tester study: auto mode caught 89% of harmful actions vs. 13.6% for human review, partly because users approve 97% of prompts anyway. Stays opt-in on Enterprise, API, Bedrock, Google Cloud Agent Platform, Microsoft Foundry. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-13.html)
+- **Agent Plugins 1.0 reaches GA in VS Code, Copilot CLI, and the Copilot app** — the Aug 6 packaging standard (skill + MCP config in one distributable) ships live-by-default across GitHub's own tools as of Aug 12; discoverable via the Awesome Copilot marketplace, no forced migration for pre-1.0 plugins. Materially new development on the Aug 8 entry. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-13.html)
+- **GitSkills dataset (arXiv 2608.10906)** — mines GitHub for 3,797,117 SKILL.md files across 282,200 repos (1,877,981 distinct after dedup); positions skills as an artifact class with no compiler, type checker, or central registry; targets MSR '27. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-13.html)
+- **Skill Runtime Intelligence (arXiv 2608.08793)** — passively reconstructs which skill-lifecycle stage a run actually reached (discovered/activated/verified) across heterogeneous coding-agent harnesses via a four-evidence-grade "Run Panorama"; 126/126 test executions correlated cleanly to one source session. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-13.html)
+- **Zenity raises $125M Series C** — led by Norwest with Qumra, Hitachi Ventures, SoftBank Vision Fund 2, LG Technology Ventures; one of the largest checks yet in the standalone agent/skill-governance category. Zenity's own research uncovered the Aug 9-logged Paperclip skills.sh campaign. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-13.html)
+
+Note: 23rd consecutive daily run. Firecrawl was not invoked this run — ~90 targeted web-search queries across product releases, research papers, funding, and governance already surfaced enough well-corroborated, in-window material. Item 2 (Agent Plugins 1.0 GA) updates the Aug 8 standard-announcement entry with a real status change (shipping, default-on) rather than being merged into it, since GA is a materially new development. Items are dated Aug 3-12, a modest widen past the strict 24h window per the skill's fallback rule — most of what surfaced strictly within 24h was a rehash of the 22 prior runs' coverage.
 
 ## 2026-Aug-12
 - **Claude Managed Agents: budget caps, advisor, geo control, GitHub-loaded skills** — four updates shipped Aug 5-8: hard session budget caps (pauses with `budget_reached`), an "advisor" model the primary thread can consult mid-turn, `inference_geo` region pinning, and automatic discovery of skills from a mounted GitHub repo's `.claude/skills` directory. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-12.html)
