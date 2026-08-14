@@ -2,10 +2,55 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-08-12
-run_count: 22
-digest_count: 22
+last_run: 2026-08-14
+run_count: 23
+digest_count: 23
 entries:
+  - fingerprint: skan-ai-63m-series-c-enterprise-work-observability
+    title: "Skan AI raises $63M to build an \"operating map\" of how enterprise work actually happens"
+    first_seen: 2026-08-14
+    digest: using-ai-for-business-productivity-2026-Aug-14.html
+    urls:
+      - https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai
+      - https://www.prnewswire.com/news-releases/skan-ai-raises-63-million-to-give-enterprise-ai-the-context-its-missing-how-work-actually-gets-done-302849114.html
+      - https://www.delltechnologiescapital.com/resources/skanai-series-c
+      - https://app.dealroom.co/news/note/skan-raises-63m-series-c-to-map-how-employees-actually-work
+  - fingerprint: oracle-new-layoffs-august-2026-ai-capex-debt
+    title: "Oracle plans a fresh round of layoffs to help fund its AI data-center borrowing spree"
+    first_seen: 2026-08-14
+    digest: using-ai-for-business-productivity-2026-Aug-14.html
+    urls:
+      - https://finance.yahoo.com/technology/ai/articles/oracle-planning-round-layoffs-august-134527039.html
+      - https://qz.com/oracle-layoffs-august-ai-debt-081226
+      - https://thenextweb.com/news/oracle-august-2026-layoffs-ai-capex
+      - https://www.thestreet.com/employment/oracle-layoffs-ai-infrastructure-debt
+  - fingerprint: microsoft-copilot-super-app-merge-rollout-begins
+    title: "Microsoft starts merging Copilot into one app — the first concrete step toward its \"super app\""
+    first_seen: 2026-08-14
+    digest: using-ai-for-business-productivity-2026-Aug-14.html
+    urls:
+      - https://fortune.com/2026/08/13/microsoft-begins-merge-consumer-and-enterprise-copilot-ai-apps/
+      - https://www.geekwire.com/2026/microsoft-starts-merging-its-copilot-consumer-and-business-apps-in-advance-of-super-app-rollout/
+      - https://www.windowscentral.com/artificial-intelligence/microsoft-copilot/microsoft-begins-unified-copilot-app-rollout-reveals-major-plan-to-merge-copilot-and-microsoft-365-copilot-across-all-platforms-along-with-updated-branding
+      - https://slashdot.org/story/26/08/13/1943229/microsoft-is-combining-its-copilot-apps-ahead-of-a-super-app
+  - fingerprint: appian-q2-2026-earnings-ai-usage-20x-control-plane
+    title: "Appian says customer AI usage is up 20x, cementing its pitch as an AI \"control plane\""
+    first_seen: 2026-08-14
+    digest: using-ai-for-business-productivity-2026-Aug-14.html
+    urls:
+      - https://www.fool.com/earnings/call-transcripts/2026/08/13/appian-appn-q2-2026-earnings-call-transcript/
+      - https://www.investing.com/news/company-news/appian-q2-2026-slides-cloud-growth-hits-23-shares-surge-126-93CH-4847296
+      - https://finance.yahoo.com/markets/stocks/articles/appian-corp-appn-q2-2026-231525565.html
+      - https://seekingalpha.com/news/4628051-appian-forecasts-2026-cloud-subscription-revenue-of-525m-529m-while-raising-adjusted-ebitda
+  - fingerprint: isg-q2-2026-earnings-ai-revenue-64pct-surge
+    title: "AI now drives over a third of ISG's revenue, and it's growing 64% a quarter"
+    first_seen: 2026-08-14
+    digest: using-ai-for-business-productivity-2026-Aug-14.html
+    urls:
+      - https://www.gurufocus.com/news/9022966/information-services-group-inc-iii-q2-2026-earnings-call-highlights-ai-revenue-surges-64-and-record-recurring-revenue-drive-strong-quarter
+      - https://www.stocktitan.net/news/III/stonegate-capital-partners-updates-coverage-on-information-services-vwl3d9g9uz9o.html
+      - https://finance.yahoo.com/technology/ai/articles/information-services-group-q2-earnings-190419719.html
+      - https://www.investing.com/news/transcripts/earnings-call-transcript-information-services-group-tops-q2-2026-estimates-93CH-4843012
   - fingerprint: openai-nextslide-acquisition-office-suite
     title: "OpenAI buys a presentation startup, assembling an office suite one acquisition at a time"
     first_seen: 2026-08-12
@@ -1016,3 +1061,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Anthropic pushes Claude deeper into enterprise IT** — self-hosted Claude Code runner (Aug 7) plus Compliance API coverage extended to Cowork and Claude Code (beta, Enterprise), closing the gap between agentic-tool adoption and security vetting. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-12.html)
 - **Datadog: the fifth of its customers using AI tools now generate 80% of its revenue** — Q2 2026 revenue up 36% to $1.12B; AI-integration customers (~20% of base) drive ~80% of ARR. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-12.html)
 - **A new platform tries to put one dashboard over every AI tool a company uses** — AI/R's AI/Cockpit One (Aug 10) adds SSO, per-agent telemetry and token-budget cost controls across a company's whole AI stack. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-12.html)
+
+## 2026-Aug-14
+- **Skan AI raises $63M to build an "operating map" of how enterprise work actually happens** — Series C (Aug 12) co-led by Cathay Innovation and Dell Technologies Capital; software observes employee desktops to model how work really flows, alongside GA of Skan AI Blueprint and Skan AI Agents. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-14.html)
+- **Oracle plans a fresh round of layoffs to help fund its AI data-center borrowing spree** — internal document viewed Aug 11; follows a 21,000-person (13%) FY26 cut, reports suggest up to 30,000 more roles, against $55.7B in FY26 AI capex. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-14.html)
+- **Microsoft starts merging Copilot into one app — the first concrete step toward its "super app"** — rollout begins this week (mobile/web mid-Aug, Windows/Mac mid-Sept); update to the Aug 11 item now that the announced app merge has actually started shipping. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-14.html)
+- **Appian says customer AI usage is up 20x, cementing its pitch as an AI "control plane"** — Q2 2026 (Aug 13): cloud subscriptions +23% to $131.7M, 85% of new logos bought AI products; FY26 cloud guidance raised to $525-529M. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-14.html)
+- **AI now drives over a third of ISG's revenue, and it's growing 64% a quarter** — Q2 2026: AI-related revenue +64% to $26M, H1 AI revenue $47M (37% of firm-wide total); board approved its largest-ever $30M buyback. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-14.html)
