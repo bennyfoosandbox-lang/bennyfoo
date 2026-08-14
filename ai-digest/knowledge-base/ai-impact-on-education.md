@@ -2,10 +2,46 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-08-11
-run_count: 12
-digest_count: 11
+last_run: 2026-08-14
+run_count: 13
+digest_count: 12
 entries:
+  - fingerprint: central-florida-district-ai-policy-breakdown-aug13
+    title: "Central Florida's school districts show just how differently 'AI policy' can look next door"
+    first_seen: 2026-08-14
+    digest: ai-impact-on-education-2026-Aug-14.html
+    urls:
+      - https://www.clickorlando.com/news/local/2026/08/13/ai-in-central-florida-classrooms-a-district-by-district-policy-breakdown/
+  - fingerprint: stateline-schools-ai-procurement-spending-billions-aug12
+    title: "Districts are spending billions on AI tools with almost no help figuring out which ones work"
+    first_seen: 2026-08-14
+    digest: ai-impact-on-education-2026-Aug-14.html
+    urls:
+      - https://stateline.org/2026/08/12/schools-spend-billions-on-ai-but-struggle-to-figure-out-whats-worth-it/
+      - https://www.route-fifty.com/artificial-intelligence/2026/08/schools-spend-billions-ai-struggle-figure-out-whats-worth-buying/415361/
+      - https://ctmirror.org/2026/08/12/schools-ai-education-technology-spending/
+  - fingerprint: shawnee-mission-ksd-ai-policy-reversal-limited-use-aug2026
+    title: "Two days before the first bell, a Kansas district reversed its plan to ban AI outright"
+    first_seen: 2026-08-14
+    digest: ai-impact-on-education-2026-Aug-14.html
+    urls:
+      - https://www.kctv5.com/2026/08/10/shawnee-mission-school-district-shifts-stance-classroom-ai-ahead-first-school-day/
+      - https://www.kctv5.com/2026/08/11/under-teacher-guidance-older-shawnee-mission-students-approved-limited-ai-tool-use/
+      - https://www.kshb.com/news/local-news/kansas/johnson-county/shawnee-mission-school-district-pauses-ai-policy-to-craft-broader-technology-guidelines
+  - fingerprint: singapore-nus-openai-smu-google-ai-partnerships-aug11
+    title: "Singapore's universities go all-in on campus-wide AI access, betting equity over restriction"
+    first_seen: 2026-08-14
+    digest: ai-impact-on-education-2026-Aug-14.html
+    urls:
+      - https://edunewsletter.openai.com/p/nus-openai-collaboration
+      - https://news.smu.edu.sg/news/2026/08/11/smu-unveils-new-courses-prepare-graduates-ai-enabled-future
+  - fingerprint: nscaf-parent-survey-ai-school-choice-support-aug2026
+    title: "Three in four U.S. parents now say they're fine with AI in their kid's classroom"
+    first_seen: 2026-08-14
+    digest: ai-impact-on-education-2026-Aug-14.html
+    urls:
+      - https://hipther.com/artificial-intelligence/2026/08/10/116347/new-survey-when-choosing-a-school-for-their-children-majority-of-parents-consider-artificial-intelligence-policies/
+      - https://www.prnewswire.com/news-releases/new-survey-when-choosing-a-school-for-their-children-majority-of-parents-consider-artificial-intelligence-policies-302846600.html
   - fingerprint: charleston-county-sd-ai-policy-back-to-school-aug11
     title: "Charleston County's AI policy goes live as students head back to class"
     first_seen: 2026-08-11
@@ -440,6 +476,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-14
+- **Central Florida's school districts show just how differently "AI policy" can look next door** — a district-by-district roundup shows Orange County, Brevard, Osceola, Lake, Sumter and Flagler counties each implementing Florida's AI-policy mandate differently, from vendor choice (Copilot vs. Gemini vs. MagicSchool) to how much discretion is left to teachers. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-14.html)
+- **Districts are spending billions on AI tools with almost no help figuring out which ones work** — a widely syndicated Stateline investigation finds districts largely on their own vetting AI purchases as the AI-in-education market is projected to grow from ~$2.5B to over $15B by 2033, with little federal guidance and evidence of tools misreading English-language learners. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-14.html)
+- **Two days before the first bell, a Kansas district reversed its plan to ban AI outright** — Shawnee Mission School District (Johnson County, KS) reversed a planned blanket AI ban just before the Aug 12 first day of class, allowing limited teacher-supervised AI use for middle/high schoolers under a new PICRAT framework while a permanent policy is still drafted. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-14.html)
+- **Singapore's universities go all-in on campus-wide AI access, betting equity over restriction** — NUS partnered with OpenAI for university-wide ChatGPT Edu access from Aug 31, while SMU's board-endorsed AI-in-Education Strategy gives every student free Gemini Education Plus access alongside new AI-focused courses. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-14.html)
+- **Three in four U.S. parents now say they're fine with AI in their kid's classroom** — a National School Choice Awareness Foundation survey of 2,053 parents finds 76% support at least some AI use in schools and 78% factor a school's AI approach into their choice of school, with personalization the top-cited benefit. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-14.html)
 
 ## 2026-Aug-11
 - **The World Bank's 2026 development report says AI could transform education in poor countries — after infrastructure gaps close** — the WDR 2026 argues AI could help developing nations leapfrog education and public-service gaps, but nearly a third of rural Sub-Saharan African schools still lack reliable electricity and two-thirds lack dependable internet. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-11.html)
