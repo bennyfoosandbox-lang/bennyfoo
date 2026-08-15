@@ -2,10 +2,56 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-08-14
-run_count: 23
-digest_count: 23
+last_run: 2026-08-15
+run_count: 24
+digest_count: 24
 entries:
+  - fingerprint: ai-layoffs-hurt-worker-productivity-study-pittsburgh
+    title: "New research: layoffs done \"in the name of AI\" undercut the very productivity gains they're meant to deliver"
+    first_seen: 2026-08-15
+    digest: using-ai-for-business-productivity-2026-Aug-15.html
+    urls:
+      - https://theconversation.com/layoffs-tied-to-ai-hurt-worker-productivity-and-the-reason-may-surprise-managers-286749
+      - https://techxplore.com/news/2026-08-layoffs-ai-worker-productivity.html
+      - https://www.fastcompany.com/91589194/surprising-reason-ai-layoffs-hurt-worker-productivity
+      - https://www.nakedcapitalism.com/2026/08/layoffs-tied-to-ai-hurt-worker-productivity-and-the-reason-may-surprise-managers.html
+      - https://www.digitalinformationworld.com/2026/08/layoffs-tied-to-ai-hurt-worker.html
+  - fingerprint: cisco-q4-fy2026-earnings-ai-orders-9-3b-surge
+    title: "Cisco's AI order book hits $9.3B for the year — up 4.5x — as record Q4 caps its strongest quarter yet"
+    first_seen: 2026-08-15
+    digest: using-ai-for-business-productivity-2026-Aug-15.html
+    urls:
+      - https://www.tikr.com/blog/ciscos-q4-earnings-hit-a-record-17-3-billion-the-ai-order-book-explains-why
+      - https://www.investing.com/news/company-news/cisco-q4-fy26-slides-ai-orders-surge-45x-shares-dip-on-margins-93CH-4856377
+      - https://futurumgroup.com/insights/cisco-q4-fy-2026-earnings-point-to-broader-ai-infrastructure-demand/
+      - https://finance.yahoo.com/technology/ai/articles/cisco-says-ai-boom-forcing-102000373.html
+  - fingerprint: applied-materials-q3-2026-earnings-ai-chip-equipment-growth
+    title: "Applied Materials guides 30%+ chip-equipment growth as AI-driven fab demand keeps accelerating"
+    first_seen: 2026-08-15
+    digest: using-ai-for-business-productivity-2026-Aug-15.html
+    urls:
+      - https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-announces-third-quarter-2026-results
+      - https://ca.investing.com/news/company-news/applied-materials-inc-amat-q3-2026-earnings-call-highlights-record-revenue-and-aidriven--4800318
+      - https://www.tradingkey.com/analysis/stocks/us-stocks/262098841-applied-materials-amat-q3-earnings-august-13-2026-semiconductor-equipment-ai-tradingkey
+      - https://247wallst.com/cards/applied-materials-q3-2026-earnings-amat-01kzybvthd5qqamwrtqk59k25x
+  - fingerprint: a10-networks-ai-gateway-launch-enterprise-governance
+    title: "A10 Networks ships an AI Gateway to put cost controls and governance over every model an enterprise uses"
+    first_seen: 2026-08-15
+    digest: using-ai-for-business-productivity-2026-Aug-15.html
+    urls:
+      - https://www.helpnetsecurity.com/2026/08/13/a10-networks-introduces-ai-gateway-to-secure-and-manage-enterprise-ai/
+      - https://aithority.com/machine-learning/a10-networks-launches-a10-ai-gateway-an-intelligent-control-plane-for-all-ai-operations/
+      - https://convergedigest.com/a10-networks-ai-gateway-enterprise-ai-control-plane/
+      - https://www.stocktitan.net/news/ATEN/a10-networks-launches-a10-ai-gateway-an-intelligent-control-plane-9ie4bgymo9pf.html
+  - fingerprint: pubmatic-q2-2026-earnings-ai-automation-headcount-agentic-platform
+    title: "PubMatic trims headcount with AI and automation while its agentic ad platform drives double-digit growth"
+    first_seen: 2026-08-15
+    digest: using-ai-for-business-productivity-2026-Aug-15.html
+    urls:
+      - https://www.fool.com/earnings/call-transcripts/2026/08/13/pubmatic-pubm-q2-2026-earnings-call-transcript/
+      - https://www.investing.com/news/transcripts/earnings-call-transcript-pubmatic-tops-q2-2026-estimates-shares-jump-20-93CH-4844597
+      - https://stockstory.org/us/stocks/nasdaq/pubm/news/earnings-call/pubm-q2-deep-dive-ai-platform-momentum-drives-double-digit-growth-and-expanding-margins
+      - https://www.aol.com/articles/pubmatic-pubm-q2-2026-earnings-001659000.html
   - fingerprint: skan-ai-63m-series-c-enterprise-work-observability
     title: "Skan AI raises $63M to build an \"operating map\" of how enterprise work actually happens"
     first_seen: 2026-08-14
@@ -1068,3 +1114,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Microsoft starts merging Copilot into one app — the first concrete step toward its "super app"** — rollout begins this week (mobile/web mid-Aug, Windows/Mac mid-Sept); update to the Aug 11 item now that the announced app merge has actually started shipping. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-14.html)
 - **Appian says customer AI usage is up 20x, cementing its pitch as an AI "control plane"** — Q2 2026 (Aug 13): cloud subscriptions +23% to $131.7M, 85% of new logos bought AI products; FY26 cloud guidance raised to $525-529M. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-14.html)
 - **AI now drives over a third of ISG's revenue, and it's growing 64% a quarter** — Q2 2026: AI-related revenue +64% to $26M, H1 AI revenue $47M (37% of firm-wide total); board approved its largest-ever $30M buyback. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-14.html)
+
+## 2026-Aug-15
+- **New research: layoffs done "in the name of AI" undercut the very productivity gains they're meant to deliver** — U. Pittsburgh study (Mark Ma) finds job-cut-driven insecurity damages employee sentiment toward AI, offsetting expected efficiency gains; stock-market reaction to such layoffs averages near zero. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-15.html)
+- **Cisco's AI order book hits $9.3B for the year — up 4.5x — as record Q4 caps its strongest quarter yet** — FY26 Q4 (Aug 12): record $17.3B revenue, +18% YoY; $4B in hyperscaler AI orders in the quarter alone; networking orders +40% for an 8th straight quarter. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-15.html)
+- **Applied Materials guides 30%+ chip-equipment growth as AI-driven fab demand keeps accelerating** — Q3 2026 (Aug 13): record $9.12B revenue (+24.8% YoY), record $3.50 non-GAAP EPS; Q4 guide $10.25B. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-15.html)
+- **A10 Networks ships an AI Gateway to put cost controls and governance over every model an enterprise uses** — GA Aug 13 at Black Hat; single control plane for access policy, per-request cost tracking, token budgets and intelligent model routing across on-prem/private-cloud/air-gapped deployments. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-15.html)
+- **PubMatic trims headcount with AI and automation while its agentic ad platform drives double-digit growth** — Q2 2026 (Aug 13): revenue +11% YoY, adjusted EBITDA +38% to $19.6M; AI/automation cut headcount even as go-to-market investment rose 12%. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-15.html)
