@@ -2,10 +2,50 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-08-14
-run_count: 13
-digest_count: 12
+last_run: 2026-08-17
+run_count: 14
+digest_count: 13
 entries:
+  - fingerprint: ohio-ai-policy-mandate-enforcement-back-to-school-aug2026
+    title: "Ohio's first-in-the-nation AI policy mandate is now live as schools reopen"
+    first_seen: 2026-08-17
+    digest: ai-impact-on-education-2026-Aug-17.html
+    urls:
+      - https://spectrumnews1.com/oh/columbus/news-all-day/2026/08/14/ai--schools--learning--ohio--policy
+      - https://www.techlearning.com/technology/ai/ohio-is-the-first-state-to-mandate-school-districts-have-a-formal-ai-policy-heres-what-other-districts-can-learn-from-it
+      - https://dayton247now.com/news/local/understanding-new-ohio-school-policies-as-students-return-to-class-mid-august-early-sept
+  - fingerprint: california-sb928-ab1651-ai-bills-newsom-aug13
+    title: "California's AI-bill purge sends a 'no AI professors' law (SB 928) to Newsom's desk"
+    first_seen: 2026-08-17
+    digest: ai-impact-on-education-2026-Aug-17.html
+    urls:
+      - https://www.techtimes.com/articles/324338/20260813/california-ai-bills-face-final-vote-today-chatbot-safety-copyright-us-first-commission.htm
+      - https://sd31.senate.ca.gov/news/cervantes-bill-prevent-california-state-university-faculty-being-replaced-ai-approved
+      - https://www.transparencycoalition.ai/news/ai-legislative-update-august14-2026
+  - fingerprint: uae-mandatory-ai-education-kg-grade12-2026-27
+    title: "The UAE makes AI a required subject in every government school, kindergarten through grade 12"
+    first_seen: 2026-08-17
+    digest: ai-impact-on-education-2026-Aug-17.html
+    urls:
+      - https://gulfnews.com/uae/education/new-uae-school-year-brings-ai-curriculum-unified-holidays-and-updated-exams-1.500243448
+      - https://www.thirdrocktechkno.com/blog/ai-in-uae-schools-what-the-national-ai-strategy-2031/
+  - fingerprint: india-nishtha-ai-teacher-training-10-million-2026-27
+    title: "India starts training 10 million teachers for its mandatory AI curriculum"
+    first_seen: 2026-08-17
+    digest: ai-impact-on-education-2026-Aug-17.html
+    urls:
+      - https://thesecretariat.in/article/india-s-schools-step-into-the-ai-era-with-nationwide-training-plan
+      - https://aireadyschool.com/blog/indias-ai-curriculum-mandate-starts-2026-27-is-your-school-ready
+      - https://www.convergence-now.com/artificial-intelligence/india-ai-education-curriculum-2026/
+  - fingerprint: south-marion-high-school-ai-cte-track-opening-aug2026
+    title: "Florida's newest high school opens with a state-funded AI career track built in from day one"
+    first_seen: 2026-08-17
+    digest: ai-impact-on-education-2026-Aug-17.html
+    urls:
+      - https://www.ocalagazette.com/south-marion-high-school-opens-its-doors/
+      - https://www.wcjb.com/2026/08/10/new-south-marion-high-school-opens-ocala-amid-football-field-issue/
+      - https://www.winssolutions.org/south-marion-high-school-ai-program/
+      - https://www.ocala-news.com/2026/08/09/marion-schools-welcoming-46697-students-120-new-teachers-one-new-high-school-on-first-day-of-classes/
   - fingerprint: central-florida-district-ai-policy-breakdown-aug13
     title: "Central Florida's school districts show just how differently 'AI policy' can look next door"
     first_seen: 2026-08-14
@@ -476,6 +516,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-17
+- **Ohio's first-in-the-nation AI policy mandate is now live as schools reopen** — Ohio's July 1 statutory deadline requiring every K-12 district to adopt a formal AI policy is being tested as the 2026-27 school year starts, with compliance uneven across districts. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-17.html)
+- **California's AI-bill purge sends a "no AI professors" law (SB 928) to Newsom's desk** — update to our August 11 coverage: the August 13 suspense-file vote sent SB 928 (barring AI from being CSU's instructor of record) and AB 1651 (AI in the state bar exam) to the governor. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-17.html)
+- **The UAE makes AI a required subject in every government school, kindergarten through grade 12** — the new UAE school year opens with AI instruction mandatory across seven core subject areas system-wide, building on the National AI Strategy 2031. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-17.html)
+- **India starts training 10 million teachers for its mandatory AI curriculum** — NISHTHA begins rolling out grade-specific modules ahead of the 2026-27 mandatory AI curriculum for grades 3-8. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-17.html)
+- **Florida's newest high school opens with a state-funded AI career track built in from day one** — South Marion High School's inaugural class began August 10 with a state-funded AI CTE track, the district's 36th curriculum category. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-17.html)
 
 ## 2026-Aug-14
 - **Central Florida's school districts show just how differently "AI policy" can look next door** — a district-by-district roundup shows Orange County, Brevard, Osceola, Lake, Sumter and Flagler counties each implementing Florida's AI-policy mandate differently, from vendor choice (Copilot vs. Gemini vs. MagicSchool) to how much discretion is left to teachers. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-14.html)
