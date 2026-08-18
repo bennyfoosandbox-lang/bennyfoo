@@ -2,10 +2,55 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-08-15
-run_count: 24
-digest_count: 24
+last_run: 2026-08-18
+run_count: 25
+digest_count: 25
 entries:
+  - fingerprint: stripe-openrouter-acquisition-7-billion
+    title: "Stripe buys AI model gateway OpenRouter for more than $7 billion"
+    first_seen: 2026-08-18
+    digest: using-ai-for-business-productivity-2026-Aug-18.html
+    urls:
+      - https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion
+      - https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/
+      - https://www.axios.com/2026/08/17/stripe-openrouter-paypal
+      - https://techstartups.com/2026/08/17/stripe-acquires-openrouter-for-over-7-billion-more-than-5x-its-valuation-three-months-ago/
+  - fingerprint: ibm-openai-partnership-consulting-advantage-gpt-5-6
+    title: "IBM enlists OpenAI to put GPT-5.6 and Codex inside its consulting arm"
+    first_seen: 2026-08-18
+    digest: using-ai-for-business-productivity-2026-Aug-18.html
+    urls:
+      - https://newsroom.ibm.com/2026-08-13-ibm-partners-with-openai-to-accelerate-secure-ai-deployment-for-enterprises-across-core-operations
+      - https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/
+      - https://www.prnewswire.com/news-releases/ibm-partners-with-openai-to-accelerate-secure-ai-deployment-for-enterprises-across-core-operations-302850331.html
+      - https://finance.yahoo.com/technology/ai/articles/ibm-openai-launch-enterprise-ai-102638754.html
+  - fingerprint: rippling-ai-spend-console-launch-token-costs
+    title: "Rippling built an internal AI-spend tracker after one engineer burned $50,000 in tokens a month"
+    first_seen: 2026-08-18
+    digest: using-ai-for-business-productivity-2026-Aug-18.html
+    urls:
+      - https://www.rippling.com/blog/introducing-ai-spend-console
+      - https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/
+      - https://www.cpapracticeadvisor.com/2026/08/13/rippling-introduces-ai-spend-console/188516/
+      - https://www.analyticsinsight.net/news/rippling-launches-ai-spend-console-after-spending-millions-on-tokens
+  - fingerprint: eu-ai-office-first-fines-47m-hiring-credit-retail
+    title: "Brussels issues its first AI Act fines — €47 million across three companies"
+    first_seen: 2026-08-18
+    digest: using-ai-for-business-productivity-2026-Aug-18.html
+    urls:
+      - https://www.arturmarkus.com/eu-ai-office-issues-first-e47-million-in-fines-against-three-companies-for-high-risk-ai-violations-hiring-platform-gets-e18m-credit-scorer-e14m-retail-chain-e15m/
+      - https://newslab.us/article/ai-regulation-eu-act-enforcement-2026
+      - https://enterprisedna.co/resources/news/eu-ai-act-enforcement-fines-live-gpai-august-2026/
+      - https://qz.com/eu-ai-act-enforcement-fines-openai-anthropic-google-080326
+  - fingerprint: deloitte-ai-agent-readiness-survey-gap-2026
+    title: "Deloitte survey: only 5% of companies feel ready for AI agents"
+    first_seen: 2026-08-18
+    digest: using-ai-for-business-productivity-2026-Aug-18.html
+    urls:
+      - https://www.deloitte.com/us/en/about/press-room/deloitte-survey-examines-ai-readiness-agentic-ai-success.html
+      - https://www.prnewswire.com/news-releases/ai-agents-are-only-the-beginning-deloitte-survey-examines-the-ai-readiness-gap-and-reveals-how-enterprises-can-prepare-for-agentic-success-302848848.html
+      - https://www.helpnetsecurity.com/2026/08/14/deloitte-agentic-ai-readiness-gap-report/
+      - https://techstrong.ai/articles/deloitte-enterprises-face-major-readiness-gap-for-agentic-ai/
   - fingerprint: ai-layoffs-hurt-worker-productivity-study-pittsburgh
     title: "New research: layoffs done \"in the name of AI\" undercut the very productivity gains they're meant to deliver"
     first_seen: 2026-08-15
@@ -1121,3 +1166,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Applied Materials guides 30%+ chip-equipment growth as AI-driven fab demand keeps accelerating** — Q3 2026 (Aug 13): record $9.12B revenue (+24.8% YoY), record $3.50 non-GAAP EPS; Q4 guide $10.25B. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-15.html)
 - **A10 Networks ships an AI Gateway to put cost controls and governance over every model an enterprise uses** — GA Aug 13 at Black Hat; single control plane for access policy, per-request cost tracking, token budgets and intelligent model routing across on-prem/private-cloud/air-gapped deployments. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-15.html)
 - **PubMatic trims headcount with AI and automation while its agentic ad platform drives double-digit growth** — Q2 2026 (Aug 13): revenue +11% YoY, adjusted EBITDA +38% to $19.6M; AI/automation cut headcount even as go-to-market investment rose 12%. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-15.html)
+
+## 2026-Aug-18
+- **Stripe buys AI model gateway OpenRouter for more than $7 billion** — reported Aug 16-17, over 5x OpenRouter's $1.3B valuation from its May Series C; folds AI model routing/cost-management for ~8M users into Stripe's payments infrastructure. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-18.html)
+- **IBM enlists OpenAI to put GPT-5.6 and Codex inside its consulting arm** — Aug 13 partnership embeds GPT-5.6, Codex and ChatGPT Work into IBM Consulting Advantage (~150K consultants); initial focus on finance, procurement, customer ops and HR workflows. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-18.html)
+- **Rippling built an internal AI-spend tracker after one engineer burned $50,000 in tokens a month** — AI Spend Console cut Rippling's own AI token costs from ~40% to ~15% of its R&D people budget while usage stayed flat at ~600B tokens/month. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-18.html)
+- **Brussels issues its first AI Act fines — €47 million across three companies** — days after the Aug 2 high-risk compliance deadline; hiring platform (€18M), credit scorer (€14M) and retail surveillance (€15M) all cited for missing conformity/human-in-the-loop/explanation-right controls. Materially new development on top of the Aug 1 "enforcement teeth go live" item. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-18.html)
+- **Deloitte survey: only 5% of companies feel ready for AI agents** — 501 senior leaders surveyed; 74% expect half of business processes rebuilt around agents within 4 years, but just 5% call themselves highly prepared today and half aren't investing enough in workforce transformation. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-18.html)
