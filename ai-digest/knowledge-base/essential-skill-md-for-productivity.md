@@ -2,10 +2,39 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-08-13
-run_count: 23
-digest_count: 23
+last_run: 2026-08-18
+run_count: 24
+digest_count: 24
 entries:
+  - fingerprint: claude-cowork-chrome-side-panel-skills-connectors
+    title: "Claude Cowork reaches the Chrome side panel — Skills and Connectors now run in the browser"
+    first_seen: 2026-08-18
+    digest: essential-skill-md-for-productivity-2026-Aug-18.html
+    urls:
+      - https://claude.com/blog/cowork-chrome-side-panel
+      - https://9to5mac.com/2026/08/12/claude-cowork-chrome/
+      - https://thenewstack.io/claude-chrome-cowork-sessions/
+  - fingerprint: agent-skills-can-be-harmful-skill-induced-failures
+    title: "New study: loading a skill can make an agent measurably worse, not just better"
+    first_seen: 2026-08-18
+    digest: essential-skill-md-for-productivity-2026-Aug-18.html
+    urls:
+      - https://arxiv.org/abs/2608.11888
+      - https://arxiv.org/html/2608.11888v1
+  - fingerprint: skillmd-reusability-138k-defect-audit
+    title: "Largest audit yet of public SKILL.md files: 91.8% of 138,000 carry a real defect"
+    first_seen: 2026-08-18
+    digest: essential-skill-md-for-productivity-2026-Aug-18.html
+    urls:
+      - https://arxiv.org/abs/2608.08453
+      - https://arxiv.org/html/2608.08453v1
+  - fingerprint: claude-code-v2-1-233-spend-attribution-gitlab
+    title: "Claude Code v2.1.233 adds per-user spend attribution and Bash memory limits"
+    first_seen: 2026-08-18
+    digest: essential-skill-md-for-productivity-2026-Aug-18.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.233
+      - https://code.claude.com/docs/en/changelog
   - fingerprint: claude-code-auto-mode-default-aug14
     title: "Claude Code makes auto mode the default for Pro, Max, and Team plans starting August 14"
     first_seen: 2026-08-13
@@ -756,6 +785,14 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Aug-18
+- **Claude Cowork reaches the Chrome side panel** — Aug 12 update turns Claude in Chrome into a full Cowork client: history syncs, a task started in a tab finishes on desktop/web/mobile, and account Skills/Connectors work in-browser with no extra setup. Follows the Jul 21 "Record a Skill" feature; live on Max/Team, Pro rolling out. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-18.html)
+- **"Agent Skills Can Be Harmful" (arXiv 2608.11888)** — HUST/Microsoft Research/UIUC differential-analysis framework attributes specific task failures and cost regressions to the skill that caused them; confirms some skills measurably raise token/time cost or actively lower success rate, not just leave it unchanged. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-18.html)
+- **138K-file SKILL.md defect audit (arXiv 2608.08453)** — largest audit yet: 138,133 files / 20,556 repos scored against a two-tier defect taxonomy; 91.8% carry at least one detected defect (88.8-94.6% across thresholds), dominated by weak routing metadata and bloated bodies, not attacks. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-18.html)
+- **Claude Code v2.1.233** — GitLab MR URL support in --worktree/agents view, opt-in forward_user_identity header for per-user spend attribution behind a gateway, opt-in Bash memory-cgroup limits on Linux, configurable CLAUDE_CODE_WEBFETCH_CACHE_TTL_MS. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-18.html)
+
+Note: 24th run, first since Aug 13 (a gap in the schedule). Firecrawl was not reached this run (session restarted mid-run before invocation) — degraded to web-search-only per the skill's fallback rule, ~90 candidates scanned. Traced two attractive-looking candidates to stale original dates and dropped them rather than pad: Snyk's "ToxicSkills" study (widely resyndicated this month but originally published February 2026) and the "Agent Skills Ecosystem in 2026" report combining SkillsMP's 1.9M-skill count with SkillsBench's 6.2/12 average quality score (dated June 25). Kept four, dated Aug 10-14, as the freshest genuinely new and well-corroborated items — a thin but honest digest rather than filler.
 
 ## 2026-Aug-13
 - **Claude Code makes auto mode the default (Pro/Max/Team) starting Aug 14** — announced Aug 7; per-step approval prompts stop by default unless an action is judged irreversible, destructive, or aimed outside the environment. Anthropic cites a 1,053-tester study: auto mode caught 89% of harmful actions vs. 13.6% for human review, partly because users approve 97% of prompts anyway. Stays opt-in on Enterprise, API, Bedrock, Google Cloud Agent Platform, Microsoft Foundry. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-13.html)
