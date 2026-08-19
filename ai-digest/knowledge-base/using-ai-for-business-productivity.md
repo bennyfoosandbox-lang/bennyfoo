@@ -2,10 +2,56 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-08-18
-run_count: 25
-digest_count: 25
+last_run: 2026-08-19
+run_count: 26
+digest_count: 26
 entries:
+  - fingerprint: anthropic-overtakes-openai-q2-2026-revenue-profitability
+    title: "Anthropic quietly overtakes OpenAI on revenue as the two labs' Q2s diverge sharply"
+    first_seen: 2026-08-19
+    digest: using-ai-for-business-productivity-2026-Aug-19.html
+    urls:
+      - https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo
+      - https://fortune.com/2026/08/18/anthropic-annual-revenue-run-rate-65-billion/
+      - https://www.axios.com/2026/08/17/anthropic-revenue-run-rate-ipo-openai
+      - https://www.investing.com/news/stock-market-news/openais-q2-revenue-growth-lagged-anthropic-as-losses-deepened-wsj-reports-4866258
+      - https://www.kucoin.com/news/flash/openai-q2-revenue-hits-6-7-billion-growth-slower-than-anthropic
+  - fingerprint: sierra-200m-arr-doubling-bret-taylor-may-2026
+    title: "Sierra doubles to $200M ARR in two quarters as agentic customer service scales up market"
+    first_seen: 2026-08-19
+    digest: using-ai-for-business-productivity-2026-Aug-19.html
+    urls:
+      - https://cryptobriefing.com/sierra-200m-annualized-revenue-may/
+      - https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/
+      - https://sacra.com/c/sierra/
+      - https://www.techbuzz.ai/articles/sierra-hits-100m-arr-in-21-months-proving-ai-agents-work
+  - fingerprint: google-buys-spirit-airlines-data-train-ai-business-workflows
+    title: "Google pays $10M for Spirit Airlines' internal data to train AI on how a real company actually runs"
+    first_seen: 2026-08-19
+    digest: using-ai-for-business-productivity-2026-Aug-19.html
+    urls:
+      - https://www.cnn.com/2026/08/18/business/google-spirit-airlines-data
+      - https://pulse2.com/google-buys-spirit-airlines-internal-data-for-10-million-to-train-ai-on-real-world-business-workflows/
+      - https://www.forbes.com/sites/suzannerowankelleher/2026/08/18/google-train-ai-spirit-airlines-data/
+      - https://ca.investing.com/news/stock-market-news/why-is-google-buying-spirit-airlines-business-data-for-10-million-93CH-4805857
+  - fingerprint: alteryx-2026-it-leader-survey-53pct-business-context-gap
+    title: "Alteryx survey: 53% of enterprises still can't get business context into their AI systems"
+    first_seen: 2026-08-19
+    digest: using-ai-for-business-productivity-2026-Aug-19.html
+    urls:
+      - https://www.hpcwire.com/bigdatawire/this-just-in/alteryx-survey-finds-53-of-organizations-struggle-to-bring-business-context-to-ai/
+      - https://www.morningstar.com/news/pr-newswire/20260813la25426/53-of-organizations-struggle-to-translate-business-context-into-ai-despite-rising-ai-investment
+      - https://www.itpro.com/business/business-strategy/poor-business-context-is-scuppering-enterprise-ai-adoption-heres-why-that-matters
+      - https://tradearabia.com/News/466635/AI-investment-rising-but-half-of-firms-struggle-to-benefit-says-study
+  - fingerprint: snowflake-cortex-dynamic-model-routing-ai-cost-cutting
+    title: "Snowflake's Cortex AI Gateway learns to shop around for cheaper models, cutting AI spend up to 3x"
+    first_seen: 2026-08-19
+    digest: using-ai-for-business-productivity-2026-Aug-19.html
+    urls:
+      - https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x
+      - https://sdtimes.com/ai/snowflake-unlocks-better-ai-economics-with-dynamic-model-routing/
+      - https://www.ciodive.com/news/snowflake-adds-cost-control-feature-cortex-ai-gateway/828199/
+      - https://www.itpro.com/technology/artificial-intelligence/enterprises-are-becoming-much-more-rigorous-about-the-economics-of-ai-snowflake-wants-to-help-you-cut-ai-costs-by-choosing-the-right-model-for-the-right-task
   - fingerprint: stripe-openrouter-acquisition-7-billion
     title: "Stripe buys AI model gateway OpenRouter for more than $7 billion"
     first_seen: 2026-08-18
@@ -1173,3 +1219,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Rippling built an internal AI-spend tracker after one engineer burned $50,000 in tokens a month** — AI Spend Console cut Rippling's own AI token costs from ~40% to ~15% of its R&D people budget while usage stayed flat at ~600B tokens/month. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-18.html)
 - **Brussels issues its first AI Act fines — €47 million across three companies** — days after the Aug 2 high-risk compliance deadline; hiring platform (€18M), credit scorer (€14M) and retail surveillance (€15M) all cited for missing conformity/human-in-the-loop/explanation-right controls. Materially new development on top of the Aug 1 "enforcement teeth go live" item. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-18.html)
 - **Deloitte survey: only 5% of companies feel ready for AI agents** — 501 senior leaders surveyed; 74% expect half of business processes rebuilt around agents within 4 years, but just 5% call themselves highly prepared today and half aren't investing enough in workforce transformation. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-18.html)
+
+## 2026-Aug-19
+- **Anthropic quietly overtakes OpenAI on revenue as the two labs' Q2s diverge sharply** — Anthropic's run rate hits $65B pre-IPO with a small operating profit; OpenAI's Q2 revenue reaches $6.7B (+18% QoQ) but its operating loss widens to $12.3B. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-19.html)
+- **Sierra doubles to $200M ARR in two quarters as agentic customer service scales up market** — Bret Taylor's Sierra hits $200M ARR in May (from $100M six months prior), serving 40% of the Fortune 50 on a $15.8B valuation. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-19.html)
+- **Google pays $10M for Spirit Airlines' internal data to train AI on how a real company actually runs** — de-identified emails, Teams messages and operational docs from the bankrupt airline sold to Alphabet for AI/productivity-tool training. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-19.html)
+- **Alteryx survey: 53% of enterprises still can't get business context into their AI systems** — 1,400 IT leaders: 80% expect spend to rise, 69% report ROI, but strategy/delivery still sit mostly with IT rather than the business. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-19.html)
+- **Snowflake's Cortex AI Gateway learns to shop around for cheaper models, cutting AI spend up to 3x** — new dynamic model routing tries a cheap model first and escalates to a larger one only when needed; built into Snowflake CoCo/CoWork and open to third-party agents. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-19.html)
