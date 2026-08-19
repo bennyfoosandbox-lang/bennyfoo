@@ -2,10 +2,49 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-08-17
-run_count: 14
-digest_count: 13
+last_run: 2026-08-19
+run_count: 15
+digest_count: 14
 entries:
+  - fingerprint: openai-chatgpt-for-teens-study-mode-launch-aug2026
+    title: "OpenAI launches ChatGPT for Teens, betting Study Mode can pull it back from homework-answer machine to tutor"
+    first_seen: 2026-08-19
+    digest: ai-impact-on-education-2026-Aug-19.html
+    urls:
+      - https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/
+      - https://www.axios.com/2026/08/18/openai-chatgpt-for-teens
+      - https://thehill.com/policy/technology/6036449-openai-chatgpt-for-teens-user-safety/
+  - fingerprint: common-sense-media-youth-ai-safety-institute-schoolwork-survey-aug2026
+    title: "New survey: 70% of teens use AI for schoolwork, but just 30% say a teacher ever taught them to use it safely"
+    first_seen: 2026-08-19
+    digest: ai-impact-on-education-2026-Aug-19.html
+    urls:
+      - https://www.cnn.com/2026/08/18/health/kids-no-ai-safety-guidance-in-school-wellness
+      - https://news3lv.com/news/nation-world/teens-risk-critical-thinking-learning-as-they-lean-into-ai-for-schoolwork-common-sense-medias-youth-ai-safety-institute-artificial-intelligence-education
+  - fingerprint: reach-capital-265m-fund-v-ai-education-aug2026
+    title: "Reach Capital closes its biggest fund yet — $265M to bet on AI that 'expands human potential' in learning, health and work"
+    first_seen: 2026-08-19
+    digest: ai-impact-on-education-2026-Aug-19.html
+    urls:
+      - https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/
+      - https://pitchbook.com/news/articles/reach-capital-education-technology-fund
+  - fingerprint: farnsley-middle-school-jcps-ai-hallucinated-agendas-aug2026
+    title: "\"Venecky\" instead of Kentucky: a Louisville middle school sends kids home with AI-hallucinated homework on the first day"
+    first_seen: 2026-08-19
+    digest: ai-impact-on-education-2026-Aug-19.html
+    urls:
+      - https://www.wdrb.com/news/venecky-instead-of-kentucky-jcps-middle-school-parents-suspect-school-agendas-are-ai-generated/article_c0d3bef9-bda3-454b-8606-9cf3c5a6178d.html
+      - https://www.fox5vegas.com/2026/08/14/middle-school-student-agendas-contain-misspelled-states-science-errors-raising-ai-questions/
+      - https://futurism.com/artificial-intelligence/kentucky-middle-school-ai
+      - https://jcpsinsider.com/articles/ai-errors-found-in-farnsley-middle-student-agendas-who-was-supposed-to-catch-them-jcps
+  - fingerprint: up-college-law-philippines-ai-device-ban-1l-courses-aug2026
+    title: "The Philippines' top law school bars AI and devices from 1L classes, saying it's already seeing the damage"
+    first_seen: 2026-08-19
+    digest: ai-impact-on-education-2026-Aug-19.html
+    urls:
+      - https://www.rappler.com/technology/up-college-law-bans-ai-gadgets-core-classes/
+      - https://www.gmanetwork.com/news/topstories/nation/997655/up-college-of-law-bars-ai-devices-in-first-year-core-subjects/story/
+      - https://law.upd.edu.ph/policy-on-ai-and-technology-use-in-1st-year-jd-courses/
   - fingerprint: ohio-ai-policy-mandate-enforcement-back-to-school-aug2026
     title: "Ohio's first-in-the-nation AI policy mandate is now live as schools reopen"
     first_seen: 2026-08-17
@@ -516,6 +555,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-19
+- **OpenAI launches ChatGPT for Teens, betting Study Mode can pull it back from homework-answer machine to tutor** — a dedicated 13-17 experience combines content safeguards, expanded (but non-monitoring) parental controls, and a step-by-step Study Mode, arriving after a year of lawsuits and regulatory pressure over teens' chatbot use. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-19.html)
+- **New survey: 70% of teens use AI for schoolwork, but just 30% say a teacher ever taught them to use it safely** — Common Sense Media's Youth AI Safety Institute finds widespread AI homework use outpacing any formal school guidance on safe use, with over a third of teens unclear on their school's AI rules. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-19.html)
+- **Reach Capital closes its biggest fund yet — $265M to bet on AI that "expands human potential" in learning, health and work** — the SF venture firm's fifth and largest fund widens its mandate beyond edtech, with LPs including the LEGO Foundation and College Board. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-19.html)
+- **"Venecky" instead of Kentucky: a Louisville middle school sends kids home with AI-hallucinated homework on the first day** — Farnsley Middle School (JCPS) distributed agenda booklets with a garbled map, mislabeled states, and a distorted periodic table, days after the district's own Gemini rollout. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-19.html)
+- **The Philippines' top law school bars AI and devices from 1L classes, saying it's already seeing the damage** — UP College of Law cites a "considerable decline" in student reasoning and argumentation tied to AI use, plus employer feedback about AI-dependent graduates. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-19.html)
 
 ## 2026-Aug-17
 - **Ohio's first-in-the-nation AI policy mandate is now live as schools reopen** — Ohio's July 1 statutory deadline requiring every K-12 district to adopt a formal AI policy is being tested as the 2026-27 school year starts, with compliance uneven across districts. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-17.html)
