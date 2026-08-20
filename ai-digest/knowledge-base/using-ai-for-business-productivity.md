@@ -2,9 +2,9 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-08-19
-run_count: 26
-digest_count: 26
+last_run: 2026-08-20
+run_count: 27
+digest_count: 27
 entries:
   - fingerprint: anthropic-overtakes-openai-q2-2026-revenue-profitability
     title: "Anthropic quietly overtakes OpenAI on revenue as the two labs' Q2s diverge sharply"
@@ -1041,6 +1041,48 @@ entries:
     urls:
       - https://colombiaone.com/2026/07/20/ai-productivity-worker-world-bank/
       - https://home.barclays/insights/2026/07/AI-No-Longer-Future-Opportunity-Food-Manufacturers-Becoming-Competitive-Necessity/
+  - fingerprint: salesforce-headless-360-expansion-mcp-agentic-enterprise
+    title: "Salesforce turns its whole platform into an API for AI agents with Headless 360 expansion"
+    first_seen: 2026-08-20
+    digest: using-ai-for-business-productivity-2026-Aug-20.html
+    urls:
+      - https://siliconangle.com/2026/08/19/salesforce-expands-headless-data-360-mcp-developers-can-bring-insights-agents/
+      - https://www.cxtoday.com/crm/salesforce-headless-360-expansion-agentic-cx/
+      - https://www.salesforce.com/news/stories/expanding-headless-360-enterprise-capabilities/
+  - fingerprint: walmart-q2-fy2026-earnings-sparky-super-agents-aov
+    title: "Walmart says its Sparky AI agent drives 35% bigger baskets as it builds three more \"super agents\""
+    first_seen: 2026-08-20
+    digest: using-ai-for-business-productivity-2026-Aug-20.html
+    urls:
+      - https://www.ciodive.com/news/walmart-AI-wins-sparky-john-furner/812606/
+      - https://finance.yahoo.com/news/walmart-q2-earnings-miss-estimates-162800006.html
+      - https://www.investing.com/news/company-news/walmart-q2-fy26-slides-revenue-up-56-raises-fullyear-guidance-93CH-4204265
+  - fingerprint: lowes-q2-2026-earnings-mylow-companion-productivity
+    title: "Lowe's says associate-facing AI is paying off too, not just its customer chatbot"
+    first_seen: 2026-08-20
+    digest: using-ai-for-business-productivity-2026-Aug-20.html
+    urls:
+      - https://corporate.lowes.com/newsroom/press-releases/lowes-reports-second-quarter-2026-sales-and-earnings-results-08-19-26
+      - https://www.retailtouchpoints.com/news/lowes-q2-2026-earnings-ai-tariffs-and-a-cautious-consumer/621091
+      - https://www.stocktitan.net/news/LOW/lowe-s-reports-second-quarter-2026-sales-and-earnings-ru02tuuuuh3w.html
+      - https://www.benzinga.com/news/26/08/61303010/lowe-s-companies-reports-q2-2026-results-full-earnings-call-transcript
+  - fingerprint: ima-financial-group-enterprise-wide-ai-adoption-2026
+    title: "An insurance brokerage says 95% of its staff now use AI daily — and calls it \"enterprise-wide adoption\""
+    first_seen: 2026-08-20
+    digest: using-ai-for-business-productivity-2026-Aug-20.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/08/18/3346869/0/en/ima-financial-group-reaches-enterprise-wide-ai-adoption-powered-by-associates.html
+      - https://coverager.com/ima-reaches-enterprise-wide-ai-adoption/
+      - https://www.manilatimes.net/2026/08/18/tmt-newswire/globenewswire/ima-financial-group-reaches-enterprise-wide-ai-adoption-powered-by-associates/2407657
+  - fingerprint: ryanair-google-cloud-gemini-enterprise-partnership-2026
+    title: "Ryanair hands Google Cloud a five-year deal to run crew logistics and flight ops through Gemini"
+    first_seen: 2026-08-20
+    digest: using-ai-for-business-productivity-2026-Aug-20.html
+    urls:
+      - https://www.googlecloudpresscorner.com/2026-08-12-Ryanair-and-Google-Cloud-Announce-Five-Year-Data-and-AI-Partnership
+      - https://avitrader.com/2026/08/12/ryanair-signs-five-year-google-cloud-partnership/
+      - https://aviationsourcenews.com/ryanair-partners-with-google-cloud-on-five-year-data-and-ai-deal/
+      - https://airlinegeeks.com/2026/08/12/ryanair-to-integrate-googles-ai-platform/
 ---
 
 # Knowledge Base — Using AI for Business Productivity
@@ -1226,3 +1268,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Google pays $10M for Spirit Airlines' internal data to train AI on how a real company actually runs** — de-identified emails, Teams messages and operational docs from the bankrupt airline sold to Alphabet for AI/productivity-tool training. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-19.html)
 - **Alteryx survey: 53% of enterprises still can't get business context into their AI systems** — 1,400 IT leaders: 80% expect spend to rise, 69% report ROI, but strategy/delivery still sit mostly with IT rather than the business. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-19.html)
 - **Snowflake's Cortex AI Gateway learns to shop around for cheaper models, cutting AI spend up to 3x** — new dynamic model routing tries a cheap model first and escalates to a larger one only when needed; built into Snowflake CoCo/CoWork and open to third-party agents. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-19.html)
+
+## 2026-Aug-20
+- **Salesforce turns its whole platform into an API for AI agents with Headless 360 expansion** — Aug 19 expansion adds a Data 360 MCP Server exposing ~200 APIs, a wave of reusable Skills, and a Slackbot MCP Client wired into 20+ partner apps, so agents can act on governed Salesforce data and workflows without a UI. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-20.html)
+- **Walmart says its Sparky AI agent drives 35% bigger baskets as it builds three more "super agents"** — Q2 FY2026 results (Aug 20): revenue ~$177.4B (+5.6% cc), guidance raised; Sparky users spend 35% more per order, with new associate- and supplier-facing agents in the works. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-20.html)
+- **Lowe's says associate-facing AI is paying off too, not just its customer chatbot** — Q2 2026 (Aug 19): sales $26B (+8.3%), digital comps +15.7%; Mylow converts customers at ~3x the rate of non-users, and Mylow Companion has fielded 5M+ associate questions toward a ~$1B 2026 productivity-savings target. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-20.html)
+- **An insurance brokerage says 95% of its staff now use AI daily — and calls it "enterprise-wide adoption"** — IMA Financial Group (Aug 18): 95%+ of 3,000+ associates use AI daily across agentic workflows, via an internal AI Studio that scales employee-built use cases firm-wide. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-20.html)
+- **Ryanair hands Google Cloud a five-year deal to run crew logistics and flight ops through Gemini** — five-year partnership (announced Aug 12, widened into this run) rolls out Gemini Enterprise and Google Workspace to Ryanair's ~35,000 employees for crew scheduling, fleet/maintenance planning and a dual-cloud strategy. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-20.html)
