@@ -2,10 +2,44 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-08-18
-run_count: 24
-digest_count: 24
+last_run: 2026-08-21
+run_count: 25
+digest_count: 25
 entries:
+  - fingerprint: demystifying-agent-skills-procedural-anchoring-study
+    title: "Demystifying Agent Skills: why procedural anchoring drives 65.7% of skill value, and retrieval collapses at scale"
+    first_seen: 2026-08-21
+    digest: essential-skill-md-for-productivity-2026-Aug-21.html
+    urls:
+      - https://arxiv.org/abs/2608.14036
+      - https://arxiv.org/html/2608.14036v1
+  - fingerprint: claude-code-v2-1-234-236-ntlm-hardening-skills-hot-reload
+    title: "Claude Code v2.1.234-236 close out NTLM credential-leak hardening and fix a skills hot-reload bug"
+    first_seen: 2026-08-21
+    digest: essential-skill-md-for-productivity-2026-Aug-21.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.234
+      - https://code.claude.com/docs/en/changelog
+  - fingerprint: figma-in-app-skill-authoring-design-agent
+    title: "Figma ships in-app skill authoring for its design agent and Figma Make"
+    first_seen: 2026-08-21
+    digest: essential-skill-md-for-productivity-2026-Aug-21.html
+    urls:
+      - https://www.figma.com/blog/got-skills-make-the-figma-agent-a-better-collaborator/
+      - https://help.figma.com/hc/en-us/articles/40283639496599-Custom-skills-for-the-Figma-agent-and-Figma-Make
+  - fingerprint: alipay-agentic-commerce-platform-merchant-skills-mcp
+    title: "Alipay turns merchant storefronts into agent-ready Skills and MCP tools at national scale"
+    first_seen: 2026-08-21
+    digest: essential-skill-md-for-productivity-2026-Aug-21.html
+    urls:
+      - https://www.finextra.com/pressarticle/110650/alipay-launches-full-stack-agentic-commerce-platform-in-china
+      - https://technode.global/2026/08/18/alipay-launches-agentic-commerce-platform-in-china-to-bring-ai-tools-to-merchants/
+  - fingerprint: xsolla-cli-ai-toolkit-agent-skills-one-session-storefront
+    title: "Xsolla adds a CLI to its free agent-skill toolkit for one-session game storefront setup"
+    first_seen: 2026-08-21
+    digest: essential-skill-md-for-productivity-2026-Aug-21.html
+    urls:
+      - https://www.businesswire.com/news/home/20260811651869/en/Xsolla-Adds-CLI-to-Its-AI-Toolkit-Taking-Game-Developers-From-First-Prompt-to-a-Working-Web-Shop-in-One-Session
   - fingerprint: claude-cowork-chrome-side-panel-skills-connectors
     title: "Claude Cowork reaches the Chrome side panel — Skills and Connectors now run in the browser"
     first_seen: 2026-08-18
@@ -785,6 +819,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Aug-21
+- **Demystifying Agent Skills study** — procedural anchoring drives 65.7% of skill value vs 4.5% for fact injection; retrieval precision collapses from 29.6% to 3.3% as pools grow 5→100 skills. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-21.html)
+- **Claude Code v2.1.234-236** — closes out NTLM credential-leak hardening, tightens permission-preview masking, fixes skills hot-reload after working-directory deletion, adds cross-session `notify_when_idle`. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-21.html)
+- **Figma in-app skill authoring** — design agent and Figma Make can now write, preview, and iterate custom SKILL.md files directly in-product. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-21.html)
+- **Alipay's agentic commerce platform** — auto-converts merchant pages/products/workflows into agent-ready Skills + MCP tools; KFC, Luckin Coffee, 16 automakers already integrated. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-21.html)
+- **Xsolla adds CLI to its AI Toolkit** — automates publisher account/API-credential setup so its free agent-skill library can take a game dev from empty project to live storefront in one session. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-21.html)
 
 ## 2026-Aug-18
 - **Claude Cowork reaches the Chrome side panel** — Aug 12 update turns Claude in Chrome into a full Cowork client: history syncs, a task started in a tab finishes on desktop/web/mobile, and account Skills/Connectors work in-browser with no extra setup. Follows the Jul 21 "Record a Skill" feature; live on Max/Team, Pro rolling out. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-18.html)
