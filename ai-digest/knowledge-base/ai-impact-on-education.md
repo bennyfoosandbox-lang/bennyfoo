@@ -2,10 +2,47 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-08-19
-run_count: 15
-digest_count: 14
+last_run: 2026-08-22
+run_count: 16
+digest_count: 15
 entries:
+  - fingerprint: schools-ai-literacy-teaching-chatbot-flaws-aug2026
+    title: "Schools stop just banning AI and start teaching kids to spot its mistakes"
+    first_seen: 2026-08-22
+    digest: ai-impact-on-education-2026-Aug-22.html
+    urls:
+      - https://www.washingtonpost.com/business/2026/08/21/ai-literacy-schools-education/ac4123f8-9d15-11f1-9cc4-2dc9b46e2d5c_story.html
+      - https://www.wsls.com/business/2026/08/21/schools-are-starting-to-teach-ai-literacy-for-many-that-means-helping-kids-see-chatbots-flaws/
+      - https://kesq.com/news/2026/08/20/college-of-the-desert-professor-on-how-students-should-use-ai-this-school-year/
+  - fingerprint: idaho-state-board-generative-ai-education-framework-aug2026
+    title: "Idaho becomes the latest state to adopt formal K-12 AI guidelines"
+    first_seen: 2026-08-22
+    digest: ai-impact-on-education-2026-Aug-22.html
+    urls:
+      - https://www.idahoednews.org/news/state-board-roundup-8-12-26-board-approves-ai-standards-for-k-12-schools/
+      - https://www.boisestatepublicradio.org/politics-government/2026-08-13/idaho-board-of-education-ai-guidelines
+  - fingerprint: washington-county-md-ai-policy-first-reading-aug2026
+    title: "A Maryland county advances its own AI classroom policy ahead of the state's fall deadline"
+    first_seen: 2026-08-22
+    digest: ai-impact-on-education-2026-Aug-22.html
+    urls:
+      - https://localnews1.org/washington-county-school-board-advances-ai-policy-school-changes/
+      - https://marylandmatters.org/2026/07/06/maryland-school-districts-face-fall-deadline-to-set-ai-policies/
+  - fingerprint: google-ai-pro-free-year-college-students-back-to-school-aug2026
+    title: "Google offers US college students a free year of its AI Pro subscription"
+    first_seen: 2026-08-22
+    digest: ai-impact-on-education-2026-Aug-22.html
+    urls:
+      - https://www.macrumors.com/2026/08/19/students-free-year-google-ai-pro/
+      - https://www.technology.org/2026/08/20/google-ai-pro-free-year-college-students/
+      - https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/
+  - fingerprint: forbes-back-to-school-ai-tool-roundup-aug2026
+    title: "The 2026 back-to-school AI tool wave: what's actually new this year"
+    first_seen: 2026-08-22
+    digest: ai-impact-on-education-2026-Aug-22.html
+    urls:
+      - https://www.forbes.com/sites/danfitzpatrick/2026/08/22/10-back-to-school-ai-updates-for-educators/
+      - https://workspaceupdates.googleblog.com/2026/08/gemini-in-google-classroom-is-expanding-to-users-of-all-ages-with-contextualized-Gemini-starter-prompts-for-students.html
   - fingerprint: openai-chatgpt-for-teens-study-mode-launch-aug2026
     title: "OpenAI launches ChatGPT for Teens, betting Study Mode can pull it back from homework-answer machine to tutor"
     first_seen: 2026-08-19
@@ -555,6 +592,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-22
+- **Schools stop just banning AI and start teaching kids to spot its mistakes** — an AP/Washington Post report from a Charleston, SC back-to-school event and a College of the Desert professor's structured-prompt approach both show the shift from restricting AI toward teaching critical evaluation of it as a taught skill. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-22.html)
+- **Idaho becomes the latest state to adopt formal K-12 AI guidelines** — the State Board of Education unanimously approved a "Generative Artificial Intelligence in Education Framework" on August 12 under SB 1227, heading to the legislature next session with standards possibly effective before 2027-28. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-22.html)
+- **A Maryland county advances its own AI classroom policy ahead of the state's fall deadline** — Washington County Public Schools approved the first reading of Policy ACB on August 18, one of the first districts to formalize a policy under Maryland's Artificial Intelligence Ready Schools Act. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-22.html)
+- **Google offers US college students a free year of its AI Pro subscription** — the back-to-school promotion (~Aug 19-20) bundles higher Gemini limits, Gemini Spark, and 5TB storage, auto-converting to a paid $19.99/month plan after 12 months unless canceled. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-22.html)
+- **The 2026 back-to-school AI tool wave: what's actually new this year** — a Forbes roundup (Aug 22) catalogs new classroom features from Google, Microsoft Copilot, Canva, MagicSchool, Kahoot and Diffit shipped ahead of the new school year. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-22.html)
 
 ## 2026-Aug-19
 - **OpenAI launches ChatGPT for Teens, betting Study Mode can pull it back from homework-answer machine to tutor** — a dedicated 13-17 experience combines content safeguards, expanded (but non-monitoring) parental controls, and a step-by-step Study Mode, arriving after a year of lawsuits and regulatory pressure over teens' chatbot use. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-19.html)
