@@ -2,10 +2,43 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-08-21
-run_count: 25
-digest_count: 25
+last_run: 2026-08-22
+run_count: 26
+digest_count: 26
 entries:
+  - fingerprint: claude-platform-computer-browser-skills-files-api-ga
+    title: "Claude Platform reaches GA: computer use, browser use, Skills API, and Files API"
+    first_seen: 2026-08-22
+    digest: essential-skill-md-for-productivity-2026-Aug-22.html
+    urls:
+      - https://claude.com/blog/computer-use-skills-api-files-api
+      - https://platform.claude.com/docs/en/api/beta/skills
+  - fingerprint: owasp-agentic-skills-top-10-v1
+    title: "OWASP publishes Agentic Skills Top 10 v1.0"
+    first_seen: 2026-08-22
+    digest: essential-skill-md-for-productivity-2026-Aug-22.html
+    urls:
+      - https://owasp.org/www-project-agentic-skills-top-10/
+      - https://github.com/OWASP/www-project-agentic-skills-top-10
+  - fingerprint: atskills-attention-trigger-slot-scarcity-arxiv
+    title: "\"@skills: Attention Is All You Have\" shows trigger slots, not skill count, are the real bottleneck"
+    first_seen: 2026-08-22
+    digest: essential-skill-md-for-productivity-2026-Aug-22.html
+    urls:
+      - https://arxiv.org/abs/2608.12610
+      - https://arxiv.org/html/2608.12610
+  - fingerprint: jetbrains-rider-resharper-2026-2-1-junie-skills-breaking
+    title: "JetBrains ships a breaking Junie Agent Skills update in Rider/ReSharper 2026.2.1"
+    first_seen: 2026-08-22
+    digest: essential-skill-md-for-productivity-2026-Aug-22.html
+    urls:
+      - https://blog.jetbrains.com/dotnet/2026/08/19/rider-resharper-2026-2-1/
+  - fingerprint: claude-code-v2-1-237-239-concise-output-plugin-headers
+    title: "Claude Code v2.1.237-239 add a Concise output style, plugin-marketplace header security, and a claude-api skill refresh for SDK 1.x"
+    first_seen: 2026-08-22
+    digest: essential-skill-md-for-productivity-2026-Aug-22.html
+    urls:
+      - https://code.claude.com/docs/en/changelog
   - fingerprint: demystifying-agent-skills-procedural-anchoring-study
     title: "Demystifying Agent Skills: why procedural anchoring drives 65.7% of skill value, and retrieval collapses at scale"
     first_seen: 2026-08-21
@@ -819,6 +852,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Aug-22
+- **Claude Platform GA: computer use, browser use, Skills API, Files API** — Aug 20 announcement graduates all four from beta; `/v1/skills` no longer needs the `skills-2025-10-02` header, biggest productization step yet for the Agent Skills format. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-22.html)
+- **OWASP Agentic Skills Top 10 v1.0** — first vendor-neutral risk taxonomy for skill bundles (SKILL.md/skill.json/manifest.json), published Aug 17, mapped to AISVS/MCP Top 10/LLM Top 10/ISO 42001/NIST AI RMF. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-22.html)
+- **"@skills: Attention Is All You Have" (arXiv 2608.12610)** — argues the real ceiling on skill libraries is ~100 reliable "trigger slots" in the system prompt, not skill count (56,804+ public skills already); proposes a non-resident, addressable skill protocol. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-22.html)
+- **JetBrains Rider/ReSharper 2026.2.1** — Aug 19 release adds Claude Opus 5 to Junie and refreshes Unreal Engine agent skills, but requires a manual uninstall/reinstall of the older skills to pick up the fix. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-22.html)
+- **Claude Code v2.1.237-239** — built-in "Concise" output style, plugin-marketplace `headersHelper` for private catalog/archive auth, and a claude-api skill refresh for the `anthropic` SDK 1.x migration. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-22.html)
+
+Note: 26th consecutive daily run. Firecrawl was not invoked this run — four parallel web-search sweeps (~90 queries total) across Anthropic/Claude releases, competitor platforms, security/governance, and arXiv research already surfaced enough well-corroborated, in-window material, so Firecrawl wasn't needed. All five citation URLs were independently spot-verified via a follow-up search pass before publishing. Strongest fresh finds (Aug 17-21) made the cut; several other Aug 4-13 candidates (AWS Bedrock AgentCore skill harness, the npm "Shai-Hulud" worm targeting Claude Code configs, GhostJacking prompt-injection technique, Perplexity's Agent API) were left out as either not skill-specific enough or already trending toward the edge of the freshness window.
 
 ## 2026-Aug-21
 - **Demystifying Agent Skills study** — procedural anchoring drives 65.7% of skill value vs 4.5% for fact injection; retrieval precision collapses from 29.6% to 3.3% as pools grow 5→100 skills. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-21.html)
