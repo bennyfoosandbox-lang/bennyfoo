@@ -2,10 +2,51 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-08-20
-run_count: 27
-digest_count: 27
+last_run: 2026-08-26
+run_count: 28
+digest_count: 28
 entries:
+  - fingerprint: nber-executives-ai-productivity-study-90pct-no-impact-2026
+    title: "A landmark NBER survey says 90% of executives still see no AI productivity boost"
+    first_seen: 2026-08-26
+    digest: using-ai-for-business-productivity-2026-Aug-26.html
+    urls:
+      - https://fortune.com/2026/08/22/executives-ai-productivity-layoffs-study/
+      - https://www.business-standard.com/technology/tech-news/ai-s-productivity-promise-remains-elusive-for-90-executives-study-finds-126082500711_1.html
+      - https://www.peoplematters.in/news/ai-and-emerging-tech/90percent-of-firms-see-no-measurable-ai-impact-on-productivity-or-jobs-study-51625
+  - fingerprint: google-cloud-gemini-enterprise-financial-services-legal-launch-aug2026
+    title: "Google Cloud carves Gemini Enterprise into industry-specific agent suites, starting with banks and law firms"
+    first_seen: 2026-08-26
+    digest: using-ai-for-business-productivity-2026-Aug-26.html
+    urls:
+      - https://www.googlecloudpresscorner.com/2026-08-25-Google-Cloud-Launches-Gemini-Enterprise-for-Financial-Services
+      - https://www.pymnts.com/google/2026/google-cloud-debuts-specialized-ai-agents-for-financial-services-and-legal-industries/
+      - https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal
+      - https://markets.businessinsider.com/news/stocks/flowx-ai-brings-mission-critical-industry-ai-agents-to-gemini-enterprise-1036491071
+  - fingerprint: bain-anthropic-claude-partner-network-global-premier-productivity-gains
+    title: "Bain says its AI engagements are delivering 30-50% productivity gains — double the market average"
+    first_seen: 2026-08-26
+    digest: using-ai-for-business-productivity-2026-Aug-26.html
+    urls:
+      - https://www.bain.com/about/media-center/press-releases/2026/bain-company-announces-partnership-with-anthropic-to-accelerate-clients-enterprise-ai-transformations/
+      - https://www.marketscreener.com/news/bain-company-and-anthropic-announce-global-partnership-to-accelerate-enterprise-ai-transformations-ce7858d8dc8bf020
+      - https://www.unite.ai/bain-joins-anthropics-claude-partner-network-at-global-premier-tier/
+  - fingerprint: six-five-summit-ai-production-cost-overrun-dell-900-to-13-projects
+    title: "Moving AI from pilot to production is running 3-5x over budget, Six Five Summit told"
+    first_seen: 2026-08-26
+    digest: using-ai-for-business-productivity-2026-Aug-26.html
+    urls:
+      - https://uk.investing.com/news/stock-market-news/dell-at-the-six-five-summit-ai-push-shifts-from-pilots-to-production-93CH-4846627
+      - https://www.techtimes.com/articles/325479/20260825/six-five-summit-opens-today-free-ceo-access-enterprise-ai-hits-production-cost-wall.htm
+      - https://www.dailypolitical.com/2026/08/25/intel-urges-enterprises-to-put-ai-roi-ahead-of-hardware-specs.html
+  - fingerprint: okta-agent-sso-general-availability-ai-agent-identity
+    title: "Okta makes AI agents first-class citizens in enterprise identity systems"
+    first_seen: 2026-08-26
+    digest: using-ai-for-business-productivity-2026-Aug-26.html
+    urls:
+      - https://www.okta.com/newsroom/press-releases/okta-brings-first-class-identity-to-ai-agents-with-agent-sso/
+      - https://technode.global/2026/08/26/okta-launches-agent-sso-enterprise-ai-agents/
+      - https://vmblog.com/news/okta-brings-first-class-identity-to-ai-agents-with-agent-sso/
   - fingerprint: anthropic-overtakes-openai-q2-2026-revenue-profitability
     title: "Anthropic quietly overtakes OpenAI on revenue as the two labs' Q2s diverge sharply"
     first_seen: 2026-08-19
@@ -1275,3 +1316,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Lowe's says associate-facing AI is paying off too, not just its customer chatbot** — Q2 2026 (Aug 19): sales $26B (+8.3%), digital comps +15.7%; Mylow converts customers at ~3x the rate of non-users, and Mylow Companion has fielded 5M+ associate questions toward a ~$1B 2026 productivity-savings target. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-20.html)
 - **An insurance brokerage says 95% of its staff now use AI daily — and calls it "enterprise-wide adoption"** — IMA Financial Group (Aug 18): 95%+ of 3,000+ associates use AI daily across agentic workflows, via an internal AI Studio that scales employee-built use cases firm-wide. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-20.html)
 - **Ryanair hands Google Cloud a five-year deal to run crew logistics and flight ops through Gemini** — five-year partnership (announced Aug 12, widened into this run) rolls out Gemini Enterprise and Google Workspace to Ryanair's ~35,000 employees for crew scheduling, fleet/maintenance planning and a dual-cloud strategy. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-20.html)
+
+## 2026-Aug-26
+- **A landmark NBER survey says 90% of executives still see no AI productivity boost** — nearly 6,000 executives across the US, UK, Germany and Australia surveyed; 89% report no measurable labor-productivity effect and 90%+ no measurable employment effect, despite adoption reaching 78% in the US. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-26.html)
+- **Google Cloud carves Gemini Enterprise into industry-specific agent suites, starting with banks and law firms** — Aug 25 launch of Gemini Enterprise for Financial Services and for Legal, the first of a planned vertical-package series; ~90% of Fortune 100 already use Gemini Enterprise; FlowX.AI is a launch partner. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-26.html)
+- **Bain says its AI engagements are delivering 30-50% productivity gains — double the market average** — Aug 25 global partnership names Bain a Global Premier Claude Partner Network member; Bain has rolled Claude out to its full 19,000-person workforce. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-26.html)
+- **Moving AI from pilot to production is running 3-5x over budget, Six Five Summit told** — Six Five Summit's AI Unleashed 2026 (opened Aug 25) highlighted production cost overruns; Dell says it cut ~900 candidate AI projects down to 13; Intel urged ROI-first evaluation over hardware specs. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-26.html)
+- **Okta makes AI agents first-class citizens in enterprise identity systems** — Agent SSO reached general availability Aug 24, bringing the open Cross App Access standard to 20,000+ Okta customers at no extra cost, replacing static API keys with centrally governed short-lived tokens for agents. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-26.html)
