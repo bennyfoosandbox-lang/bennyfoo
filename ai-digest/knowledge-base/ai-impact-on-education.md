@@ -2,10 +2,50 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-08-22
-run_count: 16
-digest_count: 15
+last_run: 2026-08-26
+run_count: 17
+digest_count: 16
 entries:
+  - fingerprint: tcf-scripps-poll-ai-schools-stronger-rules-aug2026
+    title: "Bipartisan poll: Americans say Washington is moving too slowly on AI-in-schools rules"
+    first_seen: 2026-08-26
+    digest: ai-impact-on-education-2026-Aug-26.html
+    urls:
+      - https://www.scrippsnews.com/us-news/education/poll-americans-want-stronger-rules-for-ai-in-schools
+      - https://www.wptv.com/us-news/education/poll-americans-want-stronger-rules-for-ai-in-schools
+      - https://www.kshb.com/us-news/education/poll-americans-want-stronger-rules-for-ai-in-schools
+  - fingerprint: us-ed-dept-dear-colleague-letter-ai-guidance-aug2026
+    title: "Education Department tells schools to prioritize learning outcomes, not AI hype, in new guidance"
+    first_seen: 2026-08-26
+    digest: ai-impact-on-education-2026-Aug-26.html
+    urls:
+      - https://www.ed.gov/about/news/press-release/us-department-of-education-releases-guidance-responsible-use-of-education-technology-classroom
+      - https://www.aei.org/technology-and-innovation/the-us-department-of-education-just-finalized-its-ai-in-education-priority-heres-what-it-means/
+      - https://www.winssolutions.org/us-education-department-ed-tech-guidance/
+  - fingerprint: alpha-schools-50-campuses-national-expansion-aug2026
+    title: "AI-powered Alpha Schools jumps from a dozen campuses to roughly 50 nationwide"
+    first_seen: 2026-08-26
+    digest: ai-impact-on-education-2026-Aug-26.html
+    urls:
+      - https://www.axios.com/2026/08/02/alpha-schools-ai-expansion-50-campuses
+      - https://www.foxnews.com/media/ai-driven-school-expanding-major-us-cities-despite-union-pushback
+      - https://www.aol.com/articles/ai-school-65k-tuition-latest-090000000.html
+  - fingerprint: turnitin-clarity-keystroke-monitoring-controversy-aug2026
+    title: "Turnitin's new \"Clarity\" tool tracks keystrokes to catch AI writing — and draws its own backlash"
+    first_seen: 2026-08-26
+    digest: ai-impact-on-education-2026-Aug-26.html
+    urls:
+      - https://www.chronicle.com/article/to-catch-ai-cheating-turnitin-wants-to-monitor-students-keystrokes
+      - https://www.chronicle.com/blogs/letters/turnitin-clarity-doesnt-monitor-students
+      - https://districtadministration.com/article/this-new-tool-helps-avoid-ai-driven-plagiarism/
+  - fingerprint: unesco-digital-learning-week-2026-ministerial-ai-statement
+    title: "UNESCO to gather 30 education ministers in Paris for a global AI-in-education statement"
+    first_seen: 2026-08-26
+    digest: ai-impact-on-education-2026-Aug-26.html
+    urls:
+      - https://www.unesco.org/en/weeks/digital-learning
+      - https://www.unesco.org/en/articles/digital-learning-week-2026-award-ceremony-2026-unesco-ict-education-prize
+      - https://mediarightsagenda.org/unescos-2026-digital-learning-week-to-take-place-in-paris-from-september-8-to-11/
   - fingerprint: schools-ai-literacy-teaching-chatbot-flaws-aug2026
     title: "Schools stop just banning AI and start teaching kids to spot its mistakes"
     first_seen: 2026-08-22
@@ -592,6 +632,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-26
+- **Bipartisan poll: Americans say Washington is moving too slowly on AI-in-schools rules** — Century Foundation polling shared with Scripps News finds bipartisan majorities want stronger federal rules on classroom AI, against a largely hands-off federal posture. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-26.html)
+- **Education Department tells schools to prioritize learning outcomes, not AI hype, in new guidance** — an August 20 Dear Colleague Letter urges instructional value over engagement and builds on AI as a supplemental grant priority. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-26.html)
+- **AI-powered Alpha Schools jumps from a dozen campuses to roughly 50 nationwide** — the no-classroom-teacher network scales into 27 markets including Boston, Miami and Tampa for 2026-27 at $45k-$75k tuition. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-26.html)
+- **Turnitin's new "Clarity" tool tracks keystrokes to catch AI writing — and draws its own backlash** — the drafting-process feature sparked a public dispute with the Chronicle of Higher Education over whether it "monitors" students. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-26.html)
+- **UNESCO to gather 30 education ministers in Paris for a global AI-in-education statement** — Digital Learning Week (Sept 8-11) will adopt a ministerial statement on AI in education with ~1,200 in-person attendees. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-26.html)
 
 ## 2026-Aug-22
 - **Schools stop just banning AI and start teaching kids to spot its mistakes** — an AP/Washington Post report from a Charleston, SC back-to-school event and a College of the Desert professor's structured-prompt approach both show the shift from restricting AI toward teaching critical evaluation of it as a taught skill. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-22.html)
