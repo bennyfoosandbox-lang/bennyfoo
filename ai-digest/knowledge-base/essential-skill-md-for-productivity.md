@@ -2,10 +2,47 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-08-22
-run_count: 26
-digest_count: 26
+last_run: 2026-08-27
+run_count: 27
+digest_count: 27
 entries:
+  - fingerprint: salesforce-anthropic-claudeforce-37-sales-skills
+    title: "Salesforce and Anthropic launch Claudeforce, putting a 37-skill sales agent inside Claude"
+    first_seen: 2026-08-27
+    digest: essential-skill-md-for-productivity-2026-Aug-27.html
+    urls:
+      - https://investor.salesforce.com/news/news-details/2026/Salesforce-and-Anthropic-Announce-Claudeforce-The-1-AI-Meets-the-1-AI-CRM/default.aspx
+      - https://www.anthropic.com/news/salesforce-partnership
+      - https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html
+      - https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again
+  - fingerprint: claude-code-v2-1-246-247-bash-warnings-skills-fixes
+    title: "Claude Code v2.1.246 and v2.1.247 tighten Bash safety and fix skill/plugin bugs"
+    first_seen: 2026-08-27
+    digest: essential-skill-md-for-productivity-2026-Aug-27.html
+    urls:
+      - https://code.claude.com/docs/en/changelog
+      - https://dev.classmethod.jp/en/articles/20260826-cc-updates-v2-1-246/
+  - fingerprint: socotra-first-insurance-core-agent-skills
+    title: "Socotra becomes the first insurance core platform to publish its own Agent Skills"
+    first_seen: 2026-08-27
+    digest: essential-skill-md-for-productivity-2026-Aug-27.html
+    urls:
+      - https://www.businesswire.com/news/home/20260826330446/en/
+      - https://github.com/socotra/socotra-skills
+  - fingerprint: camunda-11-official-agent-skills-launch
+    title: "Camunda's 11 official Agent Skills turn weeks of BPMN work into days, engineer says"
+    first_seen: 2026-08-27
+    digest: essential-skill-md-for-productivity-2026-Aug-27.html
+    urls:
+      - https://camunda.com/blog/2026/08/from-weeks-to-days-what-camundas-ai-skills-actually-saved-me/
+      - https://github.com/camunda/skills
+  - fingerprint: microsoft-apm-0-29-0-agent-plugins-1-0-bundle
+    title: "Microsoft's Agent Package Manager ships strict Agent Plugins 1.0 bundling and a breaking skills-declaration change"
+    first_seen: 2026-08-27
+    digest: essential-skill-md-for-productivity-2026-Aug-27.html
+    urls:
+      - https://github.com/microsoft/apm/blob/main/CHANGELOG.md
+      - https://github.com/microsoft/apm
   - fingerprint: claude-platform-computer-browser-skills-files-api-ga
     title: "Claude Platform reaches GA: computer use, browser use, Skills API, and Files API"
     first_seen: 2026-08-22
@@ -852,6 +889,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Aug-27
+- **Salesforce + Anthropic launch Claudeforce** — "Salesforce in Claude" plugin ships 37 prebuilt sales skills (meeting prep, deal-health review, pipeline inspection); Claude becomes default reasoning model across Agentforce, Slack, and Slackbot. Pilot now, open beta September 2026. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-27.html)
+- **Claude Code v2.1.246 & v2.1.247** — Auto Mode tab in `/permissions`, fixes for `/reload-plugins` skill undercounting and doubled plugin-prefixed skill names, a Bash allow-rule wildcard warning, new SendFeedback tool, and an Admin API refresh for the claude-api skill. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-27.html)
+- **Socotra Skills** — first insurance core platform to publish official, open-source Agent Skills for pricing, underwriting, policy transactions, and billing workflows. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-27.html)
+- **Camunda's 11 official Agent Skills** — first-hand account of building a full BPMN/DMN/FEEL insurance process in days instead of weeks using `camunda/skills`, backed by real Optimize dashboard metrics. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-27.html)
+- **Microsoft apm v0.29.0** — strict Agent Plugins 1.0 bundle format via `apm pack --format agent-plugin`, `--trust-bin` consent flags, and a breaking change making `skills` declarations exclusively control deployment. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-27.html)
 
 ## 2026-Aug-22
 - **Claude Platform GA: computer use, browser use, Skills API, Files API** — Aug 20 announcement graduates all four from beta; `/v1/skills` no longer needs the `skills-2025-10-02` header, biggest productization step yet for the Agent Skills format. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-22.html)
