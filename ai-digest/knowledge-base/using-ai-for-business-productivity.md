@@ -2,10 +2,53 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-08-26
-run_count: 28
-digest_count: 28
+last_run: 2026-08-27
+run_count: 29
+digest_count: 29
 entries:
+  - fingerprint: mckinsey-infosys-ai-roi-gap-94pct-enterprises-august-2026
+    title: "McKinsey and Infosys both find enterprise AI still isn't moving the earnings needle"
+    first_seen: 2026-08-27
+    digest: using-ai-for-business-productivity-2026-Aug-27.html
+    urls:
+      - https://www.itpro.com/business/business-strategy/a-striking-finding-this-year-is-the-gap-between-individual-gains-and-enterprise-impact-mckinsey-says-ai-is-finally-paying-off-for-enterprises-but-rising-costs-and-constrained-efficiency-boosts-are-still-a-major-hurdle
+      - https://www.theregister.com/ai-and-ml/2026/08/25/mckinsey-says-enterprise-ai-is-finally-on-the-road-to-roi/
+      - https://www.techtimes.com/articles/325590/20260826/record-ai-spending-cant-move-earnings-needle-94-enterprises-mckinsey-finds.htm
+      - https://www.ciodive.com/news/CIOs-waiting-AI-savings-ROI/828883/
+  - fingerprint: salesforce-q2-fy27-earnings-agentforce-240pct-claudeforce
+    title: "Salesforce's Agentforce revenue triples to a $1.5B run rate as Claudeforce debuts"
+    first_seen: 2026-08-27
+    digest: using-ai-for-business-productivity-2026-Aug-27.html
+    urls:
+      - https://www.salesforce.com/news/press-releases/2026/08/26/fy27-q2-earnings/
+      - https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html
+      - https://www.martechnotes.com/salesforce-q2-fy27-earnings-arrive-today-as-agentforce-growth-faces-a-sharper-test/
+  - fingerprint: crowdstrike-q2-fy27-earnings-ai-mythos-moment-record-arr
+    title: "CrowdStrike's record quarter shows securing AI adoption is now a business of its own"
+    first_seen: 2026-08-27
+    digest: using-ai-for-business-productivity-2026-Aug-27.html
+    urls:
+      - https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html
+      - https://qz.com/crowdstrike-earnings-q2-fiscal-2027-revenue-arr-guidance-082626
+      - https://www.stocktitan.net/news/CRWD/crowd-strike-reports-second-quarter-fiscal-year-2027-financial-aw4xynrytp66.html
+      - https://247wallst.com/investing/2026/08/26/live-will-crowdstrikes-q2-earnings-tonight-send-the-stock-higher/
+  - fingerprint: mistral-humain-saudi-arabia-sovereign-ai-partnership-aug2026
+    title: "Mistral and Saudi Arabia's HUMAIN strike a sovereign-AI deal worth hundreds of millions of euros"
+    first_seen: 2026-08-27
+    digest: using-ai-for-business-productivity-2026-Aug-27.html
+    urls:
+      - https://mistral.ai/news/mistral-x-humain/
+      - https://www.unite.ai/mistral-and-humain-team-on-sovereign-ai-for-saudi-arabia-and-the-region/
+      - https://techafricanews.com/2026/08/25/mistral-humain-hundreds-millions-euro-ai-partnership-saudi-arabia/
+      - https://www.prnewswire.com/news-releases/mistral-and-humain-announce-strategic-collaboration-to-advance-sovereign-ai-in-saudi-arabia-and-regionally-302858613.html
+  - fingerprint: nvidia-q2-fy27-earnings-96b-revenue-enterprise-demand
+    title: "Nvidia's enterprise and industrial AI sales jump 138% as Q2 revenue nearly doubles to $96 billion"
+    first_seen: 2026-08-27
+    digest: using-ai-for-business-productivity-2026-Aug-27.html
+    urls:
+      - https://fortune.com/2026/08/26/nvidia-results-q2-earnings/
+      - https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html
+      - https://www.marketbeat.com/earnings/reports/2026-8-26-nvidia-co-stock/
   - fingerprint: nber-executives-ai-productivity-study-90pct-no-impact-2026
     title: "A landmark NBER survey says 90% of executives still see no AI productivity boost"
     first_seen: 2026-08-26
@@ -1316,6 +1359,13 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Lowe's says associate-facing AI is paying off too, not just its customer chatbot** — Q2 2026 (Aug 19): sales $26B (+8.3%), digital comps +15.7%; Mylow converts customers at ~3x the rate of non-users, and Mylow Companion has fielded 5M+ associate questions toward a ~$1B 2026 productivity-savings target. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-20.html)
 - **An insurance brokerage says 95% of its staff now use AI daily — and calls it "enterprise-wide adoption"** — IMA Financial Group (Aug 18): 95%+ of 3,000+ associates use AI daily across agentic workflows, via an internal AI Studio that scales employee-built use cases firm-wide. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-20.html)
 - **Ryanair hands Google Cloud a five-year deal to run crew logistics and flight ops through Gemini** — five-year partnership (announced Aug 12, widened into this run) rolls out Gemini Enterprise and Google Workspace to Ryanair's ~35,000 employees for crew scheduling, fleet/maintenance planning and a dual-cloud strategy. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-20.html)
+
+## 2026-Aug-27
+- **McKinsey and Infosys both find enterprise AI still isn't moving the earnings needle** — McKinsey survey of 1,719 execs: only 6% are "AI high performers" attributing 5%+ of EBIT to AI, 63% see no measurable earnings impact; Infosys survey of 1,000+ execs: 72% have scaled less than a quarter of AI pilots, two-thirds can't measure ROI. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-27.html)
+- **Salesforce's Agentforce revenue triples to a $1.5B run rate as Claudeforce debuts** — Q2 FY27 (Aug 26): total revenue $11.35B (+11% YoY), Agentforce annualized revenue +240% YoY to $1.5B, net income +87% to $3.53B partly on a $2.6B Anthropic stake gain; new Claudeforce plugin lets Claude compose emails and update CRM records. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-27.html)
+- **CrowdStrike's record quarter shows securing AI adoption is now a business of its own** — Q2 FY27 (Aug 26): revenue +26% YoY to $1.47B, net-new ARR +51% to a record $332.8M; CEO George Kurtz ties the surge to a "Mythos moment" pushing mass-market demand for AI security. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-27.html)
+- **Mistral and Saudi Arabia's HUMAIN strike a sovereign-AI deal worth hundreds of millions of euros** — Aug 24 collaboration spans compute infrastructure, frontier models and go-to-market for regulated industries in the Gulf, framed around data/model sovereignty rather than depending on U.S. hyperscalers. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-27.html)
+- **Nvidia's enterprise and industrial AI sales jump 138% as Q2 revenue nearly doubles to $96 billion** — fiscal Q2 2027 (Aug 26): revenue $96.2B (+106% YoY); "AI Clouds, industrial and enterprise" segment sales +138% YoY to $40.3B, showing enterprises building their own AI apps are a fast-growing share of compute demand. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-27.html)
 
 ## 2026-Aug-26
 - **A landmark NBER survey says 90% of executives still see no AI productivity boost** — nearly 6,000 executives across the US, UK, Germany and Australia surveyed; 89% report no measurable labor-productivity effect and 90%+ no measurable employment effect, despite adoption reaching 78% in the US. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-26.html)
