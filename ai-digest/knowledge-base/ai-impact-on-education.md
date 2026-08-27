@@ -2,10 +2,45 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-08-26
-run_count: 17
-digest_count: 16
+last_run: 2026-08-27
+run_count: 18
+digest_count: 17
 entries:
+  - fingerprint: openai-chatgpt-for-teachers-55-districts-16-state-privacy-aug2026
+    title: "OpenAI's free \"ChatGPT for Teachers\" doubles down, adding 55 school systems and a 16-state privacy pact"
+    first_seen: 2026-08-27
+    digest: ai-impact-on-education-2026-Aug-27.html
+    urls:
+      - https://9to5mac.com/2026/08/26/free-chatgpt-for-teachers-expansion/
+      - https://openai.com/index/chatgpt-for-teachers/
+      - https://www.staradvertiser.com/2026/08/26/hawaii-news/openai-partners-with-kamehameha-schools-to-expand-ai-access-for-educators/
+      - https://www.whro.org/education-news/2026-08-26/virginia-beach-schools-enters-partnership-with-openai-to-bring-chatgpt-to-educators
+      - https://bakersfieldnow.com/news/local/openai-is-expanding-chatgpt-for-teachers-through-new-partnership-with-khsd-kern-high-school-district-california
+  - fingerprint: florida-college-system-ai-policy-rule-openai-lawsuit-fsu-aug2026
+    title: "Florida moves to force every public college to write an AI policy — while its AG sues OpenAI over a campus shooting"
+    first_seen: 2026-08-27
+    digest: ai-impact-on-education-2026-Aug-27.html
+    urls:
+      - https://www.cbsnews.com/miami/news/florida-state-board-education-ai-school-rule-vote/
+      - https://www.news4jax.com/news/local/2026/08/27/florida-moves-to-require-ai-policies-at-public-colleges/
+      - https://www.wuft.org/education/2026-08-26/florida-looks-to-require-each-state-college-to-implement-ai-policies
+      - https://www.wusf.org/education/2026-08-26/florida-eyes-ai-rules-for-state-colleges
+  - fingerprint: mit-ad-hoc-committee-ai-final-report-aug2026
+    title: "MIT's AI committee tells the university to redesign courses around AI, not around banning it"
+    first_seen: 2026-08-27
+    digest: ai-impact-on-education-2026-Aug-27.html
+    urls:
+      - https://www.govtech.com/education/higher-ed/mit-outlines-responsible-use-policy-recommendations-for-ai
+      - https://aiandeducation.mit.edu/report/
+      - https://www.forbes.com/sites/ronschmelzer/2026/08/25/mit-says-ai-is-forcing-a-rethink-of-college-itself/
+  - fingerprint: nyc-doe-ai-purchase-freeze-gradebook-crisis-update-aug2026
+    title: "Update: NYC's AI purchasing freeze is now breaking basic school software, days before the first bell"
+    first_seen: 2026-08-27
+    digest: ai-impact-on-education-2026-Aug-27.html
+    urls:
+      - https://www.chalkbeat.org/newyork/2026/08/26/nyc-schools-software-purchasing-freeze-ai-policy/
+      - https://gothamist.com/news/all-education-tech-purchases-on-pause-as-nyc-schools-wrestle-with-ai
+      - https://www.govtech.com/education/k-12/new-york-city-schools-temporarily-pause-tech-purchases
   - fingerprint: tcf-scripps-poll-ai-schools-stronger-rules-aug2026
     title: "Bipartisan poll: Americans say Washington is moving too slowly on AI-in-schools rules"
     first_seen: 2026-08-26
@@ -632,6 +667,12 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-27
+- **OpenAI's free "ChatGPT for Teachers" doubles down, adding 55 school systems and a 16-state privacy pact** — expansion reaches 100+ K-12 organizations, 300,000+ educators, and extends free access through June 2028. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-27.html)
+- **Florida moves to force every public college to write an AI policy — while its AG sues OpenAI over a campus shooting** — a proposed rule covers all 28 Florida College System institutions, alongside a separate state lawsuit tying ChatGPT to the 2025 FSU shooting. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-27.html)
+- **MIT's AI committee tells the university to redesign courses around AI, not around banning it** — the Ad Hoc Committee's final report calls for "AI-aware" curricula, disclosure norms, and new assessment formats rather than restrictions. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-27.html)
+- **Update: NYC's AI purchasing freeze is now breaking basic school software, days before the first bell** — principals report being unable to renew gradebooks and family-communication tools as the September 10 start date nears. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-27.html)
 
 ## 2026-Aug-26
 - **Bipartisan poll: Americans say Washington is moving too slowly on AI-in-schools rules** — Century Foundation polling shared with Scripps News finds bipartisan majorities want stronger federal rules on classroom AI, against a largely hands-off federal posture. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-26.html)
