@@ -3,9 +3,48 @@ topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
 last_run: 2026-08-27
-run_count: 18
+run_count: 19
 digest_count: 17
 entries:
+  - fingerprint: khanmigo-two-year-nber-study-low-engagement-aug2026
+    title: "Two-year Khanmigo trial: access was nearly universal, but engagement was thin"
+    first_seen: 2026-08-27
+    digest: ai-impact-on-education-2026-Aug-27.html
+    urls:
+      - https://www.chalkbeat.org/2026/08/25/ai-tutoring-students-khanmigo-khan-academy-engagement-study/
+      - https://www.nber.org/papers/w35620
+      - https://edworkingpapers.com/ai26-1551
+      - https://www.efinstitute.org/2026/08/study-shows-low-student-use-of-ai-tutors-like-khanmigo/
+  - fingerprint: nyc-pep-meeting-aug26-chancellor-silent-moratorium
+    title: "Update: NYC's chancellor still won't say whether there'll be an AI moratorium — with 2 weeks to go"
+    first_seen: 2026-08-27
+    digest: ai-impact-on-education-2026-Aug-27.html
+    urls:
+      - https://www.amny.com/education/ai-big-tech-nyc-public-schools-opposition/
+      - https://www.yahoo.com/news/articles/nyc-parents-students-demand-moratorium-143000196.html
+  - fingerprint: springfield-kiley-prep-alpha-ai-pilot-union-pushback-aug2026
+    title: "A Springfield, MA middle school launches a teacher-less-adjacent AI classroom — its own union is trying to stop it"
+    first_seen: 2026-08-27
+    digest: ai-impact-on-education-2026-Aug-27.html
+    urls:
+      - https://www.wbur.org/news/2026/08/20/alpha-artificial-intelligence-springfield-teachers-union-school-technology
+      - https://www.westernmassnews.com/2026/08/25/springfield-school-launches-ai-classroom-pilot-amid-educator-concerns/
+      - https://sezp.org/kiley-prep-is-preparing-to-pilot-an-adaptation-of-the-alpha-school-model-this-fall/
+  - fingerprint: openai-460m-weekly-student-messages-usage-report-aug2026
+    title: "OpenAI's own usage data: 460 million homework messages a week, spiking every Sunday night"
+    first_seen: 2026-08-27
+    digest: ai-impact-on-education-2026-Aug-27.html
+    urls:
+      - https://www.tun.com/home/openai-report-460m-weekly-student-messages-sent-to-chatgpt/
+      - https://sherwood.news/tech/chatgpt-use-is-picking-up-again-just-as-students-head-back-to-school/
+      - https://www.thestreet.com/technology/openai-free-chatgpt-for-teachers-schools-privacy-deal
+  - fingerprint: catholic-colleges-ai-policy-magnifica-humanitas-aug2026
+    title: "Catholic colleges start writing AI policy through the lens of the Pope's new encyclical"
+    first_seen: 2026-08-27
+    digest: ai-impact-on-education-2026-Aug-27.html
+    urls:
+      - https://www.ewtnnews.com/world/us/ai-catholic-colleges-guided-magnifica-humanitas
+      - https://nceatalk.org/2026/08/catholic-schools-have-prepared-for-centuries-for-the-ai-moment-pope-leo-describes-in-magnifica-humanitas/
   - fingerprint: openai-chatgpt-for-teachers-55-districts-16-state-privacy-aug2026
     title: "OpenAI's free \"ChatGPT for Teachers\" doubles down, adding 55 school systems and a 16-state privacy pact"
     first_seen: 2026-08-27
@@ -673,6 +712,13 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Florida moves to force every public college to write an AI policy — while its AG sues OpenAI over a campus shooting** — a proposed rule covers all 28 Florida College System institutions, alongside a separate state lawsuit tying ChatGPT to the 2025 FSU shooting. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-27.html)
 - **MIT's AI committee tells the university to redesign courses around AI, not around banning it** — the Ad Hoc Committee's final report calls for "AI-aware" curricula, disclosure norms, and new assessment formats rather than restrictions. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-27.html)
 - **Update: NYC's AI purchasing freeze is now breaking basic school software, days before the first bell** — principals report being unable to renew gradebooks and family-communication tools as the September 10 start date nears. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-27.html)
+
+### Second run, later 2026-Aug-27 (supersedes the morning edition at this date-slug)
+- **Two-year Khanmigo trial: access was nearly universal, but engagement was thin** — an 18-school Tennessee NBER study finds 96% tried the AI tutor but median use was thin, with modest math gains resembling AI-free practice. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-27.html)
+- **Update: NYC's chancellor still won't say whether there'll be an AI moratorium — with 2 weeks to go** — the final pre-school-year Panel for Educational Policy meeting saw renewed moratorium demands and no clarity from Chancellor Samuels. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-27.html)
+- **A Springfield, MA middle school launches a teacher-less-adjacent AI classroom — its own union is trying to stop it** — Kiley Prep's Alpha-model pilot keeps a teacher in the room, but the Springfield Education Association filed a cease-and-desist over vetting and data concerns. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-27.html)
+- **OpenAI's own usage data: 460 million homework messages a week, spiking every Sunday night** — a new OpenAI usage report quantifies ChatGPT's back-to-school scale, including teacher time-saving use. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-27.html)
+- **Catholic colleges start writing AI policy through the lens of the Pope's new encyclical** — institutions cite Pope Leo XIV's Magnifica Humanitas as the values framework shaping their classroom AI rules. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-27.html)
 
 ## 2026-Aug-26
 - **Bipartisan poll: Americans say Washington is moving too slowly on AI-in-schools rules** — Century Foundation polling shared with Scripps News finds bipartisan majorities want stronger federal rules on classroom AI, against a largely hands-off federal posture. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-26.html)
