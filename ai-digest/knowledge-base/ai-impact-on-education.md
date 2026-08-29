@@ -2,10 +2,48 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-08-27
-run_count: 19
-digest_count: 17
+last_run: 2026-08-29
+run_count: 20
+digest_count: 18
 entries:
+  - fingerprint: anthropic-claude-for-teachers-schools-districts-enterprise-aug2026
+    title: "Anthropic takes Claude for Teachers from individual educators to entire school districts"
+    first_seen: 2026-08-29
+    digest: ai-impact-on-education-2026-Aug-29.html
+    urls:
+      - https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts
+      - https://www.unite.ai/anthropic-brings-claude-for-teachers-to-schools-and-districts/
+      - https://www.the74million.org/article/anthropic-launches-claude-for-teachers-in-ai-race-to-influence-americas-classrooms/
+  - fingerprint: google-ai-plus-africa-27-countries-expansion-aug2026
+    title: "Google's free AI Plus offer for college students jumps from 6 African countries to 27"
+    first_seen: 2026-08-29
+    digest: ai-impact-on-education-2026-Aug-29.html
+    urls:
+      - https://techmoran.com/2026/08/27/google-offers-african-students-one-year-of-free-google-ai-plus/
+      - https://cioafrica.co/google-expands-free-ai-access-across-27-african-countries/
+      - https://iafrica.com/google-extends-free-student-ai-offer-from-six-african-countries-to-27/
+  - fingerprint: uchicago-social-sciences-analog-classrooms-catholic-ai-policy-aug2026
+    title: "Update: University of Chicago goes fully analog for social-science classes, part of a widening Catholic-college AI reckoning"
+    first_seen: 2026-08-29
+    digest: ai-impact-on-education-2026-Aug-29.html
+    urls:
+      - https://ewtn.co.uk/article-ai-at-catholic-colleges-institutions-map-policies-guided-by-magnifica-humanitas/
+      - https://chicagomaroon.com/53262/news/sosc-core-to-institute-ai-ban-technology-free-classrooms-this-fall/
+  - fingerprint: florida-desantis-ai-rule-prek-to-phd-parental-notice-aug2026
+    title: "Update: Florida's pre-K-through-PhD AI rule gets its sharpest details yet — parental notice, privacy, academic-integrity duties"
+    first_seen: 2026-08-29
+    digest: ai-impact-on-education-2026-Aug-29.html
+    urls:
+      - https://www.wlrn.org/education/2026-08-28/desantis-administration-moving-to-regulate-ai-from-pre-k-to-ph-d
+      - https://diverseeducation.com/ai/article/15833671/florida-moves-to-enact-ai-rules-across-k12-and-higher-education
+      - https://www.islandernews.com/news/education/new-ai-rules-could-reshape-florida-classrooms-from-pre-k-to-phd/article_42a9b812-77c7-4aa5-b723-a67c7edb9dbe.html
+  - fingerprint: omaha-school-counselors-ai-chatbots-mental-health-aug2026
+    title: "Omaha-area school counselors start using AI chatbots built specifically for student mental-health triage"
+    first_seen: 2026-08-29
+    digest: ai-impact-on-education-2026-Aug-29.html
+    urls:
+      - https://www.kimt.com/news/school-counselors-start-turning-to-ai-chatbots-to-help-students-with-their-mental-health/article_18f63b1e-ed12-5914-8c45-e64f0066ef47.html
+      - https://www.3newsnow.com/central-omaha/school-counselors-start-turning-to-ai-chatbots-to-help-students-with-their-mental-health
   - fingerprint: khanmigo-two-year-nber-study-low-engagement-aug2026
     title: "Two-year Khanmigo trial: access was nearly universal, but engagement was thin"
     first_seen: 2026-08-27
@@ -706,6 +744,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-29
+- **Anthropic takes Claude for Teachers from individual educators to entire school districts** — an August 28 Enterprise offering lets districts centrally manage staff under K-12 terms, with a free year for orgs that sign up by June 30, 2027, and a Detroit Public Schools pilot studying educator wellbeing. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-29.html)
+- **Google's free AI Plus offer for college students jumps from 6 African countries to 27** — a fourfold expansion bundles Gemini access, doubled usage limits, and 400GB storage for verified students across the continent. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-29.html)
+- **Update: University of Chicago goes fully analog for social-science classes, part of a widening Catholic-college AI reckoning** — following our August 27 Magnifica Humanitas coverage, UChicago's Social Sciences Core bans laptops and AI outright this fall, alongside similar moves at Benedictine College and the University of St. Thomas. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-29.html)
+- **Update: Florida's pre-K-through-PhD AI rule gets its sharpest details yet — parental notice, privacy, academic-integrity duties** — new reporting on the August 27 State Board vote adds a parental-notification requirement for AI use in dual-enrollment courses. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-29.html)
+- **Omaha-area school counselors start using AI chatbots built specifically for student mental-health triage** — a University of Nebraska Omaha-developed pair of tools helps counselors flag causes and ethical concerns amid a national 385:1 student-to-counselor ratio. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-29.html)
 
 ## 2026-Aug-27
 - **OpenAI's free "ChatGPT for Teachers" doubles down, adding 55 school systems and a 16-state privacy pact** — expansion reaches 100+ K-12 organizations, 300,000+ educators, and extends free access through June 2028. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-27.html)
