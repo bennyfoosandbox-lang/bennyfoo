@@ -31,14 +31,14 @@ entries:
       - https://www.morningstar.com/news/business-wire/20260825235670/temporal-releases-the-2026-state-of-development-report-ai-agents-revealing-a-708-leap-in-ai-agent-use-among-engineers
       - https://www.developer-tech.com/news/developers-trust-ai-agents-still-verify-code-manually/
       - https://ideatomvp.ai/en/blog/agent-trust-calibration-gap-temporal-survey-2026
-  - fingerprint: google-a2a-protocol-joins-agentic-ai-foundation-aaif-mcp
-    title: "Google hands its agent-to-agent protocol to a neutral foundation, joining Anthropic's MCP"
+  - fingerprint: salesforce-q2-fy27-actual-results-eps-quality-investment-gains-aug2026
+    title: "Salesforce's Q2 beat looks smaller once you subtract the investment gains"
     first_seen: 2026-08-29
     digest: using-ai-for-business-productivity-2026-Aug-29.html
     urls:
-      - https://forkast.news/googles-a2a-protocol-joins-aaif-consolidating-the-agent-economys-protocol-layer-under-one-roof/
-      - https://www.techzine.eu/news/devops/143659/google-transfers-a2a-to-the-agentic-ai-foundation/
-      - https://blog.pebblous.ai/blog/a2a-mcp-agentic-ai-foundation-authorization/en/
+      - https://www.fool.com/coverage/stock-market-today/2026/08/27/stock-market-today-aug-27-salesforce-surges-23-on-anthropic-partnership-and-q2-earnings-beat/
+      - https://www.martechnotes.com/salesforce-stock-jumps-22-6-as-ai-growth-turns-q2-results-into-saas-rally/
+      - https://www.ebc.com/forex/salesforce-stock-q2-fy27-eps-investment-gains
   - fingerprint: ai-layoffs-tracker-205000-workers-2026-acceleration
     title: "AI-attributed layoffs hit 205,000 workers in 2026 — already matching last year's full total"
     first_seen: 2026-08-29
@@ -1260,7 +1260,7 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **ServiceNow's AI business crosses $1 billion — and it's not chatbots driving it** — Q2 2026 AI ACV passed $1B (+40% QoQ), agentic production deployments up 9x in nine months, half of net-new business now non-seat-based. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-29.html)
 - **Workday's AI ARR triples to nearly $600 million as agents go from novelty to default** — fiscal Q2 2027: AI ARR near $600M (+200% YoY), AI drives 25%+ of new ACV, 5,500+ customers now run organic agents (+35% QoQ); Financial Audit Agent goes GA and Agent Passport ships for pre/post-production agent verification. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-29.html)
 - **A new survey says AI agent use among engineers jumped 70% in a year** — Temporal's 2026 State of Development Report (550+ engineers): daily-or-more agent use hit 80.8%, up from 47.3% a year ago; 91.1% report productivity gains, but 41.1% hit agent issues daily. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-29.html)
-- **Google hands its agent-to-agent protocol to a neutral foundation, joining Anthropic's MCP** — Google donated A2A to the Linux Foundation's Agentic AI Foundation on Aug 20, sitting alongside Anthropic's MCP under one governance body now 250+ members strong (AWS, Anthropic, Block, Bloomberg, Cloudflare, Google, Microsoft, OpenAI). [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-29.html)
+- **Salesforce's Q2 beat looks smaller once you subtract the investment gains** — actual Q2 FY27 results (Aug 26): EPS $5.90 vs $3.27 consensus, stock +22.6%, guidance raised to $46.1–46.4B revenue; but $2.53 of the $2.63 EPS beat came from one-time investment gains, not operations — a follow-up to the Aug-27 preview entry. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-29.html)
 - **AI-attributed layoffs hit 205,000 workers in 2026 — already matching last year's full total** — over half of major 2026 layoff announcements now cite AI/automation explicitly, concentrated in customer service, data ops, entry-level software and finance back offices; 51% of leaders expect AI-driven cuts at their own company before year-end. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-29.html)
 
 ## 2026-Aug-28
