@@ -2,10 +2,94 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-08-28
-run_count: 30
-digest_count: 30
+last_run: 2026-08-30
+run_count: 32
+digest_count: 32
 entries:
+  - fingerprint: google-gemini-enterprise-cost-controls-payasyougo-spend-caps-aug2026
+    title: "Google adds spend caps and pay-as-you-go pricing to Gemini Enterprise as AI bills balloon"
+    first_seen: 2026-08-30
+    digest: using-ai-for-business-productivity-2026-Aug-30.html
+    urls:
+      - https://www.techrepublic.com/article/news-google-gemini-enterprise-pay-as-you-go-pricing/
+      - https://www.cio.com/article/4214185/google-adds-pay-as-you-go-gemini-pricing-as-enterprises-seek-control-over-ai-spending.html
+      - https://www.eweek.com/news/google-gemini-enterprise-pay-as-you-go-pricing/
+      - https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud
+  - fingerprint: dynatrace-ai-scaling-enterprise-reliability-breaking-points-aug2026
+    title: "Dynatrace: AI at enterprise scale is breaking traditional reliability practices"
+    first_seen: 2026-08-30
+    digest: using-ai-for-business-productivity-2026-Aug-30.html
+    urls:
+      - https://ir.dynatrace.com/news-events/press-releases/detail/438/as-ai-scales-across-enterprises-breaking-points-emerge
+      - https://arabianreseller.com/2026/08/26/ai-adoption-is-putting-new-pressure-on-enterprise-reliability-teams/
+      - https://www.cioandleader.com/ai-is-forcing-sre-and-platform-teams-to-grow-up-fast-new-report-finds/
+      - https://www.stocktitan.net/news/DT/as-ai-scales-across-enterprises-breaking-points-u7j2vascnxw3.html
+  - fingerprint: cesba-buenos-aires-argentina-ai-occupational-exposure-index-aug2026
+    title: "Buenos Aires becomes the first city to measure its own AI job-exposure index — and ranks second globally"
+    first_seen: 2026-08-30
+    digest: using-ai-for-business-productivity-2026-Aug-30.html
+    urls:
+      - https://buenosairesherald.com/business/argentina-most-exposed-to-ai-impact-in-latin-america-study-finds
+      - https://www.infobae.com/economia/2026/08/21/caba-es-la-segunda-jurisdiccion-mas-expuesta-a-la-inteligencia-artificial-del-mundo-cuales-son-los-empleos-afectados/
+      - https://www.ambito.com/informacion-general/caba-se-convirtio-la-primera-ciudad-del-mundo-analizar-la-exposicion-del-empleo-la-ia-que-arrojaron-los-datos-n6312155
+      - https://www.lanacion.com.ar/economia/IA/un-informe-muestra-que-trabajos-de-caba-estan-mas-expuestos-al-avance-de-la-ia-nid18082026/
+  - fingerprint: ai-agents-smb-backoffice-cashfree-relay-ga-aug2026
+    title: "AI agents start doing real back-office work — from SMB payments to enterprise operations"
+    first_seen: 2026-08-30
+    digest: using-ai-for-business-productivity-2026-Aug-30.html
+    urls:
+      - https://northeasttimes.com/2026/08/29/ai-agents-are-reshaping-how-companies-work-and-raising-alarms/
+      - https://ibsintelligence.com/ibsi-news/cashfrees-relay-brings-ai-agents-to-smb-payment-operations/
+      - https://bfsi.eletsonline.com/cashfree-payments-launches-relay-ai-super-agents-to-automate-end-to-end-payment-operations-for-smbs/
+      - https://smestreet.in/technology/cashfree-relay-automates-payment-workflows-for-smbs-12442302
+  - fingerprint: google-a2a-protocol-joins-agentic-ai-foundation-linux-foundation-aug2026
+    title: "Google folds its A2A agent-communication protocol into the same neutral foundation as Anthropic's MCP"
+    first_seen: 2026-08-30
+    digest: using-ai-for-business-productivity-2026-Aug-30.html
+    urls:
+      - https://www.axios.com/2026/08/17/a2a-agentic-ai-foundation-open-ai-standards
+      - https://www.techzine.eu/news/devops/143659/google-transfers-a2a-to-the-agentic-ai-foundation/
+      - https://forkast.news/googles-a2a-protocol-joins-aaif-consolidating-the-agent-economys-protocol-layer-under-one-roof/
+  - fingerprint: servicenow-q2-2026-earnings-ai-acv-1-billion-agentic-9x
+    title: "ServiceNow's AI business crosses $1 billion — and it's not chatbots driving it"
+    first_seen: 2026-08-29
+    digest: using-ai-for-business-productivity-2026-Aug-29.html
+    urls:
+      - https://www.techtimes.com/articles/325759/20260827/servicenow-ai-revenue-crosses-1b-non-seat-deals-hit-50-new-business.htm
+      - https://247wallst.com/investing/2026/08/28/is-there-plenty-of-room-left-to-buy-servicenow-after-it-spiked/
+      - https://fortune.com/company/servicenow/earnings/q2-2026/
+      - https://seekingalpha.com/article/4940392-servicenow-loaded-rocket-on-ai-launch-pad
+  - fingerprint: workday-q2-fy27-earnings-ai-arr-600m-agent-adoption
+    title: "Workday's AI ARR triples to nearly $600 million as agents go from novelty to default"
+    first_seen: 2026-08-29
+    digest: using-ai-for-business-productivity-2026-Aug-29.html
+    urls:
+      - https://www.prnewswire.com/news-releases/workday-announces-fiscal-2027-second-quarter-financial-results-302862164.html
+      - https://finance.biggo.com/news/US_WDAY_2026-08-27
+      - https://finance.yahoo.com/technology/ai/articles/workday-inc-wday-q2-2027-050214258.html
+  - fingerprint: temporal-2026-state-of-development-report-ai-agents-80pct-daily-use
+    title: "A new survey says AI agent use among engineers jumped 70% in a year"
+    first_seen: 2026-08-29
+    digest: using-ai-for-business-productivity-2026-Aug-29.html
+    urls:
+      - https://www.morningstar.com/news/business-wire/20260825235670/temporal-releases-the-2026-state-of-development-report-ai-agents-revealing-a-708-leap-in-ai-agent-use-among-engineers
+      - https://www.developer-tech.com/news/developers-trust-ai-agents-still-verify-code-manually/
+      - https://ideatomvp.ai/en/blog/agent-trust-calibration-gap-temporal-survey-2026
+  - fingerprint: salesforce-q2-fy27-actual-results-eps-quality-investment-gains-aug2026
+    title: "Salesforce's Q2 beat looks smaller once you subtract the investment gains"
+    first_seen: 2026-08-29
+    digest: using-ai-for-business-productivity-2026-Aug-29.html
+    urls:
+      - https://www.fool.com/coverage/stock-market-today/2026/08/27/stock-market-today-aug-27-salesforce-surges-23-on-anthropic-partnership-and-q2-earnings-beat/
+      - https://www.martechnotes.com/salesforce-stock-jumps-22-6-as-ai-growth-turns-q2-results-into-saas-rally/
+      - https://www.ebc.com/forex/salesforce-stock-q2-fy27-eps-investment-gains
+  - fingerprint: ai-layoffs-tracker-205000-workers-2026-acceleration
+    title: "AI-attributed layoffs hit 205,000 workers in 2026 — already matching last year's full total"
+    first_seen: 2026-08-29
+    digest: using-ai-for-business-productivity-2026-Aug-29.html
+    urls:
+      - https://news.outsourceaccelerator.com/ai-layoffs-205000/
+      - https://www.ibtimes.co.uk/ai-layoffs-2026-impact-1816503
   - fingerprint: salesforce-slack-code-claudeforce-shared-ai-coding-channels-aug2026
     title: "Salesforce turns Slack into a shared workspace for AI coding agents, with Claude as the default brain"
     first_seen: 2026-08-28
@@ -1215,6 +1299,20 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-30
+- **Google adds spend caps and pay-as-you-go pricing to Gemini Enterprise as AI bills balloon** — new pay-as-you-go option, hard monthly spend caps that auto-pause agent API calls, and 10-20% Flexible Savings Plan discounts, directly answering enterprise cost-and-ROI complaints. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-30.html)
+- **Dynatrace: AI at enterprise scale is breaking traditional reliability practices** — survey of 919 SRE/platform leaders at $500M+ enterprises finds AI workloads fail without conventional warning signs; only 40% of platform teams have observability instrumented across every deployment stage. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-30.html)
+- **Buenos Aires becomes the first city to measure its own AI job-exposure index — and ranks second globally** — CESBA's ILO-methodology index scores Buenos Aires 0.353 (2nd worldwide behind Singapore), with 67% of city employment showing AI exposure concentrated in white-collar/professional roles. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-30.html)
+- **AI agents start doing real back-office work — from SMB payments to enterprise operations** — Cashfree's Relay Super Agent reaches general availability for end-to-end SMB payment operations, part of a broader shift of agents into task-completion roles with real write-access to operational systems. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-30.html)
+- **Google folds its A2A agent-communication protocol into the same neutral foundation as Anthropic's MCP** — A2A formally joins the Linux Foundation's Agentic AI Foundation alongside MCP, reducing fragmentation risk for enterprises building multi-agent, multi-vendor workflows. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-30.html)
+
+## 2026-Aug-29
+- **ServiceNow's AI business crosses $1 billion — and it's not chatbots driving it** — Q2 2026 AI ACV passed $1B (+40% QoQ), agentic production deployments up 9x in nine months, half of net-new business now non-seat-based. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-29.html)
+- **Workday's AI ARR triples to nearly $600 million as agents go from novelty to default** — fiscal Q2 2027: AI ARR near $600M (+200% YoY), AI drives 25%+ of new ACV, 5,500+ customers now run organic agents (+35% QoQ); Financial Audit Agent goes GA and Agent Passport ships for pre/post-production agent verification. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-29.html)
+- **A new survey says AI agent use among engineers jumped 70% in a year** — Temporal's 2026 State of Development Report (550+ engineers): daily-or-more agent use hit 80.8%, up from 47.3% a year ago; 91.1% report productivity gains, but 41.1% hit agent issues daily. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-29.html)
+- **Salesforce's Q2 beat looks smaller once you subtract the investment gains** — actual Q2 FY27 results (Aug 26): EPS $5.90 vs $3.27 consensus, stock +22.6%, guidance raised to $46.1–46.4B revenue; but $2.53 of the $2.63 EPS beat came from one-time investment gains, not operations — a follow-up to the Aug-27 preview entry. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-29.html)
+- **AI-attributed layoffs hit 205,000 workers in 2026 — already matching last year's full total** — over half of major 2026 layoff announcements now cite AI/automation explicitly, concentrated in customer service, data ops, entry-level software and finance back offices; 51% of leaders expect AI-driven cuts at their own company before year-end. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-29.html)
 
 ## 2026-Aug-28
 - **Salesforce turns Slack into a shared workspace for AI coding agents, with Claude as the default brain** — Slack Code (Aug 24) adds dedicated code channels where cross-functional teams watch and steer Claude Code/Codex agents live; lands days after the Claudeforce partnership (Aug 26) made Claude the default Slack model. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-28.html)

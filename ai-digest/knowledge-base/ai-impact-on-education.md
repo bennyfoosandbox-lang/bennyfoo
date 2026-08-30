@@ -2,10 +2,47 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-08-29
-run_count: 20
-digest_count: 18
+last_run: 2026-08-30
+run_count: 21
+digest_count: 19
 entries:
+  - fingerprint: ny-focus-act-gounardes-screens-ai-k5-bill-aug2026
+    title: "New York's FOCUS Act would ban AI chatbots for K-5, require opt-in for teens"
+    first_seen: 2026-08-30
+    digest: ai-impact-on-education-2026-Aug-30.html
+    urls:
+      - https://www.nysenate.gov/newsroom/press-releases/2026/andrew-gounardes/sen-gounardes-proposes-landmark-legislation-regulate
+      - https://www.brooklynpaper.com/gounardes-bill-regulate-screens-ai-ed-tech-schools/
+      - https://gothamist.com/news/make-classrooms-analog-again-a-new-bill-aims-to-limit-tech-in-schools
+  - fingerprint: professors-ai-assisted-op-eds-double-standard-harvard-berkeley-aug2026
+    title: "Two professors admit using AI in op-eds, spark a 'double standard' debate with student discipline"
+    first_seen: 2026-08-30
+    digest: ai-impact-on-education-2026-Aug-30.html
+    urls:
+      - https://www.chronicle.com/article/professors-were-singled-out-for-using-ai-in-public-writing-now-theyre-defending-themselves
+      - https://www.dailycal.org/news/campus/uc-berkeley-professor-admits-to-using-ai-in-op-ed-calling-out-students-lack-of/article_be1360f7-6e2a-42f6-ae76-f05d8cee74c4.html
+  - fingerprint: openai-education-for-countries-singapore-next-phase-aug2026
+    title: "OpenAI's Education for Countries adds Singapore, shares Estonia and Jordan usage numbers"
+    first_seen: 2026-08-30
+    digest: ai-impact-on-education-2026-Aug-30.html
+    urls:
+      - https://openai.com/index/the-next-phase-of-education-for-countries/
+      - https://www.edtechinnovationhub.com/news/openai-education-launches-newsletter-as-ai-classroom-push-grows
+      - https://www.digitalnewsasia.com/business/national-university-singapore-and-openai-deepen-collaboration-help-singapores-next
+  - fingerprint: gwu-faculty-ai-guidance-update-first-since-2023-aug2026
+    title: "George Washington University rewrites its AI classroom guidance for the first time since 2023"
+    first_seen: 2026-08-30
+    digest: ai-impact-on-education-2026-Aug-30.html
+    urls:
+      - https://gwhatchet.com/2026/08/27/officials-update-faculty-guidance-on-student-ai-use-for-first-time-in-three-years/
+      - https://provost.gwu.edu/guidelines-using-generative-artificial-intelligence-connection-academic-work-0
+  - fingerprint: microsoft-copilot-study-learn-agent-back-to-school-aug2026
+    title: "Microsoft expands its Study and Learn AI coach for the 2026-27 back-to-school update"
+    first_seen: 2026-08-30
+    digest: ai-impact-on-education-2026-Aug-30.html
+    urls:
+      - https://techcommunity.microsoft.com/blog/educationblog/whats-new-in-microsoft-edu---back-to-school-august-2026/4516292
+      - https://www.microsoft.com/en-us/education/blog/2026/07/study-and-learn-ai-built-for-learning-in-microsoft-365-copilot/
   - fingerprint: anthropic-claude-for-teachers-schools-districts-enterprise-aug2026
     title: "Anthropic takes Claude for Teachers from individual educators to entire school districts"
     first_seen: 2026-08-29
@@ -744,6 +781,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-30
+- **New York's FOCUS Act would ban AI chatbots for K-5, require opt-in for teens** — Sens. Gounardes, Bailey and Scarcella-Spanton's bill mandates screen-free instruction pre-K-5, a rotation model for grades 6-8, and parental opt-in plus vendor proof-of-value before generative AI reaches high schoolers. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-30.html)
+- **Two professors admit using AI in op-eds, spark a "double standard" debate with student discipline** — Harvard's Ricardo Hausmann and UC Berkeley's Zvezdelina Stankova both used AI in published opinion pieces this month, with Stankova's own AI-detector-flagged essay arguing against AI-enabled student shortcuts. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-30.html)
+- **OpenAI's Education for Countries adds Singapore, shares Estonia and Jordan usage numbers** — the national AI-in-schools program now covers nine countries, with Estonia's ChatGPT Edu reaching 20,000+ students and Jordan's Siraj assistant used by 1M+ students. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-30.html)
+- **George Washington University rewrites its AI classroom guidance for the first time since 2023** — new Provost Ed Balleisen's update adds skill-erosion warnings and extends the academic integrity code to AI-embedded devices like smart glasses. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-30.html)
+- **Microsoft expands its Study and Learn AI coach for the 2026-27 back-to-school update** — new image support, 40+ languages, and "Remember Settings" for teachers roll out across Copilot's education tools. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-30.html)
 
 ## 2026-Aug-29
 - **Anthropic takes Claude for Teachers from individual educators to entire school districts** — an August 28 Enterprise offering lets districts centrally manage staff under K-12 terms, with a free year for orgs that sign up by June 30, 2027, and a Detroit Public Schools pilot studying educator wellbeing. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-29.html)
