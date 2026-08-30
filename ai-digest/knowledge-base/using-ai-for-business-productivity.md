@@ -2,10 +2,50 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-08-28
-run_count: 30
-digest_count: 30
+last_run: 2026-08-29
+run_count: 31
+digest_count: 31
 entries:
+  - fingerprint: servicenow-q2-2026-earnings-ai-acv-1-billion-agentic-9x
+    title: "ServiceNow's AI business crosses $1 billion — and it's not chatbots driving it"
+    first_seen: 2026-08-29
+    digest: using-ai-for-business-productivity-2026-Aug-29.html
+    urls:
+      - https://www.techtimes.com/articles/325759/20260827/servicenow-ai-revenue-crosses-1b-non-seat-deals-hit-50-new-business.htm
+      - https://247wallst.com/investing/2026/08/28/is-there-plenty-of-room-left-to-buy-servicenow-after-it-spiked/
+      - https://fortune.com/company/servicenow/earnings/q2-2026/
+      - https://seekingalpha.com/article/4940392-servicenow-loaded-rocket-on-ai-launch-pad
+  - fingerprint: workday-q2-fy27-earnings-ai-arr-600m-agent-adoption
+    title: "Workday's AI ARR triples to nearly $600 million as agents go from novelty to default"
+    first_seen: 2026-08-29
+    digest: using-ai-for-business-productivity-2026-Aug-29.html
+    urls:
+      - https://www.prnewswire.com/news-releases/workday-announces-fiscal-2027-second-quarter-financial-results-302862164.html
+      - https://finance.biggo.com/news/US_WDAY_2026-08-27
+      - https://finance.yahoo.com/technology/ai/articles/workday-inc-wday-q2-2027-050214258.html
+  - fingerprint: temporal-2026-state-of-development-report-ai-agents-80pct-daily-use
+    title: "A new survey says AI agent use among engineers jumped 70% in a year"
+    first_seen: 2026-08-29
+    digest: using-ai-for-business-productivity-2026-Aug-29.html
+    urls:
+      - https://www.morningstar.com/news/business-wire/20260825235670/temporal-releases-the-2026-state-of-development-report-ai-agents-revealing-a-708-leap-in-ai-agent-use-among-engineers
+      - https://www.developer-tech.com/news/developers-trust-ai-agents-still-verify-code-manually/
+      - https://ideatomvp.ai/en/blog/agent-trust-calibration-gap-temporal-survey-2026
+  - fingerprint: google-a2a-protocol-joins-agentic-ai-foundation-aaif-mcp
+    title: "Google hands its agent-to-agent protocol to a neutral foundation, joining Anthropic's MCP"
+    first_seen: 2026-08-29
+    digest: using-ai-for-business-productivity-2026-Aug-29.html
+    urls:
+      - https://forkast.news/googles-a2a-protocol-joins-aaif-consolidating-the-agent-economys-protocol-layer-under-one-roof/
+      - https://www.techzine.eu/news/devops/143659/google-transfers-a2a-to-the-agentic-ai-foundation/
+      - https://blog.pebblous.ai/blog/a2a-mcp-agentic-ai-foundation-authorization/en/
+  - fingerprint: ai-layoffs-tracker-205000-workers-2026-acceleration
+    title: "AI-attributed layoffs hit 205,000 workers in 2026 — already matching last year's full total"
+    first_seen: 2026-08-29
+    digest: using-ai-for-business-productivity-2026-Aug-29.html
+    urls:
+      - https://news.outsourceaccelerator.com/ai-layoffs-205000/
+      - https://www.ibtimes.co.uk/ai-layoffs-2026-impact-1816503
   - fingerprint: salesforce-slack-code-claudeforce-shared-ai-coding-channels-aug2026
     title: "Salesforce turns Slack into a shared workspace for AI coding agents, with Claude as the default brain"
     first_seen: 2026-08-28
@@ -1215,6 +1255,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-29
+- **ServiceNow's AI business crosses $1 billion — and it's not chatbots driving it** — Q2 2026 AI ACV passed $1B (+40% QoQ), agentic production deployments up 9x in nine months, half of net-new business now non-seat-based. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-29.html)
+- **Workday's AI ARR triples to nearly $600 million as agents go from novelty to default** — fiscal Q2 2027: AI ARR near $600M (+200% YoY), AI drives 25%+ of new ACV, 5,500+ customers now run organic agents (+35% QoQ); Financial Audit Agent goes GA and Agent Passport ships for pre/post-production agent verification. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-29.html)
+- **A new survey says AI agent use among engineers jumped 70% in a year** — Temporal's 2026 State of Development Report (550+ engineers): daily-or-more agent use hit 80.8%, up from 47.3% a year ago; 91.1% report productivity gains, but 41.1% hit agent issues daily. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-29.html)
+- **Google hands its agent-to-agent protocol to a neutral foundation, joining Anthropic's MCP** — Google donated A2A to the Linux Foundation's Agentic AI Foundation on Aug 20, sitting alongside Anthropic's MCP under one governance body now 250+ members strong (AWS, Anthropic, Block, Bloomberg, Cloudflare, Google, Microsoft, OpenAI). [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-29.html)
+- **AI-attributed layoffs hit 205,000 workers in 2026 — already matching last year's full total** — over half of major 2026 layoff announcements now cite AI/automation explicitly, concentrated in customer service, data ops, entry-level software and finance back offices; 51% of leaders expect AI-driven cuts at their own company before year-end. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-29.html)
 
 ## 2026-Aug-28
 - **Salesforce turns Slack into a shared workspace for AI coding agents, with Claude as the default brain** — Slack Code (Aug 24) adds dedicated code channels where cross-functional teams watch and steer Claude Code/Codex agents live; lands days after the Claudeforce partnership (Aug 26) made Claude the default Slack model. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-28.html)
