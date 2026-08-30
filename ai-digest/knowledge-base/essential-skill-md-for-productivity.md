@@ -2,10 +2,46 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-08-29
-run_count: 28
-digest_count: 28
+last_run: 2026-08-30
+run_count: 29
+digest_count: 29
 entries:
+  - fingerprint: claude-code-v2-1-251-symlink-plugin-hardening
+    title: "Claude Code v2.1.251 closes a symlink-swap escape and a plugin path-traversal hole"
+    first_seen: 2026-08-30
+    digest: essential-skill-md-for-productivity-2026-Aug-30.html
+    urls:
+      - https://code.claude.com/docs/en/changelog
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.251
+  - fingerprint: wikiskill-google-persistent-skill-evolution-arxiv
+    title: "Google's WikiSkill lets a 9B model outperform a 27B model by writing its own wiki of lessons learned"
+    first_seen: 2026-08-30
+    digest: essential-skill-md-for-productivity-2026-Aug-30.html
+    urls:
+      - https://arxiv.org/abs/2608.27454
+      - https://arxiv.org/html/2608.27454
+      - https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/
+  - fingerprint: skillstate-scalable-long-horizon-agent-skills-arxiv
+    title: "SKILL.state swaps the ever-growing chat transcript for a mutable execution state"
+    first_seen: 2026-08-30
+    digest: essential-skill-md-for-productivity-2026-Aug-30.html
+    urls:
+      - https://arxiv.org/abs/2608.26263
+      - https://arxiv.org/html/2608.26263
+  - fingerprint: claude-platform-skills-files-api-ga-betacontainerskill
+    title: "Claude's Skills and Files APIs drop their beta headers and rename BetaSkill to BetaContainerSkill"
+    first_seen: 2026-08-30
+    digest: essential-skill-md-for-productivity-2026-Aug-30.html
+    urls:
+      - https://platform.claude.com/docs/en/release-notes/overview
+      - https://platform.claude.com/docs/en/build-with-claude/skills-guide
+  - fingerprint: github-copilot-cli-v1-0-81-legacy-skills-picker-removed
+    title: "GitHub Copilot CLI v1.0.81 retires its old /plugins command and legacy skills picker"
+    first_seen: 2026-08-30
+    digest: essential-skill-md-for-productivity-2026-Aug-30.html
+    urls:
+      - https://github.com/github/copilot-cli/releases
+      - https://www.havoptic.com/tools/github-copilot
   - fingerprint: claude-code-v2-1-248-250-restricted-mode
     title: "Claude Code v2.1.248 and v2.1.250 add restricted mode and per-skill cache TTLs"
     first_seen: 2026-08-29
@@ -921,6 +957,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Aug-30
+- **Claude Code v2.1.251** — 71-change release fixes a symlink-swap escape in Read/Write/Edit file tools, rejects plugin marketplace commands whose path escapes the plugin directory, stops background sessions occasionally starting with no plugin skills loaded, and adds a per-session prompt-cache breakdown to `/cost`. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-30.html)
+- **Google's WikiSkill (arXiv 2608.27454)** — co-evolves executable skills with a persistent wiki of accumulated knowledge across three separated layers (raw traces, wiki, skills); +12pp average across 5 benchmarks, lets a 9B model beat a 27B model without evolved skills. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-30.html)
+- **SKILL.state (arXiv 2608.26263)** — replaces append-only conversation history with an explicit mutable execution state so long-running skill execution doesn't slow down or context-poison; improves accuracy while cutting cumulative token consumption. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-30.html)
+- **Claude Skills/Files APIs drop beta headers** — `client.beta.skills`/`client.beta.files` now match production shapes as of the Aug 27 SDK releases; `BetaSkill` renamed `BetaContainerSkill`, and skill deletion now removes all versions of a skill instead of just one. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-30.html)
+- **GitHub Copilot CLI v1.0.81** — retires the standalone `/plugins` command (folded into `/plugin`, `/mcp`, `/skills`) and removes the legacy skills picker/`PLUGINS_DASHBOARD` opt-out, unifying skill/plugin management behind one dashboard. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-30.html)
+
+Note: 29th consecutive daily run. Firecrawl searches (news + web + research categories) ran alongside ~30 targeted web-search queries but mostly surfaced evergreen listicles and stories already logged; the freshest, best-corroborated new material instead came from direct changelog/arXiv fetches (code.claude.com, github.com/anthropics/claude-code, platform.claude.com, github.com/github/copilot-cli, arxiv.org) once web search pointed at the right releases. Checked and dropped as out-of-window or already-covered: Salesforce's Headless 360 expansion (100+ Agent Skills, Aug 19), Google's A2A joining the Agentic AI Foundation (Aug 20), the GitHub Copilot Customize-tab GA and Claude for Teachers open-sourced skills library (both already logged Aug 29), and Unit 42's ClawHub research plus the Snyk ToxicSkills audit (both dated earlier in the year despite recent resyndication).
 
 ## 2026-Aug-29
 - **Claude Code v2.1.248 & v2.1.250** — new `--restricted` flag strips command/code execution and WebFetch, confines file tools to the working directory, and ignores settings files that could smuggle in wider skill/permission grants; `experimental.cacheTtl` lets individual skills set their own prompt-cache window. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-29.html)
