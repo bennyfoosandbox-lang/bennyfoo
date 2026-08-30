@@ -2,10 +2,54 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-08-28
-run_count: 30
-digest_count: 30
+last_run: 2026-08-30
+run_count: 31
+digest_count: 31
 entries:
+  - fingerprint: google-gemini-enterprise-cost-controls-payasyougo-spend-caps-aug2026
+    title: "Google adds spend caps and pay-as-you-go pricing to Gemini Enterprise as AI bills balloon"
+    first_seen: 2026-08-30
+    digest: using-ai-for-business-productivity-2026-Aug-30.html
+    urls:
+      - https://www.techrepublic.com/article/news-google-gemini-enterprise-pay-as-you-go-pricing/
+      - https://www.cio.com/article/4214185/google-adds-pay-as-you-go-gemini-pricing-as-enterprises-seek-control-over-ai-spending.html
+      - https://www.eweek.com/news/google-gemini-enterprise-pay-as-you-go-pricing/
+      - https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud
+  - fingerprint: dynatrace-ai-scaling-enterprise-reliability-breaking-points-aug2026
+    title: "Dynatrace: AI at enterprise scale is breaking traditional reliability practices"
+    first_seen: 2026-08-30
+    digest: using-ai-for-business-productivity-2026-Aug-30.html
+    urls:
+      - https://ir.dynatrace.com/news-events/press-releases/detail/438/as-ai-scales-across-enterprises-breaking-points-emerge
+      - https://arabianreseller.com/2026/08/26/ai-adoption-is-putting-new-pressure-on-enterprise-reliability-teams/
+      - https://www.cioandleader.com/ai-is-forcing-sre-and-platform-teams-to-grow-up-fast-new-report-finds/
+      - https://www.stocktitan.net/news/DT/as-ai-scales-across-enterprises-breaking-points-u7j2vascnxw3.html
+  - fingerprint: cesba-buenos-aires-argentina-ai-occupational-exposure-index-aug2026
+    title: "Buenos Aires becomes the first city to measure its own AI job-exposure index — and ranks second globally"
+    first_seen: 2026-08-30
+    digest: using-ai-for-business-productivity-2026-Aug-30.html
+    urls:
+      - https://buenosairesherald.com/business/argentina-most-exposed-to-ai-impact-in-latin-america-study-finds
+      - https://www.infobae.com/economia/2026/08/21/caba-es-la-segunda-jurisdiccion-mas-expuesta-a-la-inteligencia-artificial-del-mundo-cuales-son-los-empleos-afectados/
+      - https://www.ambito.com/informacion-general/caba-se-convirtio-la-primera-ciudad-del-mundo-analizar-la-exposicion-del-empleo-la-ia-que-arrojaron-los-datos-n6312155
+      - https://www.lanacion.com.ar/economia/IA/un-informe-muestra-que-trabajos-de-caba-estan-mas-expuestos-al-avance-de-la-ia-nid18082026/
+  - fingerprint: ai-agents-smb-backoffice-cashfree-relay-ga-aug2026
+    title: "AI agents start doing real back-office work — from SMB payments to enterprise operations"
+    first_seen: 2026-08-30
+    digest: using-ai-for-business-productivity-2026-Aug-30.html
+    urls:
+      - https://northeasttimes.com/2026/08/29/ai-agents-are-reshaping-how-companies-work-and-raising-alarms/
+      - https://ibsintelligence.com/ibsi-news/cashfrees-relay-brings-ai-agents-to-smb-payment-operations/
+      - https://bfsi.eletsonline.com/cashfree-payments-launches-relay-ai-super-agents-to-automate-end-to-end-payment-operations-for-smbs/
+      - https://smestreet.in/technology/cashfree-relay-automates-payment-workflows-for-smbs-12442302
+  - fingerprint: google-a2a-protocol-joins-agentic-ai-foundation-linux-foundation-aug2026
+    title: "Google folds its A2A agent-communication protocol into the same neutral foundation as Anthropic's MCP"
+    first_seen: 2026-08-30
+    digest: using-ai-for-business-productivity-2026-Aug-30.html
+    urls:
+      - https://www.axios.com/2026/08/17/a2a-agentic-ai-foundation-open-ai-standards
+      - https://www.techzine.eu/news/devops/143659/google-transfers-a2a-to-the-agentic-ai-foundation/
+      - https://forkast.news/googles-a2a-protocol-joins-aaif-consolidating-the-agent-economys-protocol-layer-under-one-roof/
   - fingerprint: salesforce-slack-code-claudeforce-shared-ai-coding-channels-aug2026
     title: "Salesforce turns Slack into a shared workspace for AI coding agents, with Claude as the default brain"
     first_seen: 2026-08-28
@@ -1215,6 +1259,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Aug-30
+- **Google adds spend caps and pay-as-you-go pricing to Gemini Enterprise as AI bills balloon** — new pay-as-you-go option, hard monthly spend caps that auto-pause agent API calls, and 10-20% Flexible Savings Plan discounts, directly answering enterprise cost-and-ROI complaints. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-30.html)
+- **Dynatrace: AI at enterprise scale is breaking traditional reliability practices** — survey of 919 SRE/platform leaders at $500M+ enterprises finds AI workloads fail without conventional warning signs; only 40% of platform teams have observability instrumented across every deployment stage. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-30.html)
+- **Buenos Aires becomes the first city to measure its own AI job-exposure index — and ranks second globally** — CESBA's ILO-methodology index scores Buenos Aires 0.353 (2nd worldwide behind Singapore), with 67% of city employment showing AI exposure concentrated in white-collar/professional roles. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-30.html)
+- **AI agents start doing real back-office work — from SMB payments to enterprise operations** — Cashfree's Relay Super Agent reaches general availability for end-to-end SMB payment operations, part of a broader shift of agents into task-completion roles with real write-access to operational systems. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-30.html)
+- **Google folds its A2A agent-communication protocol into the same neutral foundation as Anthropic's MCP** — A2A formally joins the Linux Foundation's Agentic AI Foundation alongside MCP, reducing fragmentation risk for enterprises building multi-agent, multi-vendor workflows. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-30.html)
 
 ## 2026-Aug-28
 - **Salesforce turns Slack into a shared workspace for AI coding agents, with Claude as the default brain** — Slack Code (Aug 24) adds dedicated code channels where cross-functional teams watch and steer Claude Code/Codex agents live; lands days after the Claudeforce partnership (Aug 26) made Claude the default Slack model. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-28.html)
