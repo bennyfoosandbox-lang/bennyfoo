@@ -2,10 +2,42 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-08-27
-run_count: 27
-digest_count: 27
+last_run: 2026-08-29
+run_count: 28
+digest_count: 28
 entries:
+  - fingerprint: claude-code-v2-1-248-250-restricted-mode
+    title: "Claude Code v2.1.248 and v2.1.250 add restricted mode and per-skill cache TTLs"
+    first_seen: 2026-08-29
+    digest: essential-skill-md-for-productivity-2026-Aug-29.html
+    urls:
+      - https://code.claude.com/docs/en/changelog
+      - https://juliangoldie.com/claude-code-restricted-mode/
+      - https://www.havoptic.com/tools/claude-code
+  - fingerprint: accuknox-agentz-zero-trust-launch
+    title: "AccuKnox launches AgentZ, bundling skills into a govern-run-build platform for enterprises"
+    first_seen: 2026-08-29
+    digest: essential-skill-md-for-productivity-2026-Aug-29.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/08/27/3351759/0/en/accuknox-launches-agentz-to-help-enterprises-build-run-and-govern-ai-agents-at-scale.html
+      - https://www.nextbigfuture.com/2026/08/accuknox-launches-agentz-to-help-enterprises-build-run-and-govern-ai-agents-at-scale.html
+      - https://accuknox.com/platform/agentz/
+  - fingerprint: claude-for-teachers-schools-districts-open-source-skills
+    title: "Claude for Teachers goes district-wide and open-sources its Agent Skills library"
+    first_seen: 2026-08-29
+    digest: essential-skill-md-for-productivity-2026-Aug-29.html
+    urls:
+      - https://www.anthropic.com/news/claude-for-teachers
+      - https://thehill.com/policy/technology/5968601-claude-for-teachers-launch/
+      - https://www.govtech.com/education/k-12/anthropic-releases-teacher-focused-version-of-claude
+      - https://www.edtechinnovationhub.com/news/anthropic-opens-claude-for-teachers-free-to-us-k-12-educators
+  - fingerprint: github-copilot-customize-tab-ga
+    title: "GitHub Copilot's Customize tab reaches GA, unifying skill, MCP and plugin discovery"
+    first_seen: 2026-08-29
+    digest: essential-skill-md-for-productivity-2026-Aug-29.html
+    urls:
+      - https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available/
+      - https://docs.github.com/en/copilot/how-tos/github-copilot-app/customize-github-copilot-app
   - fingerprint: salesforce-anthropic-claudeforce-37-sales-skills
     title: "Salesforce and Anthropic launch Claudeforce, putting a 37-skill sales agent inside Claude"
     first_seen: 2026-08-27
@@ -889,6 +921,12 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Aug-29
+- **Claude Code v2.1.248 & v2.1.250** — new `--restricted` flag strips command/code execution and WebFetch, confines file tools to the working directory, and ignores settings files that could smuggle in wider skill/permission grants; `experimental.cacheTtl` lets individual skills set their own prompt-cache window. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-29.html)
+- **AccuKnox launches AgentZ** — zero-trust platform bundling agents, sandboxes, reusable skills, runtime credentials, and audit/governance into one stack for moving agents from prototype to production. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-29.html)
+- **Claude for Teachers goes district-wide** — individual-educator program expands to centrally managed school/district organizations under one K-12 terms agreement; ships with an open-source teaching-skills repo and evaluation write-up. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-29.html)
+- **GitHub Copilot's Customize tab reaches GA** — unifies skill, MCP server, plugin, and canvas discovery in one browsable surface, two weeks after Agent Plugins 1.0 standardized packaging. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-29.html)
 
 ## 2026-Aug-27
 - **Salesforce + Anthropic launch Claudeforce** — "Salesforce in Claude" plugin ships 37 prebuilt sales skills (meeting prep, deal-health review, pipeline inspection); Claude becomes default reasoning model across Agentforce, Slack, and Slackbot. Pilot now, open beta September 2026. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-27.html)
