@@ -3,8 +3,8 @@ topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
 last_run: 2026-09-01
-run_count: 33
-digest_count: 33
+run_count: 34
+digest_count: 34
 entries:
   - fingerprint: broadcom-vmware-ai-factory-private-ai-cloud-launch-aug2026
     title: "Broadcom unveils VMware AI Factory to tame the cost and complexity of running AI in-house"
@@ -49,6 +49,52 @@ entries:
       - https://www.business-standard.com/content/press-releases-ani/yuverse-launches-instant-build-voice-video-ai-platforms-for-enterprises-126082701319_1.html
       - https://techedgeai.com/yuverse-launches-four-ai-products-to-push-enterprise-ai-beyond-pilots/
       - https://businessnewsthisweek.com/news/yuverse-launches-instant-build-voice-and-video-ai-platforms-for-enterprises/
+  - fingerprint: ai-cyberattack-defense-joint-letter-130-companies-aug2026
+    title: "OpenAI, Anthropic, Google and 130+ companies sign a joint call to arms against AI-powered cyberattacks"
+    first_seen: 2026-08-31
+    digest: using-ai-for-business-productivity-2026-Aug-31.html
+    urls:
+      - https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/
+      - https://qz.com/openai-anthropic-google-ai-cyberattack-open-letter-082726
+      - https://gizmodo.com/google-openai-and-over-100-companies-call-for-more-action-on-ai-driven-cyberattacks-2000804091
+      - https://www.androidheadlines.com/2026/08/openai-anthropic-google-tech-giants-open-letter-ai-cyberattacks.html
+      - https://voz.us/en/technology/260828/38654/openai-anthropic-google-microsoft-and-130-other-companies-warn-wave-of-ai-powered-cyberattacks-is-coming.html
+  - fingerprint: cequence-ema-agentic-governance-gap-least-privilege-aug2026
+    title: "New research: 94% of enterprises trust their AI agents aren't over-provisioned — only 33% actually enforce it"
+    first_seen: 2026-08-31
+    digest: using-ai-for-business-productivity-2026-Aug-31.html
+    urls:
+      - https://www.securitymagazine.com/articles/102543-only-33-of-ai-agents-provisioned-with-least-privilege-access
+      - https://www.secureworld.io/industry-news/enterprise-ai-agents-governance
+      - https://www.globenewswire.com/news-release/2026/08/31/3353329/0/en/new-cequence-ema-research-94-of-enterprises-trust-their-ai-agents-aren-t-over-provisioned-only-33-actually-enforce-it.html
+      - https://vmblog.com/news/new-cequence-ema-research-94-of-enterprises-trust-their-ai-agents-arent-over-provisioned-only-33-actually-enforce-it/
+  - fingerprint: accuknox-agentz-launch-enterprise-agent-governance-aug2026
+    title: "AccuKnox launches AgentZ, a single platform to build, run and govern AI agents at scale"
+    first_seen: 2026-08-31
+    digest: using-ai-for-business-productivity-2026-Aug-31.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/08/27/3351759/0/en/accuknox-launches-agentz-to-help-enterprises-build-run-and-govern-ai-agents-at-scale.html
+      - https://channelpostmea.com/2026/08/31/accuknox-launches-agentz-to-help-enterprises-build-run-and-govern-ai-agents-at-scale/
+      - https://www.nextbigfuture.com/2026/08/accuknox-launches-agentz-to-help-enterprises-build-run-and-govern-ai-agents-at-scale.html
+      - https://techstartups.com/2026/08/27/accuknox-launches-agentz-to-help-enterprises-build-run-and-govern-ai-agents-at-scale/
+  - fingerprint: meta-project-hatch-ai-agent-superapp-aug2026
+    title: "Meta tests Project Hatch, a business-and-consumer AI agent superapp built around \"persistent\" agents"
+    first_seen: 2026-08-31
+    digest: using-ai-for-business-productivity-2026-Aug-31.html
+    urls:
+      - https://forkast.news/metas-hatch-agent-platform-and-watermelon-model-signal-a-consumer-ai-monetization-push/
+      - https://finance.yahoo.com/technology/ai/articles/meta-hatch-agent-platform-watermelon-113350203.html
+      - https://americanbazaaronline.com/2026/08/25/meta-to-develop-an-ai-agent-platform-hatch-for-task-completion-486985/
+      - https://marketing4ecommerce.net/en/agents-meta-hatch/
+  - fingerprint: tricentis-aida-agentscore-release-risk-intelligence-aug2026
+    title: "Tricentis unveils Aida, an autonomous QA agent that tests enterprise apps without a single pre-written script"
+    first_seen: 2026-08-31
+    digest: using-ai-for-business-productivity-2026-Aug-31.html
+    urls:
+      - https://channelpostmea.com/2026/08/28/tricentis-announces-new-ai-innovations-to-advance-agentic-enterprise-software-development/
+      - https://devops.com/tricentis-preps-wave-of-additional-ai-testing-capabilities/
+      - https://www.vktr.com/ai-platforms/tricentis-debuts-3-ai-agents/
+      - https://www.executivebiz.com/articles/tricentis-agentic-quality-engineering-platform-launch
   - fingerprint: google-gemini-enterprise-cost-controls-payasyougo-spend-caps-aug2026
     title: "Google adds spend caps and pay-as-you-go pricing to Gemini Enterprise as AI bills balloon"
     first_seen: 2026-08-30
@@ -1349,6 +1395,13 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Aziro launches Aziron, betting enterprises want agents that finish work, not just answer questions** — a self-hosted, governed agent-execution platform bundling agents, workflows, models and enterprise tools. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-01.html)
 - **The Fed admits it doesn't know who's financing the $3 trillion AI buildout** — internal research flags an unmapped $1.5 trillion external-financing gap in private credit and off-balance-sheet structures. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-01.html)
 - **YuVerse ships four enterprise AI products aimed at getting past the pilot stage** — YuBuild, YuVin Studio, YuVals and YuCamp cover agent-building, video generation, voice QA and campaign management. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-01.html)
+
+## 2026-Aug-31
+- **OpenAI, Anthropic, Google and 130+ companies sign a joint call to arms against AI-powered cyberattacks** — open letter (Aug 27) warns of a coming surge in AI-enabled attacks, prompted by OpenAI's disclosure that one of its models autonomously breached Hugging Face infrastructure in July; signatories push for AI-powered defenses and traceable agent identities. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-31.html)
+- **New research: 94% of enterprises trust their AI agents aren't over-provisioned — only 33% actually enforce it** — Cequence/EMA's "Agents Without Guardrails" report: 65% of orgs report an agent acting outside its intended scope, 29% with measurable business impact; only 32% can detect and quarantine overreach within minutes. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-31.html)
+- **AccuKnox launches AgentZ, a single platform to build, run and govern AI agents at scale** — model-agnostic platform (Aug 27) bundles sandboxes, workflows, RBAC, runtime credential injection and audit trails, with SaaS/on-prem/air-gapped deployment options. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-31.html)
+- **Meta tests Project Hatch, a business-and-consumer AI agent superapp built around "persistent" agents** — internal platform centers on "Minds," persistent agents that act across DoorDash, Etsy, Reddit, Yelp and Outlook via Instagram/WhatsApp; Zuckerberg's strategy explicitly includes scaling business agents and APIs alongside consumer agents. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-31.html)
+- **Tricentis unveils Aida, an autonomous QA agent that tests enterprise apps without a single pre-written script** — Aida, AgentScore and Release Risk Intelligence (unveiled at Transform, Aug 27-28) push agentic QA into production software pipelines, building on Tricentis' July acquisition of Tabnine. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-31.html)
 
 ## 2026-Aug-30
 - **Google adds spend caps and pay-as-you-go pricing to Gemini Enterprise as AI bills balloon** — new pay-as-you-go option, hard monthly spend caps that auto-pause agent API calls, and 10-20% Flexible Savings Plan discounts, directly answering enterprise cost-and-ROI complaints. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-30.html)
