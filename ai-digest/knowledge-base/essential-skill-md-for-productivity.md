@@ -2,10 +2,47 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-08-31
-run_count: 30
-digest_count: 30
+last_run: 2026-09-01
+run_count: 31
+digest_count: 31
 entries:
+  - fingerprint: maliciousskillbench-9740-skill-detection-benchmark-arxiv
+    title: "MaliciousSkillBench consolidates 13 sources into a 9,740-skill ground truth for catching bad SKILL.md files"
+    first_seen: 2026-09-01
+    digest: essential-skill-md-for-productivity-2026-Sep-01.html
+    urls:
+      - https://arxiv.org/abs/2608.19901
+      - https://arxiv.org/html/2608.19901
+  - fingerprint: aces-agentic-continuous-evaluation-skill-lift-arxiv
+    title: "ACES asks the question scanners can't: does this skill actually help, measured live across 145 real ones"
+    first_seen: 2026-09-01
+    digest: essential-skill-md-for-productivity-2026-Sep-01.html
+    urls:
+      - https://arxiv.org/abs/2608.20614
+      - https://arxiv.org/html/2608.20614
+  - fingerprint: nvidia-skillevaluator-open-source-300-skills-lift
+    title: "NVIDIA open-sources SkillEvaluator after measuring a 41-point correctness lift across 300+ of its own skills"
+    first_seen: 2026-09-01
+    digest: essential-skill-md-for-productivity-2026-Sep-01.html
+    urls:
+      - https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/
+      - https://github.com/NVIDIA/SkillEvaluator
+  - fingerprint: credential-leakage-llm-agent-skills-17022-skillsmp-study
+    title: "Study of 17,022 marketplace skills finds credential leaks survive fixes because forks never get patched"
+    first_seen: 2026-09-01
+    digest: essential-skill-md-for-productivity-2026-Sep-01.html
+    urls:
+      - https://news.wfu.edu/2026/08/26/ai-agents-are-all-the-rage-but-research-shows-they-leak-private-data/
+      - https://techxplore.com/news/2026-08-ai-agents-rage-leak-private.html
+      - https://arxiv.org/abs/2604.03070
+  - fingerprint: ode-anthropic-acquires-casper-studios-skills-consultancy
+    title: "Anthropic-backed Ode buys Casper Studios, betting that \"building your skills library\" is now a services business"
+    first_seen: 2026-09-01
+    digest: essential-skill-md-for-productivity-2026-Sep-01.html
+    urls:
+      - https://www.hpcwire.com/aiwire/2026/08/21/ode-with-anthropic-acquires-casper-studios-to-help-businesses-get-the-most-value-out-of-ai/
+      - https://www.forbes.com/sites/ronschmelzer/2026/08/21/anthropic-backed-ode-buys-casper-as-ai-services-race-heats-up/
+      - https://thenextweb.com/news/anthropic-ode-acquires-casper-studios-enterprise-ai
   - fingerprint: uber-software-factory-70pct-prs-3600-skills
     title: "Uber says agents now complete over 70% of its merge requests, powered by 3,600 hand-written agent skills"
     first_seen: 2026-08-31
@@ -994,6 +1031,15 @@ entries:
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
 
+## 2026-Sep-01
+- **MaliciousSkillBench (arXiv 2608.19901)** — consolidates 13 public sources into a 9,740-skill benchmark (7,505 malicious / 2,235 benign) for malicious Agent Skill detection, separating structural reuse from attack semantics after deduplicating 8,414 raw records into 4,588 structural families. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-01.html)
+- **ACES (arXiv 2608.20614)** — "Agentic Continuous Evaluation of Skills" runs paired live trials with/without a target skill, normalizes trajectories into a new Agent Trajectory Interchange Format, and reports a "Skill Lift" number; evaluated on 145 real enterprise and public skills. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-01.html)
+- **NVIDIA SkillEvaluator** — open-source tool measuring Skill Lift across 300+ NVIDIA-verified skills in 30+ products; 41-point average Correctness lift, 39-point Effectiveness lift, per-product spread of +2 to +46 points; piloted with OpenClaw/ClawHub and Nous Research/Hermes. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-01.html)
+- **Credential leakage study (17,022 SkillsMP skills)** — 520 skills carry 1,708 credential-leakage issues (84% developer negligence, 73.5% via debug logging); 89.6% immediately exploitable; secrets removed from 107 upstream repos persist across 50+ forks. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-01.html)
+- **Ode acquires Casper Studios** — Anthropic-backed Ode's second consultancy acquisition in four months, absorbing a firm that builds skills/connectors/context inside Claude for enterprise clients — the skills-authoring professional-services layer starts consolidating. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-01.html)
+
+Note: 30th consecutive daily run. The strict last-24h window (since the Aug 30 run) surfaced nothing but a skill-irrelevant Claude Code bug-fix release (v2.1.252) and aggregator roundups, so freshness was widened per the fallback rule to the last ~2 weeks to reach five substantive, non-duplicate items — all five above are dated August 18–28 and confirmed not previously logged. Ruled out on closer verification: Seal Security's "Silent Overwrite of Agent Skills" post (surfaced in fresh-looking search results but actually dated June 10), Salesforce/Anthropic's Claudeforce open-beta-in-September detail (already logged Aug 27), and JetBrains' "Agent Skills in IntelliJ IDEA" post (publish date not pinned precisely enough to clear dedup confidently).
+
 ## 2026-Aug-31
 - **Uber's software factory** — engineering blog says 70%+ of merge requests now come from agents, powered by 3,600+ hand-written agent skills executing 30,000+ times daily; weekly agent requests up 9.4x Feb–Aug while total AI spend stayed flat since April. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-31.html)
 - **AWS Agent Registry GA** — Bedrock AgentCore's governed, searchable catalog for agents/MCP servers/skills goes GA Aug 31; Governance/Discovery plane split, shadow-AI auto-detection, native Claude Code and Kiro search integration. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-31.html)
@@ -1001,7 +1047,7 @@ Running log of everything already covered, newest first. Future runs read the YA
 - **Claude Code Compliance API extends to local sessions** — Aug 11 endpoints give security teams visibility into local Claude Code session transcripts for the first time, but still miss local hooks, non-transcript shell activity, and non-Anthropic model traffic. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-31.html)
 - **Shadow AI hides inside sanctioned tools** — Hacker News expert-insights piece: malicious Skills, MCP servers and plugins found operating through already-approved coding assistants, not just unsanctioned shadow apps. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-31.html)
 
-Note: 30th consecutive daily run, and the first to lean on Firecrawl's day-scoped news search (`tbs: qdr:d`) after plain web search kept resurfacing stories already logged in this 127-entry knowledge base. That query surfaced same-day (Aug 31) coverage — the AWS Agent Registry launch, Uber's agent-skills productivity data, and three separate Claude Code security/governance stories — that generic web search had missed entirely. Checked and set aside as out-of-window, off-topic, or already covered: Anthropic's Model Hardware Standard preview (Aug 27, a physical-hardware protocol distinct from SKILL.md skills), the GitHub Copilot Customize-tab GA (already logged Aug 29), CaSKG and several other arXiv skill-retrieval papers (Aug 26, set aside once five stronger same-day items cleared dedup), and the Snyk ToxicSkills audit, Snyk/Tessl registry partnership, and Keyv/cacheable npm supply-chain compromise (all weeks old despite recent resyndication).
+Note: 30th consecutive daily run, and the first to lean on Firecrawl's day-scoped news search (`tbs: qdr:d`) after plain web search kept resurfacing stories already logged in this 127-entry knowledge base. That query surfaced same-day (Aug 31) coverage — the AWS Agent Registry launch, Uber's agent-skills productivity data, and three separate Claude Code security/governance stories — that generic web search had missed entirely. Checked and set aside as out-of-window, off-topic, or already covered: Anthropic's Model Hardware Standard preview (Aug 27, a physical-hardware protocol distinct from SKILL.md skills), the GitHub Copilot Customize-tab GA (already logged Aug 29), CaSKG and several other arXiv skill-retrieval papers (Aug 26, set aside once five stronger same-day items cleared dedup), and the Snyk ToxicSkills audit, Snyk/Tessl registry partnership, and Keyv/cacheable npm supply-chain compromise (all weeks old despite recent resyndication). Note also this run landed one calendar day behind the concurrent Sep-01 run published the same push cycle; both are kept as distinct dated entries since neither's five items overlap.
 
 ## 2026-Aug-30
 - **Claude Code v2.1.251** — 71-change release fixes a symlink-swap escape in Read/Write/Edit file tools, rejects plugin marketplace commands whose path escapes the plugin directory, stops background sessions occasionally starting with no plugin skills loaded, and adds a per-session prompt-cache breakdown to `/cost`. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-30.html)
