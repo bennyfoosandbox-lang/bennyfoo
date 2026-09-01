@@ -2,10 +2,47 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-08-30
-run_count: 29
-digest_count: 29
+last_run: 2026-09-01
+run_count: 30
+digest_count: 30
 entries:
+  - fingerprint: maliciousskillbench-9740-skill-detection-benchmark-arxiv
+    title: "MaliciousSkillBench consolidates 13 sources into a 9,740-skill ground truth for catching bad SKILL.md files"
+    first_seen: 2026-09-01
+    digest: essential-skill-md-for-productivity-2026-Sep-01.html
+    urls:
+      - https://arxiv.org/abs/2608.19901
+      - https://arxiv.org/html/2608.19901
+  - fingerprint: aces-agentic-continuous-evaluation-skill-lift-arxiv
+    title: "ACES asks the question scanners can't: does this skill actually help, measured live across 145 real ones"
+    first_seen: 2026-09-01
+    digest: essential-skill-md-for-productivity-2026-Sep-01.html
+    urls:
+      - https://arxiv.org/abs/2608.20614
+      - https://arxiv.org/html/2608.20614
+  - fingerprint: nvidia-skillevaluator-open-source-300-skills-lift
+    title: "NVIDIA open-sources SkillEvaluator after measuring a 41-point correctness lift across 300+ of its own skills"
+    first_seen: 2026-09-01
+    digest: essential-skill-md-for-productivity-2026-Sep-01.html
+    urls:
+      - https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/
+      - https://github.com/NVIDIA/SkillEvaluator
+  - fingerprint: credential-leakage-llm-agent-skills-17022-skillsmp-study
+    title: "Study of 17,022 marketplace skills finds credential leaks survive fixes because forks never get patched"
+    first_seen: 2026-09-01
+    digest: essential-skill-md-for-productivity-2026-Sep-01.html
+    urls:
+      - https://news.wfu.edu/2026/08/26/ai-agents-are-all-the-rage-but-research-shows-they-leak-private-data/
+      - https://techxplore.com/news/2026-08-ai-agents-rage-leak-private.html
+      - https://arxiv.org/abs/2604.03070
+  - fingerprint: ode-anthropic-acquires-casper-studios-skills-consultancy
+    title: "Anthropic-backed Ode buys Casper Studios, betting that \"building your skills library\" is now a services business"
+    first_seen: 2026-09-01
+    digest: essential-skill-md-for-productivity-2026-Sep-01.html
+    urls:
+      - https://www.hpcwire.com/aiwire/2026/08/21/ode-with-anthropic-acquires-casper-studios-to-help-businesses-get-the-most-value-out-of-ai/
+      - https://www.forbes.com/sites/ronschmelzer/2026/08/21/anthropic-backed-ode-buys-casper-as-ai-services-race-heats-up/
+      - https://thenextweb.com/news/anthropic-ode-acquires-casper-studios-enterprise-ai
   - fingerprint: claude-code-v2-1-251-symlink-plugin-hardening
     title: "Claude Code v2.1.251 closes a symlink-swap escape and a plugin path-traversal hole"
     first_seen: 2026-08-30
@@ -957,6 +994,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-01
+- **MaliciousSkillBench (arXiv 2608.19901)** — consolidates 13 public sources into a 9,740-skill benchmark (7,505 malicious / 2,235 benign) for malicious Agent Skill detection, separating structural reuse from attack semantics after deduplicating 8,414 raw records into 4,588 structural families. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-01.html)
+- **ACES (arXiv 2608.20614)** — "Agentic Continuous Evaluation of Skills" runs paired live trials with/without a target skill, normalizes trajectories into a new Agent Trajectory Interchange Format, and reports a "Skill Lift" number; evaluated on 145 real enterprise and public skills. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-01.html)
+- **NVIDIA SkillEvaluator** — open-source tool measuring Skill Lift across 300+ NVIDIA-verified skills in 30+ products; 41-point average Correctness lift, 39-point Effectiveness lift, per-product spread of +2 to +46 points; piloted with OpenClaw/ClawHub and Nous Research/Hermes. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-01.html)
+- **Credential leakage study (17,022 SkillsMP skills)** — 520 skills carry 1,708 credential-leakage issues (84% developer negligence, 73.5% via debug logging); 89.6% immediately exploitable; secrets removed from 107 upstream repos persist across 50+ forks. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-01.html)
+- **Ode acquires Casper Studios** — Anthropic-backed Ode's second consultancy acquisition in four months, absorbing a firm that builds skills/connectors/context inside Claude for enterprise clients — the skills-authoring professional-services layer starts consolidating. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-01.html)
+
+Note: 30th consecutive daily run. The strict last-24h window (since the Aug 30 run) surfaced nothing but a skill-irrelevant Claude Code bug-fix release (v2.1.252) and aggregator roundups, so freshness was widened per the fallback rule to the last ~2 weeks to reach five substantive, non-duplicate items — all five above are dated August 18–28 and confirmed not previously logged. Ruled out on closer verification: Seal Security's "Silent Overwrite of Agent Skills" post (surfaced in fresh-looking search results but actually dated June 10), Salesforce/Anthropic's Claudeforce open-beta-in-September detail (already logged Aug 27), and JetBrains' "Agent Skills in IntelliJ IDEA" post (publish date not pinned precisely enough to clear dedup confidently).
 
 ## 2026-Aug-30
 - **Claude Code v2.1.251** — 71-change release fixes a symlink-swap escape in Read/Write/Edit file tools, rejects plugin marketplace commands whose path escapes the plugin directory, stops background sessions occasionally starting with no plugin skills loaded, and adds a per-session prompt-cache breakdown to `/cost`. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-30.html)
