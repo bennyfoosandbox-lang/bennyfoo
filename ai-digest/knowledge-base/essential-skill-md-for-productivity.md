@@ -2,10 +2,46 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-08-30
-run_count: 29
-digest_count: 29
+last_run: 2026-08-31
+run_count: 30
+digest_count: 30
 entries:
+  - fingerprint: uber-software-factory-70pct-prs-3600-skills
+    title: "Uber says agents now complete over 70% of its merge requests, powered by 3,600 hand-written agent skills"
+    first_seen: 2026-08-31
+    digest: essential-skill-md-for-productivity-2026-Aug-31.html
+    urls:
+      - https://www.uber.com/us/en/blog/efficient-software-factory/
+      - https://cellcog.ai/blog/uber-software-factory/
+  - fingerprint: aws-agent-registry-general-availability
+    title: "AWS Agent Registry reaches general availability as a governed catalog for agents, MCP servers, and skills"
+    first_seen: 2026-08-31
+    digest: essential-skill-md-for-productivity-2026-Aug-31.html
+    urls:
+      - https://www.unite.ai/aws-agent-registry-reaches-general-availability/
+      - https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/
+  - fingerprint: claude-session-cookie-infostealer-poisoned-skillmd
+    title: "Poisoned SKILL.md files emerge as a persistence trick in a wave of Claude credential-theft campaigns"
+    first_seen: 2026-08-31
+    digest: essential-skill-md-for-productivity-2026-Aug-31.html
+    urls:
+      - https://gbhackers.com/hackers-use-infostealer-malware-to-steal-claude-session-cookies/
+      - https://cybersecuritynews.com/hackers-steal-claude-login-sessions/
+      - https://www.pymnts.com/news/artificial-intelligence/2026/hackers-target-claude-accounts-with-malware-that-steals-login-sessions
+  - fingerprint: claude-code-compliance-api-local-session-endpoints
+    title: "Anthropic extends Claude Code's Compliance API to local sessions, with coverage gaps flagged"
+    first_seen: 2026-08-31
+    digest: essential-skill-md-for-productivity-2026-Aug-31.html
+    urls:
+      - https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html
+      - https://support.claude.com/en/articles/13015708-access-the-compliance-api
+      - https://www.token.security/blog/token-security-brings-anthropic-claude-compliance-api-into-its-identity-control-plane
+  - fingerprint: shadow-ai-hiding-sanctioned-ai-tools-thn
+    title: "Researchers warn shadow AI is now hiding inside sanctioned AI tools via malicious skills, MCP servers and plugins"
+    first_seen: 2026-08-31
+    digest: essential-skill-md-for-productivity-2026-Aug-31.html
+    urls:
+      - https://thehackernews.com/expert-insights/2026/08/shadow-ai-is-now-hiding-inside.html
   - fingerprint: claude-code-v2-1-251-symlink-plugin-hardening
     title: "Claude Code v2.1.251 closes a symlink-swap escape and a plugin path-traversal hole"
     first_seen: 2026-08-30
@@ -957,6 +993,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Aug-31
+- **Uber's software factory** — engineering blog says 70%+ of merge requests now come from agents, powered by 3,600+ hand-written agent skills executing 30,000+ times daily; weekly agent requests up 9.4x Feb–Aug while total AI spend stayed flat since April. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-31.html)
+- **AWS Agent Registry GA** — Bedrock AgentCore's governed, searchable catalog for agents/MCP servers/skills goes GA Aug 31; Governance/Discovery plane split, shadow-AI auto-detection, native Claude Code and Kiro search integration. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-31.html)
+- **Poisoned SKILL.md reinfection risk** — alongside two Claude account-hijack campaigns (session-cookie infostealers; a trojanized ClaudeDesktop.exe via malvertising), researchers warn tainted SKILL.md files disguised as style guides can silently re-download malware after a clean OS reinstall. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-31.html)
+- **Claude Code Compliance API extends to local sessions** — Aug 11 endpoints give security teams visibility into local Claude Code session transcripts for the first time, but still miss local hooks, non-transcript shell activity, and non-Anthropic model traffic. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-31.html)
+- **Shadow AI hides inside sanctioned tools** — Hacker News expert-insights piece: malicious Skills, MCP servers and plugins found operating through already-approved coding assistants, not just unsanctioned shadow apps. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-31.html)
+
+Note: 30th consecutive daily run, and the first to lean on Firecrawl's day-scoped news search (`tbs: qdr:d`) after plain web search kept resurfacing stories already logged in this 127-entry knowledge base. That query surfaced same-day (Aug 31) coverage — the AWS Agent Registry launch, Uber's agent-skills productivity data, and three separate Claude Code security/governance stories — that generic web search had missed entirely. Checked and set aside as out-of-window, off-topic, or already covered: Anthropic's Model Hardware Standard preview (Aug 27, a physical-hardware protocol distinct from SKILL.md skills), the GitHub Copilot Customize-tab GA (already logged Aug 29), CaSKG and several other arXiv skill-retrieval papers (Aug 26, set aside once five stronger same-day items cleared dedup), and the Snyk ToxicSkills audit, Snyk/Tessl registry partnership, and Keyv/cacheable npm supply-chain compromise (all weeks old despite recent resyndication).
 
 ## 2026-Aug-30
 - **Claude Code v2.1.251** — 71-change release fixes a symlink-swap escape in Read/Write/Edit file tools, rejects plugin marketplace commands whose path escapes the plugin directory, stops background sessions occasionally starting with no plugin skills loaded, and adds a per-session prompt-cache breakdown to `/cost`. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Aug-30.html)
