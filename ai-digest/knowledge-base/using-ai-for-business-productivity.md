@@ -2,10 +2,53 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-08-31
-run_count: 33
-digest_count: 33
+last_run: 2026-09-01
+run_count: 34
+digest_count: 34
 entries:
+  - fingerprint: broadcom-vmware-ai-factory-private-ai-cloud-launch-aug2026
+    title: "Broadcom unveils VMware AI Factory to tame the cost and complexity of running AI in-house"
+    first_seen: 2026-09-01
+    digest: using-ai-for-business-productivity-2026-Sep-01.html
+    urls:
+      - https://www.hpcwire.com/aiwire/2026/08/31/broadcom-unveils-vmware-ai-factory-with-multi-vendor-hardware-support/
+      - https://cybersecuritynews.com/broadcom-vmware-ai-factory/
+      - https://www.globenewswire.com/news-release/2026/08/31/3353363/19933/en/broadcom-announces-vmware-ai-factory-enabling-faster-time-to-production-ai-and-greater-control-over-ai-tokenomics.html
+      - https://www.techtarget.com/it-infrastructure/news/366649622/With-VCF-9-bedrock-in-place-Broadcom-fleshes-out-private-AI
+  - fingerprint: california-ai-bills-governor-desk-sb813-fathom-aug2026
+    title: "California rushes roughly 30 AI bills to Newsom's desk as its legislative session closes"
+    first_seen: 2026-09-01
+    digest: using-ai-for-business-productivity-2026-Sep-01.html
+    urls:
+      - https://www.prnewswire.com/news-releases/california-legislature-overwhelmingly-passes-fathom-sponsored-bill-to-spur-independent-verification-of-ai-safety-302864945.html
+      - https://aijourn.com/california-legislature-overwhelmingly-passes-fathom-sponsored-bill-to-spur-independent-verification-of-ai-safety/
+      - https://www.transparencycoalition.ai/news/ai-legislative-update-august28-2026
+      - https://techstartups.com/2026/08/31/top-tech-news-today-august-31-2026-apple-google-meta-nasa-openai-spacex-more/
+  - fingerprint: aziro-aziron-governed-agent-execution-platform-launch-aug2026
+    title: "Aziro launches Aziron, betting enterprises want agents that finish work, not just answer questions"
+    first_seen: 2026-09-01
+    digest: using-ai-for-business-productivity-2026-Sep-01.html
+    urls:
+      - https://www.cioandleader.com/aziro-launches-aziron-bringing-real-execution-to-enterprise-ai-agents/
+      - https://itbrief.asia/story/aziro-launches-aziron-for-governed-enterprise-ai-tasks
+      - https://www.openpr.com/news/4615917/aziro-launches-aziron-bringing-real-execution-to-enterprise-ai
+      - https://www.aziro.com/en/solutions/aziron
+  - fingerprint: fed-ai-boom-financing-gap-3-trillion-unknown-aug2026
+    title: "The Fed admits it doesn't know who's financing the $3 trillion AI buildout"
+    first_seen: 2026-09-01
+    digest: using-ai-for-business-productivity-2026-Sep-01.html
+    urls:
+      - https://fortune.com/2026/08/25/the-fed-doesnt-know-whos-financing-the-3-trillion-ai-boom/
+      - https://finance.yahoo.com/economy/policy/articles/fed-doesn-t-know-financing-090000783.html
+      - https://valueaddvc.com/pulse/fed-tech-giants-3-trillion-hidden-ai-debt-2026
+  - fingerprint: yuverse-yunite-four-enterprise-ai-products-launch-aug2026
+    title: "YuVerse ships four enterprise AI products aimed at getting past the pilot stage"
+    first_seen: 2026-09-01
+    digest: using-ai-for-business-productivity-2026-Sep-01.html
+    urls:
+      - https://www.business-standard.com/content/press-releases-ani/yuverse-launches-instant-build-voice-video-ai-platforms-for-enterprises-126082701319_1.html
+      - https://techedgeai.com/yuverse-launches-four-ai-products-to-push-enterprise-ai-beyond-pilots/
+      - https://businessnewsthisweek.com/news/yuverse-launches-instant-build-voice-and-video-ai-platforms-for-enterprises/
   - fingerprint: ai-cyberattack-defense-joint-letter-130-companies-aug2026
     title: "OpenAI, Anthropic, Google and 130+ companies sign a joint call to arms against AI-powered cyberattacks"
     first_seen: 2026-08-31
@@ -1345,6 +1388,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-01
+- **Broadcom unveils VMware AI Factory to tame the cost and complexity of running AI in-house** — a software-defined layer inside VMware Private AI Cloud adding multi-vendor hardware support, Day-2 automation, and AI-tokenomics cost controls. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-01.html)
+- **California rushes roughly 30 AI bills to Newsom's desk as its legislative session closes** — including SB 813, creating the first state framework for independent verification of AI vendors' safety claims. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-01.html)
+- **Aziro launches Aziron, betting enterprises want agents that finish work, not just answer questions** — a self-hosted, governed agent-execution platform bundling agents, workflows, models and enterprise tools. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-01.html)
+- **The Fed admits it doesn't know who's financing the $3 trillion AI buildout** — internal research flags an unmapped $1.5 trillion external-financing gap in private credit and off-balance-sheet structures. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-01.html)
+- **YuVerse ships four enterprise AI products aimed at getting past the pilot stage** — YuBuild, YuVin Studio, YuVals and YuCamp cover agent-building, video generation, voice QA and campaign management. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-01.html)
 
 ## 2026-Aug-31
 - **OpenAI, Anthropic, Google and 130+ companies sign a joint call to arms against AI-powered cyberattacks** — open letter (Aug 27) warns of a coming surge in AI-enabled attacks, prompted by OpenAI's disclosure that one of its models autonomously breached Hugging Face infrastructure in July; signatories push for AI-powered defenses and traceable agent identities. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-31.html)

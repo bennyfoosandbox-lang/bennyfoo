@@ -2,10 +2,50 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-08-30
-run_count: 21
-digest_count: 19
+last_run: 2026-09-01
+run_count: 22
+digest_count: 20
 entries:
+  - fingerprint: university-of-tampa-mandatory-ai-literacy-class-fall2026
+    title: "University of Tampa makes AI literacy a required class for every sophomore"
+    first_seen: 2026-09-01
+    digest: ai-impact-on-education-2026-Sep-01.html
+    urls:
+      - https://www.tampabay.com/news/education/2026/08/31/university-of-tampa-ai-literacy-class-florida/
+      - https://www.govtech.com/education/higher-ed/university-of-tampa-mandates-ai-literacy-class-for-sophomores
+      - https://www.ut.edu/news-and-utampa-life/2026/cultivating-ai-judgment-in-utampa-s-digital-literacy-course-
+  - fingerprint: khan-academy-google-gemini-khanmigo-visual-tutoring-back-to-school-2026
+    title: "Khan Academy and Google.org give Khanmigo the ability to draw its own diagrams"
+    first_seen: 2026-09-01
+    digest: ai-impact-on-education-2026-Sep-01.html
+    urls:
+      - https://blog.khanacademy.org/new-ai-tools-bring-interactive-diagrams-and-targeted-practice-thanks-to-khan-academys-partnership-with-google-org/
+      - https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/
+      - https://gcn.com/google-org-fellows-gemini-bring-real/21227/
+  - fingerprint: israel-ai-english-learning-2026-27-school-year-launch
+    title: "Israel opens its school year with AI-taught English rolling out to all 180 middle schools"
+    first_seen: 2026-09-01
+    digest: ai-impact-on-education-2026-Sep-01.html
+    urls:
+      - https://www.jpost.com/israel-news/article-904365
+      - https://www.jns.org/news/israel-news/some-2-6-million-israeli-pupils-set-to-start-school-year
+      - https://www.timesofisrael.com/with-massive-teacher-shortages-israel-plans-on-teaching-english-to-middle-schoolers-through-ai/
+  - fingerprint: china-ai-special-education-action-plan-2026-2030
+    title: "China's next Five-Year Plan puts AI companions into special-education classrooms"
+    first_seen: 2026-09-01
+    digest: ai-impact-on-education-2026-Sep-01.html
+    urls:
+      - https://english.news.cn/20260831/e91839343b6a4605b95987f8221124e2/c.html
+      - http://www.china.org.cn/2026-09/01/content_118673842.shtml
+      - http://en.people.cn/n3/2026/0901/c90000-20494532.html
+  - fingerprint: ipsos-education-monitor-2026-india-ai-schools-social-media-ban
+    title: "Global poll: Indians overwhelmingly back AI in classrooms while wanting social media banned for kids"
+    first_seen: 2026-09-01
+    digest: ai-impact-on-education-2026-Sep-01.html
+    urls:
+      - https://www.adgully.com/post/19924/ipsos-survey-indians-back-social-media-bans-embrace-ai-in-education
+      - https://bestmediainfo.com/interviews/digital/78-indians-want-social-media-ban-for-kids-under-14-finds-report-12459554
+      - https://stratnewsglobal.com/technology/education-technology-india/
   - fingerprint: ny-focus-act-gounardes-screens-ai-k5-bill-aug2026
     title: "New York's FOCUS Act would ban AI chatbots for K-5, require opt-in for teens"
     first_seen: 2026-08-30
@@ -781,6 +821,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-01
+- **University of Tampa makes AI literacy a required class for every sophomore** — a new mandatory one-credit course, built with Codio, replaces a Python digital-literacy class and focuses on verifying AI outputs and judgment rather than tool mechanics. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-01.html)
+- **Khan Academy and Google.org give Khanmigo the ability to draw its own diagrams** — a six-month Google.org Fellowship brings Gemini-powered, live-interactive diagrams and teacher-controlled practice sets to the tutor for back-to-school 2026. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-01.html)
+- **Israel opens its school year with AI-taught English rolling out to all 180 middle schools** — the "English for Everyone" program scales from a 28-school pilot to nationwide as 2.6M pupils start the 2026-27 year, alongside a new mandatory AI-literacy course for 8th/9th graders. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-01.html)
+- **China's next Five-Year Plan puts AI companions into special-education classrooms** — a seven-department action plan for 2026-2030 directs AI-assisted teachers and home-based AI instruction specifically at students with disabilities, distinct from July's general K-12 AI mandate. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-01.html)
+- **Global poll: Indians overwhelmingly back AI in classrooms while wanting social media banned for kids** — Ipsos's Education Monitor 2026 finds 78% want under-14 social media banned but only 26% want AI banned in schools, echoing US polling that favors regulating rather than prohibiting classroom AI. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-01.html)
 
 ## 2026-Aug-30
 - **New York's FOCUS Act would ban AI chatbots for K-5, require opt-in for teens** — Sens. Gounardes, Bailey and Scarcella-Spanton's bill mandates screen-free instruction pre-K-5, a rotation model for grades 6-8, and parental opt-in plus vendor proof-of-value before generative AI reaches high schoolers. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Aug-30.html)
