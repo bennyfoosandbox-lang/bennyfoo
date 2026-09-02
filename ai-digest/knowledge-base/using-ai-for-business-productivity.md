@@ -2,10 +2,54 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-01
-run_count: 34
-digest_count: 34
+last_run: 2026-09-02
+run_count: 35
+digest_count: 35
 entries:
+  - fingerprint: air-security-50m-seed-ai-agent-firewall-sep2026
+    title: "AIR emerges from stealth with $50M to build a \"firewall\" for AI agents"
+    first_seen: 2026-09-02
+    digest: using-ai-for-business-productivity-2026-Sep-02.html
+    urls:
+      - https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/
+      - https://siliconangle.com/2026/09/01/air-security-launches-with-50m-to-build-a-firewall-for-ai-agents/
+      - https://www.pymnts.com/news/investment-tracker/2026/ai-agent-security-startup-air-raises-50-million-to-guard-enterprise-supply-chains/
+      - https://www.calcalistech.com/ctechnews/article/r13apdnugg
+  - fingerprint: pentagon-genai-mil-chatgpt-mil-grok-government-expansion-sep2026
+    title: "The Pentagon rolls out ChatGPT and Grok to 3 million military and civilian staff"
+    first_seen: 2026-09-02
+    digest: using-ai-for-business-productivity-2026-Sep-02.html
+    urls:
+      - https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/
+      - https://fortune.com/2026/09/01/pentagon-chatgpt-grok-government-military-ai-members-pete-hegseth-defense-department/
+      - https://defensescoop.com/2026/08/31/grok-chatgpt-added-to-genai-mil/
+      - https://www.militarytimes.com/industry/techwatch/2026/08/31/the-militarys-chatgpt-is-now-live-via-the-pentagons-genai-platform/
+  - fingerprint: microsoft-humain-ai-productivity-bundle-leap-2026-sep2026
+    title: "Microsoft and HUMAIN launch an \"AI productivity bundle\" targeting a million enterprise users"
+    first_seen: 2026-09-02
+    digest: using-ai-for-business-productivity-2026-Sep-02.html
+    urls:
+      - https://www.prnewswire.com/news-releases/microsoft-and-humain-expand-strategic-collaboration-at-leap-2026-with-new-enterprise-ai-offering-and-ai-pc-302865157.html
+      - https://finance.yahoo.com/technology/ai/articles/microsoft-humain-expand-strategic-collaboration-164500702.html
+      - https://aijourn.com/microsoft-and-humain-expand-strategic-collaboration-at-leap-2026-with-new-enterprise-ai-offering-and-ai-pc/
+  - fingerprint: openai-chatgpt-ads-1-billion-run-rate-200-days-sep2026
+    title: "OpenAI's ChatGPT ads business hits a $1 billion run rate in 200 days"
+    first_seen: 2026-09-02
+    digest: using-ai-for-business-productivity-2026-Sep-02.html
+    urls:
+      - https://www.forbes.com/sites/gabrielalinzainescu/2026/08/31/openais-chatgpt-ads-hit-1-billion-run-rate-in-just-200-days/
+      - https://digiday.com/media-buying/openais-chatgpt-ads-business-hits-1-billion-run-rate-as-europe-gets-self-serve-access/
+      - https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/
+      - https://www.benzinga.com/markets/private-markets/26/08/61522189/openais-chatgpt-ads-hit-1-billion-in-annualized-revenue-in-just-200-days-now-sam-altman-is-taking-the-business-global
+  - fingerprint: anthropic-lambda-nvidia-35-billion-texas-compute-sep2026
+    title: "Anthropic locks up $35 billion of Nvidia-backed compute for a new Texas data center"
+    first_seen: 2026-09-02
+    digest: using-ai-for-business-productivity-2026-Sep-02.html
+    urls:
+      - https://betanews.com/article/anthropic-35-billion-lambda-nvidia-texas-deal/
+      - https://www.forbes.com/sites/jonmarkman/2026/09/01/anthropic-books-35-billion-to-nvidia-backed-lambda-for-cloud-capacity/
+      - https://247wallst.com/investing/2026/09/01/is-nvidias-35-billion-anthropic-pact-the-ultimate-circular-financing-play/
+      - https://theenergymag.com/news/market-news/anthropic-lambda-nvidia-hut-ai-texas-beacon-point
   - fingerprint: broadcom-vmware-ai-factory-private-ai-cloud-launch-aug2026
     title: "Broadcom unveils VMware AI Factory to tame the cost and complexity of running AI in-house"
     first_seen: 2026-09-01
@@ -1388,6 +1432,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-02
+- **AIR emerges from stealth with $50M to build a "firewall" for AI agents** — a six-month-old startup founded by Unit 8200 veterans that vets every skill and tool an enterprise's AI agents use and blocks unvetted ones. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-02.html)
+- **The Pentagon rolls out ChatGPT and Grok to 3 million military and civilian staff** — GenAI.mil adds ChatGPT Mil and Grok for Government alongside Gemini, with 1.7M users already onboarded. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-02.html)
+- **Microsoft and HUMAIN launch an "AI productivity bundle" targeting a million enterprise users** — HUMAIN ONE plus Microsoft 365 Copilot on Azure, alongside a new HUMAIN AI PC line, aimed at the Middle East and Africa. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-02.html)
+- **OpenAI's ChatGPT ads business hits a $1 billion run rate in 200 days** — self-serve access now spans 40+ countries as OpenAI targets $2.5B in ad revenue this year. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-02.html)
+- **Anthropic locks up $35 billion of Nvidia-backed compute for a new Texas data center** — a Lambda cloud deal with Nvidia holding the data-center lease, following a $45B Nscale deal a week earlier. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-02.html)
 
 ## 2026-Sep-01
 - **Broadcom unveils VMware AI Factory to tame the cost and complexity of running AI in-house** — a software-defined layer inside VMware Private AI Cloud adding multi-vendor hardware support, Day-2 automation, and AI-tokenomics cost controls. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-01.html)
