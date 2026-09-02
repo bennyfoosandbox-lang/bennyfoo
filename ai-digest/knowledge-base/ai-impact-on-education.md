@@ -2,10 +2,47 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-01
-run_count: 22
-digest_count: 20
+last_run: 2026-09-02
+run_count: 23
+digest_count: 21
 entries:
+  - fingerprint: nyc-doe-ai-policy-launch-prek8-ban-sep2026
+    title: "NYC unveils its long-awaited AI policy: a ban through 8th grade, restricted access in high school"
+    first_seen: 2026-09-02
+    digest: ai-impact-on-education-2026-Sep-02.html
+    urls:
+      - https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html
+      - https://www.chalkbeat.org/newyork/2026/09/02/nyc-schools-to-set-ai-policy-ban-screen-time-limits/
+      - https://abc7ny.com/post/new-york-city-public-schools-banning-ai-use-middle-school-year/19778716/
+      - https://gothamist.com/news/nyc-public-schools-to-ban-ai-for-teaching-students-below-9th-grade
+  - fingerprint: propublica-alpha-school-texas-charter-rejected-voucher-approved-sep2026
+    title: "Texas rejected Alpha School's AI-driven charter bid — then approved it for taxpayer-funded vouchers anyway"
+    first_seen: 2026-09-02
+    digest: ai-impact-on-education-2026-Sep-02.html
+    urls:
+      - https://www.propublica.org/article/alpha-school-texas-vouchers-ai
+      - https://texasstandard.org/stories/alpha-school-austin-texas-atx-ai-model-private-vouchers-public/
+  - fingerprint: hepi-nature-uk-student-genai-survey-2026-exam-redesign
+    title: "UK survey: 95% of undergraduates now use AI, and universities are redesigning exams to cope"
+    first_seen: 2026-09-02
+    digest: ai-impact-on-education-2026-Sep-02.html
+    urls:
+      - https://www.nature.com/articles/d41586-026-02370-2
+      - https://www.hepi.ac.uk/reports/student-generative-ai-survey-2026/
+  - fingerprint: vodafone-ipsos-europe-teen-ai-homework-skills-gap-sep2026
+    title: "European teens do homework 30% faster with AI — but a new 'AI skills gap' is leaving poorer students behind"
+    first_seen: 2026-09-02
+    digest: ai-impact-on-education-2026-Sep-02.html
+    urls:
+      - https://www.aljazeera.com/news/2026/9/2/faster-homework-poor-exam-results-what-ai-is-doing-to-students-learning
+      - https://foundation.vodafone.com/news/vodafone-foundation/vodafone-foundation-research-highlights-the-emergence-of-a-new-ai-skills-gap-in-europe
+  - fingerprint: ibm-morning-consult-k12-ai-readiness-gap-sep2026
+    title: "IBM/Morning Consult: only 24% of K-12 educators think US schools are adapting well to AI"
+    first_seen: 2026-09-02
+    digest: ai-impact-on-education-2026-Sep-02.html
+    urls:
+      - https://www.prnewswire.com/news-releases/new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness-302866692.html
+      - https://aijourn.com/new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness/
   - fingerprint: university-of-tampa-mandatory-ai-literacy-class-fall2026
     title: "University of Tampa makes AI literacy a required class for every sophomore"
     first_seen: 2026-09-01
@@ -821,6 +858,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-02
+- **NYC unveils its long-awaited AI policy: a ban through 8th grade, restricted access in high school** — the nation's largest school system bars generative AI for ~600,000 pre-K–8 students, caps device time, and limits high schoolers to restricted, pilot-program access, capping a summer of parent-led backlash. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-02.html)
+- **Texas rejected Alpha School's AI-driven charter bid — then approved it for taxpayer-funded vouchers anyway** — a ProPublica investigation finds the no-teacher AI academy was rejected for charter status in nine of ten states but still cleared for Texas's new voucher program. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-02.html)
+- **UK survey: 95% of undergraduates now use AI, and universities are redesigning exams to cope** — HEPI's 2026 survey finds 94% use GenAI for assessed coursework (up from 51%), while Nature reports professors shifting to in-person and process-based assessment as detection tools fail on hybrid writing. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-02.html)
+- **European teens do homework 30% faster with AI — but a new "AI skills gap" is leaving poorer students behind** — a Vodafone Foundation/Ipsos study of 7,000 students finds homework scores up 18% and time down 30%, alongside 27% of children feeling left behind on AI, worst among lower-income families. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-02.html)
+- **IBM/Morning Consult: only 24% of K-12 educators think US schools are adapting well to AI** — new survey data shows just 16% of parents agree, and only 20% of parents say they understand the AI guidance their child receives; IBM responds with a new K-12 AI Leaders Fellowship. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-02.html)
 
 ## 2026-Sep-01
 - **University of Tampa makes AI literacy a required class for every sophomore** — a new mandatory one-credit course, built with Codio, replaces a Python digital-literacy class and focuses on verifying AI outputs and judgment rather than tool mechanics. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-01.html)
