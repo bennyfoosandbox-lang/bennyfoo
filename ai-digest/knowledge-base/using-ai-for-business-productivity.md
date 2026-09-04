@@ -2,10 +2,53 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-02
-run_count: 35
-digest_count: 35
+last_run: 2026-09-04
+run_count: 36
+digest_count: 36
 entries:
+  - fingerprint: openai-gpt-6-astra-launch-frontier-work-sep2026
+    title: "OpenAI launches GPT-6 Astra, its \"frontier intelligence for work\""
+    first_seen: 2026-09-04
+    digest: using-ai-for-business-productivity-2026-Sep-04.html
+    urls:
+      - https://openai.com/index/gpt-6-astra/
+      - https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/
+      - https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html
+      - https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra
+  - fingerprint: openai-enterprise-signals-frontier-firms-8x-token-usage-sep2026
+    title: "OpenAI data: the gap between AI \"frontier firms\" and everyone else has tripled since January"
+    first_seen: 2026-09-04
+    digest: using-ai-for-business-productivity-2026-Sep-04.html
+    urls:
+      - https://openai.com/signals/enterprise-data/
+      - https://openai.com/index/how-enterprises-put-ai-to-work/
+      - https://www.vktr.com/ai-news/openai-data-shows-top-enterprise-ai-users-now-consume-8x-more-than-typical-firms/
+      - https://www.citybiz.co/article/898622/ai-native-companies-move-beyond-assistance-to-automate-core-workflows/
+  - fingerprint: wonderful-550m-series-c-5b-valuation-enterprise-ai-os-sep2026
+    title: "Enterprise \"AI operating system\" startup Wonderful raises $550M, doubles its valuation to $5B in six months"
+    first_seen: 2026-09-04
+    digest: using-ai-for-business-productivity-2026-Sep-04.html
+    urls:
+      - https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/
+      - https://www.hpcwire.com/aiwire/2026/09/02/wonderful-raises-550m-series-c-to-scale-the-ai-operating-system-for-the-enterprise/
+      - https://www.calcalistech.com/ctechnews/article/i3481b92n
+      - https://dealroom.co/news/148397-wonderful-raises-550m-series-c-at-5b-valuation-for-enterprise-ai-os/
+  - fingerprint: smarsh-agentforce-archie-emmy-customer-support-sep2026
+    title: "Smarsh's Agentforce rollout shows what a mature enterprise customer-service AI deployment looks like"
+    first_seen: 2026-09-04
+    digest: using-ai-for-business-productivity-2026-Sep-04.html
+    urls:
+      - https://www.smarsh.com/press-release/smarsh-scales-salesforces-agentforce-after-delivering-strong-customer-support-results
+      - https://www.businesswire.com/news/home/20260903579718/en/Smarsh-Scales-Salesforces-Agentforce-After-Delivering-Strong-Customer-Support-Results
+      - https://www.01net.it/smarsh-scales-salesforces-agentforce-after-delivering-strong-customer-support-results/
+  - fingerprint: workato-lenovo-qira-cross-app-agentic-workflows-sep2026
+    title: "Workato and Lenovo wire agentic workflows into Qira, so a request can span Gmail, Slack, Teams and Outlook without app-switching"
+    first_seen: 2026-09-04
+    digest: using-ai-for-business-productivity-2026-Sep-04.html
+    urls:
+      - https://news.lenovo.com/pressroom/press-releases/lenovo-workato-expand-qira-ecosystem-with-new-cross-app-ai-experiences/
+      - https://www.businesswire.com/news/home/20260903978741/en/Workato-and-Lenovo-Announce-Strategic-Collaboration-to-Expand-Lenovo-Qiras-Cross-App-Capabilities
+      - https://www.01net.it/workato-and-lenovo-announce-strategic-collaboration-to-expand-lenovo-qiras-cross-app-capabilities/
   - fingerprint: air-security-50m-seed-ai-agent-firewall-sep2026
     title: "AIR emerges from stealth with $50M to build a \"firewall\" for AI agents"
     first_seen: 2026-09-02
@@ -1432,6 +1475,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-04
+- **OpenAI launches GPT-6 Astra, its "frontier intelligence for work"** — fills forms, updates CRM records, organizes calendars and drafts documents; ships off-by-default for enterprise workspaces; API priced ~2.5x the prior flagship. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-04.html)
+- **OpenAI data: the gap between AI "frontier firms" and everyone else has tripled since January** — top-10% AI users now generate 8.3x the output tokens per active user of typical firms, up from 2.6x in January; widest gap (11.7x) in IT, narrowest (5.3x) in manufacturing. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-04.html)
+- **Enterprise "AI operating system" startup Wonderful raises $550M, doubles its valuation to $5B in six months** — Insight Partners-led Series C with Salesforce as a new strategic investor; third raise in ~20 months, now ~650 employees across 35+ markets. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-04.html)
+- **Smarsh's Agentforce rollout shows what a mature enterprise customer-service AI deployment looks like** — Archie hits 72% self-service deflection across 22,000 portal users; internal agent Emmy saves reps 7+ hours per case. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-04.html)
+- **Workato and Lenovo wire agentic workflows into Qira** — cross-app execution spanning Gmail, Calendar, Outlook, Slack and Teams, announced at Lenovo Innovation World / IFA 2026. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-04.html)
 
 ## 2026-Sep-02
 - **AIR emerges from stealth with $50M to build a "firewall" for AI agents** — a six-month-old startup founded by Unit 8200 veterans that vets every skill and tool an enterprise's AI agents use and blocks unvetted ones. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-02.html)
