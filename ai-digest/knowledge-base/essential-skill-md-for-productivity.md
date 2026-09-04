@@ -2,10 +2,43 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-01
-run_count: 31
-digest_count: 31
+last_run: 2026-09-04
+run_count: 32
+digest_count: 32
 entries:
+  - fingerprint: openclaw-2-0-launch-security-criticism
+    title: "OpenClaw 2.0 ships its largest update ever — and immediately reopens the skills-security debate"
+    first_seen: 2026-09-04
+    digest: essential-skill-md-for-productivity-2026-Sep-04.html
+    urls:
+      - https://www.theregister.com/ai-and-ml/2026/08/31/openclaw-20-pours-glitter-on-slow-burning-security-dumpster-fire/5293492
+      - https://www.infoq.com/news/2026/09/openclaw-2-release/
+      - https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway/
+      - https://siliconangle.com/2026/08/31/openclaw-just-gave-everyone-version-2-0-and-it-comes-with-major-updates/
+  - fingerprint: tenable-openai-cyberagents-exchange-ai-inspector
+    title: "Tenable and OpenAI build an 'AI Inspector' specifically to vet skills before they're installed"
+    first_seen: 2026-09-04
+    digest: essential-skill-md-for-productivity-2026-Sep-04.html
+    urls:
+      - https://www.tenable.com/press-releases/tenable-uses-openai-gpt-cyber-models-to-help-defenders-inspect-community-built-ai-components
+      - https://www.globenewswire.com/news-release/2026/09/03/3356323/0/en/tenable-uses-openai-gpt-cyber-models-to-help-defenders-inspect-community-built-ai-components.html
+      - https://www.tenable.com/cyberagents-exchange
+  - fingerprint: air-security-50m-seed-skill-vetting
+    title: "AIR raises $50M, built entirely around continuously vetting the skills and add-ons agents use"
+    first_seen: 2026-09-04
+    digest: essential-skill-md-for-productivity-2026-Sep-04.html
+    urls:
+      - https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/
+      - https://finance.yahoo.com/technology/ai/articles/air-raises-50m-help-companies-154551250.html
+      - https://superpowerdaily.com/posts/air-security-raises-50m-to-put-continuous-checks-around-agent-add-ons
+  - fingerprint: solo-io-agentdesktop-open-source-governance
+    title: "Solo.io open-sources agentdesktop to bring skill and agent governance to the laptop actually running Claude Code"
+    first_seen: 2026-09-04
+    digest: essential-skill-md-for-productivity-2026-Sep-04.html
+    urls:
+      - https://www.solo.io/press-releases/solo-extends-agentic-governance-to-the-desktop-with-agentdesktop
+      - https://www.globenewswire.com/news-release/2026/09/03/3355961/0/en/solo-io-extends-agentic-governance-to-the-desktop-with-agentdesktop.html
+      - https://aithority.com/it-and-devops/cloud/solo-io-extends-agentic-governance-to-the-desktop-with-agentdesktop/
   - fingerprint: maliciousskillbench-9740-skill-detection-benchmark-arxiv
     title: "MaliciousSkillBench consolidates 13 sources into a 9,740-skill ground truth for catching bad SKILL.md files"
     first_seen: 2026-09-01
@@ -1030,6 +1063,12 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-04
+- **OpenClaw 2.0 launch + security criticism** — largest-ever release (933 contributors, 16,000+ PRs): guided setup, 575ms Control UI, shared cloud sessions, "one trust boundary per gateway"; The Register calls it "a security dumpster fire" over ClawHub's persistent credential-leak rate. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-04.html)
+- **Tenable + OpenAI Exchange Inspector** — new skill-vetting pipeline on the CyberAgents Exchange combining GPT-5.6 Cyber frontier assessment, Tenable One AI Exposure skills inspection, and human review; covers 100+ community-submitted agents/skills/MCP servers; live this September. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-04.html)
+- **AIR raises $50M seed** — Unit 8200 founders' startup discovers agents, continuously (not just at install) vets the skills/add-ons they use, and runs a pre-vetted skill marketplace; competes with Noma, Astrix, Zenity. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-04.html)
+- **Solo.io open-sources agentdesktop** — Apache-2.0 endpoint governance for the desktops actually running Claude Code/Codex/Cowork skills, closing the gap between cloud-side agentic governance and local skill execution; standalone or MDM fleet mode. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-04.html)
 
 ## 2026-Sep-01
 - **MaliciousSkillBench (arXiv 2608.19901)** — consolidates 13 public sources into a 9,740-skill benchmark (7,505 malicious / 2,235 benign) for malicious Agent Skill detection, separating structural reuse from attack semantics after deduplicating 8,414 raw records into 4,588 structural families. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-01.html)
