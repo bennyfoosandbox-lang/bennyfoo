@@ -2,10 +2,49 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-02
-run_count: 23
-digest_count: 21
+last_run: 2026-09-04
+run_count: 24
+digest_count: 22
 entries:
+  - fingerprint: lausd-generative-ai-ban-all-students-sep2026
+    title: "LAUSD, the nation's second-largest district, bars all students from generative AI"
+    first_seen: 2026-09-04
+    digest: ai-impact-on-education-2026-Sep-04.html
+    urls:
+      - https://www.nytimes.com/2026/09/03/us/lausd-schools-ban-ai-artificial-intelligence.html
+      - https://www.bloomberg.com/news/articles/2026-09-03/los-angeles-schools-bar-students-from-ai-on-district-devices
+      - https://www.washingtonpost.com/education/2026/09/03/another-big-school-district-bans-generative-ai-this-time-all-students/
+      - https://www.latimes.com/california/story/2026-09-02/lausd-student-ai-ban-policy
+      - https://www.k12dive.com/news/lausd-restricts-all-students-from-using-ai-tools/829612/
+  - fingerprint: nsw-hsc-take-home-assessment-ai-limit-sep2026
+    title: "NSW caps take-home HSC assessments to blunt AI-assisted cheating"
+    first_seen: 2026-09-04
+    digest: ai-impact-on-education-2026-Sep-04.html
+    urls:
+      - https://www.nsw.gov.au/ministerial-releases/new-rules-ai-education
+      - https://www.abc.net.au/news/2026-09-01/ai-forces-limit-on-hsc-take-home-assessments/107103914
+      - https://www.cyberdaily.au/security/14124-nsw-introduces-new-hsc-rules-to-keep-pace-with-the-rapid-rise-of-ai-in-schools
+  - fingerprint: council-of-europe-ai-education-recommendation-46-states-sep2026
+    title: "Council of Europe tells 46 member states to build AI literacy into education"
+    first_seen: 2026-09-04
+    digest: ai-impact-on-education-2026-Sep-04.html
+    urls:
+      - https://www.eunews.it/en/2026/09/04/council-of-europe-places-education-at-the-heart-of-response-to-artificial-intelligence/
+      - https://www.coe.int/en/web/artificial-intelligence/the-framework-convention-on-artificial-intelligence
+  - fingerprint: canada-teachers-wild-west-unified-ai-policy-call-sep2026
+    title: "Canadian teachers call school AI policy a 'Wild West'"
+    first_seen: 2026-09-04
+    digest: ai-impact-on-education-2026-Sep-04.html
+    urls:
+      - https://ca.news.yahoo.com/wild-west-teachers-experts-call-080005138.html
+      - https://www.ckom.com/2026/09/04/wild-west-teachers-experts-call-for-unified-policies-to-address-ai-in-classrooms/
+  - fingerprint: university-wyoming-boodlebox-enterprise-ai-platform-sep2026
+    title: "University of Wyoming picks BoodleBox as its campus-wide AI platform"
+    first_seen: 2026-09-04
+    digest: ai-impact-on-education-2026-Sep-04.html
+    urls:
+      - https://www.uwyo.edu/news/2026/09/uw-selects-boodlebox-to-launch-enterprise-ai-platform-for-faculty-staff-and-students.html
+      - https://www.wyomingnews.com/laramieboomerang/laramieboomerang/news/uw-selects-boodlebox-to-launch-enterprise-ai-platform-for-faculty-staff-and-students/article_ac83a0cf-7315-4445-bef4-9041f9a887d9.html
   - fingerprint: nyc-doe-ai-policy-launch-prek8-ban-sep2026
     title: "NYC unveils its long-awaited AI policy: a ban through 8th grade, restricted access in high school"
     first_seen: 2026-09-02
@@ -858,6 +897,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-04
+- **LAUSD, the nation's second-largest district, bars all students from generative AI** — a surprise disclosure at the first meeting of a new Generative AI Ad Hoc committee reveals the district already switched off AI access on all ~378,000 students' school-issued devices, going further than NYC's grades-2K-8 ban announced a day earlier. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-04.html)
+- **NSW caps take-home HSC assessments to blunt AI-assisted cheating** — Australia's most populous state limits every HSC course to one take-home task worth at most 15% of the school-based mark, phasing in from Term 4 2026. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-04.html)
+- **Council of Europe tells 46 member states to build AI literacy into education** — the Committee of Ministers adopts a recommendation implementing Article 20 of the Framework Convention on AI, pushing literacy-and-rights education as an alternative to blanket bans. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-04.html)
+- **Canadian teachers call school AI policy a "Wild West"** — a Canadian Press report finds fewer than half of grade 6-12 teachers say their school has any AI policy, with only three provinces having published K-12 guidance. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-04.html)
+- **University of Wyoming picks BoodleBox as its campus-wide AI platform** — the enterprise rollout gives faculty, staff and students access to 38+ AI models through one governed environment, with full rollout targeted for spring 2027. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-04.html)
 
 ## 2026-Sep-02
 - **NYC unveils its long-awaited AI policy: a ban through 8th grade, restricted access in high school** — the nation's largest school system bars generative AI for ~600,000 pre-K–8 students, caps device time, and limits high schoolers to restricted, pilot-program access, capping a summer of parent-led backlash. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-02.html)
