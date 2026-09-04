@@ -3,9 +3,47 @@ topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
 last_run: 2026-09-04
-run_count: 24
+run_count: 25
 digest_count: 22
 entries:
+  - fingerprint: tumbler-ridge-openai-30-new-lawsuits-teachers-students-sep2026
+    title: "Tumbler Ridge shooting survivors file 30 new lawsuits against OpenAI"
+    first_seen: 2026-09-04
+    digest: ai-impact-on-education-2026-Sep-04.html
+    urls:
+      - https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/
+      - https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-shooting-open-ai-lawsuits-9.7328382
+      - https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy
+      - https://globalnews.ca/news/12044429/tumbler-ridge-lawsuit-openai/
+      - https://www.theglobeandmail.com/canada/article-tumbler-ridge-mass-shooting-survivors-filing-lawsuits-against-openai/
+  - fingerprint: sfusd-ai-policy-vote-delay-march2027-amira-tech-in-check-sep2026
+    title: "San Francisco punts its AI policy vote to March 2027 as Amira controversy simmers"
+    first_seen: 2026-09-04
+    digest: ai-impact-on-education-2026-Sep-04.html
+    urls:
+      - https://hoodline.com/2026/09/while-nyc-and-la-restrict-classroom-ai-sfusd-punts-decision-to-march-2027/
+      - https://sfstandard.com/2026/09/03/la-nyc-sf-ai-policy/
+  - fingerprint: openai-learning-lab-ai-education-research-network-sep2026
+    title: "OpenAI launches a Learning Lab to build real evidence on what AI does for learning"
+    first_seen: 2026-09-04
+    digest: ai-impact-on-education-2026-Sep-04.html
+    urls:
+      - https://edunewsletter.openai.com/p/learning-lab-launch
+      - https://www.edtechinnovationhub.com/news/openai-launches-learning-lab-to-build-evidence-base-for-ai-in-education
+      - https://completeaitraining.com/news/openai-launches-learning-lab-to-build-research-base-for-ai/
+  - fingerprint: kentucky-cpe-ai-task-force-higher-ed-workforce-sep2026
+    title: "Kentucky pushes to make AI fluency mandatory for every college student"
+    first_seen: 2026-09-04
+    digest: ai-impact-on-education-2026-Sep-04.html
+    urls:
+      - https://www.kentucky.com/news/local/education/article317132695.html
+      - https://cpe.ky.gov/aboutus/aitaskforce.html
+  - fingerprint: gottheimer-nj-bipartisan-ai-screentime-k12-agenda-sep2026
+    title: "A New Jersey congressman pitches AI labs plus screen-time limits as the bipartisan middle path"
+    first_seen: 2026-09-04
+    digest: ai-impact-on-education-2026-Sep-04.html
+    urls:
+      - https://wrnjradio.com/gottheimer-unveils-bipartisan-ai-education-agenda-for-k-12-schools/
   - fingerprint: lausd-generative-ai-ban-all-students-sep2026
     title: "LAUSD, the nation's second-largest district, bars all students from generative AI"
     first_seen: 2026-09-04
@@ -904,6 +942,13 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Council of Europe tells 46 member states to build AI literacy into education** — the Committee of Ministers adopts a recommendation implementing Article 20 of the Framework Convention on AI, pushing literacy-and-rights education as an alternative to blanket bans. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-04.html)
 - **Canadian teachers call school AI policy a "Wild West"** — a Canadian Press report finds fewer than half of grade 6-12 teachers say their school has any AI policy, with only three provinces having published K-12 guidance. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-04.html)
 - **University of Wyoming picks BoodleBox as its campus-wide AI platform** — the enterprise rollout gives faculty, staff and students access to 38+ AI models through one governed environment, with full rollout targeted for spring 2027. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-04.html)
+
+### Same-day update (run #25)
+- **Tumbler Ridge shooting survivors file 30 new lawsuits against OpenAI** — teachers, a principal and students sue over a February school shooting, alleging OpenAI staff spotted the shooter's violent ChatGPT conversations and were overruled on alerting police. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-04.html)
+- **San Francisco punts its AI policy vote to March 2027 as Amira controversy simmers** — SFUSD won't vote on a formal AI policy until March 2027 even as a parent coalition demands it disable generative AI and drop the Amira reading tutor now. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-04.html)
+- **OpenAI launches a Learning Lab to build real evidence on what AI does for learning** — a new research network aims to replace scattered pilot data with shared measures, while OpenAI itself calls the existing evidence on AI and learning "early and mixed." [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-04.html)
+- **Kentucky pushes to make AI fluency mandatory for every college student** — the state's postsecondary task force cites a required "AI-native" course at the University of Kentucky as a model for closing a daily-use gap found in a 2026 Gallup/Lumina survey. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-04.html)
+- **A New Jersey congressman pitches AI labs plus screen-time limits as the bipartisan middle path** — Rep. Josh Gottheimer's back-to-school agenda pairs AI-lab funding and teacher training with stricter screen-time rules, positioned between outright bans and unrestricted access. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-04.html)
 
 ## 2026-Sep-02
 - **NYC unveils its long-awaited AI policy: a ban through 8th grade, restricted access in high school** — the nation's largest school system bars generative AI for ~600,000 pre-K–8 students, caps device time, and limits high schoolers to restricted, pilot-program access, capping a summer of parent-led backlash. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-02.html)
