@@ -2,10 +2,52 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-04
-run_count: 36
-digest_count: 36
+last_run: 2026-09-05
+run_count: 37
+digest_count: 37
 entries:
+  - fingerprint: anthropic-fable-5-1-mythos-5-1-enterprise-frontier-safeguards-sep2026
+    title: "Anthropic launches Claude Fable 5.1 and Mythos 5.1 with new Enterprise Frontier Safeguards"
+    first_seen: 2026-09-05
+    digest: using-ai-for-business-productivity-2026-Sep-05.html
+    urls:
+      - https://www.anthropic.com/news/enterprise-frontier-safeguards
+      - https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/
+      - https://www.cnbc.com/2026/09/01/anthropic-data-retention.html
+      - https://www.unite.ai/anthropic-announces-enterprise-frontier-safeguards-customer-held-data/
+  - fingerprint: docusign-agreement-layer-agentic-enterprise-mcp-sep2026
+    title: "Docusign opens its Agreement Layer to every AI agent via MCP"
+    first_seen: 2026-09-05
+    digest: using-ai-for-business-productivity-2026-Sep-05.html
+    urls:
+      - https://www.docusign.com/blog/docusign-contract-ai-chatgpt
+      - https://investor.docusign.com/news-and-events/press-releases/news-details/2026/Docusign-Brings-Trusted-Agreement-Intelligence-and-Workflows-into-ChatGPT-and-Codex/default.aspx
+      - https://www.stocktitan.net/news/DOCU/docusign-agreement-layer-for-the-agentic-enterprise-coming-to-every-f6jp6p3jgh4b.html
+  - fingerprint: hiddenlayer-100m-series-b-agent-runtime-security-sep2026
+    title: "HiddenLayer raises $100M Series B to secure AI agents at runtime"
+    first_seen: 2026-09-05
+    digest: using-ai-for-business-productivity-2026-Sep-05.html
+    urls:
+      - https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/
+      - https://www.unite.ai/hiddenlayer-raises-100m-series-b-to-expand-ai-agent-security-platform/
+      - https://www.prnewswire.com/news-releases/hiddenlayer-raises-100m-series-b-to-advance-trustworthy-ai-302867783.html
+      - https://fintech.global/2026/09/03/hiddenlayer-bags-100m-to-guard-enterprise-ai-agents/
+  - fingerprint: ey-agentic-ai-treasury-automation-80pct-sep2026
+    title: "EY: agentic AI could automate 80% of routine treasury work"
+    first_seen: 2026-09-05
+    digest: using-ai-for-business-productivity-2026-Sep-05.html
+    urls:
+      - https://aninews.in/news/business/agentic-ai-could-automate-80-of-routine-treasury-work-leave-strategic-decisions-to-humans-ey20260904100506/
+      - https://newsable.asianetnews.com/business/agentic-ai-to-handle-80-of-routine-treasury-tasks-says-ey-report-articleshow-mp6z2xb
+      - https://www.dailyprabhat.com/agentic-ai-could-automate-80-of-routine-treasury-work-leave-strategic-decisions-to-humans-ey/
+  - fingerprint: cauzzyai-unilever-prestige-erp-agents-sep2026
+    title: "CauzzyAI wires AI agents into Unilever Prestige's ERP systems"
+    first_seen: 2026-09-05
+    digest: using-ai-for-business-productivity-2026-Sep-05.html
+    urls:
+      - https://www.businesswire.com/news/home/20260903913247/en/CauzzyAI-and-Unilever-Prestige-Partner-to-Accelerate-AI-Innovation-Across-Prestige-Beauty
+      - https://www.01net.it/cauzzyai-and-unilever-prestige-partner-to-accelerate-ai-innovation-across-prestige-beauty/
+      - https://aijourn.com/cauzzyai-and-unilever-prestige-partner-to-accelerate-ai-innovation-across-prestige-beauty/
   - fingerprint: openai-gpt-6-astra-launch-frontier-work-sep2026
     title: "OpenAI launches GPT-6 Astra, its \"frontier intelligence for work\""
     first_seen: 2026-09-04
@@ -1475,6 +1517,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-05
+- **Anthropic launches Claude Fable 5.1 and Mythos 5.1 with new Enterprise Frontier Safeguards** — cheaper, less-restricted Fable 5.1 GA for coding/knowledge work; Mythos 5.1 gated to vetted cyber and life-sciences partners; EFS combines zero data retention with customer-held misuse-detection logs. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-05.html)
+- **Docusign opens its Agreement Layer to every AI agent via MCP** — Claude, ChatGPT, Gemini, Copilot and Slack can natively call Docusign's Iris engine to create and act on agreements; global GA September 30. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-05.html)
+- **HiddenLayer raises $100M Series B to secure AI agents at runtime** — Delta-v Capital-led round with Microsoft's M12 and Morgan Stanley participating; funds a new Agent Harness Security module for autonomous coding agents. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-05.html)
+- **EY: agentic AI could automate 80% of routine treasury work** — targets the 60-70% of mid-level treasury bandwidth spent on manual reconciliation and reporting; could push liquidity-forecast accuracy to ~90%. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-05.html)
+- **CauzzyAI wires AI agents into Unilever Prestige's ERP systems** — agents connect across Oracle NetSuite and enterprise data warehouses to automate workflows for Unilever's prestige beauty brands. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-05.html)
 
 ## 2026-Sep-04
 - **OpenAI launches GPT-6 Astra, its "frontier intelligence for work"** — fills forms, updates CRM records, organizes calendars and drafts documents; ships off-by-default for enterprise workspaces; API priced ~2.5x the prior flagship. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-04.html)
