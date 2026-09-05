@@ -2,10 +2,55 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-04
-run_count: 25
-digest_count: 22
+last_run: 2026-09-05
+run_count: 26
+digest_count: 23
 entries:
+  - fingerprint: dc-osse-ai-model-policy-staff-grading-iep-sep2026
+    title: "DC's schools get an official line on what AI can and can't decide"
+    first_seen: 2026-09-05
+    digest: ai-impact-on-education-2026-Sep-05.html
+    urls:
+      - https://osse.dc.gov/release/osse-releases-ai-model-policy-guide-responsible-staff-use-schools
+      - https://hoodline.com/2026/09/dc-schools-get-new-ai-rules-grading-and-iep-decisions-stay-off-limits/
+      - https://wtop.com/dc/2026/09/no-robots-wont-be-teaching-your-kids-dc-releases-new-ai-guidelines-for-teachers/
+      - https://www.winssolutions.org/dc-osse-ai-model-policy-schools/
+  - fingerprint: cubby-ai-teaching-assistant-20-law-schools-professors-sep2026
+    title: "An AI teaching assistant built for 1L exams expands into 20+ law schools"
+    first_seen: 2026-09-05
+    digest: ai-impact-on-education-2026-Sep-05.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/09/03/3356109/0/en/cubby-partners-with-20-universities-to-deploy-ai-teaching-assistants-in-law-school-classrooms.html
+      - https://natlawreview.com/press-releases/cubby-launches-first-ai-teaching-assistant-law-school-students
+      - https://finance.yahoo.com/news/cubby-launches-first-ai-teaching-153000236.html
+      - https://www.manilatimes.net/2026/09/03/tmt-newswire/globenewswire/cubby-partners-with-20-universities-to-deploy-ai-teaching-assistants-in-law-school-classrooms/2418229
+  - fingerprint: bodhan-ai-ai4bharat-four-open-models-multilingual-education-sep2026
+    title: "India open-sources the language infrastructure behind its AI-in-classrooms push"
+    first_seen: 2026-09-05
+    digest: ai-impact-on-education-2026-Sep-05.html
+    urls:
+      - https://www.business-standard.com/technology/tech-news/bodhan-ai-iit-madras-indian-language-foundation-models-education-126090400736_1.html
+      - https://www.tribuneindia.com/news/science-technology/iit-madras-incubated-bodhan-ai-launches-4-models-for-multilingual-learning/
+      - https://www.newsbytesapp.com/news/science/iit-madras-backed-bodhan-ai-launches-four-indian-language-models/story
+      - https://indiaeducationdiary.in/bodhan-ai-and-ai4bharat-launch-four-open-ai-models-to-build-indias-multilingual-education-ecosystem/
+  - fingerprint: chicago-school-board-candidates-three-year-ai-ban-pledge-sep2026
+    title: "Chicago's first elected school board race turns into a referendum on AI"
+    first_seen: 2026-09-05
+    digest: ai-impact-on-education-2026-Sep-05.html
+    urls:
+      - https://www.chalkbeat.org/chicago/2026/09/01/chicago-school-board-candidates-pledge-three-year-ai-ban/
+      - https://www.govtech.com/education/k-12/majority-of-chicago-school-board-candidates-back-3-year-pause-on-ai
+      - https://www.axios.com/local/chicago/2026/08/18/cps-board-candidates-asked-to-sign-ai-pledge-
+      - https://www.efinstitute.org/2026/09/chicago-candidates-pledge-three-year-ai-ban-in-schools/
+  - fingerprint: quizlet-stacker-survey-ai-hype-fades-study-tools-sep2026
+    title: "New survey: students are souring on the AI hype, not on AI itself"
+    first_seen: 2026-09-05
+    digest: ai-impact-on-education-2026-Sep-05.html
+    urls:
+      - https://krdo.com/stacker-higher-ed/2026/09/03/ai-hype-fades-but-students-still-want-smarter-study-tools/
+      - https://kvia.com/stacker-higher-ed/2026/09/04/ai-hype-fades-but-students-still-want-smarter-study-tools/
+      - https://www.kq2.com/stacker-higher-ed/2026/09/05/ai-hype-fades-but-students-still-want-smarter-study-tools/
+      - https://localnews8.com/stacker-higher-ed/2026/09/05/ai-hype-fades-but-students-still-want-smarter-study-tools/
   - fingerprint: tumbler-ridge-openai-30-new-lawsuits-teachers-students-sep2026
     title: "Tumbler Ridge shooting survivors file 30 new lawsuits against OpenAI"
     first_seen: 2026-09-04
@@ -935,6 +980,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-05
+- **DC's schools get an official line on what AI can and can't decide** — OSSE's new AI Model Policy bars AI from student discipline, teacher evaluations, and IEP/504 eligibility decisions, while allowing safeguarded use for grading and educator coaching. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-05.html)
+- **An AI teaching assistant built for 1L exams expands into 20+ law schools** — Cubby launches "Cubby for Professors" and a rebuilt student platform, with faculty at Emory, Wake Forest, UT Austin and others adopting it this fall. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-05.html)
+- **India open-sources the language infrastructure behind its AI-in-classrooms push** — Bodhan AI and AI4Bharat release four open-weight models (speech, OCR, translation) covering up to 27 Indian languages as public-good infrastructure for education. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-05.html)
+- **Chicago's first elected school board race turns into a referendum on AI** — about half of the 45 candidates sign a CTU-backed pledge for a three-year generative-AI moratorium, a new district privacy officer, and screen-time limits. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-05.html)
+- **New survey: students are souring on the AI hype, not on AI itself** — a Quizlet/Stacker survey of 2,017 students, teachers and parents finds ~85% of students already use AI for schoolwork even as broader AI enthusiasm cools, with 98% wanting tools that adapt to their own progress. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-05.html)
 
 ## 2026-Sep-04
 - **LAUSD, the nation's second-largest district, bars all students from generative AI** — a surprise disclosure at the first meeting of a new Generative AI Ad Hoc committee reveals the district already switched off AI access on all ~378,000 students' school-issued devices, going further than NYC's grades-2K-8 ban announced a day earlier. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-04.html)
