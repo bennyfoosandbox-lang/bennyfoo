@@ -2,10 +2,46 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-04
-run_count: 32
-digest_count: 32
+last_run: 2026-09-05
+run_count: 33
+digest_count: 33
 entries:
+  - fingerprint: anthropic-claude-commerce-agents-skills-blueprint
+    title: "Anthropic ships Claude Commerce Agents, a skills-built blueprint for shopping and merchant bots"
+    first_seen: 2026-09-05
+    digest: essential-skill-md-for-productivity-2026-Sep-05.html
+    urls:
+      - https://claude.com/blog/claude-for-commerce-agents
+      - https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/
+      - https://www.digitalcommerce360.com/2026/09/02/anthropic-debuts-claude-features-focused-on-agentic-commerce/
+  - fingerprint: github-copilot-cli-v1-0-83-sandbox-hardening
+    title: "GitHub Copilot CLI ships four releases in four days, closing sandbox escape gaps"
+    first_seen: 2026-09-05
+    digest: essential-skill-md-for-productivity-2026-Sep-05.html
+    urls:
+      - https://github.com/github/copilot-cli/releases
+      - https://www.havoptic.com/tools/github-copilot
+  - fingerprint: k-dense-scientific-agent-skills-library-190k-scientists
+    title: "K-Dense AI open-sources a 165-skill library already used by 190,000 researchers"
+    first_seen: 2026-09-05
+    digest: essential-skill-md-for-productivity-2026-Sep-05.html
+    urls:
+      - https://arxiv.org/abs/2609.00065
+      - https://github.com/K-Dense-AI/scientific-agent-skills
+  - fingerprint: maskills-continual-multi-agent-skill-optimization-arxiv
+    title: "MASkills shows multi-agent skill libraries can improve themselves without human curation"
+    first_seen: 2026-09-05
+    digest: essential-skill-md-for-productivity-2026-Sep-05.html
+    urls:
+      - https://arxiv.org/abs/2609.02094
+      - https://arxiv.org/html/2609.02094
+  - fingerprint: gemini-enterprise-skills-general-availability-allowlist
+    title: "Google quietly takes Gemini Enterprise's in-app skill authoring to general availability"
+    first_seen: 2026-09-05
+    digest: essential-skill-md-for-productivity-2026-Sep-05.html
+    urls:
+      - https://docs.cloud.google.com/gemini/enterprise/docs/skills
+      - https://docs.cloud.google.com/gemini/enterprise/docs/release-notes
   - fingerprint: openclaw-2-0-launch-security-criticism
     title: "OpenClaw 2.0 ships its largest update ever — and immediately reopens the skills-security debate"
     first_seen: 2026-09-04
@@ -1063,6 +1099,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-05
+- **Claude Commerce Agents** — Anthropic ships `anthropics/commerce-agents`, an Apache-2.0 shopping + merchant agent blueprint across retail/travel/telecom/entertainment, with a five-skill shopping agent (search-discovery, purchase-research, planning-goals, customer-care, memory-personalization) and skills-based merchant tooling; early users include Shopify, Visa, Mastercard, Accenture. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-05.html)
+- **GitHub Copilot CLI v1.0.83-0 → v1.0.83-5** — four releases in four days close sandbox network-egress and host-reachability gaps, add fallback-model lists and `claude-fable-5-1` support for custom agents, and add CIMD support for MCP OAuth. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-05.html)
+- **K-Dense AI Scientific Agent Skills (arXiv 2609.00065)** — open library of 165 procedural skills across genomics, cheminformatics, medical imaging and more; already used by 190,000+ scientists. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-05.html)
+- **MASkills (arXiv 2609.02094)** — continual-optimization pipeline lets multi-agent LLM systems refine, induct, consolidate and prune their own shared skill library, tested on HotpotQA/LoCoMo/GAIA. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-05.html)
+- **Gemini Enterprise skills reach GA (allowlisted)** — Google Cloud's release notes mark in-app skill authoring as generally available behind an account-manager allowlist, and correct an earlier note that an admin "Enable skills" toggle had shipped (it hadn't). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-05.html)
 
 ## 2026-Sep-04
 - **OpenClaw 2.0 launch + security criticism** — largest-ever release (933 contributors, 16,000+ PRs): guided setup, 575ms Control UI, shared cloud sessions, "one trust boundary per gateway"; The Register calls it "a security dumpster fire" over ClawHub's persistent credential-leak rate. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-04.html)
