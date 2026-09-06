@@ -2,10 +2,52 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-05
-run_count: 26
-digest_count: 23
+last_run: 2026-09-06
+run_count: 27
+digest_count: 24
 entries:
+  - fingerprint: uk-kcsie-2026-ai-deepfake-safeguarding-sep2026
+    title: "England makes AI-generated deepfakes a mainstream school-safeguarding issue"
+    first_seen: 2026-09-06
+    digest: ai-impact-on-education-2026-Sep-06.html
+    urls:
+      - https://www.edtechinnovationhub.com/news/dfe-publishes-kcsie-2026-with-mobile-phone-free-default-and-ai-safeguarding-rules
+      - https://saferinternet.org.uk/blog/important-updates-to-keeping-children-safe-in-education-2026
+      - https://www.farrer.co.uk/news-and-insights/keeping-children-safe-in-education-2026-a-practical-guide-for-schools/
+      - https://www.9ine.com/newsblog/kcsie-2026-is-confirmed-ai-is-now-part-of-the-safeguarding-system
+  - fingerprint: university-of-leicester-microsoft-copilot-rollout-sep2026
+    title: "A UK university goes all-in: Copilot for every student and staff member, campus-wide"
+    first_seen: 2026-09-06
+    digest: ai-impact-on-education-2026-Sep-06.html
+    urls:
+      - https://ukstories.microsoft.com/features/microsoft-collaboration-puts-university-of-leicester-at-the-forefront-of-ai-in-education/
+      - https://le.ac.uk/news/2026/june/microsoft-collaboration-university-leicester-ai-education
+      - https://www.edtechinnovationhub.com/news/university-of-leicester-rolls-out-microsoft-365-copilot-across-campus
+      - https://www.educationawards.ie/news/university-of-leicester-rolls-out-microsoft-365-copilot-to-all-students-and-staff-in-uk-first-initiative
+  - fingerprint: seattle-sea-sps-teacher-contract-ai-guidelines-sep2026
+    title: "A strike averted, and AI clauses land in a big-district teacher contract"
+    first_seen: 2026-09-06
+    digest: ai-impact-on-education-2026-Sep-06.html
+    urls:
+      - https://www.king5.com/article/news/education/seattle-educators-school-district-reach-tentative-contract-avoid-strike/281-274ca1b0-912d-41ca-8b66-2c474f89c83a
+      - https://www.capitolhillseattle.com/2026/09/seattle-students-head-to-class-as-district-and-teachers-union-reach-agreement/comment-page-1/
+      - https://www.foxnews.com/us/seattle-teachers-strike-tentative-deal-reached
+      - https://www.thecentersquare.com/washington/article_814a4de1-f3ec-4223-acc0-b8c22f34cca0.html
+  - fingerprint: cat-in-the-hat-ai-threat-trend-schools-tn-ok-ky-sep2026
+    title: "A viral AI-generated 'Cat in the Hat' threat trend forces schools across three states into lockdown-style responses"
+    first_seen: 2026-09-06
+    digest: ai-impact-on-education-2026-Sep-06.html
+    urls:
+      - https://www.wsmv.com/2026/09/02/tennessee-student-charged-after-cat-hat-ai-threat-investigation-heres-what-we-know/
+      - https://fox17.com/news/local/tennessee-cat-in-the-hat-ai-school-safety-trend-threat-oklahoma-kentucky
+      - https://foxbaltimore.com/news/nation-world/tennessee-cat-in-the-hat-ai-school-safety-trend-threat-oklahoma-kentucky
+  - fingerprint: california-sb928-signed-into-law-csu-human-instructor-sep2026
+    title: "Update: California makes it law — a human has to be the instructor of record, not an AI"
+    first_seen: 2026-09-06
+    digest: ai-impact-on-education-2026-Sep-06.html
+    urls:
+      - https://sd31.senate.ca.gov/news/cervantes-bill-prevent-california-state-university-faculty-being-replaced-ai-signed-governor
+      - https://www.gov.ca.gov/2026/08/27/governor-newsom-signs-legislation-8-27-2026/
   - fingerprint: dc-osse-ai-model-policy-staff-grading-iep-sep2026
     title: "DC's schools get an official line on what AI can and can't decide"
     first_seen: 2026-09-05
@@ -980,6 +1022,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-06
+- **England makes AI-generated deepfakes a mainstream school-safeguarding issue** — KCSIE 2026 takes effect 1 September, folding AI-generated and deepfake imagery of under-18s into statutory safeguarding for every school and college in England. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-06.html)
+- **A UK university goes all-in: Copilot for every student and staff member, campus-wide** — the University of Leicester switches on Microsoft 365 Copilot for all 21,000+ students and 4,000 staff this September, one of the first full-scale UK "Microsoft Frontier University" rollouts. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-06.html)
+- **A strike averted, and AI clauses land in a big-district teacher contract** — Seattle Public Schools and its teachers' union reach a tentative deal resolving 52 bargaining issues, including new AI-use guidelines, pending ratification. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-06.html)
+- **A viral AI-generated "Cat in the Hat" threat trend forces schools across three states into lockdown-style responses** — Tennessee, Oklahoma and Kentucky schools respond to AI-generated threat imagery naming real students; a Warren County, TN student is criminally charged. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-06.html)
+- **Update: California makes it law — a human has to be the instructor of record, not an AI** — Gov. Newsom signs SB 928 on 27 August, turning the "no AI professors" bill covered here in August into binding law for the entire CSU system. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-06.html)
 
 ## 2026-Sep-05
 - **DC's schools get an official line on what AI can and can't decide** — OSSE's new AI Model Policy bars AI from student discipline, teacher evaluations, and IEP/504 eligibility decisions, while allowing safeguarded use for grading and educator coaching. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-05.html)
