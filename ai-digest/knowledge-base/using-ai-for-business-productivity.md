@@ -2,10 +2,54 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-05
-run_count: 37
-digest_count: 37
+last_run: 2026-09-06
+run_count: 38
+digest_count: 38
 entries:
+  - fingerprint: cisco-myagent-90000-employees-rollout-sep2026
+    title: "Cisco gives all 90,000 employees a personal AI agent — with real cost and governance controls"
+    first_seen: 2026-09-06
+    digest: using-ai-for-business-productivity-2026-Sep-06.html
+    urls:
+      - https://blogs.cisco.com/news/my-agent-and-the-rise-of-ambient-intelligence-ciscos-next-step-in-enterprise-ai
+      - https://www.pymnts.com/news/artificial-intelligence/2026/cisco-deploys-custom-ai-agent-to-entire-90000-person-workforce
+      - https://yourstory.com/ai-story/cisco-myagent-ai-agent-90000-employees-future-of-work
+      - https://www.karmactive.com/cisco-myagent-autonomous-ai-90000-employees/
+  - fingerprint: crowdstrike-openai-falcon-guardian-codex-agents-sep2026
+    title: "CrowdStrike and OpenAI expand partnership to secure Codex coding agents with Falcon Guardian"
+    first_seen: 2026-09-06
+    digest: using-ai-for-business-productivity-2026-Sep-06.html
+    urls:
+      - https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-and-openai-expand-partnership-secure-agentic-era
+      - https://www.hpcwire.com/aiwire/2026/09/04/crowdstrike-and-openai-expand-partnership-to-secure-the-agentic-era/
+      - https://www.stocktitan.net/news/CRWD/crowd-strike-and-open-ai-expand-partnership-to-secure-the-agentic-1p3bcskc2jtb.html
+      - https://investingnews.com/crowdstrike-and-openai-expand-partnership-to-secure-the-agentic-era/
+  - fingerprint: adobe-acquires-rilo-agentic-marketing-sep2026
+    title: "Adobe acquires Indian AI automation startup Rilo to expand agentic marketing"
+    first_seen: 2026-09-06
+    digest: using-ai-for-business-productivity-2026-Sep-06.html
+    urls:
+      - https://www.business-standard.com/companies/news/adobe-acquires-indian-ai-automation-startup-rilo-to-boost-agentic-push-126090201601_1.html
+      - https://finance.yahoo.com/technology/ai/articles/adobe-inc-adbe-acquires-rilo-150728839.html
+      - https://www.storyboard18.com/amp/brand-marketing/adobe-acquires-peak-xv-backed-indian-ai-startup-rilo-to-expand-agentic-marketing-capabilities-109628.htm
+      - https://americanbazaaronline.com/2026/09/03/adobe-just-acquired-this-indian-ai-startup-487510/
+  - fingerprint: proofpoint-soc-analyst-agent-openai-daybreak-sep2026
+    title: "Proofpoint introduces SOC Analyst Agent powered by OpenAI Daybreak models"
+    first_seen: 2026-09-06
+    digest: using-ai-for-business-productivity-2026-Sep-06.html
+    urls:
+      - https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-soc-analyst-agent-openai-daybreak
+      - https://www.globenewswire.com/news-release/2026/09/03/3356309/35374/en/proofpoint-brings-openai-gpt-cyber-models-into-security-operations-to-help-defenders-investigate-threats-faster.html
+      - https://sg.finance.yahoo.com/news/proofpoint-brings-openai-gpt-cyber-210500932.html
+      - https://cioinfluence.com/machine-learning/proofpoint-brings-openai-gpt-cyber-models-into-security-operations-to-help-defenders-investigate-threats-faster/
+  - fingerprint: kt-woori-bank-agent-connector-chatbot-rebuild-aug2026
+    title: "KT wins contract to rebuild Woori Bank's chatbot around context-aware AI agents"
+    first_seen: 2026-09-06
+    digest: using-ai-for-business-productivity-2026-Sep-06.html
+    urls:
+      - https://en.sedaily.com/technology/2026/08/31/kt-to-rebuild-woori-banks-ai-chatbot-and-consultation-bot
+      - https://www.digitaltoday.co.kr/en/view/97987/kt-begins-rebuild-of-woori-bank-ai-chatbot-consultation-bot
+      - https://www.thelec.net/news/articleView.html?idxno=13469
   - fingerprint: anthropic-fable-5-1-mythos-5-1-enterprise-frontier-safeguards-sep2026
     title: "Anthropic launches Claude Fable 5.1 and Mythos 5.1 with new Enterprise Frontier Safeguards"
     first_seen: 2026-09-05
@@ -1517,6 +1561,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-06
+- **Cisco gives all 90,000 employees a personal AI agent — with real cost and governance controls** — MyAgent runs on Cisco's Circuit platform with 800+ subagents; 50-60% of requests route to open-weight models, only a minority hit frontier models. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-06.html)
+- **CrowdStrike and OpenAI expand partnership to secure Codex coding agents with Falcon Guardian** — runtime detection/response for Codex agents plus GPT-5.6 Cyber inside Falcon's Frontier AI Readiness and Resilience service. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-06.html)
+- **Adobe acquires Indian AI automation startup Rilo to expand agentic marketing** — Rilo's natural-language agents handle competitive intelligence, prospecting, outreach and campaign research for GTM teams. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-06.html)
+- **Proofpoint introduces SOC Analyst Agent powered by OpenAI Daybreak models** — turns natural-language questions into structured, traceable SOC investigation findings; private preview, GA targeted end of Q3 2026. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-06.html)
+- **KT wins contract to rebuild Woori Bank's chatbot around context-aware AI agents** — new "Agent Connector" links chatbot, consultation bot, AI Banker and agents so customer context follows across channels. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-06.html)
 
 ## 2026-Sep-05
 - **Anthropic launches Claude Fable 5.1 and Mythos 5.1 with new Enterprise Frontier Safeguards** — cheaper, less-restricted Fable 5.1 GA for coding/knowledge work; Mythos 5.1 gated to vetted cyber and life-sciences partners; EFS combines zero data retention with customer-held misuse-detection logs. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-05.html)
