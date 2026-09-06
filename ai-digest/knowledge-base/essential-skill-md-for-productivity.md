@@ -2,10 +2,47 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-05
-run_count: 33
-digest_count: 33
+last_run: 2026-09-06
+run_count: 34
+digest_count: 34
 entries:
+  - fingerprint: gitspawn-git-config-rce-seven-coding-agents
+    title: "GitSpawn: a booby-trapped repo can run attacker code in seven AI coding agents before you type a prompt"
+    first_seen: 2026-09-06
+    digest: essential-skill-md-for-productivity-2026-Sep-06.html
+    urls:
+      - https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html
+      - https://www.manifold.security/blog/ai-coding-agents-git-hijack
+      - https://gbhackers.com/gitspawn-flaw-enables-arbitrary-code-execution/
+      - https://cybersecuritynews.com/gitspawn-flaws-execute-code/
+  - fingerprint: skillshift-covert-policy-steering-supply-chain-arxiv
+    title: "\"A Finger on the Scale\" shows a skill can pass every output check while covertly steering an agent's decisions"
+    first_seen: 2026-09-06
+    digest: essential-skill-md-for-productivity-2026-Sep-06.html
+    urls:
+      - https://arxiv.org/abs/2609.02564
+      - https://arxiv.org/html/2609.02564
+  - fingerprint: skill-following-rae-retrieval-paradox-arxiv
+    title: "A skill that lifts your average score can still be sabotaging the exact task it was retrieved for"
+    first_seen: 2026-09-06
+    digest: essential-skill-md-for-productivity-2026-Sep-06.html
+    urls:
+      - https://arxiv.org/abs/2609.00549
+      - https://arxiv.org/html/2609.00549
+  - fingerprint: skilldreamer-prospective-skill-retrieval-arxiv
+    title: "SkillDreamer has the agent imagine the skill it wishes existed, then searches for that instead of the raw request"
+    first_seen: 2026-09-06
+    digest: essential-skill-md-for-productivity-2026-Sep-06.html
+    urls:
+      - https://arxiv.org/abs/2609.01642
+      - https://arxiv.org/html/2609.01642
+  - fingerprint: space-skill-guided-action-chunking-arxiv
+    title: "SPACE teaches long-running agents when to stop second-guessing themselves, cutting wasted planning rounds"
+    first_seen: 2026-09-06
+    digest: essential-skill-md-for-productivity-2026-Sep-06.html
+    urls:
+      - https://arxiv.org/abs/2609.02042
+      - https://arxiv.org/html/2609.02042
   - fingerprint: anthropic-claude-commerce-agents-skills-blueprint
     title: "Anthropic ships Claude Commerce Agents, a skills-built blueprint for shopping and merchant bots"
     first_seen: 2026-09-05
@@ -1099,6 +1136,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-06
+- **GitSpawn (Manifold Security, Sep 1)** — a shared `core.fsmonitor` git-config flaw lets a malicious repo run attacker code the moment it's opened in Claude Code, Codex, Cursor, Goose, Hermes Agent, Qwen Code or Grok Build; Claude Code and Goose are patched, three agents were not as of publication. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-06.html)
+- **SkillShift / "A Finger on the Scale" (arXiv 2609.02564)** — formalizes Skill Policy Integrity and shows a black-box framework can covertly steer an agent's decisions through a skill's instructions while its declared task and output format stay intact. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-06.html)
+- **Skill Following / RAE (arXiv 2609.00549)** — a matched-pair metric finds several LLMs that appear to benefit from skill retrieval in aggregate actually score worse on the exact tasks where the skill was invoked. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-06.html)
+- **SkillDreamer (arXiv 2609.01642)** — has the agent infer and imagine a pseudo-skill for what a task needs before retrieval, closing the gap between goal-phrased queries and procedure-phrased skill libraries. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-06.html)
+- **SPACE (arXiv 2609.02042)** — distills chunk-boundary supervision from programmatic skills so long-horizon agents learn when to stop replanning and act in longer, cheaper bursts. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-06.html)
 
 ## 2026-Sep-05
 - **Claude Commerce Agents** — Anthropic ships `anthropics/commerce-agents`, an Apache-2.0 shopping + merchant agent blueprint across retail/travel/telecom/entertainment, with a five-skill shopping agent (search-discovery, purchase-research, planning-goals, customer-care, memory-personalization) and skills-based merchant tooling; early users include Shopify, Visa, Mastercard, Accenture. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-05.html)
