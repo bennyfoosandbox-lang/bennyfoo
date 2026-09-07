@@ -2,10 +2,54 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-06
-run_count: 38
-digest_count: 38
+last_run: 2026-09-07
+run_count: 39
+digest_count: 39
 entries:
+  - fingerprint: xai-grok-bot-for-enterprise-launch-sep2026
+    title: "xAI launches Grok Bot for Enterprise, with governance controls and a free two-week trial"
+    first_seen: 2026-09-07
+    digest: using-ai-for-business-productivity-2026-Sep-07.html
+    urls:
+      - https://x.ai/news/grok-bot-for-enterprise
+      - https://www.technobezz.com/news/xai-adds-enterprise-controls-grok-bot
+      - https://superpowerdaily.com/posts/xai-opens-grok-bot-to-enterprises-with-controls-for-autonomous-workers
+      - https://alphasignal.ai/news/xai-pushes-grok-bot-into-enterprise-with-audit-controls-and-free-trials
+  - fingerprint: unit42-ai-agent-ransomware-10-hours-sep2026
+    title: "Unit 42: AI agents ran a full ransomware intrusion end-to-end in under 10 hours"
+    first_seen: 2026-09-07
+    digest: using-ai-for-business-productivity-2026-Sep-07.html
+    urls:
+      - https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/
+      - https://www.theregister.com/security/2026/09/02/ai-agents-carried-out-every-step-of-this-ransomware-attack-then-left-the-victim-an-80-page-security-audit/5294009
+      - https://databreaches.net/2026/09/03/agentic-ransomware-took-down-enterprise-in-ten-hours-ai-left-80-page-audit/
+      - https://cybernews.com/security/ai-agents-ransomware-attack-security-audit/
+  - fingerprint: broadcom-q3-fy2026-ai-revenue-triples-230b-2028-guide-sep2026
+    title: "Broadcom's AI chip revenue triples in Q3 FY2026; guides to $230B/year by fiscal 2028"
+    first_seen: 2026-09-07
+    digest: using-ai-for-business-productivity-2026-Sep-07.html
+    urls:
+      - https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html
+      - https://www.fool.com/investing/2026/09/02/broadcom-earnings-ai-chip-sales-tripled-here-s-the-usd34-8-billion-number-investors-need-to-watch/
+      - https://seekingalpha.com/news/4639799-broadcom-forecasts-58b-fiscal-2026-ai-revenue-and-outlines-115b-in-2027-230b-in-2028
+      - https://finance.yahoo.com/technology/ai/articles/broadcom-sees-230b-ai-revenue-023424926.html
+  - fingerprint: uipath-guidewire-asana-earnings-selloff-ai-competition-sep2026
+    title: "UiPath, Guidewire and Asana all sink on earnings the same week despite AI positioning"
+    first_seen: 2026-09-07
+    digest: using-ai-for-business-productivity-2026-Sep-07.html
+    urls:
+      - https://www.fool.com/investing/2026/09/04/why-uipath-stock-plunged-today/
+      - https://247wallst.com/investing/2026/09/04/uipath-tumbles-14-as-guided-slowdown-overshadows-revenue-beat/
+      - https://seekingalpha.com/news/4640337-asana-guidewire-and-uipath-lead-enterprise-software-stocks-down-following-earnings
+      - https://www.fool.com/investing/2026/09/06/uipath-just-sank-17-is-the-stock-a-buy-on-the-dip/
+  - fingerprint: glean-anthropic-enterprise-pricing-80pct-overpay-claim-sep2026
+    title: "Glean claims Anthropic enterprise customers are overpaying by 80% after Anthropic's usage-based pricing switch"
+    first_seen: 2026-09-07
+    digest: using-ai-for-business-productivity-2026-Sep-07.html
+    urls:
+      - https://www.theinformation.com/newsletters/applied-ai/anthropic-customers-bills-80-higher-need-glean-says
+      - https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-switches-to-usage-based-billing-for-enterprise-customers
+      - https://www.beri.net/article/anthropic-enterprise-pricing-tco-increase-2026
   - fingerprint: cisco-myagent-90000-employees-rollout-sep2026
     title: "Cisco gives all 90,000 employees a personal AI agent — with real cost and governance controls"
     first_seen: 2026-09-06
@@ -1825,3 +1869,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Bain says its AI engagements are delivering 30-50% productivity gains — double the market average** — Aug 25 global partnership names Bain a Global Premier Claude Partner Network member; Bain has rolled Claude out to its full 19,000-person workforce. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-26.html)
 - **Moving AI from pilot to production is running 3-5x over budget, Six Five Summit told** — Six Five Summit's AI Unleashed 2026 (opened Aug 25) highlighted production cost overruns; Dell says it cut ~900 candidate AI projects down to 13; Intel urged ROI-first evaluation over hardware specs. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-26.html)
 - **Okta makes AI agents first-class citizens in enterprise identity systems** — Agent SSO reached general availability Aug 24, bringing the open Cross App Access standard to 20,000+ Okta customers at no extra cost, replacing static API keys with centrally governed short-lived tokens for agents. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Aug-26.html)
+
+## 2026-Sep-07
+- **xAI launches Grok Bot for Enterprise, with governance controls and a free two-week trial** — Sept 4 release adds access/network/audit controls to always-on agent "teammates" for recurring business tasks; free for two weeks to Grok and Cursor Enterprise customers. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-07.html)
+- **Unit 42: AI agents ran a full ransomware intrusion end-to-end in under 10 hours** — Sept 2 case study; agents chained 50+ MITRE ATT&CK techniques through cloud, identity, CI/CD and SaaS systems in work that would normally take a human team ~2 weeks, then generated an 80-page audit of the victim's own security gaps. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-07.html)
+- **Broadcom's AI chip revenue triples in Q3 FY2026; guides to $230B/year by fiscal 2028** — Sept 2 earnings: AI semiconductor revenue +221% YoY to $16.7B; custom chips for Google, Anthropic, OpenAI and Meta; FY2026 AI guide raised to $58B, with $115B (FY27) and $230B (FY28) targets disclosed for the first time. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-07.html)
+- **UiPath, Guidewire and Asana all sink on earnings the same week despite AI positioning** — Sept 3-4 earnings: UiPath beat Q2 but guided Q3 growth to roughly half its current pace and swapped CFOs; Guidewire's ARR outlook merely met expectations; Asana missed and lowered guidance — all three fell double digits as investors demanded AI-driven growth, not just AI features. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-07.html)
+- **Glean claims Anthropic enterprise customers are overpaying by 80% after Anthropic's usage-based pricing switch** — Anthropic moved Claude Enterprise to consumption-based billing ($20/seat base + usage), with NPI Financial estimating ~67% of customers face 15-30% cost increases; rival Glean is using the shift to pitch cost/data-security scrutiny to CIOs. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-07.html)
