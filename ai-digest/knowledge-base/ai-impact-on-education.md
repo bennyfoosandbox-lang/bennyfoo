@@ -2,10 +2,54 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-06
-run_count: 27
-digest_count: 24
+last_run: 2026-09-07
+run_count: 28
+digest_count: 25
 entries:
+  - fingerprint: nyc-schools-ai-moratorium-official-launch-backlash-movement-sep2026
+    title: "NYC makes its AI moratorium official — and a national backlash movement crystallizes around it"
+    first_seen: 2026-09-07
+    digest: ai-impact-on-education-2026-Sep-07.html
+    urls:
+      - https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat
+      - https://decrypt.co/377253/mamdani-imposes-one-year-moratorium-on-generative-ai-in-nyc-schools
+      - https://statescoop.com/nyc-schools-ban-student-use-of-generative-ai-in-classrooms-through-middle-school/
+      - https://www.axios.com/2026/09/07/ai-schools-backlash-bans-new-york-los-angeles
+      - https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/
+  - fingerprint: stanford-scale-ai-k12-evidence-base-2026-review-sep2026
+    title: "Stanford's verdict: schools are moving faster than the evidence"
+    first_seen: 2026-09-07
+    digest: ai-impact-on-education-2026-Sep-07.html
+    urls:
+      - https://scale.stanford.edu/research-in-action/understanding-evidence-base-ai-k12-education
+      - https://www.edtechinnovationhub.com/news/stanford-report-finds-limited-evidence-behind-ai-impact-in-k-12-classrooms
+      - https://www.winssolutions.org/ai-tutoring-evidence-stanford-brief/
+      - https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf
+  - fingerprint: gallup-walton-teacher-ai-weekly-time-savings-survey-sep2026
+    title: "New survey math: AI is quietly buying teachers back six weeks a year"
+    first_seen: 2026-09-07
+    digest: ai-impact-on-education-2026-Sep-07.html
+    urls:
+      - https://news.gallup.com/poll/691967/three-teachers-weekly-saving-six-weeks-year.aspx
+      - https://www.waltonfamilyfoundation.org/the-ai-dividend-new-survey-shows-ai-is-helping-teachers-reclaim-valuable-time
+      - https://www.the74million.org/article/survey-60-of-teachers-used-ai-this-year-and-saved-up-to-6-hours-of-work-a-week/
+      - https://blog.teacherspayteachers.com/tpt-survey-2026-back-to-school/
+  - fingerprint: nielit-intel-india-agentic-ai-skilling-programmes-sep2026
+    title: "India's next AI-education push starts with teaching people to build AI agents"
+    first_seen: 2026-09-07
+    digest: ai-impact-on-education-2026-Sep-07.html
+    urls:
+      - https://aninews.in/news/business/nielit-intel-india-launch-agentic-ai-skilling-programmes-for-youth-across-india-meity20260903140949/
+      - https://www.gktoday.in/nielit-and-intel-india-launch-agentic-ai-skilling-programmes/
+      - https://indiaeducationdiary.in/nielit-and-intel-india-organized-national-leadership-dialogue-and-launched-agentic-ai-skilling-programs-for-preparing-indias-workforce-for-the-agentic-ai-era/
+  - fingerprint: bloomy-yc-s26-ai-mastery-learning-k12-seed-sep2026
+    title: "A $2M seed round bets on 'mastery' over chatbots for K-12 tutoring"
+    first_seen: 2026-09-07
+    digest: ai-impact-on-education-2026-Sep-07.html
+    urls:
+      - https://www.ycombinator.com/launches/R9U-bloomy-ai-powered-mastery-learning-for-k-12
+      - https://aiweekly.co/alerts/bloomy-debuts-yc-s26-socratic-ai-tutor-for-k-12-mastery
+      - https://news.ycombinator.com/item?id=48981136
   - fingerprint: uk-kcsie-2026-ai-deepfake-safeguarding-sep2026
     title: "England makes AI-generated deepfakes a mainstream school-safeguarding issue"
     first_seen: 2026-09-06
@@ -1022,6 +1066,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-07
+- **NYC makes its AI moratorium official — and a national backlash movement crystallizes around it** — Mayor Mamdani and Chancellor Samuels confirm the details of the "nation's broadest" generative-AI moratorium (38 programs disabled, companion chatbots barred in every grade, capped HS pilots), as Axios and Tech Policy Press report a wider movement to push AI out of classrooms. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-07.html)
+- **Stanford's verdict: schools are moving faster than the evidence** — SCALE Initiative reviews 800+ papers on AI in K-12, finds only 20 rigorous causal studies and none specific to US K-12 students, with mixed results once AI assistance is removed for assessment. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-07.html)
+- **New survey math: AI is quietly buying teachers back six weeks a year** — Gallup/Walton Family Foundation find 3-in-10 K-12 teachers use AI weekly and save 5.9 hours/week; a TPT survey of 7,345 educators puts overall usage at 83%. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-07.html)
+- **India's next AI-education push starts with teaching people to build AI agents** — NIELIT and Intel India launch "Agentic AI for Everyone" and "Engineering Agentic AI Systems," national skilling programmes for students, faculty and the workforce. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-07.html)
+- **A $2M seed round bets on "mastery" over chatbots for K-12 tutoring** — YC-backed Bloomy raises a $2M seed for a Socratic AI tutor plus mastery-gated curriculum, sold direct to families and compatible with ESA/voucher funds. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-07.html)
 
 ## 2026-Sep-06
 - **England makes AI-generated deepfakes a mainstream school-safeguarding issue** — KCSIE 2026 takes effect 1 September, folding AI-generated and deepfake imagery of under-18s into statutory safeguarding for every school and college in England. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-06.html)
