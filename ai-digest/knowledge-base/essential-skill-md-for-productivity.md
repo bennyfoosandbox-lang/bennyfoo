@@ -2,10 +2,37 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-06
-run_count: 34
-digest_count: 34
+last_run: 2026-09-07
+run_count: 35
+digest_count: 35
 entries:
+  - fingerprint: specterops-outflank-red-team-skills-marketplace
+    title: "SpecterOps and Outflank open-source an AI skills marketplace for red-team tradecraft"
+    first_seen: 2026-09-07
+    digest: essential-skill-md-for-productivity-2026-Sep-07.html
+    urls:
+      - https://specterops.io/blog/2026/09/02/specterops-skills/
+      - https://www.outflank.nl/blog/2026/09/02/red-team-ai-skills/
+  - fingerprint: defense-as-skill-skillsonar-runtime-guard-arxiv
+    title: "Defense-as-Skill's SkillSonar makes the guard against malicious skills itself an installable skill"
+    first_seen: 2026-09-07
+    digest: essential-skill-md-for-productivity-2026-Sep-07.html
+    urls:
+      - https://arxiv.org/abs/2609.01487
+      - https://arxiv.org/html/2609.01487
+  - fingerprint: github-copilot-content-exclusions-ga-app-cli
+    title: "GitHub Copilot content exclusions reach GA in the app and CLI, closing an agent file-access gap"
+    first_seen: 2026-09-07
+    digest: essential-skill-md-for-productivity-2026-Sep-07.html
+    urls:
+      - https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli/
+      - https://blockchain.news/news/github-copilot-content-exclusions-app-cli
+  - fingerprint: specter-agent-private-markets-repeatable-skills
+    title: "Specter Agent adds repeatable Skills for sourcing and diligence to its private-markets workspace"
+    first_seen: 2026-09-07
+    digest: essential-skill-md-for-productivity-2026-Sep-07.html
+    urls:
+      - https://insights.tryspecter.com/meet-specter-agent/
   - fingerprint: gitspawn-git-config-rce-seven-coding-agents
     title: "GitSpawn: a booby-trapped repo can run attacker code in seven AI coding agents before you type a prompt"
     first_seen: 2026-09-06
@@ -1136,6 +1163,12 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-07
+- **SpecterOps Skills + Outflank (Sep 2)** — open-source SKILL.md library for red-team tradecraft: Aggressor scripts and Malleable C2 profiles for Cobalt Strike, driving BloodHound via MCP, plus Outflank's own C2 plugin. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-07.html)
+- **Defense-as-Skill / SkillSonar (arXiv 2609.01487, Sep 1)** — implements the runtime guard against malicious skills as itself an installable, inspectable skill that routes sensitive actions to allow/replan/confirm. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-07.html)
+- **GitHub Copilot content exclusions reach GA (Sep 2)** — app and CLI now honor admin file-path exclusion policies, closing a gap where background agents could read files ordinary Copilot couldn't. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-07.html)
+- **Specter Agent (Sep 4)** — private-markets research agent adds repeatable "Skills" for sourcing and diligence workflows, with scheduled tasks and cross-conversation memory coming next. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-07.html)
 
 ## 2026-Sep-06
 - **GitSpawn (Manifold Security, Sep 1)** — a shared `core.fsmonitor` git-config flaw lets a malicious repo run attacker code the moment it's opened in Claude Code, Codex, Cursor, Goose, Hermes Agent, Qwen Code or Grok Build; Claude Code and Goose are patched, three agents were not as of publication. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-06.html)
