@@ -2,10 +2,47 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-07
-run_count: 35
-digest_count: 35
+last_run: 2026-09-08
+run_count: 36
+digest_count: 36
 entries:
+  - fingerprint: claude-code-skill-doctor-v2-1-261-context-pruning
+    title: "Claude Code ships /skill-doctor, turning skill bloat into a one-command fix"
+    first_seen: 2026-09-08
+    digest: essential-skill-md-for-productivity-2026-Sep-08.html
+    urls:
+      - https://code.claude.com/docs/en/changelog
+      - https://medium.com/@joe.njenga/i-tried-new-claude-code-skill-doctor-and-found-most-skills-are-dead-weight-2c2c3d0aaf2d
+      - https://juliangoldie.com/claude-code-skill-doctor/
+  - fingerprint: codex-cli-0-147-cursor-skill-import-dedup-sync
+    title: "OpenAI's Codex CLI can now import — and keep syncing — Cursor's own skills"
+    first_seen: 2026-09-08
+    digest: essential-skill-md-for-productivity-2026-Sep-08.html
+    urls:
+      - https://www.digitalapplied.com/blog/codex-cli-cross-harness-skill-portability-lock-in
+      - https://www.getclaudeskills.com/blog/codex-cli-imports-cursor-skills
+      - https://www.vibecodingacademy.ai/blog/codex-cli-update-0-147-0
+  - fingerprint: ism-implicit-skill-selection-manipulation-arxiv
+    title: "New attack manipulates which skill an agent picks without an explicit instruction"
+    first_seen: 2026-09-08
+    digest: essential-skill-md-for-productivity-2026-Sep-08.html
+    urls:
+      - https://arxiv.org/abs/2609.02035
+      - https://arxiv.org/html/2609.02035
+  - fingerprint: persistent-skills-online-evolution-computer-use-agents-arxiv
+    title: "A framework lets computer-use agents keep the skills they learn across runs"
+    first_seen: 2026-09-08
+    digest: essential-skill-md-for-productivity-2026-Sep-08.html
+    urls:
+      - https://arxiv.org/abs/2609.04869
+      - https://arxiv.org/html/2609.04869
+  - fingerprint: skill-as-api-confidential-multi-agent-coordination-arxiv
+    title: "Skill-as-API keeps a coding agent's skill logic off the wire in multi-agent coordination"
+    first_seen: 2026-09-08
+    digest: essential-skill-md-for-productivity-2026-Sep-08.html
+    urls:
+      - https://arxiv.org/abs/2609.01677
+      - https://arxiv.org/html/2609.01677
   - fingerprint: specterops-outflank-red-team-skills-marketplace
     title: "SpecterOps and Outflank open-source an AI skills marketplace for red-team tradecraft"
     first_seen: 2026-09-07
@@ -1163,6 +1200,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-08
+- **Claude Code /skill-doctor (v2.1.261, Sep 4)** — new command lists every loaded skill's trigger count and per-turn context cost so unused skills can be pruned; same release run closed a plugin symlink path-traversal hole (v2.1.260). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-08.html)
+- **Codex CLI 0.147.0 imports Cursor skills** — `/import` now pulls Cursor-managed skills directly and updates existing entries in place instead of duplicating them on re-run. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-08.html)
+- **ISM / Implicit Skill-Selection Manipulation (arXiv 2609.02035)** — jointly shapes skill metadata and prompt phrasing to covertly steer routing toward an attacker-chosen skill, lifting target-selection rate from 15.2% to 63.5% while evading human review 97.1% of the time. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-08.html)
+- **Persistent Skills for computer-use agents (arXiv 2609.04869)** — online evolution framework turns interaction traces and evaluator feedback into a versioned, reusable skill library instead of discarding procedural knowledge after each rollout. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-08.html)
+- **Skill-as-API (arXiv 2609.01677)** — coordination protocol exposes only a skill's name/description/schema/trust tier to peer agents, keeping the skill body closure-captured off the wire to prevent IP leakage and narrow the prompt-injection surface. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-08.html)
 
 ## 2026-Sep-07
 - **SpecterOps Skills + Outflank (Sep 2)** — open-source SKILL.md library for red-team tradecraft: Aggressor scripts and Malleable C2 profiles for Cobalt Strike, driving BloodHound via MCP, plus Outflank's own C2 plugin. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-07.html)
