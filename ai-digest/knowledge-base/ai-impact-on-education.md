@@ -2,10 +2,51 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-07
-run_count: 28
-digest_count: 25
+last_run: 2026-09-08
+run_count: 29
+digest_count: 26
 entries:
+  - fingerprint: oecd-pisa-2025-ai-daily-use-lower-science-scores-sep2026
+    title: "OECD's first hard evidence: daily AI use tracks with a \"year and a half\" of lost learning"
+    first_seen: 2026-09-08
+    digest: ai-impact-on-education-2026-Sep-08.html
+    urls:
+      - https://www.bloomberg.com/news/articles/2026-09-08/school-students-who-use-ai-get-worse-test-scores-oecd-warns
+      - https://finance.yahoo.com/technology/ai/articles/school-students-ai-worse-test-111650116.html
+      - https://startupfortune.com/oecd-finds-students-who-use-ai-chatbots-daily-score-far-worse-on-tests/
+      - https://www.briefs.co/news/oecd-flags-a-downside-to-ai-in-class-heavy-users-trail-in-sc/
+  - fingerprint: unesco-digital-learning-week-2026-ministerial-statement-adopted-sep2026
+    title: "Update: UNESCO's Digital Learning Week opens in Paris, and 25+ ministers move to actually adopt the AI statement"
+    first_seen: 2026-09-08
+    digest: ai-impact-on-education-2026-Sep-08.html
+    urls:
+      - https://www.unesco.org/en/articles/education-age-ai-ministerial-statement-be-adopted-unescos-digital-learning-week
+      - https://www.unesco.org/en/event/digital-learning-week-2026
+  - fingerprint: lower-merion-pa-ai-chatbot-tech-optout-lawsuit-federal-court-sep2026
+    title: "Pennsylvania parents take their AI-chatbot fight to federal court"
+    first_seen: 2026-09-08
+    digest: ai-impact-on-education-2026-Sep-08.html
+    urls:
+      - https://www.the74million.org/article/parents-demanding-tech-opt-outs-take-their-fight-to-federal-court/
+      - https://buckscountybeacon.com/2026/09/parents-in-lower-merion-school-district-demanding-tech-opt-outs-take-their-fight-to-federal-court/
+      - https://keystonenewsroom.com/news/education/pa-parents-demanding-tech-opt-outs-take-fight-to-federal-court/
+      - https://northeasttimes.com/2026/08/29/lower-merion-families-sue-school-district-over-student-tech-policy/
+  - fingerprint: macquarie-university-virtual-peer-ai-chatbot-psychology-sep2026
+    title: "An Australian university swaps face-to-face psychology classes for an AI \"Virtual Peer\""
+    first_seen: 2026-09-08
+    digest: ai-impact-on-education-2026-Sep-08.html
+    urls:
+      - https://ca.news.yahoo.com/australian-university-replaces-person-psychology-060655174.html
+      - https://www.inkl.com/news/australian-university-replaces-in-person-psychology-classes-with-ai-chatbot-for-two-subjects
+      - https://www.metatalks.ai/macquarie-replaces-in-person-psychology-classes-with-ai-chatbot/
+      - https://www.acumen.news/article/macquarie-university-clarifies-ai-chatbots-role-in-psycholog-technology-ai-in-education-ecae
+  - fingerprint: harvard-student-compass-ai-advising-chatbot-evaluation-sep2026
+    title: "Harvard's student newspaper pressure-tests its own university's AI adviser — and finds its ceiling fast"
+    first_seen: 2026-09-08
+    digest: ai-impact-on-education-2026-Sep-08.html
+    urls:
+      - https://www.thecrimson.com/article/2026/9/4/ai-advising-chatbot/
+      - https://www.thecrimson.com/article/2026/4/2/harvard-ai-chatbot-advising/
   - fingerprint: nyc-schools-ai-moratorium-official-launch-backlash-movement-sep2026
     title: "NYC makes its AI moratorium official — and a national backlash movement crystallizes around it"
     first_seen: 2026-09-07
@@ -1066,6 +1107,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-08
+- **OECD's first hard evidence: daily AI use tracks with a "year and a half" of lost learning** — Initial PISA 2025 results find 15-year-olds who use AI chatbots daily for schoolwork score ~28 points lower in science than peers who rarely do, alongside the lowest OECD-average scores ever recorded. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-08.html)
+- **Update: UNESCO's Digital Learning Week opens in Paris, and 25+ ministers move to actually adopt the AI statement** — the event previewed in late August is now underway (8-11 Sep), with ministers actually negotiating and signing the joint Ministerial Statement on AI in education. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-08.html)
+- **Pennsylvania parents take their AI-chatbot fight to federal court** — seven Lower Merion School District families escalate their dispute over a mandatory-device policy (no opt-out) to federal court, citing AI chatbots enabling cheating among their core complaints. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-08.html)
+- **An Australian university swaps face-to-face psychology classes for an AI "Virtual Peer"** — Macquarie University moves two required psychology subjects online-only and embeds an AI chatbot that has already matched a full year's question volume in half a year. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-08.html)
+- **Harvard's student newspaper pressure-tests its own university's AI adviser — and finds its ceiling fast** — The Crimson's hands-on review of "Student Compass" finds it solid on policy-grounded questions but unable to handle the nuanced cases that normally require a human adviser. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-08.html)
 
 ## 2026-Sep-07
 - **NYC makes its AI moratorium official — and a national backlash movement crystallizes around it** — Mayor Mamdani and Chancellor Samuels confirm the details of the "nation's broadest" generative-AI moratorium (38 programs disabled, companion chatbots barred in every grade, capped HS pilots), as Axios and Tech Policy Press report a wider movement to push AI out of classrooms. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-07.html)
