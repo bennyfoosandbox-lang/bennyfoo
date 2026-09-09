@@ -2,10 +2,53 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-08
-run_count: 29
-digest_count: 26
+last_run: 2026-09-09
+run_count: 30
+digest_count: 27
 entries:
+  - fingerprint: aft-uft-microsoft-national-ai-safety-privacy-standard-sep2026
+    title: "America's two largest teachers unions strike a legally enforceable AI deal with Microsoft"
+    first_seen: 2026-09-09
+    digest: ai-impact-on-education-2026-Sep-09.html
+    urls:
+      - https://www.k12dive.com/news/teachers-unions-announce-ai-safety-agreement-with-microsoft/829957/
+      - https://thehill.com/policy/technology/6078730-microsoft-aft-ai-safety-privacy/
+      - https://fortune.com/2026/09/09/microsoft-school-district-ai-standard-enforceable-safety/
+      - https://abc7ny.com/post/aft-uft-microsoft-set-major-ai-schools-announcement-amid-nyc-classroom-restrictions/19809666/
+  - fingerprint: apa-expert-report-edtech-engagement-not-learning-sep2026
+    title: "APA's psychologists tell schools: engagement with AI tools isn't proof of learning"
+    first_seen: 2026-09-09
+    digest: ai-impact-on-education-2026-Sep-09.html
+    urls:
+      - https://www.edweek.org/technology/students-tech-engagement-doesnt-equal-learning-psychologists-warn/2026/09
+      - https://phys.org/news/2026-09-technology-engagement.html
+      - https://www.eurekalert.org/news-releases/1142300
+      - https://www.apa.org/pubs/reports/childrens-adolescents-learning-educational-technology.pdf
+  - fingerprint: missouri-google-statewide-ai-education-partnership-sep2026
+    title: "Missouri becomes the first state to give Google's AI tools to every public school and college free"
+    first_seen: 2026-09-09
+    digest: ai-impact-on-education-2026-Sep-09.html
+    urls:
+      - https://blog.google/products-and-platforms/products/education/missouri-state-education-partnership/
+      - https://www.govtech.com/education/k-12/missouri-to-provide-free-google-ai-tools-training
+      - https://www.unite.ai/google-brings-free-ai-tools-and-career-training-to-missouri-schools/
+      - https://www.ktvo.com/news/local/missouri-education-agencies-partner-with-google-to-provide-free-ai-training/article_b99287a9-caaa-4597-976e-5b9598b2e9b2.html
+  - fingerprint: florida-openai-lawsuit-remanded-state-court-sep2026
+    title: "Florida's public-nuisance case against OpenAI gets kicked back to a state jury"
+    first_seen: 2026-09-09
+    digest: ai-impact-on-education-2026-Sep-09.html
+    urls:
+      - https://www.clickorlando.com/news/local/2026/09/08/federal-judge-kicks-floridas-lawsuit-against-openai-back-to-state-court/
+      - https://cbs12.com/news/florida/openai-lawsuit-florida-attorney-general-james-uthmeier-case-moved-back-to-state-court-from-federal-court-judge-aileen-cannon-ceo-sam-altman-children-online-privacy-protection-act-florida-news
+      - https://www.yahoo.com/news/us/articles/florida-lawsuit-against-openai-heads-213600370.html
+  - fingerprint: rand-survey-ai-schools-growing-guidance-gap-equity-sep2026
+    title: "RAND: AI use in US schools is climbing fast, and poorer districts are getting the least guidance on it"
+    first_seen: 2026-09-09
+    digest: ai-impact-on-education-2026-Sep-09.html
+    urls:
+      - https://www.rand.org/pubs/research_reports/RRA4180-1.html
+      - https://cbsaustin.com/news/nation-world/ai-use-in-schools-growing-pretty-rapidly-as-policies-lag-rand-report-artificial-intelligence-education-students-teachers-technology
+      - https://www.datiak12.io/research/article/15737716/report-ai-use-by-teachers-and-principals-growing-but-uneven-so-far
   - fingerprint: oecd-pisa-2025-ai-daily-use-lower-science-scores-sep2026
     title: "OECD's first hard evidence: daily AI use tracks with a \"year and a half\" of lost learning"
     first_seen: 2026-09-08
@@ -1107,6 +1150,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-09
+- **America's two largest teachers unions strike a legally enforceable AI deal with Microsoft** — AFT, UFT and Microsoft unveil a National AI Safety & Privacy Standard: 10 enforceable protections including a data-training ban, effective Nov 1 and free to every US district; AFT says OpenAI and Anthropic talks are underway too. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-09.html)
+- **APA's psychologists tell schools: engagement with AI tools isn't proof of learning** — the APA's Expert Report on Children's and Adolescents' Learning with Educational Technology warns tech engagement doesn't equal learning and offers 10 recommendations for teaching students to interrogate AI output rather than avoid it. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-09.html)
+- **Missouri becomes the first state to give Google's AI tools to every public school and college free** — a statewide deal gives ~100,000 educators and 1.1M+ K-12/higher-ed students no-cost Gemini for Education, training and career certificates, plus free AI workforce training for all state residents via local Job Centers. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-09.html)
+- **Florida's public-nuisance case against OpenAI gets kicked back to a state jury** — a federal judge remands AG Uthmeier's negligence/consumer-protection suit against OpenAI and Altman to Highlands County state court, keeping alive Florida's push to have ChatGPT declared a "public nuisance" in front of a state jury. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-09.html)
+- **RAND: AI use in US schools is climbing fast, and poorer districts are getting the least guidance on it** — RAND panel survey finds student AI use up ~15pts and teacher use up ~25pts year over year, but under 35% of districts/teachers report any AI training or integrity policy, with higher-poverty schools getting the least guidance of all. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-09.html)
 
 ## 2026-Sep-08
 - **OECD's first hard evidence: daily AI use tracks with a "year and a half" of lost learning** — Initial PISA 2025 results find 15-year-olds who use AI chatbots daily for schoolwork score ~28 points lower in science than peers who rarely do, alongside the lowest OECD-average scores ever recorded. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-08.html)
