@@ -2,10 +2,53 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-08
-run_count: 40
-digest_count: 40
+last_run: 2026-09-09
+run_count: 41
+digest_count: 41
 entries:
+  - fingerprint: cognition-ai-2b-series-e-48b-valuation-sep2026
+    title: "Cognition raises $2B Series E at $48B valuation, nearly doubling in four months"
+    first_seen: 2026-09-09
+    digest: using-ai-for-business-productivity-2026-Sep-09.html
+    urls:
+      - https://siliconangle.com/2026/09/08/ai-coding-startup-cognition-raises-2b-at-48b-valuation-as-revenue-nears-900m/
+      - https://www.bloomberg.com/news/articles/2026-09-08/ai-startup-cognition-raises-2-billion-at-a-48-billion-value
+      - https://www.pymnts.com/news/artificial-intelligence/2026/cognition-secures-48-billion-valuation-as-demand-for-ai-coding-surges/
+      - https://www.unite.ai/cognition-raises-over-2b-series-e-at-48b-valuation-to-scale-devin-agents/
+  - fingerprint: sapien-ai-cfo-coworker-180m-valuation-sep2026
+    title: "'AI coworker' for CFOs, Sapien, raises at $180M valuation"
+    first_seen: 2026-09-09
+    digest: using-ai-for-business-productivity-2026-Sep-09.html
+    urls:
+      - https://fortune.com/2026/09/08/exclusive-ai-startup-sapien-raises-180m-valuation-companies-find-really-driving-profit-cfo/
+      - https://finance.yahoo.com/news/exclusive-ai-coworker-cfos-startup-153000512.html
+      - https://cryptobriefing.com/sapien-raises-180m-valuation-ai-operational-analysis/
+  - fingerprint: soundhound-liveperson-acquisition-completed-sep2026
+    title: "SoundHound AI completes acquisition of LivePerson"
+    first_seen: 2026-09-09
+    digest: using-ai-for-business-productivity-2026-Sep-09.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/09/04/3356596/0/en/soundhound-ai-completes-acquisition-of-liveperson-creating-a-world-leading-omnichannel-conversational-ai-powerhouse.html
+      - https://www.theglobeandmail.com/investing/markets/stocks/SOUN/pressreleases/4463942/soundhound-ai-completes-liveperson-acquisition-expands-ai-reach/
+      - https://finance.yahoo.com/technology/ai/articles/soundhound-ai-completes-acquisition-liveperson-132600164.html
+      - https://www.soundhound.com/newsroom/soundhound-ai-completes-acquisition-of-liveperson-creating-a-world-leading-omnichannel-conversational-ai-powerhouse
+  - fingerprint: c3ai-q1-fy2027-earnings-restructuring-federal-bookings-sep2026
+    title: "C3.ai's restructuring turns free cash flow positive as federal bookings jump 138%"
+    first_seen: 2026-09-09
+    digest: using-ai-for-business-productivity-2026-Sep-09.html
+    urls:
+      - https://www.benzinga.com/news/26/09/61592274/c3-ai-reports-q1-2027-results-full-earnings-call-transcript
+      - https://www.stocktitan.net/news/AI/c3-ai-announces-fiscal-first-quarter-2027-4w5q4rlyjyxv.html
+      - https://finance.yahoo.com/markets/stocks/articles/c3-ai-q1-earnings-call-220345500.html
+      - https://cryptobriefing.com/c3-ai-q1-earnings-beat-revenue-decline/
+  - fingerprint: ai-leaders-council-2026-corporate-ai-talent-study-sep2026
+    title: "AI Leaders Council: 97% of firms use AI, but only 3% call it fully embedded"
+    first_seen: 2026-09-09
+    digest: using-ai-for-business-productivity-2026-Sep-09.html
+    urls:
+      - https://www.prnewswire.com/news-releases/2026-corporate-ai-talent-study-report-available-302870134.html
+      - https://aijourn.com/2026-corporate-ai-talent-study-report-available/
+      - https://www.nowadais.com/new-study-reveals-insights-into-the-2026-corporate-ai-talent-landscape/
   - fingerprint: anthropic-517-billion-compute-commitments-11-months-sep2026
     title: "Anthropic locks in up to $517 billion in compute deals — nearly 3x its original budget"
     first_seen: 2026-09-08
@@ -1650,6 +1693,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-09
+- **Cognition raises $2B Series E at $48B valuation, nearly doubling in four months** — Devin/Windsurf maker's run-rate revenue climbs from $492M in May to nearly $900M; round led by a16z, Accel, Founders Fund, General Catalyst and Avenir. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-09.html)
+- **'AI coworker' for CFOs, Sapien, raises at $180M valuation** — Fortune exclusive: Neo's Ali Partovi leads round for a startup that finds root causes behind profitability changes, up from an $8.7M seed in 2024. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-09.html)
+- **SoundHound AI completes acquisition of LivePerson** — closed Sept 4, combining SoundHound's voice/agentic AI with LivePerson's enterprise messaging into one omnichannel conversational-AI platform. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-09.html)
+- **C3.ai's restructuring turns free cash flow positive as federal bookings jump 138%** — Q1 FY2027: revenue $52.4M, bookings +73%, ~40% workforce cut, ~$135M annualized savings expected. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-09.html)
+- **AI Leaders Council: 97% of firms use AI, but only 3% call it fully embedded** — 2026 Corporate AI Talent Study: adoption up from 87% in January; only 37% offer AI training, 33% have no AI talent strategy; 51% foresee no employment impact. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-09.html)
 
 ## 2026-Sep-08
 - **Anthropic locks in up to $517 billion in compute deals — nearly 3x its original budget** — The Information reports 14.8GW+ of new capacity signed since October 2025 across Amazon, Google, Microsoft, SpaceX, Lambda, nScale and Fluidstack. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-08.html)
