@@ -2,10 +2,47 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-07
-run_count: 35
-digest_count: 35
+last_run: 2026-09-09
+run_count: 36
+digest_count: 36
 entries:
+  - fingerprint: claude-code-skill-doctor-context-audit
+    title: "Claude Code ships /skill-doctor to show which loaded skills are quietly taxing every turn"
+    first_seen: 2026-09-09
+    digest: essential-skill-md-for-productivity-2026-Sep-09.html
+    urls:
+      - https://www.implicator.ai/anthropic-claude-code-skill-doctor-context-audit/
+      - https://ai.plainenglish.io/claude-code-shipped-a-command-that-tells-you-which-of-its-own-features-are-wasting-your-context-544dbfcc94e8
+      - https://juliangoldie.com/claude-code-skill-doctor/
+  - fingerprint: openai-codex-managed-agents-devday-speculation
+    title: "Reporting points to OpenAI quietly building Anthropic-style Managed Agents for Codex, ahead of DevDay"
+    first_seen: 2026-09-09
+    digest: essential-skill-md-for-productivity-2026-Sep-09.html
+    urls:
+      - https://www.testingcatalog.com/openai-prepares-managed-agents-for-devday-2026/
+      - https://www.progressiverobot.com/2026/09/08/openai-codex-managed-agents-build-deploy/
+  - fingerprint: github-copilot-agent-merge-public-preview-multiroot
+    title: "GitHub Copilot's weekly release adds Agent Merge and lets Claude sessions run in every workspace folder"
+    first_seen: 2026-09-09
+    digest: essential-skill-md-for-productivity-2026-Sep-09.html
+    urls:
+      - https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31/
+      - https://techbytes.app/posts/github-copilot-weekly-releases-august-31/
+  - fingerprint: mcp-skills-over-mcp-working-group-interoperability
+    title: "MCP's Skills Over MCP working group pushes to make reusable skills discoverable through the protocol itself"
+    first_seen: 2026-09-09
+    digest: essential-skill-md-for-productivity-2026-Sep-09.html
+    urls:
+      - https://securityboulevard.com/2026/09/tools-were-only-phase-one-mcps-move-toward-agent-interoperability/
+      - https://aembit.io/blog/tools-were-only-phase-one-mcps-move-toward-agent-interoperability
+  - fingerprint: anthropic-confirms-claude-session-hijack-infostealer-response
+    title: "Anthropic goes public on the Claude session-hijacking campaign this digest first flagged in August"
+    first_seen: 2026-09-09
+    digest: essential-skill-md-for-productivity-2026-Sep-09.html
+    urls:
+      - https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/
+      - https://www.malwarebytes.com/blog/news/2026/09/infostealers-are-hijacking-claude-accounts-at-users-expense
+      - https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts
   - fingerprint: specterops-outflank-red-team-skills-marketplace
     title: "SpecterOps and Outflank open-source an AI skills marketplace for red-team tradecraft"
     first_seen: 2026-09-07
@@ -1163,6 +1200,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-09
+- **Claude Code /skill-doctor (Sep 4)** — new command reports whether each loaded skill was ever invoked in a session and what it costs in context on every turn, so unused skills padding the always-on listing can be pruned. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-09.html)
+- **OpenAI Managed Agents speculation (TestingCatalog Sep 7 / Progressive Robot Sep 8)** — codebase reading suggests a Codex-adjacent hosted surface for environments, skills, and plugins "broadly following" Anthropic's Managed Agent Platform, ahead of DevDay Sep 29; unconfirmed, not yet shipped. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-09.html)
+- **GitHub Copilot weekly release, Aug 31 (published Sep 4)** — Agent Merge reaches public preview (auto-resolves review feedback, failed checks, merge conflicts); multi-root workspaces (experimental) bring Copilot and Claude agent sessions to every folder in a workspace. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-09.html)
+- **MCP "Skills Over MCP" working group (~Sep 2)** — experimental extension to discover and distribute reusable agent skills through MCP servers, alongside Tasks, MCP Apps, and enterprise-managed authorization; not yet in the official spec. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-09.html)
+- **Anthropic confirms Claude session-hijacking campaign** — official outreach names the infostealers involved (Vidar, LummaC2, StealC, Redline, Acreed, Atomic Stealer) and details remediation (sign-out, payment-method removal, refunds); materially updates the Aug 31 entry on early researcher reports of the same campaign. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-09.html)
 
 ## 2026-Sep-07
 - **SpecterOps Skills + Outflank (Sep 2)** — open-source SKILL.md library for red-team tradecraft: Aggressor scripts and Malleable C2 profiles for Cobalt Strike, driving BloodHound via MCP, plus Outflank's own C2 plugin. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-07.html)
