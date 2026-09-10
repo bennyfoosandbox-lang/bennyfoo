@@ -2,10 +2,44 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-09
-run_count: 30
-digest_count: 27
+last_run: 2026-09-10
+run_count: 31
+digest_count: 28
 entries:
+  - fingerprint: kiwi-ai-chatbot-schools-mental-health-counselor-shortage-sep2026
+    title: "\"We actually saved a kid\": schools turn to AI chatbots as the counselor shortage bites"
+    first_seen: 2026-09-10
+    digest: ai-impact-on-education-2026-Sep-10.html
+    urls:
+      - https://edsource.org/2026/we-actually-saved-a-kid-schools-recruit-ai-chatbots-as-counselor-shortage-persists/765694
+      - https://gvwire.com/2026/09/10/we-actually-saved-a-kid-schools-recruit-ai-chatbots-amid-counselor-shortage/
+      - https://www.kimt.com/news/school-counselors-start-turning-to-ai-chatbots-to-help-students-with-their-mental-health/article_18f63b1e-ed12-5914-8c45-e64f0066ef47.html
+      - https://edsource.org/2026/teens-use-ai-mental-health/765573
+  - fingerprint: google-ai-educator-series-monthly-gemini-modules-6million-teachers-sep2026
+    title: "Google expands its free AI training program to all 6 million U.S. teachers, with new modules every month"
+    first_seen: 2026-09-10
+    digest: ai-impact-on-education-2026-Sep-10.html
+    urls:
+      - https://gcn.com/ai-educator-series-google-expands-free/21522/
+      - https://www.edtechinnovationhub.com/news/google-expands-gemini-and-notebooklm-for-education-as-ai-tools-move-deeper-into-classrooms
+      - https://techgenyz.com/google-ai-educator-series-new-training-packs/
+      - https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/
+  - fingerprint: palo-alto-150m-ai-cheating-lawsuit-dropped-sep2026
+    title: "Palo Alto father drops his $150 million AI-cheating lawsuit against the school district"
+    first_seen: 2026-09-10
+    digest: ai-impact-on-education-2026-Sep-10.html
+    urls:
+      - https://www.paloaltoonline.com/palo-alto-schools/2026/09/04/parent-drops-suit-over-ai-use-on-english-essay/
+      - https://padailypost.com/2026/09/05/family-drops-lawsuit-that-challenged-pausd-claims-their-son-cheated-by-using-ai/
+      - https://palyvoice.com/189698/news/parent-drops-150-million-suit-over-sons-ai-accusation/
+  - fingerprint: uc-irvine-write-ai-center-10m-postsecondary-writing-aug2026
+    title: "UC Irvine wins $10 million federal grant to lead the first national research center on AI and college writing instruction"
+    first_seen: 2026-09-10
+    digest: ai-impact-on-education-2026-Sep-10.html
+    urls:
+      - https://news.uci.edu/2026/08/27/uc-irvine-school-of-education-to-lead-10-million-national-center-on-ai-and-postsecondary-writing/
+      - https://www.govtech.com/education/higher-ed/uc-irvine-to-establish-national-research-center-on-ai-in-writing
+      - https://www.edtechinnovationhub.com/news/uc-irvine-receives-10m-federal-grant-for-national-ai-writing-research-center
   - fingerprint: aft-uft-microsoft-national-ai-safety-privacy-standard-sep2026
     title: "America's two largest teachers unions strike a legally enforceable AI deal with Microsoft"
     first_seen: 2026-09-09
@@ -1150,6 +1184,12 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-10
+- **"We actually saved a kid": schools turn to AI chatbots as the counselor shortage bites** — 200+ schools now use the Kiwi chatbot to fill student mental-health coverage gaps, with a Texas crisis intervention as proof point; a companion piece finds teen use of general AI chatbots for emotional support up ~50% in a year. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-10.html)
+- **Google expands its free AI training program to all 6 million U.S. teachers, with new modules every month** — the AI Educator Series moves from a back-to-school push to an ongoing monthly cadence of Gemini-focused micro-courses, plus a September 19 live Badge-a-thon. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-10.html)
+- **Palo Alto father drops his $150 million AI-cheating lawsuit against the school district** — the suit over an AI-flagged "Crucible" essay is voluntarily dismissed with no settlement or payment; the student has since transferred schools. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-10.html)
+- **UC Irvine wins $10 million federal grant to lead the first national research center on AI and college writing instruction** — the WRITE AI Center's 5-year IES-funded program studies how generative AI is actually reshaping postsecondary writing pedagogy, including a 6-college RCT. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-10.html)
 
 ## 2026-Sep-09
 - **America's two largest teachers unions strike a legally enforceable AI deal with Microsoft** — AFT, UFT and Microsoft unveil a National AI Safety & Privacy Standard: 10 enforceable protections including a data-training ban, effective Nov 1 and free to every US district; AFT says OpenAI and Anthropic talks are underway too. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-09.html)
