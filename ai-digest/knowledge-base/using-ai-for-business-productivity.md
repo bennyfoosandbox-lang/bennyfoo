@@ -2,10 +2,56 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-09
-run_count: 41
-digest_count: 41
+last_run: 2026-09-10
+run_count: 42
+digest_count: 42
 entries:
+  - fingerprint: accenture-google-cloud-gemini-enterprise-business-group-sep2026
+    title: "Accenture and Google Cloud launch a 1,000-engineer group to push agentic AI past the pilot stage"
+    first_seen: 2026-09-10
+    digest: using-ai-for-business-productivity-2026-Sep-10.html
+    urls:
+      - https://www.hpcwire.com/aiwire/2026/09/08/accenture-and-google-cloud-launch-gemini-enterprise-business-group/
+      - https://www.unite.ai/new-accenture-gemini-enterprise-business-group-targets-agentic-ai-scaling/
+      - https://thenextweb.com/news/accenture-google-cloud-gemini-enterprise-forward-deployed-engineers
+      - https://www.stocktitan.net/news/ACN/accenture-and-google-cloud-deepen-partnership-with-formation-of-new-3e7twrjbhv4x.html
+  - fingerprint: cymphony-30m-series-a-sequoia-agent-security-sep2026
+    title: "Sequoia leads $30M round for Cymphony, betting enterprises can't see what their AI agents can touch"
+    first_seen: 2026-09-10
+    digest: using-ai-for-business-productivity-2026-Sep-10.html
+    urls:
+      - https://siliconangle.com/2026/09/09/cymphony-launches-with-30m-to-track-what-ai-agents-can-reach/
+      - https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/
+      - https://finance.yahoo.com/technology/ai/articles/sequoia-doubles-down-cymphony-ai-130000348.html
+      - https://theaiinsider.tech/2026/09/09/sequoia-leads-30m-round-for-cymphony-to-secure-enterprise-ai-agents/
+  - fingerprint: helmguard-7-3m-seed-agentic-grc-sep2026
+    title: "HelmGuard raises $7.3M to automate compliance paperwork with AI agents"
+    first_seen: 2026-09-10
+    digest: using-ai-for-business-productivity-2026-Sep-10.html
+    urls:
+      - https://www.securityweek.com/helmguard-raises-7-3-million-for-agentic-grc-and-security/
+      - https://www.finextra.com/newsarticle/48371/helmguard-raises-73m-to-for-agentic-grc-platform
+      - https://tech.eu/2026/09/09/helmguard-raises-73m-to-move-compliance-beyond-paperwork
+      - https://techfundingnews.com/helmguard-raises-7m-seed-infinity-frontline-ai-grc-compliance/
+  - fingerprint: meta-muse-personal-ai-agent-launch-sep2026
+    title: "Meta launches Muse, a personal AI agent that books, buys and schedules on its own dedicated cloud machine"
+    first_seen: 2026-09-10
+    digest: using-ai-for-business-productivity-2026-Sep-10.html
+    urls:
+      - https://www.bloomberg.com/news/articles/2026-09-08/meta-announces-muse-ai-agent-for-personal-tasks-and-organization
+      - https://www.axios.com/2026/09/08/meta-debuts-muse-personal-ai-agent
+      - https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/
+      - https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/
+  - fingerprint: openai-10000-agents-navier-stokes-proof-credit-dispute-sep2026
+    title: "OpenAI says 10,000 coordinating agents cracked a Millennium math problem — then a credit dispute overshadowed it"
+    first_seen: 2026-09-10
+    digest: using-ai-for-business-productivity-2026-Sep-10.html
+    urls:
+      - https://openai.com/index/navier-stokes-solution/
+      - https://www.cnn.com/2026/09/09/business/openai-millennium-problems-navier-stokes-hnk
+      - https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/
+      - https://www.axios.com/2026/09/08/openai-math-solution-navier-stokes-credit
+      - https://www.coindesk.com/tech/2026/09/09/openai-says-10-000-ai-agents-solved-a-usd1-million-math-problem-now-mathematicians-are-fighting
   - fingerprint: cognition-ai-2b-series-e-48b-valuation-sep2026
     title: "Cognition raises $2B Series E at $48B valuation, nearly doubling in four months"
     first_seen: 2026-09-09
@@ -1693,6 +1739,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-10
+- **Accenture and Google Cloud launch a 1,000-engineer group to push agentic AI past the pilot stage** — Accenture Gemini Enterprise Business Group pairs ~50,000 Google Cloud-skilled staff with a new 1,000-person forward-deployed engineer workforce; cites a YouTube Gemini Enterprise agent lifting customer sentiment 11% and cutting handling time 37%. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-10.html)
+- **Sequoia leads $30M round for Cymphony, betting enterprises can't see what their AI agents can touch** — "workforce security graph" maps identities, permissions and activity across employees, AI agents and machine accounts; customers include Syngenta, KKR, Cass Information Systems and Athennian. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-10.html)
+- **HelmGuard raises $7.3M to automate compliance paperwork with AI agents** — London startup's agentic GRC platform automates evidence collection and control-gap assessment for regulated industries; founded by ex-Palantir exec John Daley. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-10.html)
+- **Meta launches Muse, a personal AI agent that books, buys and schedules on its own dedicated cloud machine** — US launch via app/web/WhatsApp/iOS/Android, free/$20/$100 tiers; runs on a dedicated VM with a visible browser to chain multi-step tasks. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-10.html)
+- **OpenAI says 10,000 coordinating agents cracked a Millennium math problem — then a credit dispute overshadowed it** — internal model produced a Navier-Stokes proof via 10,000 agents over 88 hours; OpenAI won't claim the $1M prize after learning a rumored rival effort addressed a different equation. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-10.html)
 
 ## 2026-Sep-09
 - **Cognition raises $2B Series E at $48B valuation, nearly doubling in four months** — Devin/Windsurf maker's run-rate revenue climbs from $492M in May to nearly $900M; round led by a16z, Accel, Founders Fund, General Catalyst and Avenir. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-09.html)
