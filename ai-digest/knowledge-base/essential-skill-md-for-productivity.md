@@ -2,10 +2,45 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-09
-run_count: 36
-digest_count: 36
+last_run: 2026-09-10
+run_count: 37
+digest_count: 37
 entries:
+  - fingerprint: claude-code-v2-1-265-plugin-dir-forked-skill-streaming
+    title: "Claude Code v2.1.265 adds --plugin-dir support and fixes forked-skill streaming and preloaded-skill prompt-cache bugs"
+    first_seen: 2026-09-10
+    digest: essential-skill-md-for-productivity-2026-Sep-10.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.265
+      - https://code.claude.com/docs/en/changelog
+  - fingerprint: skilladam-stable-skill-evolution-arxiv
+    title: "SkillAdam borrows Adam's optimizer trick to stop skill self-evolution from overwriting its own progress"
+    first_seen: 2026-09-10
+    digest: essential-skill-md-for-productivity-2026-Sep-10.html
+    urls:
+      - https://arxiv.org/abs/2609.08944
+      - https://arxiv.org/html/2609.08944
+  - fingerprint: crowdstrike-falcon-guardian-aidr-skill-use-tracing
+    title: "CrowdStrike's Falcon Guardian traces skill use to system actions as part of runtime AI agent security"
+    first_seen: 2026-09-10
+    digest: essential-skill-md-for-productivity-2026-Sep-10.html
+    urls:
+      - https://www.crowdstrike.com/en-us/press-releases/crowdstrike-unveils-falcon-guardian-ai-agent-security/
+      - https://siliconangle.com/2026/09/01/crowdstrike-launches-falcon-guardian-to-police-ai-agents-at-the-endpoint/
+      - https://biztechmagazine.com/article/2026/09/crowdstrike-falcon-2026-crowdstrike-announces-falcon-guardian-and-safe-mind-aidr
+  - fingerprint: sharepoint-copilot-portable-skills-evaluations-sep2026
+    title: "Copilot in SharePoint makes Skills portable across sites and OneDrive, and adds evaluations to measure them"
+    first_seen: 2026-09-10
+    digest: essential-skill-md-for-productivity-2026-Sep-10.html
+    urls:
+      - https://techcommunity.microsoft.com/blog/spblog/whats-new-in-copilot-in-sharepoint-september-2026/4535422
+  - fingerprint: openclaw-2026-9-1-personal-skill-libraries-skill-workshop
+    title: "OpenClaw 2026.9.1 adds personal skill libraries on shared Gateways and hardens Skill Workshop migrations"
+    first_seen: 2026-09-10
+    digest: essential-skill-md-for-productivity-2026-Sep-10.html
+    urls:
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.9.1
+      - https://releasebot.io/updates/openclaw
   - fingerprint: claude-code-skill-doctor-context-audit
     title: "Claude Code ships /skill-doctor to show which loaded skills are quietly taxing every turn"
     first_seen: 2026-09-09
@@ -1200,6 +1235,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-10
+- **Claude Code v2.1.265 (Sep 8)** — adds `--plugin-dir` for loading a folder of plugins, fixes forked skills (`context: fork`) not streaming their kickoff prompt, and fixes agent teammates/resumed subagents dropping preloaded-skill hook context from the prompt prefix (which was breaking prompt-cache reuse). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-10.html)
+- **SkillAdam (arXiv 2609.08944, Sep 8)** — an Adam-optimizer-inspired framework for skill self-evolution: an optimization memory keeps corrections from being overwritten by iteration-local feedback, and a volatility-driven edit budget controls how much each revision changes; state of the art across seven benchmarks with far fewer iterations. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-10.html)
+- **CrowdStrike Falcon Guardian (Sep 1, Fal.Con)** — runtime AI Detection and Response product that discovers known and shadow agents on Windows/macOS and traces prompts, identities, tool calls and skill use to the system actions they cause. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-10.html)
+- **Copilot in SharePoint, September roundup** — Skills become portable between SharePoint and OneDrive rather than tied to one site, Copilot can now run evaluations to measure and improve a Skill, and a tenant-specific HTML guidance page helps any AI assistant build SharePoint-safe interfaces. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-10.html)
+- **OpenClaw 2026.9.1 (Sep 3)** — adds personal skill libraries on shared Gateways (`openclaw skills library`, ZIP import, per-identity sharing) and has Doctor recover incomplete Skill Workshop proposal migrations instead of leaving an install stuck. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-10.html)
 
 ## 2026-Sep-09
 - **Claude Code /skill-doctor (Sep 4)** — new command reports whether each loaded skill was ever invoked in a session and what it costs in context on every turn, so unused skills padding the always-on listing can be pruned. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-09.html)
