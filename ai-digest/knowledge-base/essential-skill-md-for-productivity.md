@@ -2,10 +2,46 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-10
-run_count: 37
-digest_count: 37
+last_run: 2026-09-11
+run_count: 38
+digest_count: 38
 entries:
+  - fingerprint: claude-code-v2-1-266-268-gateway-effort-cap-cowork-sandbox
+    title: "Claude Code ships three releases in 48 hours — v2.1.266 through v2.1.268 — chasing unattended-run reliability"
+    first_seen: 2026-09-11
+    digest: essential-skill-md-for-productivity-2026-Sep-11.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.266
+      - https://code.claude.com/docs/en/changelog
+      - https://www.claudeupdates.dev/version/2.1.267
+  - fingerprint: subagents-vs-agent-skills-long-horizon-arxiv
+    title: "Cornell and Microsoft Research pit skills against subagents on long-horizon tasks — and skills lose ground as tasks get longer"
+    first_seen: 2026-09-11
+    digest: essential-skill-md-for-productivity-2026-Sep-11.html
+    urls:
+      - https://arxiv.org/abs/2609.09233
+      - https://arxiv.org/html/2609.09233
+  - fingerprint: skillalign-exposure-interface-arxiv
+    title: "SkillAlign shows a skill's exposure format — not just its content — decides whether it helps or hurts"
+    first_seen: 2026-09-11
+    digest: essential-skill-md-for-productivity-2026-Sep-11.html
+    urls:
+      - https://arxiv.org/abs/2609.07255
+      - https://arxiv.org/html/2609.07255
+  - fingerprint: who-maintains-agent-skills-longitudinal-arxiv
+    title: "Megagon Labs measures the maintenance labor behind SKILL.md files that automated-curation research keeps ignoring"
+    first_seen: 2026-09-11
+    digest: essential-skill-md-for-productivity-2026-Sep-11.html
+    urls:
+      - https://arxiv.org/abs/2609.05677
+      - https://arxiv.org/html/2609.05677
+  - fingerprint: interaction-traces-persistent-skills-computer-use-arxiv
+    title: "A new framework lets computer-use agents write their own skill library instead of waiting on a human to author one"
+    first_seen: 2026-09-11
+    digest: essential-skill-md-for-productivity-2026-Sep-11.html
+    urls:
+      - https://arxiv.org/abs/2609.04869
+      - https://arxiv.org/html/2609.04869
   - fingerprint: claude-code-v2-1-265-plugin-dir-forked-skill-streaming
     title: "Claude Code v2.1.265 adds --plugin-dir support and fixes forked-skill streaming and preloaded-skill prompt-cache bugs"
     first_seen: 2026-09-10
@@ -1235,6 +1271,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-11
+- **Claude Code v2.1.266–v2.1.268 (Sep 8–10)** — three releases in 48 hours: fixes a `CLAUDE_CODE_USE_GATEWAY` regression that broke plain API-key/custom-auth setups, adds `maxEffortLevel` (caps reasoning effort across Bedrock/Vertex/Foundry) and `--system-prompt-snapshot off`, fixes Cowork scheduled cloud tasks failing at startup under sandboxing, and surfaces gateway pricing to signed-in clients. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-11.html)
+- **Subagents vs Agent Skills (arXiv 2609.09233, Sep 7, Cornell/Microsoft Research)** — head-to-head test of loading skill instructions into the main context vs. executing skills as subagents with fresh context windows; argues the standard skills approach grows brittle on long-horizon tasks as reasoning quality degrades with accumulated context. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-11.html)
+- **SkillAlign (arXiv 2609.07255, Sep 7, CASIA)** — shows the same skill helps, distracts, or misleads an agent depending purely on its exposure format (full instructions, hint, compressed summary, workflow, or none); exposure form alone substantially moves task success and context cost on ALFWorld/SkillsBench. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-11.html)
+- **Who Maintains Agent Skills? (arXiv 2609.05677, Sep 4, Megagon Labs)** — longitudinal study mining 873 commits / 143 skill files / 254 substantive edits across five public skill repos (Oct 2025–Jun 2026) to measure real human maintenance load, which prior automated-curation work treats as an unmeasured bottleneck. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-11.html)
+- **From Interaction Traces to Persistent Skills (arXiv 2609.04869, Sep 4)** — online skill-evolution framework for computer-use agents that converts interaction traces and evaluator feedback into a persistent, versioned skill library without retraining the model, so procedural knowledge from one task rollout carries over to the next. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-11.html)
 
 ## 2026-Sep-10
 - **Claude Code v2.1.265 (Sep 8)** — adds `--plugin-dir` for loading a folder of plugins, fixes forked skills (`context: fork`) not streaming their kickoff prompt, and fixes agent teammates/resumed subagents dropping preloaded-skill hook context from the prompt prefix (which was breaking prompt-cache reuse). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-10.html)
