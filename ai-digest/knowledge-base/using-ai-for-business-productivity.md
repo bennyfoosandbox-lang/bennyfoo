@@ -2,10 +2,55 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-10
-run_count: 42
-digest_count: 42
+last_run: 2026-09-11
+run_count: 43
+digest_count: 43
 entries:
+  - fingerprint: openai-chatgpt-financial-services-gpt6-astra-morgan-stanley-sep2026
+    title: "OpenAI aims ChatGPT squarely at Wall Street's junior bankers with a financial-services build"
+    first_seen: 2026-09-11
+    digest: using-ai-for-business-productivity-2026-Sep-11.html
+    urls:
+      - https://openai.com/index/introducing-chatgpt-financial-services/
+      - https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html
+      - https://fortune.com/2026/09/10/openai-courts-wall-street-with-chatgpt-for-financial-services-developed-with-morgan-stanley/
+      - https://www.unite.ai/openai-launches-chatgpt-for-financial-services-with-built-in-data/
+  - fingerprint: microsoft-dynamics-365-activate-salesforce-migration-tool-sep2026
+    title: "Microsoft ships an AI tool built to pull Salesforce customers onto Dynamics 365"
+    first_seen: 2026-09-11
+    digest: using-ai-for-business-productivity-2026-Sep-11.html
+    urls:
+      - https://www.theregister.com/software/2026/09/10/microsoft-goes-after-salesforce-and-erp-users-with-ai-powered-converter/5295428
+      - https://www.cio.com/article/4220712/microsoft-targets-salesforce-customers-with-ai-powered-dynamics-365-migration-tool.html
+      - https://www.techzine.eu/news/applications/144215/microsoft-aims-to-attract-salesforce-customers-to-dynamics-365-using-ai/
+      - https://itdaily.com/news/cloud/microsoft-dynamics-salesforce/
+  - fingerprint: openai-agents-api-public-beta-codex-harness-sep2026
+    title: "OpenAI opens the Codex harness to every developer via a new Agents API"
+    first_seen: 2026-09-11
+    digest: using-ai-for-business-productivity-2026-Sep-11.html
+    urls:
+      - https://openai.com/index/introducing-the-agents-api/
+      - https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/
+      - https://alphasignal.ai/news/openai-s-agents-api-kills-the-orchestration-layer-developers-hate-building
+      - https://blockchain.news/news/openai-agents-api-launch
+  - fingerprint: adobe-q3-fy2026-earnings-acrobat-ai-assistant-mau-doubles-sep2026
+    title: "Adobe's Q3 shows AI assistant usage doubling even as investors want more"
+    first_seen: 2026-09-11
+    digest: using-ai-for-business-productivity-2026-Sep-11.html
+    urls:
+      - https://www.stocktitan.net/news/ADBE/adobe-reports-record-q3-eqfptdv2yclp.html
+      - https://investingnews.com/adobe-reports-record-q3-results/
+      - https://www.investing.com/news/company-news/adobe-q3-fy2026-slides-ai-revenue-soars-stock-falls-on-caution-93CH-4897029
+      - https://grafa.com/en/news/united-states/adobe-q3-fy2026-revenue-record-ai-growth
+  - fingerprint: visa-mastercard-ant-know-your-agent-kya-framework-sep2026
+    title: "Visa, Mastercard and Ant International agree on how card networks will recognize AI shoppers"
+    first_seen: 2026-09-11
+    digest: using-ai-for-business-productivity-2026-Sep-11.html
+    urls:
+      - https://www.pymnts.com/cybersecurity/2026/visa-mastercard-team-with-ant-know-your-agent-framework
+      - https://www.electronicpaymentsinternational.com/news/ant-mastercard-visa-kya-agentic-commerce/
+      - https://forkast.news/ant-international-visa-and-mastercard-agree-on-agent-identity-standard-now-comes-the-hard-part/
+      - https://investingnews.com/ant-international-mastercard-and-visa-initiate-collaboration-on-know-your-agent-interoperability-to-scale-agentic-commerce/
   - fingerprint: accenture-google-cloud-gemini-enterprise-business-group-sep2026
     title: "Accenture and Google Cloud launch a 1,000-engineer group to push agentic AI past the pilot stage"
     first_seen: 2026-09-10
@@ -2031,3 +2076,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Broadcom's AI chip revenue triples in Q3 FY2026; guides to $230B/year by fiscal 2028** — Sept 2 earnings: AI semiconductor revenue +221% YoY to $16.7B; custom chips for Google, Anthropic, OpenAI and Meta; FY2026 AI guide raised to $58B, with $115B (FY27) and $230B (FY28) targets disclosed for the first time. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-07.html)
 - **UiPath, Guidewire and Asana all sink on earnings the same week despite AI positioning** — Sept 3-4 earnings: UiPath beat Q2 but guided Q3 growth to roughly half its current pace and swapped CFOs; Guidewire's ARR outlook merely met expectations; Asana missed and lowered guidance — all three fell double digits as investors demanded AI-driven growth, not just AI features. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-07.html)
 - **Glean claims Anthropic enterprise customers are overpaying by 80% after Anthropic's usage-based pricing switch** — Anthropic moved Claude Enterprise to consumption-based billing ($20/seat base + usage), with NPI Financial estimating ~67% of customers face 15-30% cost increases; rival Glean is using the shift to pitch cost/data-security scrutiny to CIOs. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-07.html)
+
+## 2026-Sep-11
+- **OpenAI aims ChatGPT squarely at Wall Street's junior bankers with a financial-services build** — ChatGPT for Financial Services (Sept 10), built on GPT-6 Astra with Morgan Stanley and Evercore as design partners; bundles Daloopa/PitchBook/LSEG/Crunchbase data with granular citations and bank-template deck generation. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-11.html)
+- **Microsoft ships an AI tool built to pull Salesforce customers onto Dynamics 365** — Dynamics 365 Activate (Sept 10, public preview) profiles Salesforce/ERP data and customizations to blueprint a migration; already processed 6B+ records, with Comcast and Ziwi Pets testing ahead of launch. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-11.html)
+- **OpenAI opens the Codex harness to every developer via a new Agents API** — Agents API (Sept 10) reaches public beta, exposing Codex's session/orchestration/context-compaction machinery behind one API call; built-in subagents and tool search, sandbox partners include Cloudflare, Modal, Oracle and Vercel. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-11.html)
+- **Adobe's Q3 shows AI assistant usage doubling even as investors want more** — Fiscal Q3 2026 (Sept 10): record $6.76B revenue (+13% YoY), $27.5B ARR; Acrobat AI Assistant MAU doubled quarter-over-quarter and Firefly ARR grew 40% QoQ, though shares fell on caution. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-11.html)
+- **Visa, Mastercard and Ant International agree on how card networks will recognize AI shoppers** — Know-Your-Agent (KYA) interoperability framework (announced Sept 9-10) links Ant's Agentic Mobile Protocol, Mastercard's Verifiable Intent and Visa's Trusted Agent Protocol via BuildFin.ai, targeting the $3-5T of consumer commerce the firms project AI agents will orchestrate by 2030. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-11.html)
