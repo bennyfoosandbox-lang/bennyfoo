@@ -2,10 +2,54 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-10
-run_count: 31
-digest_count: 28
+last_run: 2026-09-11
+run_count: 32
+digest_count: 29
 entries:
+  - fingerprint: california-adams-law-sb1119-chatbot-child-safety-school-laptop-optout-sep2026
+    title: "California enacts the nation's toughest AI-chatbot child-safety law — with a school-laptop opt-out built in"
+    first_seen: 2026-09-11
+    digest: ai-impact-on-education-2026-Sep-11.html
+    urls:
+      - https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/
+      - https://www.bostonglobe.com/2026/09/10/business/california-governor-signs-laws-aimed-protecting-children-risks-social-media-ai-chatbots/
+      - https://www.cnbc.com/2026/09/11/california-enacts-new-curbs-on-social-media-for-children.html
+      - https://contracosta.news/2026/09/11/governor-newsom-signs-adams-law/
+  - fingerprint: pisa-us-reading-scores-25yr-low-asia-widens-lead-sep2026
+    title: "New PISA data: US reading scores hit a 25-year low as AI adoption widens the gap with Asia"
+    first_seen: 2026-09-11
+    digest: ai-impact-on-education-2026-Sep-11.html
+    urls:
+      - https://www.cnn.com/2026/09/10/world/asia-students-test-scores-ai-intl-hnk
+      - https://www.the74million.org/article/global-test-scores-hit-new-lows-just-as-ai-takes-hold-in-schools/
+      - https://abc17news.com/news/national-world/cnn-world/2026/09/10/students-in-asia-extend-lead-over-a-flagging-us-as-ai-reshapes-education/
+      - https://kvia.com/news/us-world/cnn-world/2026/09/10/students-in-asia-extend-lead-over-a-flagging-us-as-ai-reshapes-education/
+  - fingerprint: legend-org-mastery-transcript-consortium-ai-report-cards-sep2026
+    title: "Schools quietly retire the A-F report card in favor of AI-graded 'mastery' transcripts"
+    first_seen: 2026-09-11
+    digest: ai-impact-on-education-2026-Sep-11.html
+    urls:
+      - https://www.santafenewmexican.com/life/features/the-schools-turning-to-ai-to-rate-students-beyond-standard-grades/article_094f8384-c704-560e-8788-38ba0b000ac0.html
+      - https://kvia.com/stacker-k-12/2026/09/10/the-schools-turning-to-ai-to-rate-students-beyond-standard-grades/
+      - https://localnews8.com/stacker-k-12/2026/09/11/the-schools-turning-to-ai-to-rate-students-beyond-standard-grades/
+      - https://keyt.com/stacker-k-12/2026/09/11/the-schools-turning-to-ai-to-rate-students-beyond-standard-grades/
+  - fingerprint: digital-education-council-global-ai-higher-ed-survey-88pct-sep2026
+    title: "Largest global survey yet: 88% of college students now use AI, and most say guidance hasn't caught up"
+    first_seen: 2026-09-11
+    digest: ai-impact-on-education-2026-Sep-11.html
+    urls:
+      - https://www.digitaleducationcouncil.com/resource-library-items/ai-in-higher-education-global-survey-2026
+      - https://www.edtechinnovationhub.com/news/q6zw9wco2mttajdbd1jyeonjnpiovu
+      - https://www.thecollegefix.com/nearly-90-of-students-77-of-faculty-use-ai-survey/
+      - https://www.boisestate.edu/news/2026/09/09/student-and-faculty-ai-survey-results-announced/
+  - fingerprint: edtechx-japan-pkasha-ai-english-learning-kids-seed-sep2026
+    title: "A Tokyo startup raises seed funding to fuse AI tutoring with real classrooms for young English learners"
+    first_seen: 2026-09-11
+    digest: ai-impact-on-education-2026-Sep-11.html
+    urls:
+      - https://www.venture-pitch-online.com/en/news/edtechx-seed-funding
+      - https://prtimes.jp/main/html/rd/p/000000002.000145030.html
+      - https://third-news.com/article/9d9239a2-ad94-11f1-894c-9ca3ba08e13f
   - fingerprint: kiwi-ai-chatbot-schools-mental-health-counselor-shortage-sep2026
     title: "\"We actually saved a kid\": schools turn to AI chatbots as the counselor shortage bites"
     first_seen: 2026-09-10
@@ -1184,6 +1228,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-11
+- **California enacts the nation's toughest AI-chatbot child-safety law — with a school-laptop opt-out built in** — Newsom signs SB 1119 ("Adam's Law"), AB 1405 and SB 813, requiring chatbot crisis protocols, parental controls and independent audits, plus a new right for families to opt out of school-issued laptops and their AI software. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-11.html)
+- **New PISA data: US reading scores hit a 25-year low as AI adoption widens the gap with Asia** — a second angle on the OECD's PISA 2025 release finds US reading scores at a 25-year low while China and other Asian systems extend their lead, with uneven AI integration cited as a factor. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-11.html)
+- **Schools quietly retire the A-F report card in favor of AI-graded "mastery" transcripts** — Legend.org, which bought the nonprofit Mastery Transcript Consortium from ETS in July, rolls out AI grading to ~400 schools using the alternative transcript, with teachers confirming AI-drafted ratings rather than issuing final grades themselves. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-11.html)
+- **Largest global survey yet: 88% of college students now use AI, and most say guidance hasn't caught up** — Digital Education Council's 45,000-response, 35-country survey finds 88% student and 77% faculty AI use, alongside widespread gaps in assessment guidance and policy input. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-11.html)
+- **A Tokyo startup raises seed funding to fuse AI tutoring with real classrooms for young English learners** — EdTechX closes a Series Seed round from PKSHA Algorithm Fund to expand X Junior, its hybrid AI-plus-classroom English program for young children. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-11.html)
 
 ## 2026-Sep-10
 - **"We actually saved a kid": schools turn to AI chatbots as the counselor shortage bites** — 200+ schools now use the Kiwi chatbot to fill student mental-health coverage gaps, with a Texas crisis intervention as proof point; a companion piece finds teen use of general AI chatbots for emotional support up ~50% in a year. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-10.html)
