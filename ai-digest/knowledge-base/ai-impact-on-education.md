@@ -2,10 +2,60 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-11
-run_count: 32
-digest_count: 29
+last_run: 2026-09-12
+run_count: 33
+digest_count: 30
 entries:
+  - fingerprint: unsw-usyd-openai-chatgpt-edu-deals-nteu-strike-sep2026
+    title: "Australia's two biggest research universities ink major OpenAI deals days after staff struck over AI job security"
+    first_seen: 2026-09-12
+    digest: ai-impact-on-education-2026-Sep-12.html
+    urls:
+      - https://www.unsw.edu.au/newsroom/news/2026/09/unsw-partners-with-openai-to-support-the-first-generation-of-ai-
+      - https://www.thedailyaus.com.au/news/unsw-chatgpt-edu-deal-10-09-2026
+      - https://itbrief.com.au/story/openai-unsw-sydney-launch-chatgpt-edu-for-80-000
+      - https://honisoit.com/2026/09/breaking-usyd-signs-multi-year-partnership-with-openai/
+      - https://honisoit.com/2026/09/our-university-usyd-staff-on-strike-2026/
+      - https://www.canberratimes.com.au/story/9341092/hundreds-of-university-staff-to-strike-over-ai-changes/
+      - https://www.artiverse.ca/australian-universities-face-a-reckoning-over-ai-teaching-and-jobs/
+  - fingerprint: argentina-chatgpt-school-shooting-plot-fbi-tip-sep2026
+    title: "An FBI tip based on ChatGPT conversations led Argentine police to a teen allegedly plotting a school shooting"
+    first_seen: 2026-09-12
+    digest: ai-impact-on-education-2026-Sep-12.html
+    urls:
+      - https://buenosairesherald.com/society/argentine-teenager-planning-school-shooting-with-chatgpt-raided-after-fbi-alert
+      - https://www.breitbart.com/latin-america/2026/09/11/reports-fbi-detects-argentina-teenager-using-chatgpt-to-plan-school-shooting/
+      - https://yournews.com/2026/09/11/7192682/fbi-alert-leads-argentine-police-to-teen-accused-of-planning/
+      - https://www.yahoo.com/news/articles/fbi-aid-leads-arrest-argentine-200207727.html
+  - fingerprint: papercut-ai-agent-cyberattack-education-sector-sep2026
+    title: "Hundreds of AI agents breached 395+ organizations in hours — and roughly half were US schools"
+    first_seen: 2026-09-12
+    digest: ai-impact-on-education-2026-Sep-12.html
+    urls:
+      - https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650
+      - https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/
+      - https://cybersecuritynews.com/papercut-flaws-compromised-using-ai/amp/
+      - https://thecyberexpress.com/ai-agents-compromised-440-papercut-servers/
+      - https://gbhackers.com/hackers-deploy-hundreds-of-ai-agents/
+  - fingerprint: jordan-school-district-utah-schoolai-critical-thinking-gains-sep2026
+    title: "A Utah district's two-year AI case study finds critical-thinking gains, cutting against this week's gloomier findings"
+    first_seen: 2026-09-12
+    digest: ai-impact-on-education-2026-Sep-12.html
+    urls:
+      - https://www.k12dive.com/news/utah-district-reports-critical-thinking-boost-amid-ai-deployment/829919/
+      - https://www.efinstitute.org/2026/09/utah-district-reports-critical-thinking-gains-with-ai-tools/
+      - https://schoolai.com/research/schoolai-makes-students-think
+      - https://digitallearning.jordandistrict.org/category/artificial-intelligence/
+  - fingerprint: boston-bps-ai-educator-ambassadors-cohort-launch-sep2026
+    title: "Boston launches the nation's first cohort of district AI 'educator ambassadors'"
+    first_seen: 2026-09-12
+    digest: ai-impact-on-education-2026-Sep-12.html
+    urls:
+      - https://www.media.mit.edu/posts/boston-and-boston-public-schools-launch-inaugural-cohort-of-bps-ai-educator-ambassadors/
+      - https://www.boston.gov/news/boston-and-boston-public-schools-launch-inaugural-cohort-bps-ai-educator-ambassadors
+      - https://charlestownbridge.com/2026/09/04/city-and-boston-public-schools-launch-inaugural-cohort-of-bps-ai-educator-ambassadors/
+      - https://www.governing.com/artificial-intelligence/boston-becomes-first-major-district-to-bring-ai-literacy-into-classrooms
+      - https://www.wgbh.org/news/education-news/2026-09-08/parents-students-approach-bostons-first-day-of-school-with-excitement-and-some-concern
   - fingerprint: california-adams-law-sb1119-chatbot-child-safety-school-laptop-optout-sep2026
     title: "California enacts the nation's toughest AI-chatbot child-safety law — with a school-laptop opt-out built in"
     first_seen: 2026-09-11
@@ -1228,6 +1278,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-12
+- **Australia's two biggest research universities ink major OpenAI deals days after staff struck over AI job security** — UNSW (80,000+ students/staff) and the University of Sydney both signed ChatGPT Edu partnerships the same week ~2,000 USyd staff struck over AI job-security protections. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-12.html)
+- **An FBI tip based on ChatGPT conversations led Argentine police to a teen allegedly plotting a school shooting** — a US monitoring flag led the FBI's Buenos Aires attaché to alert local police, who raided and detained a 15-year-old discussing an attack plan with ChatGPT. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-12.html)
+- **Hundreds of AI agents breached 395+ organizations in hours — and roughly half were US schools** — an AI-agent campaign exploiting PaperCut print-software flaws hit at least 395 orgs worldwide within hours, with one US high school going from access to full domain-admin control in 7 minutes. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-12.html)
+- **A Utah district's two-year AI case study finds critical-thinking gains, cutting against this week's gloomier findings** — Jordan School District's SchoolAI case study of ~14,000 logged conversations found a 28% critical-thinking increase, an ESSA Tier III-rated counter-example to the week's negative PISA/Stanford findings. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-12.html)
+- **Boston launches the nation's first cohort of district AI 'educator ambassadors'** — 25 BPS teachers completed a Summer Institute and now lead school-level AI-literacy projects under the $1M BPS AI Literacy Initiative, a teach-first counter to NYC/LAUSD's ban-first approach. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-12.html)
 
 ## 2026-Sep-11
 - **California enacts the nation's toughest AI-chatbot child-safety law — with a school-laptop opt-out built in** — Newsom signs SB 1119 ("Adam's Law"), AB 1405 and SB 813, requiring chatbot crisis protocols, parental controls and independent audits, plus a new right for families to opt out of school-issued laptops and their AI software. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-11.html)
