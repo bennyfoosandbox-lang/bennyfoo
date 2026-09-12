@@ -2,10 +2,54 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-11
-run_count: 43
-digest_count: 43
+last_run: 2026-09-12
+run_count: 44
+digest_count: 44
 entries:
+  - fingerprint: oracle-q1-fy2027-earnings-cloud-ai-revenue-doubles-sep2026
+    title: "Oracle's cloud infrastructure revenue more than doubles as AI contract backlog swells past $600 billion"
+    first_seen: 2026-09-12
+    digest: using-ai-for-business-productivity-2026-Sep-12.html
+    urls:
+      - https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html
+      - https://qz.com/oracle-earnings-cloud-infrastructure-revenue-doubled-091026
+      - https://247wallst.com/cards/oracle-q1-2027-earnings-orcl-01m26fsd5ezttdeh0tr1hwkqxv
+      - https://www.techtimes.com/articles/327307/20260911/oracle-cloud-revenue-doubles-ai-demand-pushes-gpu-utilization-979.htm
+  - fingerprint: anthropic-china-labs-claude-distillation-attacks-sep2026
+    title: "Anthropic says five China-based labs ran industrial-scale campaigns to distill Claude into rival models"
+    first_seen: 2026-09-12
+    digest: using-ai-for-business-productivity-2026-Sep-12.html
+    urls:
+      - https://www.anthropic.com/threat-intelligence-report-september-2026
+      - https://qz.com/anthropic-chinese-ai-labs-distillation-alibaba-deepseek-moonshot-091126
+      - https://technode.global/2026/09/11/anthropic-ai-orchestrated-cyberattacks-model-distillation/
+      - https://blog.netmanageit.com/anthropic-says-seven-china-based-ai-labs-ran-industrial-scale-claude-distillation-attacks/
+  - fingerprint: openai-chatgpt-library-box-dropbox-sharepoint-integration-sep2026
+    title: "ChatGPT's Library adds Box, Dropbox and SharePoint, turning it into a working front end for corporate file systems"
+    first_seen: 2026-09-12
+    digest: using-ai-for-business-productivity-2026-Sep-12.html
+    urls:
+      - https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+      - https://www.techspot.com/news/108194-chatgpt-expands-business-features-cloud-access-transcription-tools.html
+      - https://www.thurrott.com/a-i/321772/chatgpt-paid-plans-adds-new-connectors-for-google-drive-dropbox-more
+      - https://questreviewcenter.com/software-reviews/chatgpt-expands-cloud-integration-with-dropbox-box-and-sharepoint-for-seamless-document-access/
+  - fingerprint: cloudera-mistral-sovereign-ai-partnership-sep2026
+    title: "Cloudera and Mistral team up to let enterprises run \"sovereign\" AI directly on governed data"
+    first_seen: 2026-09-12
+    digest: using-ai-for-business-productivity-2026-Sep-12.html
+    urls:
+      - https://siliconangle.com/2026/09/09/cloudera-brings-mistral-ais-frontier-models-into-its-secure-hybrid-data-environments/
+      - https://www.pymnts.com/news/artificial-intelligence/2026/mistral-cloudera-team-meet-sovereign-ai-demand/
+      - https://mistral.ai/news/mistral-x-cloudera/
+      - https://www.globenewswire.com/news-release/2026/09/10/3359391/31982/en/cloudera-and-mistral-partner-to-bring-specialized-sovereign-intelligence-to-enterprise-data.html
+  - fingerprint: nocall-ai-series-a-enterprise-voice-agent-japan-sep2026
+    title: "Tokyo's nocall.ai raises ¥800M to automate phone-based back-office work with AI voice agents"
+    first_seen: 2026-09-12
+    digest: using-ai-for-business-productivity-2026-Sep-12.html
+    urls:
+      - https://www.thesaasnews.com/news/nocall-inc-raises-800m-series-a/
+      - https://techstartups.com/2026/09/11/startup-funding-news-today-september-11-2026-kinetix-ai-aidin-robotics-enigmata-more/
+      - https://startuplog.com/n/n01ca61109086?gs=d7408cf9a9b817f00b9d42431f62416d
   - fingerprint: openai-chatgpt-financial-services-gpt6-astra-morgan-stanley-sep2026
     title: "OpenAI aims ChatGPT squarely at Wall Street's junior bankers with a financial-services build"
     first_seen: 2026-09-11
@@ -2083,3 +2127,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **OpenAI opens the Codex harness to every developer via a new Agents API** — Agents API (Sept 10) reaches public beta, exposing Codex's session/orchestration/context-compaction machinery behind one API call; built-in subagents and tool search, sandbox partners include Cloudflare, Modal, Oracle and Vercel. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-11.html)
 - **Adobe's Q3 shows AI assistant usage doubling even as investors want more** — Fiscal Q3 2026 (Sept 10): record $6.76B revenue (+13% YoY), $27.5B ARR; Acrobat AI Assistant MAU doubled quarter-over-quarter and Firefly ARR grew 40% QoQ, though shares fell on caution. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-11.html)
 - **Visa, Mastercard and Ant International agree on how card networks will recognize AI shoppers** — Know-Your-Agent (KYA) interoperability framework (announced Sept 9-10) links Ant's Agentic Mobile Protocol, Mastercard's Verifiable Intent and Visa's Trusted Agent Protocol via BuildFin.ai, targeting the $3-5T of consumer commerce the firms project AI agents will orchestrate by 2030. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-11.html)
+
+## 2026-Sep-12
+- **Oracle's cloud infrastructure revenue more than doubles as AI contract backlog swells past $600 billion** — Fiscal Q1 2027 (Sept 10): record $19.3B revenue (+30% YoY), cloud infrastructure +121% to $7.4B, $30B+ of new AI contracts booked, RPO up ~$664B; 300,000+ GPUs delivered, FY guide raised to $90B+. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-12.html)
+- **Anthropic says five China-based labs ran industrial-scale campaigns to distill Claude into rival models** — September threat-intelligence report names Alibaba, DeepSeek, Moonshot AI, Xiaomi and Zhipu; Alibaba-linked accounts generated 151M+ Claude interactions May-July 2026, Moonshot allegedly relayed ~300K customer requests to Claude and passed off the answers as its own Kimi output. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-12.html)
+- **ChatGPT's Library adds Box, Dropbox and SharePoint, turning it into a working front end for corporate file systems** — connectors now sit alongside Google Drive across Go/Plus/Pro/Business/Edu/Healthcare/Enterprise web plans; files/folders stay open beside the chat for summarizing, comparing and drafting with citations back to source. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-12.html)
+- **Cloudera and Mistral team up to let enterprises run "sovereign" AI directly on governed data** — Sept 10 partnership integrates Mistral Forge and its reasoning/chat/coding/document/voice models into Cloudera's hybrid platform across ~30 exabytes of data, spanning public cloud, private cloud, on-prem and air-gapped deployments. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-12.html)
+- **Tokyo's nocall.ai raises ¥800M to automate phone-based back-office work with AI voice agents** — Series A (Sept 11) led by JAFCO and Archetype Ventures, with Coreline Ventures returning; AI voice agents targeting automotive, finance and HR call-handling work, total raised now over ¥1B. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-12.html)
