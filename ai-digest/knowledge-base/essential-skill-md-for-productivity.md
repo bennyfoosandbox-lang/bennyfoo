@@ -2,10 +2,51 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-11
-run_count: 38
-digest_count: 38
+last_run: 2026-09-12
+run_count: 39
+digest_count: 39
 entries:
+  - fingerprint: anthropic-threat-intelligence-report-sep-2026-agentic-misuse
+    title: "Anthropic's fourth threat report shows attackers running entire cyberattack chains as autonomous multi-agent skill pipelines"
+    first_seen: 2026-09-12
+    digest: essential-skill-md-for-productivity-2026-Sep-12.html
+    urls:
+      - https://www.anthropic.com/threat-intelligence-report-september-2026
+      - https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html
+      - https://cybersecuritynews.com/hackers-using-claude-and-openais-codex-exploitation/
+      - https://gbhackers.com/hackers-abuse-claude-ai-agents-to-automate-cyberattacks/
+      - https://cellcog.ai/blog/anthropic-threat-report-september-2026/
+      - https://en.cryptonomist.ch/2026/09/11/anthropic-claude-ai-threats/
+  - fingerprint: claude-code-v2-1-269-anthropic-skills-prefix-subagent-fixes
+    title: "Claude Code v2.1.269 renames claude.ai-synced skills to anthropic-skills: and fixes two subagent-tracking bugs"
+    first_seen: 2026-09-12
+    digest: essential-skill-md-for-productivity-2026-Sep-12.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.269
+      - https://code.claude.com/docs/en/changelog
+      - https://newreleases.io/project/github/anthropics/claude-code/release/v2.1.269
+  - fingerprint: owasp-agent-control-standard-v1-launch
+    title: "OWASP debuts the Agent Control Standard, a runtime enforcement layer distinct from its skills-specific Top 10"
+    first_seen: 2026-09-12
+    digest: essential-skill-md-for-productivity-2026-Sep-12.html
+    urls:
+      - https://genai.owasp.org/2026/09/01/owasp-genai-security-project-unveils-2026-top-10-for-llm-applications-new-agent-control-standard-and-sponsors-as-community-tops-30000-members/
+      - https://genai.owasp.org/resource/agent-control-standard-acs/
+      - https://www.prnewswire.com/news-releases/owasp-genai-security-project-releases-2026-top-10-for-llm-applications-debuts-agent-control-standard-and-new-resources-for-securing-generative-and-agentic-ai-302867085.html
+      - https://forkast.news/three-standards-bodies-are-writing-the-rules-for-agent-infrastructure-and-theyre-not-waiting-for-the-market/
+  - fingerprint: claude-enterprise-smart-reports-beta-shared-skills
+    title: "Claude Enterprise's smart reports beta mines team usage logs to recommend which workflows to turn into shared skills"
+    first_seen: 2026-09-12
+    digest: essential-skill-md-for-productivity-2026-Sep-12.html
+    urls:
+      - https://support.claude.com/en/articles/16893491-get-started-with-smart-reports
+  - fingerprint: skill-as-api-confidential-multi-agent-coordination-arxiv
+    title: "Skill-as-API proposes hiding a skill's actual logic from other agents during multi-agent coordination"
+    first_seen: 2026-09-12
+    digest: essential-skill-md-for-productivity-2026-Sep-12.html
+    urls:
+      - https://arxiv.org/abs/2609.01677
+      - https://arxiv.org/html/2609.01677
   - fingerprint: claude-code-v2-1-266-268-gateway-effort-cap-cowork-sandbox
     title: "Claude Code ships three releases in 48 hours — v2.1.266 through v2.1.268 — chasing unattended-run reliability"
     first_seen: 2026-09-11
@@ -1271,6 +1312,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-12
+- **Anthropic threat intelligence report (Sep 10)** — fourth report (~36,000 words, ~40 tracked groups, Dec 2025–Aug 2026) documents state-linked and criminal actors wiring Claude into autonomous multi-agent pipelines that run reconnaissance, exploitation and data theft with minimal human input, including "automated exploit foundries." [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-12.html)
+- **Claude Code v2.1.269 (Sep 11)** — renames claude.ai-synced skills to `anthropic-skills:<name>`, sharpens the Skill tool's ambiguous-name error, fixes a stuck-on-compaction bug and a bug marking subagent-driven runs finished prematurely; VS Code gains an agent map and Hooks/Permission-rules dialogs. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-12.html)
+- **OWASP Agent Control Standard (Sep 1)** — runtime enforcement middleware spec (MIT-licensed, built by Zenity, donated to OWASP), released alongside the 2026 Top 10 for LLM Applications; distinct from the Agentic Skills Top 10 already logged in August. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-12.html)
+- **Claude Enterprise smart reports (beta)** — mines up to 28 days of team Claude/Claude Code/Cowork usage per functional team, flags recurring frictions, and recommends + starter-prompts shared skills to build from them; 10 free reports/org/month in beta. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-12.html)
+- **Skill-as-API (arXiv 2609.01677, Sep 1)** — confidential multi-agent coordination protocol that keeps a skill's system prompt and logic private from peer agents (exposing only name/description/schema/trust-tier), positioned as a complement to MCP/A2A. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-12.html)
 
 ## 2026-Sep-11
 - **Claude Code v2.1.266–v2.1.268 (Sep 8–10)** — three releases in 48 hours: fixes a `CLAUDE_CODE_USE_GATEWAY` regression that broke plain API-key/custom-auth setups, adds `maxEffortLevel` (caps reasoning effort across Bedrock/Vertex/Foundry) and `--system-prompt-snapshot off`, fixes Cowork scheduled cloud tasks failing at startup under sandboxing, and surfaces gateway pricing to signed-in clients. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-11.html)
