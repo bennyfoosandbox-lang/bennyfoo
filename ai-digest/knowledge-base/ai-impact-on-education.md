@@ -2,10 +2,36 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-12
-run_count: 33
-digest_count: 30
+last_run: 2026-09-13
+run_count: 34
+digest_count: 31
 entries:
+  - fingerprint: maryland-districts-oct22-ai-ready-schools-act-deadline-talbot-washington-sep2026
+    title: "Maryland districts race a state deadline: AI policies due October 22, and the votes are starting"
+    first_seen: 2026-09-13
+    digest: ai-impact-on-education-2026-Sep-13.html
+    urls:
+      - https://www.stardem.com/news/local_news/talbot-county-school-board-passes-ai-policy/article_4ea3de40-c7f7-4d63-8d6c-467097e5779a.html
+      - https://localnews1.org/washington-county-school-board-advances-ai-policy-school-changes/
+      - https://www.wboc.com/news/maryland-school-systems-develop-ai-policies-ahead-of-state-deadline/article_5caeb57d-66d1-48fa-8964-459403ac2848.html
+      - https://marylandmatters.org/2026/07/06/maryland-school-districts-face-fall-deadline-to-set-ai-policies/
+  - fingerprint: mcgraw-hill-goldman-sachs-communacopia-ai-strategy-sep2026
+    title: "McGraw Hill tells Wall Street its AI bet is curriculum, not chatbots"
+    first_seen: 2026-09-13
+    digest: ai-impact-on-education-2026-Sep-13.html
+    urls:
+      - https://www.investing.com/news/transcripts/mcgraw-hill-at-goldman-sachs-communacopia--technology-conference-ai-push-93CH-4892585
+      - https://seekingalpha.com/article/4944103-mcgraw-hill-inc-mh-presents-at-goldman-sachs-communacopia-technology-conference-2026
+      - https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html
+      - https://www.stocktitan.net/news/MH/mc-graw-hill-inc-to-participate-in-investor-0d9ujugi8nzg.html
+  - fingerprint: ai-essay-grading-higher-than-humans-style-over-substance-study-aug2026
+    title: "Study: AI graders reward 'style over substance,' and inflate the weakest essays most"
+    first_seen: 2026-09-13
+    digest: ai-impact-on-education-2026-Sep-13.html
+    urls:
+      - https://www.insidehighered.com/news/faculty/learning-assessment/2026/08/27/study-ai-tends-mark-students-essays-higher-humans
+      - https://www.timeshighereducation.com/news/ai-tends-mark-students-essays-higher-humans-study
+      - https://taxprofblog.aals.org/2026/09/05/inside-higher-education-ai-tends-to-mark-students-essays-higher-than-humans-study-shows/
   - fingerprint: unsw-usyd-openai-chatgpt-edu-deals-nteu-strike-sep2026
     title: "Australia's two biggest research universities ink major OpenAI deals days after staff struck over AI job security"
     first_seen: 2026-09-12
@@ -1278,6 +1304,11 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-13
+- **Maryland districts race a state deadline: AI policies due October 22, and the votes are starting** — Talbot County's board unanimously passes a districtwide AI policy and Washington County advances a first reading, both complying with the state's AI Ready Schools Act, which requires every Maryland district to adopt a board-approved AI policy and name an AI coordinator by Oct 22. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-13.html)
+- **McGraw Hill tells Wall Street its AI bet is curriculum, not chatbots** — at Goldman Sachs' Communacopia + Technology Conference, CEO Philip Moyer positions the publisher's 100M+ subscriber base and licensed curriculum content as a moat against generic AI chatbots, with AI products already live for 7.5M+ users. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-13.html)
+- **Study: AI graders reward "style over substance," and inflate the weakest essays most** — a widely-recirculated study finds AI models mark essays higher than human graders in nearly every test case (up to a 40-point gap on a 100-point scale), inflating weak essays most while sometimes underscoring strong ones. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-13.html)
 
 ## 2026-Sep-12
 - **Australia's two biggest research universities ink major OpenAI deals days after staff struck over AI job security** — UNSW (80,000+ students/staff) and the University of Sydney both signed ChatGPT Edu partnerships the same week ~2,000 USyd staff struck over AI job-security protections. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-12.html)
