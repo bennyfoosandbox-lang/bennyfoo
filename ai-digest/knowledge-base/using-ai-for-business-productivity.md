@@ -2,10 +2,55 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-12
-run_count: 44
-digest_count: 44
+last_run: 2026-09-13
+run_count: 45
+digest_count: 45
 entries:
+  - fingerprint: greynoise-papercut-ai-orchestrated-attack-codex-deepseek-sep2026
+    title: "AI agents ran nearly the entire PaperCut attack campaign, breaching 395 organizations in hours"
+    first_seen: 2026-09-13
+    digest: using-ai-for-business-productivity-2026-Sep-13.html
+    urls:
+      - https://www.greynoise.io/blog/ai-orchestrated-campaign-against-papercut-ng-mf
+      - https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html
+      - https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650
+      - https://www.helpnetsecurity.com/2026/09/11/ai-agents-papercut-ng-mf-attack-campaign/
+      - https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/
+  - fingerprint: openai-chatgpt-work-data-agent-launch-sep2026
+    title: "OpenAI's new Data agent turns ChatGPT Work into a plain-language BI tool"
+    first_seen: 2026-09-13
+    digest: using-ai-for-business-productivity-2026-Sep-13.html
+    urls:
+      - https://www.unite.ai/openai-introduces-data-agent-in-chatgpt-work-to-analyze-company-data/
+      - https://seekingalpha.com/news/4641846-openai-ups-agentic-game-as-it-releases-new-data-agent-and-agents-api
+      - https://www.xda-developers.com/openai-chatgpt-data-agent-announcement/
+      - https://cryptobriefing.com/chatgpt-work-data-agent-dashboards/
+  - fingerprint: salesforce-agentforce-job-ready-agents-portfolio-sep2026
+    title: "Salesforce ships \"job-ready\" Agentforce agents built for high-value work across sales, service and the back office"
+    first_seen: 2026-09-13
+    digest: using-ai-for-business-productivity-2026-Sep-13.html
+    urls:
+      - https://www.salesforce.com/news/stories/agentforce-job-ready-ai-agents/
+      - https://www.marketscreener.com/news/salesforce-launches-agentforce-job-ready-ai-agents-across-business-functions-ce785bdfdf89f52d
+      - https://www.salesforce.com/news/stories/salesforce-simplifies-editions-2026/
+  - fingerprint: positron-ai-875m-series-c-asimov-chip-5b-valuation-sep2026
+    title: "Positron raises $875M to challenge Nvidia's HBM-based inference chips with commodity memory"
+    first_seen: 2026-09-13
+    digest: using-ai-for-business-productivity-2026-Sep-13.html
+    urls:
+      - https://finance.yahoo.com/technology/ai/articles/positron-ai-raises-875-million-140907288.html
+      - https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html
+      - https://convergedigest.com/positron-ai-raises-875m-asimov-inference-silicon/
+      - https://www.techtimes.com/articles/327400/20260912/positron-ai-raises-875m-prove-commodity-memory-can-beat-hbm-inference.htm
+  - fingerprint: sakana-ai-fugu-max-ultra-v2-orchestration-cost-cut-sep2026
+    title: "Sakana AI splits its Fugu router into Max and Ultra v2, cutting orchestrated AI costs up to 60%"
+    first_seen: 2026-09-13
+    digest: using-ai-for-business-productivity-2026-Sep-13.html
+    urls:
+      - https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/
+      - https://alphasignal.ai/news/sakana-ai-splits-fugu-into-max-and-ultra-v2-to-cut-costs-60
+      - https://www.requesty.ai/blog/inside-sakana-fugu-ultra-multi-agent-orchestration-reverse-engineered
+      - https://aicybr.com/blog/sakana-fugu-max-ultra-v2-orchestration-pricing-api
   - fingerprint: oracle-q1-fy2027-earnings-cloud-ai-revenue-doubles-sep2026
     title: "Oracle's cloud infrastructure revenue more than doubles as AI contract backlog swells past $600 billion"
     first_seen: 2026-09-12
@@ -2134,3 +2179,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **ChatGPT's Library adds Box, Dropbox and SharePoint, turning it into a working front end for corporate file systems** — connectors now sit alongside Google Drive across Go/Plus/Pro/Business/Edu/Healthcare/Enterprise web plans; files/folders stay open beside the chat for summarizing, comparing and drafting with citations back to source. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-12.html)
 - **Cloudera and Mistral team up to let enterprises run "sovereign" AI directly on governed data** — Sept 10 partnership integrates Mistral Forge and its reasoning/chat/coding/document/voice models into Cloudera's hybrid platform across ~30 exabytes of data, spanning public cloud, private cloud, on-prem and air-gapped deployments. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-12.html)
 - **Tokyo's nocall.ai raises ¥800M to automate phone-based back-office work with AI voice agents** — Series A (Sept 11) led by JAFCO and Archetype Ventures, with Coreline Ventures returning; AI voice agents targeting automotive, finance and HR call-handling work, total raised now over ¥1B. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-12.html)
+
+## 2026-Sep-13
+- **AI agents ran nearly the entire PaperCut attack campaign, breaching 395 organizations in hours** — GreyNoise investigation: Codex-harness + DeepSeek agents built exploits for CVE-2026-81578/82078, hit first RCE in <4 hours, first domain admin +2 hours, then compromised 11 orgs in 26 seconds once live; 440+ instances breached across 395 orgs in 48 countries, education hit hardest (204 victims). [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-13.html)
+- **OpenAI's new Data agent turns ChatGPT Work into a plain-language BI tool** — Sept 10 launch connects to Snowflake, Databricks, BigQuery, Redshift, MongoDB, ClickHouse, Datadog, Google Drive and SharePoint; builds dashboards and next-step actions from plain-language questions, shares via Slack/email; ships alongside the new public-beta Agents API. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-13.html)
+- **Salesforce ships "job-ready" Agentforce agents built for high-value work across sales, service and the back office** — Sept 11 portfolio of role-specific agents wired into Customer 360; 7B Agentic Work Units delivered across Agentforce/Slack in two years (3.2B in Q2 alone); AI Skills in Agentforce Coworker let staff teach a task once and scale it, GA in October. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-13.html)
+- **Positron raises $875M to challenge Nvidia's HBM-based inference chips with commodity memory** — $375M Series C + up to $500M Series C-1 at a $5B valuation for the Asimov chip, which pairs 288GB-2,304GB of commodity LPDDR5X per die instead of HBM; tapes out on TSMC N3P end of 2026, production H2 2027. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-13.html)
+- **Sakana AI splits its Fugu router into Max and Ultra v2, cutting orchestrated AI costs up to 60%** — TRINITY coordinator (~0.6B params) routes each query to 1-3 worker models (Thinker/Worker/Verifier roles) behind one OpenAI-compatible API; Fugu Max at $2/$6 per M tokens, Ultra v2 at $5/$30, learned (not hand-coded) routing logic. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-13.html)
