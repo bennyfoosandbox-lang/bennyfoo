@@ -2,10 +2,35 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-11
-run_count: 38
-digest_count: 38
+last_run: 2026-09-13
+run_count: 39
+digest_count: 39
 entries:
+  - fingerprint: claude-code-v2-1-269-270-skill-plugin-silent-failure-fixes
+    title: "Claude Code v2.1.269 and v2.1.270 close two silent-failure gaps in skill and plugin loading"
+    first_seen: 2026-09-13
+    digest: essential-skill-md-for-productivity-2026-Sep-13.html
+    urls:
+      - https://code.claude.com/docs/en/changelog
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.269
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.270
+      - https://x.com/ClaudeCodeLog/status/2098496228455530979
+  - fingerprint: cobra-skills-contextual-bandit-skill-optimization-arxiv
+    title: "COBRA-Skills cuts the cost of teaching agents new skills by more than half"
+    first_seen: 2026-09-13
+    digest: essential-skill-md-for-productivity-2026-Sep-13.html
+    urls:
+      - https://arxiv.org/abs/2609.11682
+      - https://arxiv.org/html/2609.11682
+      - https://pith.science/paper/2609.11682
+  - fingerprint: repo-to-skill-arex-skill-library-github-distillation-arxiv
+    title: "Repo-To-Skill distills 5,000 skills out of 1,000 ML GitHub repos — and lifts a benchmark score 134%"
+    first_seen: 2026-09-13
+    digest: essential-skill-md-for-productivity-2026-Sep-13.html
+    urls:
+      - https://arxiv.org/abs/2609.02749
+      - https://arxiv.org/html/2609.02749
+      - https://huggingface.co/papers/2609.02749
   - fingerprint: claude-code-v2-1-266-268-gateway-effort-cap-cowork-sandbox
     title: "Claude Code ships three releases in 48 hours — v2.1.266 through v2.1.268 — chasing unattended-run reliability"
     first_seen: 2026-09-11
@@ -1271,6 +1296,11 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-13
+- **Claude Code v2.1.269 & v2.1.270** — closes silent-failure gaps in skill/plugin loading: plugins no longer silently skip an unreadable root SKILL.md, the Skill tool's "Unknown skill" error now names the full plugin-qualified skill, and a same-day regression that broke read-only git permission caching is fixed. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-13.html)
+- **COBRA-Skills (arXiv 2609.11682, Sep 10)** — contextual-bandit-guided skill evolution cuts skill-optimization cost 55–58% vs. SkillOpt using only 50 examples per benchmark, across six agent benchmarks and three models. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-13.html)
+- **Repo-To-Skill / AREX-Skill Library (arXiv 2609.02749, Sep 2)** — distills 5,000+ verified skills from 1,000 ML GitHub repos; a skill-equipped GPT-5.5 agent scores +134.3% on MLE-bench, +34.4% on PaperBench. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-13.html)
 
 ## 2026-Sep-11
 - **Claude Code v2.1.266–v2.1.268 (Sep 8–10)** — three releases in 48 hours: fixes a `CLAUDE_CODE_USE_GATEWAY` regression that broke plain API-key/custom-auth setups, adds `maxEffortLevel` (caps reasoning effort across Bedrock/Vertex/Foundry) and `--system-prompt-snapshot off`, fixes Cowork scheduled cloud tasks failing at startup under sandboxing, and surfaces gateway pricing to signed-in clients. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-11.html)
