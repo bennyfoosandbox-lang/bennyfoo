@@ -2,10 +2,54 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-13
-run_count: 45
-digest_count: 45
+last_run: 2026-09-14
+run_count: 46
+digest_count: 46
 entries:
+  - fingerprint: anthropic-q3-2026-profit-2t-ipo-prep-sep2026
+    title: "Anthropic tells shareholders it expects a second straight profitable quarter as it preps a $2 trillion IPO"
+    first_seen: 2026-09-14
+    digest: using-ai-for-business-productivity-2026-Sep-14.html
+    urls:
+      - https://www.detroitnews.com/story/business/2026/09/13/anthropic-expects-profit-as-it-prepares-for-ipo/91752474007/
+      - https://yellow.com/news/anthropic-q3-2026-profit-1b-ipo-filing
+      - https://www.tradingkey.com/analysis/stocks/us-stocks/262164773-anthropic-2-trillion-valuation-2026-us-ipo-record-fundraising-new-stocks-underperform-market-tradingkey
+      - https://graniteshares.com/research/anthropic-ipo-2026-explained-from-965-billion-to-a-possible-2-trillion-listing/
+  - fingerprint: ai-layoffs-54-percent-2026-report-sep2026
+    title: "Trackers now put 54% of 2026 layoffs on AI or automation, with over 170,000 workers affected"
+    first_seen: 2026-09-14
+    digest: using-ai-for-business-productivity-2026-Sep-14.html
+    urls:
+      - https://www.ibtimes.co.uk/ai-layoffs-2026-impact-1816503
+      - https://www.business-standard.com/industry/news/global-tech-layoffs-2026-oracle-amazon-dell-uber-paypal-it-sector-job-cuts-126091100188_1.html
+      - https://gulfnews.com/business/tech-layoffs-top-30000-in-2026-worst-hit-countries-revealed-1.500441093
+  - fingerprint: harvey-ai-550m-raise-15-5b-valuation-sep2026
+    title: "Legal AI firm Harvey raises $550M at a $15.5B valuation, nearly doubling in nine months"
+    first_seen: 2026-09-14
+    digest: using-ai-for-business-productivity-2026-Sep-14.html
+    urls:
+      - https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/
+      - https://www.bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round
+      - https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence
+      - https://techstartups.com/2026/09/09/legal-ai-startup-harvey-raises-550m-at-15-6b-valuation-as-revenue-tops-400m/
+  - fingerprint: mistral-3-5b-series-d-24b-valuation-sep2026
+    title: "Mistral raises the largest-ever European tech round — $3.5B at a $24B valuation — to sell \"sovereign\" enterprise AI"
+    first_seen: 2026-09-14
+    digest: using-ai-for-business-productivity-2026-Sep-14.html
+    urls:
+      - https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/
+      - https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/
+      - https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/
+      - https://www.finsmes.com/2026/09/mistral-raises-e3-billion-in-series-d-funding.html
+  - fingerprint: deepseek-v4-1-flash-release-enterprise-sep2026
+    title: "DeepSeek ships V4.1-Flash, an MIT-licensed model roughly 90x cheaper than rivals, and starts routing its Pro tier onto it today"
+    first_seen: 2026-09-14
+    digest: using-ai-for-business-productivity-2026-Sep-14.html
+    urls:
+      - https://venturebeat.com/technology/deepseek-v4-1-flash-debuts-with-0-003-1m-off-peak-cached-input-rate-and-benchmarks-eclipsing-gpt-5-6-sol-claude-opus-5
+      - https://dataconomy.com/2026/09/11/deepseek-v4-1-flash-ultralow-token-pricing/
+      - https://www.tbsnews.net/tech/chinas-deepseek-launches-v41-flash-model-1538796
+      - https://www.geeky-gadgets.com/deepseek-v4-1-flash-release/
   - fingerprint: greynoise-papercut-ai-orchestrated-attack-codex-deepseek-sep2026
     title: "AI agents ran nearly the entire PaperCut attack campaign, breaching 395 organizations in hours"
     first_seen: 2026-09-13
@@ -2186,3 +2230,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Salesforce ships "job-ready" Agentforce agents built for high-value work across sales, service and the back office** — Sept 11 portfolio of role-specific agents wired into Customer 360; 7B Agentic Work Units delivered across Agentforce/Slack in two years (3.2B in Q2 alone); AI Skills in Agentforce Coworker let staff teach a task once and scale it, GA in October. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-13.html)
 - **Positron raises $875M to challenge Nvidia's HBM-based inference chips with commodity memory** — $375M Series C + up to $500M Series C-1 at a $5B valuation for the Asimov chip, which pairs 288GB-2,304GB of commodity LPDDR5X per die instead of HBM; tapes out on TSMC N3P end of 2026, production H2 2027. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-13.html)
 - **Sakana AI splits its Fugu router into Max and Ultra v2, cutting orchestrated AI costs up to 60%** — TRINITY coordinator (~0.6B params) routes each query to 1-3 worker models (Thinker/Worker/Verifier roles) behind one OpenAI-compatible API; Fugu Max at $2/$6 per M tokens, Ultra v2 at $5/$30, learned (not hand-coded) routing logic. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-13.html)
+
+## 2026-Sep-14
+- **Anthropic tells shareholders it expects a second straight profitable quarter as it preps a $2 trillion IPO** — H1 revenue ~$16.2B, run-rate revenue hit $65B by late July (up from $47B in mid-May); confidential S-1 already filed, public listing targeted October at up to double its ~$965B private valuation. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-14.html)
+- **Trackers now put 54% of 2026 layoffs on AI or automation, with over 170,000 workers affected** — up from <8% in 2025; first 10 days of September saw 6,300+ tech job cuts led by Uber's ~3,300-role reduction; total verified 2026 job cuts worldwide have passed 624,000. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-14.html)
+- **Legal AI firm Harvey raises $550M at a $15.5B valuation, nearly doubling in nine months** — up from $11B six months ago; 3,000+ organizations, $400M+ ARR, ~80% of Am Law 100 firms; capital earmarked to build proprietary models instead of renting from OpenAI/Anthropic. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-14.html)
+- **Mistral raises the largest-ever European tech round — $3.5B at a $24B valuation — to sell "sovereign" enterprise AI** — Samsung-led Series D nearly doubles its $13.7B valuation from a year ago; pitch centers on governed, self-hosted models for regulated industries and public-sector buyers. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-14.html)
+- **DeepSeek ships V4.1-Flash, an MIT-licensed model roughly 90x cheaper than rivals, and starts routing its Pro tier onto it today** — 552B-param MoE, 1M-token context, off-peak pricing as low as $0.003/M cached input tokens; V4 Pro tier auto-routes to V4.1-Flash starting Sept 14 until a dedicated V4.1 Pro ships. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-14.html)
