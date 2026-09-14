@@ -2,10 +2,39 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-13
-run_count: 39
-digest_count: 39
+last_run: 2026-09-14
+run_count: 40
+digest_count: 40
 entries:
+  - fingerprint: openclaw-2026-9-4-skill-discovery-conversation-to-skill
+    title: "OpenClaw v2026.9.4 unifies skill discovery and lets a Claw mine its own past conversations for new skills"
+    first_seen: 2026-09-14
+    digest: essential-skill-md-for-productivity-2026-Sep-14.html
+    urls:
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.9.4
+      - https://docs.openclaw.ai/releases/2026.9.4
+  - fingerprint: github-copilot-cli-skill-plugin-mcp-command-overhaul-sept7
+    title: "GitHub Copilot's September 7 weekly release overhauls skill, plugin and MCP commands in the CLI"
+    first_seen: 2026-09-14
+    digest: essential-skill-md-for-productivity-2026-Sep-14.html
+    urls:
+      - https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7/
+      - https://www.kesslernity.com/copilot-weekly/2026-W37
+  - fingerprint: microsoft-copilot-agent-builder-packaged-skills-preview
+    title: "Microsoft lets declarative Copilot agents carry packaged SKILL.md capabilities in Agent Builder preview"
+    first_seen: 2026-09-14
+    digest: essential-skill-md-for-productivity-2026-Sep-14.html
+    urls:
+      - https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/agent-builder-add-skills
+      - https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/declarative-agent-skills
+      - https://www.kesslernity.com/copilot-weekly/2026-W37
+  - fingerprint: finch-skill-market-merger-50m-funding
+    title: "Finch merges two agent-economy platforms and opens a marketplace for buying and selling AI Skills"
+    first_seen: 2026-09-14
+    digest: essential-skill-md-for-productivity-2026-Sep-14.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/09/09/3358323/0/en/finch-completes-strategic-merger-to-build-ai-commercialization-infrastructure-simultaneously-announces-close-of-pre-a-funding-round.html
+      - https://www.manilatimes.net/2026/09/09/tmt-newswire/globenewswire/finch-completes-strategic-merger-to-build-ai-commercialization-infrastructure-simultaneously-announces-close-of-pre-a-funding-round/2421216
   - fingerprint: claude-code-v2-1-269-270-skill-plugin-silent-failure-fixes
     title: "Claude Code v2.1.269 and v2.1.270 close two silent-failure gaps in skill and plugin loading"
     first_seen: 2026-09-13
@@ -1296,6 +1325,12 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-14
+- **OpenClaw v2026.9.4 (Sep 11)** — unifies installed skills and the ClawHub catalog into one searchable Skills page, and adds a steerable feature that lets a user watch and guide their Claw as it mines past conversations for patterns worth turning into new reusable skills. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-14.html)
+- **GitHub Copilot weekly release, Sep 7 (published Sep 10)** — replaces the CLI's shared `copilot plugins enable/disable --skill` syntax with dedicated `copilot skill`/`copilot mcp`/`copilot plugin` commands, marketplace browsing, `--json` output, and a shorter `copilot skill add`; ships alongside Project HydraFusion adaptive model orchestration. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-14.html)
+- **Microsoft 365 Copilot Agent Builder, packaged skills (Frontier Preview)** — declarative agents can now carry a zipped SKILL.md package (up to 8 skills/agent, 50MB/package, sandboxed scripts), converging Agent Builder on the same portable SKILL.md format rather than a proprietary schema. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-14.html)
+- **Finch Skill Market (Sep 9)** — merger of FinChip and AgentOn closes a $50M Pre-A round and launches a marketplace where developers package and resell Skills for ongoing revenue share, alongside an Expertise Market and an escrow-based Task Market; reports 18,600+ skills listed already. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-14.html)
 
 ## 2026-Sep-13
 - **Claude Code v2.1.269 & v2.1.270** — closes silent-failure gaps in skill/plugin loading: plugins no longer silently skip an unreadable root SKILL.md, the Skill tool's "Unknown skill" error now names the full plugin-qualified skill, and a same-day regression that broke read-only git permission caching is fixed. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-13.html)
