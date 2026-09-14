@@ -2,10 +2,44 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-13
-run_count: 34
-digest_count: 31
+last_run: 2026-09-14
+run_count: 35
+digest_count: 32
 entries:
+  - fingerprint: katy-isd-ai-framework-k6-ban-grade-gated-access-sep2026
+    title: "Houston's biggest suburban district maps a grade-by-grade AI on-ramp — no chatbots before 7th grade"
+    first_seen: 2026-09-14
+    digest: ai-impact-on-education-2026-Sep-14.html
+    urls:
+      - https://communityimpact.com/katy-fulshear/education/katy-isd-launches-artificial-intelligence-framework-for-2026-27-school-year/
+      - https://www.houstonchronicle.com/neighborhood/katy/article/katy-isd-ai-policy-generative-ai-students-22357245.php
+      - https://abc13.com/post/katy-isd-sets-new-framework-artificial-intelligence-use-classrooms/19587218/
+      - https://www.winssolutions.org/katy-isd-ai-policy-k6-students/
+  - fingerprint: nber-numi-mastery-tutor-tennessee-math-study-sep2026
+    title: "New NBER study: an AI math tutor that forces kids to slow down beats one that just hands over answers"
+    first_seen: 2026-09-14
+    digest: ai-impact-on-education-2026-Sep-14.html
+    urls:
+      - https://hechingerreport.org/proof-points-ai-mastery-learning/
+      - https://www.future-ed.org/students-slow-down-learn-more-with-an-ai-tutor/
+      - https://www.kqed.org/mindshift/66543/slow-math-kids-may-learn-more-when-ai-makes-them-review-mistakes
+      - https://edworkingpapers.com/sites/default/files/ai26-1552.pdf
+  - fingerprint: vibe-coding-districts-edtech-vendors-disruption-sep2026
+    title: "Districts are 'vibe-coding' their own AI tools — and ed-tech vendors are starting to sweat"
+    first_seen: 2026-09-14
+    digest: ai-impact-on-education-2026-Sep-14.html
+    urls:
+      - https://marketbrief.edweek.org/product-development/vibe-coding-is-giving-districts-more-power-ed-tech-vendors-should-take-notice/2026/09
+      - https://www.k12dive.com/news/vibe-coding-helped-a-washington-district-save-250k-in-ed-tech-costs/816993/
+      - https://www.psd401.net/ai
+  - fingerprint: humanity-ai-10m-open-call-education-grants-sep2026
+    title: "A ten-foundation coalition opens a $10M call for grants on 'who controls AI' — education groups are an explicit target"
+    first_seen: 2026-09-14
+    digest: ai-impact-on-education-2026-Sep-14.html
+    urls:
+      - https://humanityai.ai/press-release-open-call-for-grants/
+      - https://ced.ncsu.edu/2026/09/10/humanity-ai-launches-10m-open-call/
+      - https://www.siegelendowment.org/insights/who-controls-ai-humanity-ai-grants-aim-to-shift-power-toward-the-public/
   - fingerprint: maryland-districts-oct22-ai-ready-schools-act-deadline-talbot-washington-sep2026
     title: "Maryland districts race a state deadline: AI policies due October 22, and the votes are starting"
     first_seen: 2026-09-13
@@ -1304,6 +1338,12 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-14
+- **Houston's biggest suburban district maps a grade-by-grade AI on-ramp — no chatbots before 7th grade** — Katy ISD's new AI framework bars K-6 students from generative AI chat tools entirely, phases in supervised access for 7th grade, and allows teacher-permissioned use for grades 8-12, joining a wave of grade-gated (rather than blanket-ban) district policies. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-14.html)
+- **New NBER study: an AI math tutor that forces kids to slow down beats one that just hands over answers** — a randomized trial of 6,000+ Tennessee middle schoolers finds a mastery-learning AI tutor ("Numi") that requires students to demonstrate correct work three times before advancing produces modestly better learning than a faster answer-first mode. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-14.html)
+- **Districts are "vibe-coding" their own AI tools — and ed-tech vendors are starting to sweat** — EdWeek Market Brief profiles Washington's Peninsula School District building its own software with Claude Code, saving an estimated $315K-$325K a year versus commercial ed-tech subscriptions, and warns vendors to prove their value beyond "we built it first." [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-14.html)
+- **A ten-foundation coalition opens a $10M call for grants on "who controls AI" — education groups are an explicit target** — Humanity AI's second open call (following a $18M first round in May) invites education, labor, and arts/humanities nonprofits to apply for $75K-$1M grants aimed at giving communities a voice in how AI is built and governed. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-14.html)
 
 ## 2026-Sep-13
 - **Maryland districts race a state deadline: AI policies due October 22, and the votes are starting** — Talbot County's board unanimously passes a districtwide AI policy and Washington County advances a first reading, both complying with the state's AI Ready Schools Act, which requires every Maryland district to adopt a board-approved AI policy and name an AI coordinator by Oct 22. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-13.html)
