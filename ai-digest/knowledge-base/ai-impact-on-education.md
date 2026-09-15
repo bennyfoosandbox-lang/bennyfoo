@@ -2,10 +2,54 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-14
-run_count: 35
-digest_count: 32
+last_run: 2026-09-15
+run_count: 36
+digest_count: 33
 entries:
+  - fingerprint: instruction-partners-ai-learning-tour-20-tools-review-sep2026
+    title: "The first independent report card on classroom AI tools finds most aren't ready to teach"
+    first_seen: 2026-09-15
+    digest: ai-impact-on-education-2026-Sep-15.html
+    urls:
+      - https://www.edweek.org/technology/new-project-identifies-strengths-and-weaknesses-of-a-collection-of-ai-learning-tools/2026/09
+      - https://www.winssolutions.org/ai-learning-tools-classroom-review-2026/
+      - https://completeaitraining.com/news/new-analysis-of-ai-learning-tools-finds-promise-in-targeted/
+      - https://instructionpartners.org/tools/
+  - fingerprint: alpha-school-boston-jp-beacon-hill-lexington-opens-sep2026
+    title: "Boston's AI-run private schools open their doors — in Jamaica Plain, Beacon Hill and Lexington"
+    first_seen: 2026-09-15
+    digest: ai-impact-on-education-2026-Sep-15.html
+    urls:
+      - https://www.bostonglobe.com/2026/09/15/opinion/ai-teaching-alpha-boston-school/
+      - https://www.nbcboston.com/news/local/alpha-school-ai-instructors-greater-boston-education/4012295/
+      - https://www.wbur.org/news/2026/08/07/ai-school-boston-croft-beacon-hill-jamaica-plain
+      - https://lexobserver.org/2026/07/23/the-alpha-school-wants-to-open-in-lexington-massachusetts/
+  - fingerprint: bloomberg-mba-business-school-ai-era-darden-dean-sep2026
+    title: "Bloomberg: AI is rewriting what an MBA is for — and who gets picked to lead a business school"
+    first_seen: 2026-09-15
+    digest: ai-impact-on-education-2026-Sep-15.html
+    urls:
+      - https://www.bloomberg.com/news/articles/2026-09-15/rapid-rise-of-ai-is-changing-how-business-school-students-are-learning
+      - https://www.bloomberg.com/news/articles/2026-09-14/university-of-virginia-darden-s-new-dean-on-business-schools-in-the-ai-era
+      - https://virginiabusiness.com/business-schools-data-science-education-trends/
+  - fingerprint: cedarville-ai-ip-stewardship-pilot-sep2026
+    title: "A Christian university bets students need help protecting their own ideas from AI, not just policing AI misuse"
+    first_seen: 2026-09-15
+    digest: ai-impact-on-education-2026-Sep-15.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/09/14/3361188/0/en/new-ai-initiative-protects-original-student-ideas-in-a-world-of-ai.html
+      - https://www.manilatimes.net/2026/09/14/tmt-newswire/globenewswire/new-ai-initiative-protects-original-student-ideas-in-a-world-of-ai/2424665
+      - https://lifestyle.middletownlifemagazine.com/story/684202/new-ai-initiative-protects-original-student-ideas-in-a-world-of-ai/
+      - https://www.cedarville.edu/why-cedarville/campus-wide-ai-initiative
+  - fingerprint: ai4middleschools-cmu-four-state-expansion-sep2026
+    title: "Carnegie Mellon's middle-school AI curriculum jumps from three states to seven"
+    first_seen: 2026-09-15
+    digest: ai-impact-on-education-2026-Sep-15.html
+    urls:
+      - https://www.cs.cmu.edu/news/2026/ai4middleschools-expands
+      - https://www.winssolutions.org/ai4middleschools-expands-four-states/
+      - https://www.govtech.com/education/k-12/Pennsylvania-Middle-Schoolers-to-Start-AI-Curriculum-This-Fall.html
+      - https://www.cc.gatech.edu/news/teachers-across-multiple-states-prepare-bring-ai-lessons-classroom
   - fingerprint: katy-isd-ai-framework-k6-ban-grade-gated-access-sep2026
     title: "Houston's biggest suburban district maps a grade-by-grade AI on-ramp — no chatbots before 7th grade"
     first_seen: 2026-09-14
@@ -1338,6 +1382,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-15
+- **The first independent report card on classroom AI tools finds most aren't ready to teach** — Instruction Partners' "AI Learning Tour" reviews 20 named classroom AI products across 16 school systems, finding general-purpose chatbots riskier than single-purpose tools and none of the 20 ready to independently handle teaching. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-15.html)
+- **Boston's AI-run private schools open their doors — in Jamaica Plain, Beacon Hill and Lexington** — Alpha School opens its first Massachusetts campuses ($60K-$65K/year, no licensed teachers, AI-driven "core academics"), part of a national wave of ~27 new campuses this fall. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-15.html)
+- **Bloomberg: AI is rewriting what an MBA is for — and who gets picked to lead a business school** — Bloomberg reports generative AI is reshaping MBA curricula nationwide, profiling UVA Darden's new dean Yael Grushka-Cockayne, whose AI expertise is framed as central to the role. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-15.html)
+- **A Christian university bets students need help protecting their own ideas from AI, not just policing AI misuse** — Cedarville University launches an "AI + IP Stewardship Pilot" teaching students to document and protect original work in an AI era, rather than just policing AI-assisted cheating. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-15.html)
+- **Carnegie Mellon's middle-school AI curriculum jumps from three states to seven** — CMU's AI4MiddleSchools expands from Georgia/Texas/Florida into Connecticut, Mississippi, New Jersey and Pennsylvania, targeting 15,000 students within three years. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-15.html)
 
 ## 2026-Sep-14
 - **Houston's biggest suburban district maps a grade-by-grade AI on-ramp — no chatbots before 7th grade** — Katy ISD's new AI framework bars K-6 students from generative AI chat tools entirely, phases in supervised access for 7th grade, and allows teacher-permissioned use for grades 8-12, joining a wave of grade-gated (rather than blanket-ban) district policies. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-14.html)
