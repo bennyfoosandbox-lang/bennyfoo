@@ -2,10 +2,53 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-14
-run_count: 46
-digest_count: 46
+last_run: 2026-09-15
+run_count: 47
+digest_count: 47
 entries:
+  - fingerprint: ai-labs-pacing-call-chip-selloff-standards-body-sep2026
+    title: "AI's own leaders call for a slower pace — and Wall Street sells off AI stocks in response"
+    first_seen: 2026-09-15
+    digest: using-ai-for-business-productivity-2026-Sep-15.html
+    urls:
+      - https://www.cnn.com/2026/09/14/tech/ai-standards-body
+      - https://www.pymnts.com/news/artificial-intelligence/2026/google-openai-and-anthropic-float-idea-of-ai-standards-body/
+      - https://247wallst.com/investing/2026/09/14/memory-stocks-lead-ai-selloff-as-anthropic-and-openai-chiefs-urge-slower-development-micron-and-sandisk-sink-6-sk-hynix-drops-7/
+      - https://www.bloomberg.com/news/articles/2026-09-14/asian-stocks-to-fall-on-ai-key-us-yield-tops-5-markets-wrap
+      - https://investorplace.com/2026/09/the-ai-trade-slams-on-the-brakes/
+  - fingerprint: microsoft-nadella-mai-code-of-conduct-sep2026
+    title: "Microsoft becomes the first hyperscaler to publish a formal AI Code of Conduct"
+    first_seen: 2026-09-15
+    digest: using-ai-for-business-productivity-2026-Sep-15.html
+    urls:
+      - https://www.business-standard.com/technology/artificial-intelligence/ai-must-help-humanity-or-it-s-not-worth-pursuing-microsoft-ceo-nadella-126091400095_1.html
+      - https://dataconomy.com/2026/09/14/satya-nadella-says-superintelligence-must-remain-human-controlled/
+      - https://www.unite.ai/nadella-announces-public-consultation-on-microsofts-mai-model-rules/
+      - https://www.neowin.net/news/microsoft-ceo-demands-human-control-for-superintelligence/
+  - fingerprint: small-business-expo-ai-replace-staff-survey-sep2026
+    title: "Small business owners say they'll use AI to replace staff — but only when the math forces it"
+    first_seen: 2026-09-15
+    digest: using-ai-for-business-productivity-2026-Sep-15.html
+    urls:
+      - https://www.thesmallbusinessexpo.com/blog/ai-adoption-in-small-business/
+      - https://www.thesmallbusinessexpo.com/blog/ai-in-the-workplace/
+  - fingerprint: fortaegis-50m-series-a-silicon-security-sep2026
+    title: "Fortaegis raises $50M to secure AI infrastructure at the silicon level"
+    first_seen: 2026-09-15
+    digest: using-ai-for-business-productivity-2026-Sep-15.html
+    urls:
+      - https://thequantuminsider.com/2026/09/14/fortaegis-raises-50-million-to-commercialize-chip-based-security-technology/
+      - https://theaiinsider.tech/2026/09/14/fortaegis-raises-50-million-to-secure-ai-infrastructure-at-the-silicon-level/
+      - https://en.wowtale.net/2026/09/15/235102/
+      - https://fortaegis.com/series-a-press-release
+  - fingerprint: qupital-300m-series-c-ai-trade-finance-sep2026
+    title: "Hong Kong's Qupital raises $300M to scale its AI-driven trade-finance engine"
+    first_seen: 2026-09-15
+    digest: using-ai-for-business-productivity-2026-Sep-15.html
+    urls:
+      - https://businessintelligence.mo/2026/09/14/qupital-raises-300m-in-series-c-led-by-m-capital-and-new-mufg-abs-financing-eyes-overseas-markets-and-ipo/
+      - https://alternativecreditinvestor.com/2026/09/14/qupital-raises-300m-for-e-commerce-trade-finance-expansion/
+      - https://www.manilatimes.net/2026/09/14/tmt-newswire/pr-newswire/qupital-raises-300m-in-series-c-led-by-m-capital-and-new-mufg-abs-financing-eyes-overseas-markets-and-ipo/2424128
   - fingerprint: anthropic-q3-2026-profit-2t-ipo-prep-sep2026
     title: "Anthropic tells shareholders it expects a second straight profitable quarter as it preps a $2 trillion IPO"
     first_seen: 2026-09-14
@@ -2237,3 +2280,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Legal AI firm Harvey raises $550M at a $15.5B valuation, nearly doubling in nine months** — up from $11B six months ago; 3,000+ organizations, $400M+ ARR, ~80% of Am Law 100 firms; capital earmarked to build proprietary models instead of renting from OpenAI/Anthropic. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-14.html)
 - **Mistral raises the largest-ever European tech round — $3.5B at a $24B valuation — to sell "sovereign" enterprise AI** — Samsung-led Series D nearly doubles its $13.7B valuation from a year ago; pitch centers on governed, self-hosted models for regulated industries and public-sector buyers. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-14.html)
 - **DeepSeek ships V4.1-Flash, an MIT-licensed model roughly 90x cheaper than rivals, and starts routing its Pro tier onto it today** — 552B-param MoE, 1M-token context, off-peak pricing as low as $0.003/M cached input tokens; V4 Pro tier auto-routes to V4.1-Flash starting Sept 14 until a dedicated V4.1 Pro ships. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-14.html)
+
+## 2026-Sep-15
+- **AI's own leaders call for a slower pace — and Wall Street sells off AI stocks in response** — Amodei's weekend essay ("we must slow the pace"), backed by Altman/Hassabis/Musk, coincides with reports of July-started Anthropic/OpenAI/Google DeepMind talks on a joint standards body; Monday selloff hit memory-chip names hardest (Micron/SanDisk -6%, SK Hynix -7%, Philly Semi Index -5.9%). [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-15.html)
+- **Microsoft becomes the first hyperscaler to publish a formal AI Code of Conduct** — Nadella opened a six-week public consultation (Sept 13-14) on rules governing Microsoft's first-party MAI models, backing "deliberate pacing" and independent evaluators, and arguing superintelligence governance "cannot be controlled by a handful of entities." [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-15.html)
+- **Small business owners say they'll use AI to replace staff — but only when the math forces it** — Small Business Expo Research Team survey (Sept 14): 45.2% would replace an employee with AI only if necessary, ~1 in 4 already have or would; sits against broader SMB gen-AI usage at 58%, up from 40% in 2024. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-15.html)
+- **Fortaegis raises $50M to secure AI infrastructure at the silicon level** — Amsterdam-based Series A (Sept 13), led by Serendipity Capital with Tokyo Electron, ASML, TNO and Prodrive Technologies participating; chip-rooted, never-stored encryption keys for AI/defense/telecom/autonomous systems, commercial manufacturing targeted 2027. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-15.html)
+- **Hong Kong's Qupital raises $300M to scale its AI-driven trade-finance engine** — Series C plus MUFG-backed ABS financing (Sept 13) for the AI risk engine underwriting working-capital loans to cross-border e-commerce sellers; $9.5B+ cumulative loans processed, expansion planned across China/US/Japan/SE Asia ahead of an eventual IPO. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-15.html)
