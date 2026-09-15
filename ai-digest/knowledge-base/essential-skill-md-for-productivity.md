@@ -2,10 +2,45 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-14
-run_count: 40
-digest_count: 40
+last_run: 2026-09-15
+run_count: 41
+digest_count: 41
 entries:
+  - fingerprint: claude-code-v2-1-271-remote-fast-mode-allowed-domains
+    title: "Claude Code v2.1.271 brings fast mode to Remote sessions and locks Bash/PowerShell to per-command domains"
+    first_seen: 2026-09-15
+    digest: essential-skill-md-for-productivity-2026-Sep-15.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.271
+      - https://code.claude.com/docs/en/changelog
+  - fingerprint: skill-issue-repository-skills-gepa-skillopt-arxiv
+    title: "\"Skill Issue\" finds optimizing a repo's SKILL.md against its own merged PRs beats generic benchmarks"
+    first_seen: 2026-09-15
+    digest: essential-skill-md-for-productivity-2026-Sep-15.html
+    urls:
+      - https://arxiv.org/abs/2609.12742
+      - https://arxiv.org/html/2609.12742
+  - fingerprint: openclaw-weekly-sep14-mcp-cves-openai-agents-api
+    title: "OpenClaw's densest release week yet ships four stable builds amid two new MCP server CVEs and a CISA-listed flaw"
+    first_seen: 2026-09-15
+    digest: essential-skill-md-for-productivity-2026-Sep-15.html
+    urls:
+      - https://www.bighatgroup.com/blog/openclaw-weekly-2026-09-14/
+      - https://github.com/openclaw/openclaw/releases
+  - fingerprint: salesforce-trusted-enterprise-ai-harness-control-plane
+    title: "Salesforce formalizes its agent governance stack into a Trusted Enterprise AI Harness and AI Control Plane"
+    first_seen: 2026-09-15
+    digest: essential-skill-md-for-productivity-2026-Sep-15.html
+    urls:
+      - https://www.salesforce.com/news/stories/enterprise-ai-harness/
+      - https://siliconangle.com/2026/09/10/salesforce-introduces-enterprise-ai-harness-ai-control-plane/
+  - fingerprint: microsoft-cat-agent-skills-governance-advisor
+    title: "Microsoft adds an Enterprise Agent Governance Advisor skill to its open cat-agent-skills library"
+    first_seen: 2026-09-15
+    digest: essential-skill-md-for-productivity-2026-Sep-15.html
+    urls:
+      - https://github.com/microsoft/cat-agent-skills/pull/320
+      - https://microsoft.github.io/cat-agent-skills/
   - fingerprint: openclaw-2026-9-4-skill-discovery-conversation-to-skill
     title: "OpenClaw v2026.9.4 unifies skill discovery and lets a Claw mine its own past conversations for new skills"
     first_seen: 2026-09-14
@@ -1325,6 +1360,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-15
+- **Claude Code v2.1.271 (Sep 14)** — brings "fast mode" to Claude Code Remote (cloud and self-hosted runners) and adds per-command `allowed_domains` to Bash/PowerShell/Monitor in sandboxed auto mode, so a command's network access is scoped to only the hosts it needs. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-15.html)
+- **"Skill Issue" (arXiv 2609.12742, Sep 11, EMNLP 2026 REALM)** — optimizes repository SKILL.md docs against the repo's own reverted merged PRs rather than a generic benchmark; GEPA-optimized docs lift agent success 4.9pp on average across three Kotlin repos, while SkillOpt-optimized docs barely move the needle (+0.1pp). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-15.html)
+- **OpenClaw weekly, Sep 7–14** — four stable releases (v2026.9.1–9.4) in its densest week yet, alongside two new bundled-MCP-server CVEs (PostgreSQL MCP OS command execution, MySQL MCP read-only-filter bypass) and a third, unrelated MCP flaw becoming the first MCP-specific entry on CISA's KEV catalog; OpenAI's Agents API also entered public beta the same week. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-15.html)
+- **Salesforce Trusted Enterprise AI Harness + AI Control Plane (Sep 10)** — a six-capability governance architecture and a central console to register, police, and cost-control agents across Salesforce and third-party AI; broad rollout targeted for early FY28 (Feb 2027). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-15.html)
+- **Microsoft cat-agent-skills: Enterprise Agent Governance Advisor (merged Sep 11)** — a platform-neutral, decision-support SKILL.md that helps teams pick an agent delivery approach and governance tier, deliberately generic so it drops into any Agent-Skills-compatible harness. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-15.html)
 
 ## 2026-Sep-14
 - **OpenClaw v2026.9.4 (Sep 11)** — unifies installed skills and the ClawHub catalog into one searchable Skills page, and adds a steerable feature that lets a user watch and guide their Claw as it mines past conversations for patterns worth turning into new reusable skills. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-14.html)
