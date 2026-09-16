@@ -2,10 +2,54 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-15
-run_count: 47
-digest_count: 47
+last_run: 2026-09-16
+run_count: 48
+digest_count: 48
 entries:
+  - fingerprint: openai-ipo-delay-2027-altman-safety-sep2026
+    title: "OpenAI shelves its IPO until 2027, with Altman citing AI safety as the reason"
+    first_seen: 2026-09-16
+    digest: using-ai-for-business-productivity-2026-Sep-16.html
+    urls:
+      - https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman
+      - https://fortune.com/2026/09/14/openai-ipo-wait-grows-longer-as-ai-safety-fears-mount-cfo/
+      - https://www.cityam.com/openai-delays-ipo-as-altman-says-safety-comes-first/
+      - https://srnnews.com/openai-ipo-will-not-happen-in-2026-amid-ai-safety-fears-altman-says/
+  - fingerprint: profound-180m-series-d-aeo-unicorn-sep2026
+    title: "AI-search optimization startup Profound hits unicorn status, raising $180M just seven months after its last round"
+    first_seen: 2026-09-16
+    digest: using-ai-for-business-productivity-2026-Sep-16.html
+    urls:
+      - https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/
+      - https://www.bloomberg.com/news/articles/2026-09-15/profound-hits-1-8-billion-value-to-boost-brands-in-ai-search
+      - https://thenextweb.com/news/profound-180m-series-d-ai-answer-engine-optimisation
+      - https://www.globenewswire.com/news-release/2026/09/15/3362180/0/en/profound-raises-180m-series-d-at-1-8b-valuation-to-build-the-ai-platform-for-marketing-teams.html
+  - fingerprint: atlassian-jira-governed-agent-loops-code-context-sep2026
+    title: "Atlassian pushes \"governed\" AI agents into Jira, betting engineering teams need guardrails more than raw autonomy"
+    first_seen: 2026-09-16
+    digest: using-ai-for-business-productivity-2026-Sep-16.html
+    urls:
+      - https://www.atlassian.com/blog/jira/governed-agent-loops
+      - https://www.stocktitan.net/news/TEAM/atlassian-launches-system-to-coordinate-and-accelerate-agentic-2lmhp7bq3wls.html
+      - https://investingnews.com/atlassian-launches-system-to-coordinate-and-accelerate-agentic-engineering/
+      - https://www.01net.it/atlassian-launches-system-to-coordinate-and-accelerate-agentic-engineering/
+  - fingerprint: alphapai-50m-series-b-paiwork-investment-research-sep2026
+    title: "China's AlphaPai raises $50M as AI moves deeper into professional investment research"
+    first_seen: 2026-09-16
+    digest: using-ai-for-business-productivity-2026-Sep-16.html
+    urls:
+      - https://technode.global/2026/09/15/chinas-alphapai-raises-50m-series-b-for-ai-investment-research-assistant/
+      - https://www.manilatimes.net/2026/09/15/tmt-newswire/pr-newswire/alphapai-raises-us50-million-in-series-b-funding-as-financial-ai-moves-into-the-depths-of-professional-work/2425128
+      - https://www.thesaasnews.com/news/alphapai-raises-50m-series-b/
+      - https://www.thailand-business-news.com/pr-news/alphapai-raises-us50-million-in-series-b-funding-as-financial-ai-moves-into-the-depths-of-professional-work
+  - fingerprint: icici-prudential-life-partner-stack-2-sep2026
+    title: "ICICI Prudential Life rolls out AI-driven tools that let agents pre-fill 70% of an application"
+    first_seen: 2026-09-16
+    digest: using-ai-for-business-productivity-2026-Sep-16.html
+    urls:
+      - https://www.business-standard.com/content/press-releases-ani/icici-prudential-life-insurance-unveils-icici-life-partner-stack-2-0-to-transform-digital-capabilities-of-advisors-and-distribution-partners-126091100938_1.html
+      - https://m.thewire.in/article/ptiprnews/icici-prudential-life-insurance-unveils-icici-life-partner-stack-2-0-to-transform-digital-capabilities-of-advisors-and-distribution-partners
+      - https://estrade.in/finance/icici-prudential-life-partner-stack-2-0/
   - fingerprint: ai-labs-pacing-call-chip-selloff-standards-body-sep2026
     title: "AI's own leaders call for a slower pace — and Wall Street sells off AI stocks in response"
     first_seen: 2026-09-15
@@ -2287,3 +2331,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Small business owners say they'll use AI to replace staff — but only when the math forces it** — Small Business Expo Research Team survey (Sept 14): 45.2% would replace an employee with AI only if necessary, ~1 in 4 already have or would; sits against broader SMB gen-AI usage at 58%, up from 40% in 2024. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-15.html)
 - **Fortaegis raises $50M to secure AI infrastructure at the silicon level** — Amsterdam-based Series A (Sept 13), led by Serendipity Capital with Tokyo Electron, ASML, TNO and Prodrive Technologies participating; chip-rooted, never-stored encryption keys for AI/defense/telecom/autonomous systems, commercial manufacturing targeted 2027. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-15.html)
 - **Hong Kong's Qupital raises $300M to scale its AI-driven trade-finance engine** — Series C plus MUFG-backed ABS financing (Sept 13) for the AI risk engine underwriting working-capital loans to cross-border e-commerce sellers; $9.5B+ cumulative loans processed, expansion planned across China/US/Japan/SE Asia ahead of an eventual IPO. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-15.html)
+
+## 2026-Sep-16
+- **OpenAI shelves its IPO until 2027, with Altman citing AI safety as the reason** — Altman calls a 2026 listing "ill-advised" given ongoing safety work, tying the delay to Amodei's slowdown essay, an Anthropic researcher's resignation warning, and OpenAI board member Paul Christiano's ~15% catastrophic-risk estimate. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-16.html)
+- **AI-search optimization startup Profound hits unicorn status, raising $180M just seven months after its last round** — Sequoia/Kleiner Perkins co-led Series D at $1.8B valuation (up from $96M Series C seven months earlier); "answer engine optimization" (AEO) helps brands manage visibility inside ChatGPT, AI Overviews and Perplexity answers. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-16.html)
+- **Atlassian pushes "governed" AI agents into Jira, betting engineering teams need guardrails more than raw autonomy** — Sept 10 launch of Code Context (multi-repo grounding via Teamwork Graph), Agent Loops (auto-converts backlog items to PRs) and Agent Context Controls/Usage Dashboard; Code Context in open beta, rest in private early access or pending GA. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-16.html)
+- **China's AlphaPai raises $50M as AI moves deeper into professional investment research** — Rabyte Technology's third round in a year; PaiWork "investment research workstation" (launched April 2026) now serves 120,000+ professional users across 8,000+ financial institutions. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-16.html)
+- **ICICI Prudential Life rolls out AI-driven tools that let agents pre-fill 70% of an application** — "ICICI Life Partner Stack 2.0" (Sept 11) pairs an AI product-recommender in its eQuote app with LIVA, an AI advisor chatbot, plus back-end integrations that auto-fill up to 70% of application forms. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-16.html)
