@@ -2,10 +2,50 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-15
-run_count: 36
-digest_count: 33
+last_run: 2026-09-16
+run_count: 37
+digest_count: 34
 entries:
+  - fingerprint: florida-doe-final-ai-rules-k12-colleges-passed-sep2026
+    title: "Florida finalizes its AI rulebook — parental consent, opt-outs and a 2027 deadline"
+    first_seen: 2026-09-16
+    digest: ai-impact-on-education-2026-Sep-16.html
+    urls:
+      - https://www.clickorlando.com/news/2026/09/16/florida-board-adds-ai-guidelines-for-schools-and-colleges-what-you-need-to-know/
+      - https://www.cfpublic.org/education/2026-09-16/florida-approves-statewide-ai-rules-for-k-12-schools-and-colleges
+      - https://www.cbsnews.com/miami/news/florida-state-board-education-ai-school-rule-vote/
+  - fingerprint: canada-amii-national-ai-literacy-initiative-13m-sep2026
+    title: "Canada bets $13 million that AI literacy belongs in every college, not just computer-science departments"
+    first_seen: 2026-09-16
+    digest: ai-impact-on-education-2026-Sep-16.html
+    urls:
+      - https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/government-of-canada-launches-national-ai-literacy-initiative.html
+      - https://betakit.com/canada-unveils-national-ai-literacy-initiative/
+      - https://www.amii.ca/updates-insights/amii-leads-national-ai-literacy-initiative
+      - https://mechanicalbusiness.com/2026/09/14/feds-launch-national-ai-literacy-initiative/
+  - fingerprint: aristotle-ai-tutor-5m-seed-nationwide-launch-sep2026
+    title: "A voice-first AI tutor built by ex-Wyzant tutors raises $5M and goes national"
+    first_seen: 2026-09-16
+    digest: ai-impact-on-education-2026-Sep-16.html
+    urls:
+      - https://www.prnewswire.com/news-releases/aristotle-secures-5m-to-replace-the-chatbot-with-high-dosage-ai-tutoring-for-students-302880500.html
+      - https://lifestyle.middletownlifemagazine.com/story/690689/aristotle-secures-5m-to-replace-the-chatbot-with-high-dosage-ai-tutoring-for-students/
+      - https://eng.pressbee.net/show4882965.html
+  - fingerprint: kcl-ai-exposed-degree-applications-growth-entry-jobs-decline-sep2026
+    title: "Students are flocking to the degrees AI threatens to automate, not fleeing them"
+    first_seen: 2026-09-16
+    digest: ai-impact-on-education-2026-Sep-16.html
+    urls:
+      - https://www.kcl.ac.uk/news/students-not-yet-dissuaded-by-ai-exposure-in-choice-of-degrees
+      - https://www.edtechinnovationhub.com/news/students-continue-to-apply-for-ai-heavy-degree-courses-despite-fewer-job-opportunities
+  - fingerprint: special-ed-dispute-resolution-ai-hallucinated-case-law-surge-sep2026
+    title: "AI is flooding special-education dispute offices with longer complaints — and hallucinated case law"
+    first_seen: 2026-09-16
+    digest: ai-impact-on-education-2026-Sep-16.html
+    urls:
+      - https://www.k12dive.com/news/whats-ai-role-in-the-special-education-dispute-resolution-process/829823/
+      - https://www.efinstitute.org/2026/09/ais-role-in-special-education-dispute-resolution/
+      - https://www.napsa.com/as-special-ed-complaints-increase-ai-may-play-important-role/
   - fingerprint: instruction-partners-ai-learning-tour-20-tools-review-sep2026
     title: "The first independent report card on classroom AI tools finds most aren't ready to teach"
     first_seen: 2026-09-15
@@ -1382,6 +1422,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-16
+- **Florida finalizes its AI rulebook — parental consent, opt-outs and a 2027 deadline** — The state Board of Education formally adopts statewide AI rules for K-12 and colleges (parental consent, opt-outs, no AI on graded work without teacher permission, compliance by July 1, 2027), converting August's proposal into binding regulation. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-16.html)
+- **Canada bets $13 million that AI literacy belongs in every college, not just computer-science departments** — Canada and Amii launch a National AI Literacy Initiative (~$13M, incl. $5M from Google.org) offering a free 3-hour AI Essentials course to up to 1 million post-secondary students and 50,000+ K-12 educators. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-16.html)
+- **A voice-first AI tutor built by ex-Wyzant tutors raises $5M and goes national** — Aristotle raises a $5M seed (True Ventures; angels from Anthropic, OpenAI, Sierra) and launches its voice-first AI tutor for teens nationwide after a 1,000-student closed beta. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-16.html)
+- **Students are flocking to the degrees AI threatens to automate, not fleeing them** — A King's College London study of 1,090 UK degree programs finds applications to AI-exposed fields (computing, engineering) grew ~6% faster post-ChatGPT even as entry-level postings in those same fields declined. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-16.html)
+- **AI is flooding special-education dispute offices with longer complaints — and hallucinated case law** — State dispute-resolution agencies report longer IDEA complaints and due-process filings citing AI-invented case law, prompting CADRE to publish a parents' guide on AI's limits in special-ed advocacy. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-16.html)
 
 ## 2026-Sep-15
 - **The first independent report card on classroom AI tools finds most aren't ready to teach** — Instruction Partners' "AI Learning Tour" reviews 20 named classroom AI products across 16 school systems, finding general-purpose chatbots riskier than single-purpose tools and none of the 20 ready to independently handle teaching. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-15.html)
