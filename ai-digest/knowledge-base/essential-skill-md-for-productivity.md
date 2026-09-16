@@ -2,10 +2,45 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-15
-run_count: 41
-digest_count: 41
+last_run: 2026-09-16
+run_count: 42
+digest_count: 42
 entries:
+  - fingerprint: claude-code-v2-1-272-skill-sync-trash-hooks-crash-fix
+    title: "Claude Code v2.1.272 stops orphaned synced skills from lingering on disk after sign-out"
+    first_seen: 2026-09-16
+    digest: essential-skill-md-for-productivity-2026-Sep-16.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.272
+      - https://code.claude.com/docs/en/changelog
+  - fingerprint: skilllift-dense-rubrics-sparse-oracles-arxiv
+    title: "SkillLift cuts the cost of skill self-evolution by learning a rubric instead of grading every attempt"
+    first_seen: 2026-09-16
+    digest: essential-skill-md-for-productivity-2026-Sep-16.html
+    urls:
+      - https://arxiv.org/abs/2609.15396
+      - https://arxiv.org/pdf/2609.15396
+  - fingerprint: salesforce-afv-library-open-source-dreamforce-2026
+    title: "Salesforce open-sources a SKILL.md library for Agentforce Vibes, timed to Dreamforce 2026"
+    first_seen: 2026-09-16
+    digest: essential-skill-md-for-productivity-2026-Sep-16.html
+    urls:
+      - https://github.com/forcedotcom/afv-library
+      - https://developer.salesforce.com/blogs/2026/08/developers-guide-dreamforce-2026
+  - fingerprint: anthropic-smart-reports-beta-shared-skill-suggestions
+    title: "Anthropic's new Smart Reports turn a team's repeated Claude usage into ready-made skill suggestions"
+    first_seen: 2026-09-16
+    digest: essential-skill-md-for-productivity-2026-Sep-16.html
+    urls:
+      - https://support.claude.com/en/articles/16893491-get-started-with-smart-reports
+      - https://support.claude.com/en/articles/12138966-release-notes
+  - fingerprint: anthropic-threat-report-september-2026-agentic-misuse
+    title: "Anthropic's September threat report: attackers are industrializing the same agentic-workflow pattern productivity skills rely on"
+    first_seen: 2026-09-16
+    digest: essential-skill-md-for-productivity-2026-Sep-16.html
+    urls:
+      - https://www.anthropic.com/threat-intelligence-report-september-2026
+      - https://www.fonearena.com/blog/492107/anthropic-september-2026-threat-report.html
   - fingerprint: claude-code-v2-1-271-remote-fast-mode-allowed-domains
     title: "Claude Code v2.1.271 brings fast mode to Remote sessions and locks Bash/PowerShell to per-command domains"
     first_seen: 2026-09-15
@@ -1360,6 +1395,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-16
+- **Claude Code v2.1.272 (Sep 15)** — maintenance release that stops skills synced from claude.ai from lingering on disk indefinitely after sign-out (stale copies now move to recoverable trash), plus a `/hooks` menu crash fix and several input-handling fixes. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-16.html)
+- **SkillLift (arXiv 2609.15396, Sep 14)** — learns a dense, oracle-aligned rubric so skill self-evolution can rank candidate revisions instead of scoring each one with a full costly rollout; matches or beats existing auto-skill methods with 40–70% fewer tokens. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-16.html)
+- **Salesforce forcedotcom/afv-library (Dreamforce 2026, Sep 15–18)** — open-source SKILL.md library for Agentforce Vibes covering Flow, Apex, SOQL, LWC and more; documented as installable in Claude Code via `npx skills add forcedotcom/sf-skills`. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-16.html)
+- **Anthropic Smart Reports beta (Sep 10)** — analyzes a Claude Enterprise team's usage and surfaces repeated task patterns worth packaging as a shared skill, with a ready-to-use setup prompt for each suggestion. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-16.html)
+- **Anthropic threat intelligence report, September 2026 (Sep 10)** — documents a shift from interactive chat misuse to autonomous multi-agent execution, with threat actors delegating full attack chains to agent frameworks; covers Dec 2025–Aug 2026 disrupted activity across 7 harm areas. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-16.html)
 
 ## 2026-Sep-15
 - **Claude Code v2.1.271 (Sep 14)** — brings "fast mode" to Claude Code Remote (cloud and self-hosted runners) and adds per-command `allowed_domains` to Bash/PowerShell/Monitor in sandboxed auto mode, so a command's network access is scoped to only the hosts it needs. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-15.html)
