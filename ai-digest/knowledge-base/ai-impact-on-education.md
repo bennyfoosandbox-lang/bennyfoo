@@ -2,10 +2,47 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-16
-run_count: 37
-digest_count: 34
+last_run: 2026-09-17
+run_count: 38
+digest_count: 35
 entries:
+  - fingerprint: harvard-fas-faculty-survey-ai-negative-impact-64pct-sep2026
+    title: "Nearly two-thirds of Harvard faculty now say AI is hurting their courses"
+    first_seen: 2026-09-17
+    digest: ai-impact-on-education-2026-Sep-17.html
+    urls:
+      - https://www.thecrimson.com/article/2026/9/14/fas-2026-survey-AI/
+      - https://www.insidehighered.com/news/quick-takes/2026/09/17/2-3-harvard-professors-say-ai-has-negative-impact
+  - fingerprint: districts-expand-bans-ai-smart-glasses-cambridge-sep2026
+    title: "After banning phones, districts turn to banning AI smart glasses"
+    first_seen: 2026-09-17
+    digest: ai-impact-on-education-2026-Sep-17.html
+    urls:
+      - https://www.thecrimson.com/article/2026/9/15/meta-glasses-cps/
+      - https://www.edweek.org/technology/districts-expand-cellphone-bans-to-target-ai-smart-glasses-why-it-matters/2026/09
+      - https://hoodline.com/2026/09/cambridge-schools-ban-smart-glasses-citing-spying-and-bullying-fears/
+  - fingerprint: nbc-poll-americans-ai-more-harm-than-good-schools-sep2026
+    title: "New national poll: most Americans think AI is doing more harm than good in schools"
+    first_seen: 2026-09-17
+    digest: ai-impact-on-education-2026-Sep-17.html
+    urls:
+      - https://www.nbcnews.com/politics/politics-news/poll-americans-think-ai-harm-good-schools-rcna597777
+  - fingerprint: google-gemini-notebook-study-tools-launch-sep2026
+    title: "Google rebuilds Gemini Notebook into an adaptive study coach"
+    first_seen: 2026-09-17
+    digest: ai-impact-on-education-2026-Sep-17.html
+    urls:
+      - https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/
+      - https://www.digitaltrends.com/computing/gemini-notebooks-latest-update-makes-it-a-better-study-companion/
+      - https://www.thurrott.com/a-i/google-gemini-a-i/341682/gemini-notebook-to-be-updated-with-new-personalization-and-learning-tools
+  - fingerprint: melania-trump-nvidia-bebest-studyfetch-nc-school-sep2026
+    title: "Melania Trump tours a rural NC school as Nvidia and Be Best donate AI kits"
+    first_seen: 2026-09-17
+    digest: ai-impact-on-education-2026-Sep-17.html
+    urls:
+      - https://www.pbs.org/newshour/politics/watch-live-first-lady-melania-trump-visits-north-carolina-school-to-discuss-tech-in-the-classroom
+      - https://thenationaldesk.com/news/politics/first-lady-melania-trump-visits-north-carolina-school-to-see-ai-technology-in-action-ashe-county-mountain-view-elementary-nvidia-be-best-fostering-the-future-studyfetch-jetson-nano-developer-kits-hurricane-helene
+      - https://wlos.com/news/local/melania-trump-north-carolina-school-visit-ai-education-ashe-county-helene
   - fingerprint: florida-doe-final-ai-rules-k12-colleges-passed-sep2026
     title: "Florida finalizes its AI rulebook — parental consent, opt-outs and a 2027 deadline"
     first_seen: 2026-09-16
@@ -1422,6 +1459,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-17
+- **Nearly two-thirds of Harvard faculty now say AI is hurting their courses** — A Harvard Crimson survey of 460+ FAS professors finds 64% report a negative effect on their courses this year, up from 42% last year, as AI-permissiveness policy splits sharply by discipline. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-17.html)
+- **After banning phones, districts turn to banning AI smart glasses** — Cambridge, MA votes to ban smart glasses and wearable recorders district-wide; Education Week reports Fairfax County, Prince William County, Greenville County, Carson City and Parker, AZ have made similar moves this back-to-school season. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-17.html)
+- **New national poll: most Americans think AI is doing more harm than good in schools** — An NBC News/SurveyMonkey poll of 7,105 adults finds 53% say AI does more harm than good in K-12 (54% in higher ed), with support for AI-integrating schools over AI-banning ones down 9 points since June 2025. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-17.html)
+- **Google rebuilds Gemini Notebook into an adaptive study coach** — New Gemini Notebook features add voice conversations with notes, lecture recording, auto-generated quizzes/flashcards, and adaptive "Study notebooks" that build personalized lesson sequences from a diagnostic quiz. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-17.html)
+- **Melania Trump tours a rural NC school as Nvidia and Be Best donate AI kits** — Touring Ashe County's Mountain View Elementary, the First Lady announces 1,500 StudyFetch subscriptions and 100 Nvidia Jetson Nano kits for the district, arguing students need hands-on AI exposure "to lead." [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-17.html)
 
 ## 2026-Sep-16
 - **Florida finalizes its AI rulebook — parental consent, opt-outs and a 2027 deadline** — The state Board of Education formally adopts statewide AI rules for K-12 and colleges (parental consent, opt-outs, no AI on graded work without teacher permission, compliance by July 1, 2027), converting August's proposal into binding regulation. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-16.html)
