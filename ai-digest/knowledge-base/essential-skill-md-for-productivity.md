@@ -2,10 +2,48 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-16
-run_count: 42
-digest_count: 42
+last_run: 2026-09-17
+run_count: 43
+digest_count: 43
 entries:
+  - fingerprint: notion-3-7-agent-skills-whole-team
+    title: "Notion ships a shared Skills library, betting portability beats lock-in"
+    first_seen: 2026-09-17
+    digest: essential-skill-md-for-productivity-2026-Sep-17.html
+    urls:
+      - https://www.notion.com/releases/2026-09-15
+      - https://developers.notion.com/guides/agent-skills/overview
+      - https://x.com/NotionHQ/status/2090500028393726026
+  - fingerprint: salesforce-dreamforce-2026-seven-named-agents-aiforce
+    title: "Salesforce puts named, GA'd agents onstage at Dreamforce, backed by a new \"AIforce\" interface layer"
+    first_seen: 2026-09-17
+    digest: essential-skill-md-for-productivity-2026-Sep-17.html
+    urls:
+      - https://www.salesforce.com/news/stories/agentforce-job-ready-ai-agents/
+      - https://www.unite.ai/salesforce-debuts-job-ready-agentforce-agents-and-long-horizon-runtime/
+      - https://bworldonline.com/technology/2026/09/17/777817/salesforce-expands-agentforce-platform/
+  - fingerprint: anthropic-claude-chat-cowork-merge-docs-slides
+    title: "Anthropic folds Cowork into Claude chat and ships Docs and Slides as native skills-driven surfaces"
+    first_seen: 2026-09-17
+    digest: essential-skill-md-for-productivity-2026-Sep-17.html
+    urls:
+      - https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/
+      - https://venturebeat.com/technology/anthropic-is-killing-off-cowork-and-folding-it-into-claude-launching-claude-docs-and-claude-slides
+      - https://the-decoder.com/anthropic-merges-claude-chat-cowork-and-more-into-a-single-product/
+  - fingerprint: claude-code-v2-1-273-274-remote-fork-memory-warning
+    title: "Claude Code's v2.1.273–274 push tightens session recovery and memory safety for unattended runs"
+    first_seen: 2026-09-17
+    digest: essential-skill-md-for-productivity-2026-Sep-17.html
+    urls:
+      - https://code.claude.com/docs/en/changelog
+      - https://x.com/ClaudeCodeLog/status/2099961957352656925
+  - fingerprint: github-copilot-agent-governance-auto-model-tiers-sept
+    title: "GitHub Copilot pairs enterprise-wide agent guardrails with tiered auto model selection"
+    first_seen: 2026-09-17
+    digest: essential-skill-md-for-productivity-2026-Sep-17.html
+    urls:
+      - https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations/
+      - https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection/
   - fingerprint: claude-code-v2-1-272-skill-sync-trash-hooks-crash-fix
     title: "Claude Code v2.1.272 stops orphaned synced skills from lingering on disk after sign-out"
     first_seen: 2026-09-16
@@ -1395,6 +1433,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-17
+- **Notion 3.7 (Sep 15)** — ships a shared Skills tab in every workspace's Library; skills are versioned in a Notion database, auto-invoked by the Notion Agent, and downloadable to Claude Code, Codex, Cursor, Gemini or Grok, plus a new Skills API for programmatic generation. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-17.html)
+- **Salesforce Dreamforce 2026 (Sep 15–17)** — seven named Agentforce agents (Casey, Paige, Carter, Hunter, Marshall, Piper, Fin) move to GA (five) or pilot (Hunter), backed by a new AIforce interface layer launching with Claudeforce, Slackforce and Agentforce Coworker, plus the Koa CRM reasoning model on NVIDIA Nemotron. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-17.html)
+- **Anthropic merges Claude Chat and Cowork (Sep 16)** — discontinues Cowork as a separate surface, folding it into chat alongside Artifacts and new Claude Docs/Slides beta products; Claude now auto-picks "context, skills, and connectors" to route a request to the right surface. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-17.html)
+- **Claude Code v2.1.273–274 (Sep 15 & 17)** — v2.1.273 adds forking a `--remote-control` session into a background local session and fixes `/plugin` needing a manual reload; v2.1.274 adds a critical-memory warning and fixes sessions stuck retrying "unexpected tool_use_id" errors plus stale MCP list-changed notifications. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-17.html)
+- **GitHub Copilot governance + model tiers (Sep 9 & 14)** — enterprise-managed permissions reach GA, letting admins centrally block/require-approval/auto-approve specific agent operations (shell, file, network) unoverridable by user settings; auto model selection adds efficiency/balance/intelligence tiers alongside self-resolving code review comments. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-17.html)
 
 ## 2026-Sep-16
 - **Claude Code v2.1.272 (Sep 15)** — maintenance release that stops skills synced from claude.ai from lingering on disk indefinitely after sign-out (stale copies now move to recoverable trash), plus a `/hooks` menu crash fix and several input-handling fixes. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-16.html)
