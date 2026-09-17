@@ -2,10 +2,54 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-16
-run_count: 48
-digest_count: 48
+last_run: 2026-09-17
+run_count: 49
+digest_count: 49
 entries:
+  - fingerprint: salesforce-aiforce-dreamforce-2026-aws-google-cloud-integrations-sep2026
+    title: "At Dreamforce, Salesforce unveils AIforce and widens its AWS, Google Cloud and Siemens agent alliances"
+    first_seen: 2026-09-17
+    digest: using-ai-for-business-productivity-2026-Sep-17.html
+    urls:
+      - https://www.salesforce.com/news/stories/salesforce-google-cloud-unify-infrastructure-and-agents/
+      - https://siliconangle.com/2026/09/15/salesforce-deepens-its-integrations-with-aws-and-google-cloud-to-support-ai-agents/
+      - https://www.unite.ai/salesforce-and-aws-expand-ai-integrations-across-slack-and-amazon-quick/
+      - https://www.salesforceben.com/the-6-biggest-takeaways-from-the-dreamforce-26-main-keynote/
+      - https://www.salesforce.com/news/press-releases/2026/09/15/siemens-agentforce-redefine-industrial-sales-service/
+  - fingerprint: google-mandiant-ai-risk-resilience-report-runaway-agent-50k-sep2026
+    title: "Google Mandiant's new AI risk report: a runaway agent racked up a $50,000 cloud bill in under an hour"
+    first_seen: 2026-09-17
+    digest: using-ai-for-business-productivity-2026-Sep-17.html
+    urls:
+      - https://www.helpnetsecurity.com/2026/09/16/google-mandiant-enterprise-ai-security-risks-report/
+      - https://cloud.google.com/security/resources/ai-risk-and-resilience-2026
+      - https://cloud.google.com/transform/new-mandiant-report-boost-basics-with-ai-to-counter-adversaries
+  - fingerprint: aiuc-40m-series-a-ai-agent-certification-insurance-sep2026
+    title: "AIUC raises $40M to sell insurable proof that an enterprise's AI agents are actually safe"
+    first_seen: 2026-09-17
+    digest: using-ai-for-business-productivity-2026-Sep-17.html
+    urls:
+      - https://www.securityweek.com/aiuc-raises-40-million-to-certify-enterprise-ai-agents/
+      - https://forkast.news/aiuc-raises-40m-to-build-the-certification-and-insurance-layer-that-makes-agent-governance-auditable/
+      - https://www.thesaasnews.com/news/artificial-intelligence-underwriting-company-raises-40m-series-a/
+      - https://cryptobriefing.com/aiuc-raises-40m-series-a-ai-insurance/
+  - fingerprint: caddi-114m-series-d-manufacturing-ai-1-2b-valuation-sep2026
+    title: "Manufacturing-AI platform CADDi raises $114M Series D at a $1.2B valuation"
+    first_seen: 2026-09-17
+    digest: using-ai-for-business-productivity-2026-Sep-17.html
+    urls:
+      - https://fortune.com/2026/09/15/caddi-manufacturing-startup-valuation-funding-round-series-d-exclusive/
+      - https://www.investing.com/news/stock-market-news/caddi-raises-114-million-series-d-at-12-billion-value-93CH-4903924
+      - https://www.01net.it/caddi-raises-114-million-in-series-d-at-1-2-billion-valuation/
+      - https://www.thesaasnews.com/news/caddi-raises-114m-series-d/
+  - fingerprint: nationwide-survey-small-business-ai-adoption-risk-gap-sep2026
+    title: "Nationwide survey: small businesses are adopting AI faster than they're managing its risks"
+    first_seen: 2026-09-17
+    digest: using-ai-for-business-productivity-2026-Sep-17.html
+    urls:
+      - https://www.prnewswire.com/news-releases/nationwide-survey-businesses-are-using-ai-faster-than-they-are-managing-its-risks-302879106.html
+      - https://completeaitraining.com/news/businesses-adopt-ai-faster-than-they-manage-its-risks/
+      - https://www.cpapracticeadvisor.com/2026/09/14/small-businesses-are-buying-ai-faster-than-their-tech-stacks-can-handle-it/190138/
   - fingerprint: openai-ipo-delay-2027-altman-safety-sep2026
     title: "OpenAI shelves its IPO until 2027, with Altman citing AI safety as the reason"
     first_seen: 2026-09-16
@@ -2338,3 +2382,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Atlassian pushes "governed" AI agents into Jira, betting engineering teams need guardrails more than raw autonomy** — Sept 10 launch of Code Context (multi-repo grounding via Teamwork Graph), Agent Loops (auto-converts backlog items to PRs) and Agent Context Controls/Usage Dashboard; Code Context in open beta, rest in private early access or pending GA. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-16.html)
 - **China's AlphaPai raises $50M as AI moves deeper into professional investment research** — Rabyte Technology's third round in a year; PaiWork "investment research workstation" (launched April 2026) now serves 120,000+ professional users across 8,000+ financial institutions. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-16.html)
 - **ICICI Prudential Life rolls out AI-driven tools that let agents pre-fill 70% of an application** — "ICICI Life Partner Stack 2.0" (Sept 11) pairs an AI product-recommender in its eQuote app with LIVA, an AI advisor chatbot, plus back-end integrations that auto-fill up to 70% of application forms. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-16.html)
+
+## 2026-Sep-17
+- **At Dreamforce, Salesforce unveils AIforce and widens its AWS, Google Cloud and Siemens agent alliances** — Benioff/Altman keynote introduces AIforce as a live interface layer over Agentforce/Data 360/Customer 360; AWS integration puts Salesforce context inside Amazon Quick via MCP and AWS agents into Slack, Google Cloud integration runs Salesforce workloads on Google infra, Siemens wires Agentforce into Teamcenter. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-17.html)
+- **Google Mandiant's new AI risk report: a runaway agent racked up a $50,000 cloud bill in under an hour** — 2026 AI Risk and Resilience report's lead case study: an unconstrained recursive reasoning loop in a billing-reconciliation agent fired 15,000+ API calls and locked a production database; lands alongside stats that 88% of agent-running enterprises report an incident but only 6% of security budgets target agent security. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-17.html)
+- **AIUC raises $40M to sell insurable proof that an enterprise's AI agents are actually safe** — Series A led by Ribbit Capital (total funding $55M) scales AIUC-1, an audit standard for agent jailbreaks/hallucinations/prompt injection, backed by Lloyd's of London-underwritten policies; ElevenLabs holds the first AIUC-1-backed policy at up to $50M coverage. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-17.html)
+- **Manufacturing-AI platform CADDi raises $114M Series D at a $1.2B valuation** — Chicago/Tokyo company's total funding hits $234M with Salesforce Ventures joining; platform structures manufacturers' scattered drawings/specs/part data for procurement and engineering reuse, funds go to North America-centered global expansion. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-17.html)
+- **Nationwide survey: small businesses are adopting AI faster than they're managing its risks** — Edelman Intelligence-fielded survey: 6 in 10 owners say employees use public AI tools for work but only 36% have a written policy, 27% have data-input rules, 25% verify AI output, and nearly a third report being targeted by a gen-AI scam in the past year. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-17.html)
