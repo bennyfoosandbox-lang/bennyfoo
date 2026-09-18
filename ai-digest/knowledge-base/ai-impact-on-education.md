@@ -2,10 +2,52 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-17
-run_count: 38
-digest_count: 35
+last_run: 2026-09-18
+run_count: 39
+digest_count: 36
 entries:
+  - fingerprint: universities-uk-future-jobs-roadmap-ai-trailblazer-surrey-degrees-sep2026
+    title: "The UK tells every university lecturer to become an 'AI trailblazer'"
+    first_seen: 2026-09-18
+    digest: ai-impact-on-education-2026-Sep-18.html
+    urls:
+      - https://www.surrey.ac.uk/news/national-plan-urges-ai-teaching-universities-surreys-discipline-specific-model-leading-way
+      - https://www.timeshighereducation.com/news/surrey-redesigns-all-degrees-embed-discipline-specific-ai
+      - https://wonkhe.com/blogs/ai-literacy-is-not-enough-universities-must-teach-through-disciplinary-standards/
+      - https://news.cumbria.ac.uk/news/university-of-cumbria-among-those-to-back-future-jobs-roadmap
+  - fingerprint: microsoft-privacy-safety-standard-schools-nationwide-nov1-update-sep2026
+    title: "Update: Microsoft turns its teachers'-union deal into a nationwide 'Privacy & Safety Standard for Schools'"
+    first_seen: 2026-09-18
+    digest: ai-impact-on-education-2026-Sep-18.html
+    urls:
+      - https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/
+      - https://www.whio.com/news/business/microsoft-commits/QKTFBC242Q27FDOCA6JZ4LR444/
+  - fingerprint: us-computer-science-enrollment-decline-ai-fears-nsc-report-sep2026
+    title: "Computer science majors just had their worst year in memory — and AI job fears are the reason students give"
+    first_seen: 2026-09-18
+    digest: ai-impact-on-education-2026-Sep-18.html
+    urls:
+      - https://www.studentclearinghouse.org/nscblog/computer-science-enrollment-is-cooling/
+      - https://www.chronicle.com/article/once-seen-as-a-sure-thing-computer-science-has-lost-53-000-majors
+      - https://futurism.com/artificial-intelligence/computer-science-decline-ai
+      - https://edsource.org/updates/enrollment-for-undergraduates-increases-but-computer-science-drops
+  - fingerprint: universities-retreat-ai-detectors-blue-books-oral-exams-wvxu-sep2026
+    title: "Detection is out, blue books are back: how colleges are actually trying to stop AI cheating now"
+    first_seen: 2026-09-18
+    digest: ai-impact-on-education-2026-Sep-18.html
+    urls:
+      - https://www.wvxu.org/show/cincinnati-edition/2026-09-17/creative-solutions-to-thwart-ai-cheating
+      - https://www.foxnews.com/tech/schools-turn-handwritten-exams-ai-cheating-surges
+      - https://www.timeshighereducation.com/depth/are-universities-returning-person-exams-combat-ai-cheating
+      - https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/08/05/ai-detectors-are-out-new-approaches-are
+  - fingerprint: parents-ai-iep-meetings-teacher-transparency-sep2026
+    title: "Parents are showing up to IEP meetings with an AI tool of their own"
+    first_seen: 2026-09-18
+    digest: ai-impact-on-education-2026-Sep-18.html
+    urls:
+      - https://www.edsurge.com/news/parents-are-bringing-ai-to-the-iep-meeting-heres-how-teachers-should-respond
+      - https://www.efinstitute.org/2026/09/parents-using-ai-in-iep-meetings-teacher-responses/
+      - https://completeaitraining.com/news/parents-bring-ai-to-iep-meetings-as-teachers-weigh/
   - fingerprint: harvard-fas-faculty-survey-ai-negative-impact-64pct-sep2026
     title: "Nearly two-thirds of Harvard faculty now say AI is hurting their courses"
     first_seen: 2026-09-17
@@ -1459,6 +1501,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-18
+- **The UK tells every university lecturer to become an "AI trailblazer"** — Universities UK's new Future Jobs Roadmap calls for AI access for every undergraduate and an "AI trailblazer" lecturer on every course; the University of Surrey redesigns all its degrees around discipline-specific AI teaching, backed by University of Cumbria. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-18.html)
+- **Update: Microsoft turns its teachers'-union deal into a nationwide "Privacy & Safety Standard for Schools"** — Microsoft formalizes a named standard (no training on student data, no tracking, human oversight required) effective November 1 and open to every US district, expanding beyond the Sep 9 AFT/UFT agreement. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-18.html)
+- **Computer science majors just had their worst year in memory — and AI job fears are the reason students give** — National Student Clearinghouse data shows four-year CS enrollment down 8.4% (~53,000 majors) and two-year down 11.2% in spring 2026, with surveyed students citing AI job-market fears as the driver. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-18.html)
+- **Detection is out, blue books are back: how colleges are actually trying to stop AI cheating now** — A WVXU panel of academic-integrity officers describes a shift to handwritten exams, oral defenses and process-based assessment, part of a broader move away from unreliable AI detectors and toward a blue-book resurgence (sales up 80% at some schools since 2023). [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-18.html)
+- **Parents are showing up to IEP meetings with an AI tool of their own** — EdSurge and the Educational Freedom Institute report parents increasingly using AI chatbots to analyze IEPs and prep for meetings, raising both an access-equity story and new FERPA/IDEA disclosure questions. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-18.html)
 
 ## 2026-Sep-17
 - **Nearly two-thirds of Harvard faculty now say AI is hurting their courses** — A Harvard Crimson survey of 460+ FAS professors finds 64% report a negative effect on their courses this year, up from 42% last year, as AI-permissiveness policy splits sharply by discipline. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-17.html)
