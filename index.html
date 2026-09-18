@@ -4,9 +4,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Benny Foo | AI Transformation Leader</title>
-  <meta name="description" content="Benny Foo leads AI transformation at the National University of Singapore: shipping AI products and rebuilding how engineering teams work, on top of two decades of enterprise delivery.">
+  <meta name="description" content="Benny Foo leads application development at the National University of Singapore, where his teams design, build, test and release software with AI in every stage. Twenty-two years across development, consulting, operations and leadership.">
   <meta name="author" content="Benny Foo">
-  <meta name="theme-color" content="#0a0a0b">
+  <meta name="theme-color" content="#d5d5d5">
 
   <link rel="canonical" href="https://bennyfoo.vercel.app/">
 
@@ -14,7 +14,7 @@
   <meta property="og:type" content="profile">
   <meta property="og:url" content="https://bennyfoo.vercel.app/">
   <meta property="og:title" content="Benny Foo | AI Transformation Leader">
-  <meta property="og:description" content="Two decades of enterprise delivery. Now leading NUS engineering teams that ship AI products, and build everything with AI.">
+  <meta property="og:description" content="I rebuild how teams build software. At NUS, my teams design, build, test and release with AI in every stage.">
   <meta property="og:image" content="https://bennyfoo.vercel.app/assets/images/profile.jpg">
   <meta property="og:image:width" content="900">
   <meta property="og:image:height" content="900">
@@ -22,13 +22,13 @@
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Benny Foo | AI Transformation Leader">
-  <meta name="twitter:description" content="Two decades of enterprise delivery. Now leading NUS engineering teams that ship AI products, and build everything with AI.">
+  <meta name="twitter:description" content="I rebuild how teams build software. At NUS, my teams design, build, test and release with AI in every stage.">
   <meta name="twitter:image" content="https://bennyfoo.vercel.app/assets/images/profile.jpg">
 
   <link rel="preload" href="assets/fonts/satoshi-900.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="assets/fonts/satoshi-400.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="assets/css/main.css">
-  <noscript><style>.reveal { opacity: 1 !important; transform: none !important; } .reveal-mask > span { transform: none !important; }</style></noscript>
+  <noscript><style>.reveal { opacity: 1 !important; transform: none !important; } .reveal-mask > span { transform: none !important; } .lifecycle { --fill: 100%; }</style></noscript>
 
   <link rel="apple-touch-icon" sizes="180x180" href="assets/ico/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="assets/ico/favicon-32x32.png">
@@ -66,18 +66,16 @@
 </head>
 <body>
 
-  <!-- Dark block: nav + hero + stats + marquee. The page makes one deliberate dark-to-light switch after it. -->
-  <div class="ink-block" id="ink">
-    <canvas class="ink-canvas" id="ink-canvas" aria-hidden="true"></canvas>
-
+  <!-- Stage: light grey block sampled from the video's own backdrop, so the clip melts into the page. -->
+  <div class="stage" id="top">
     <header class="nav">
       <a class="nav-name" href="#top">Benny Foo</a>
       <nav class="nav-links" aria-label="Sections">
         <a href="#work">The AI work</a>
-        <a href="#record">Track record</a>
-        <a href="#career">Career</a>
-        <a href="ai-digest/">AI Digest</a>
-        <a href="utilities/">Utilities</a>
+        <a href="#journey">Journey</a>
+        <a href="#lead">Leadership</a>
+        <a href="ai-digest/index.html">AI Digest</a>
+        <a href="utilities/index.html">Utilities</a>
       </nav>
       <div class="nav-actions">
         <a class="nav-linkedin" href="https://www.linkedin.com/in/bennyfoo/" target="_blank" rel="noopener" aria-label="LinkedIn profile">
@@ -87,181 +85,222 @@
       </div>
     </header>
 
-    <section class="hero" id="top">
+    <section class="hero">
       <div class="hero-inner">
         <div class="hero-copy">
-          <p class="eyebrow" id="eyebrow">Senior Associate Director &middot; National University of Singapore</p>
+          <p class="eyebrow"><span class="eyebrow-long">Senior Associate Director &middot; National University of Singapore</span><span class="eyebrow-short">Senior Associate Director &middot; NUS</span></p>
           <h1>
             <span class="mask"><span style="--w:0">I</span></span>
-            <span class="mask"><span style="--w:1">make</span></span>
-            <span class="mask"><span style="--w:2">AI</span></span>
-            <span class="mask"><span style="--w:3">transformation</span></span>
-            <span class="mask"><span style="--w:4"><em>real</em>.</span></span>
+            <span class="mask"><span style="--w:1">rebuild</span></span>
+            <span class="mask"><span style="--w:2">how</span></span>
+            <span class="mask"><span style="--w:3">teams</span></span>
+            <span class="mask"><span style="--w:4"><em>build</em></span></span>
+            <span class="mask"><span style="--w:5">software.</span></span>
           </h1>
-          <p class="hero-sub rise" style="--d:2">Two decades of enterprise delivery. Now leading the NUS teams that ship AI products, and build everything with AI.</p>
+          <p class="hero-sub rise" style="--d:2">At NUS, my teams design, build, test and release with AI in every stage. Quality went up. So did throughput.</p>
           <div class="hero-ctas rise" style="--d:3">
             <a class="btn btn-primary" href="mailto:bennyfoocy@gmail.com" data-magnetic>Get in touch</a>
-            <a class="btn btn-ghost" href="#work">See the work</a>
+            <a class="btn btn-ghost" href="#work">See how it works</a>
           </div>
         </div>
-        <figure class="hero-portrait">
-          <img src="assets/images/profile.jpg" alt="Portrait of Benny Foo" width="900" height="900" fetchpriority="high">
+        <figure class="hero-video" aria-label="Animated avatar of Benny Foo">
+          <video autoplay muted loop playsinline preload="metadata" poster="assets/images/profile-poster.jpg" width="1280" height="720">
+            <source src="assets/video/Profile_Vid.mp4" type="video/mp4">
+            <img src="assets/images/profile-poster.jpg" alt="Illustrated avatar of Benny Foo" width="1280" height="720">
+          </video>
+          <span class="floor" aria-hidden="true"></span>
         </figure>
       </div>
     </section>
-
-    <section class="stats" aria-label="Career in numbers">
-      <div class="stats-inner">
-        <div class="stat reveal" style="--r:0">
-          <span class="stat-value" data-count="22">22</span>
-          <span class="stat-label">years leading software delivery</span>
-        </div>
-        <div class="stat reveal" style="--r:1">
-          <span class="stat-value" data-count="1.7" data-prefix="$" data-suffix="M">$1.7M</span>
-          <span class="stat-label">yearly cost removed from one legacy platform</span>
-        </div>
-        <div class="stat reveal" style="--r:2">
-          <span class="stat-value" data-count="15">15</span>
-          <span class="stat-label">countries migrated onto one regional platform</span>
-        </div>
-        <div class="stat reveal" style="--r:3">
-          <span class="stat-value" data-count="3">3</span>
-          <span class="stat-label">engineering practices led at NUS: AI, mobile, web</span>
-        </div>
-      </div>
-    </section>
-
   </div>
-  <!-- End of dark block. The light body slides over it from here. -->
 
   <main>
-    <div id="ink-end" aria-hidden="true"></div>
 
-    <section class="section work" id="work">
-      <header class="section-head">
-        <h2 class="reveal reveal-mask"><span>What AI transformation looks like when it ships.</span></h2>
-        <p class="reveal">Since August 2024 I lead application development at the National University of Singapore. Three fronts, all in production.</p>
-      </header>
-
-      <article class="flagship reveal">
-        <div class="flagship-copy">
-          <h3>The software lifecycle, rebuilt around AI</h3>
-          <p>Not a tool rollout, an operating change. My teams redesigned how software gets made, with AI working in every stage from requirements to release. Quality went up. So did throughput.</p>
-          <p class="flagship-note">The transformation reaches every role on the team, not just the engineers.</p>
+    <!-- ===== 1. Now: the software lifecycle, rebuilt around AI ===== -->
+    <section class="band work" id="work">
+      <div class="wrap">
+        <div class="proof reveal" aria-label="Career in numbers">
+          <div>
+            <span class="proof-value" data-count="22">22</span>
+            <span class="proof-label">years leading software delivery</span>
+          </div>
+          <div>
+            <span class="proof-value" data-count="5">5</span>
+            <span class="proof-label">career chapters, from build to lead</span>
+          </div>
+          <div>
+            <span class="proof-value" data-count="3">3</span>
+            <span class="proof-label">engineering practices led at NUS: AI, mobile, web</span>
+          </div>
+          <div>
+            <span class="proof-value" data-count="60" data-suffix="+">60+</span>
+            <span class="proof-label">people across the teams I lead</span>
+          </div>
         </div>
-        <ul class="roles-grid">
-          <li><strong>Engineers</strong><span>Design, code and review, AI-assisted</span></li>
-          <li><strong>Product owners</strong><span>Backlogs and requirements shaped with AI</span></li>
-          <li><strong>Functional leads</strong><span>Functional specs drafted with AI</span></li>
-          <li><strong>Testers</strong><span>Test design and automation driven by AI</span></li>
-        </ul>
-      </article>
 
-      <div class="work-duo reveal">
-        <article class="tile tile-ink">
-          <h3>GenAI in every staff member's hands</h3>
-          <p>A self-serve platform my teams built and run, where NUS staff generate content with AI.</p>
-        </article>
-        <article class="tile tile-accent">
-          <h3>AI with a specific job to do</h3>
-          <p>Applications that point AI at real problems, like reading lab-inspection photos and flagging issues automatically.</p>
-        </article>
+        <header class="section-head">
+          <h2 class="reveal reveal-mask"><span>The software lifecycle, rebuilt around AI.</span></h2>
+          <p class="reveal">Not a tool rollout. An operating change. AI works in every stage and every role, from the first requirement to the release.</p>
+        </header>
+
+        <ol class="lifecycle reveal" aria-label="Software lifecycle stages">
+          <li class="stage-item">
+            <h3>Requirements</h3>
+            <span class="who">Product owners</span>
+            <p>Backlogs and user stories shaped with AI, so the intent is clear before anyone builds.</p>
+          </li>
+          <li class="stage-item">
+            <h3>Specification</h3>
+            <span class="who">Functional leads</span>
+            <p>Functional specs drafted with AI and reviewed by people, in days rather than weeks.</p>
+          </li>
+          <li class="stage-item">
+            <h3>Build</h3>
+            <span class="who">Engineers</span>
+            <p>Design, code and review, AI-assisted from the first line to the pull request.</p>
+          </li>
+          <li class="stage-item">
+            <h3>Test</h3>
+            <span class="who">Testers</span>
+            <p>Test design and automation driven by AI, so coverage grows with every change.</p>
+          </li>
+          <li class="stage-item">
+            <h3>Release</h3>
+            <span class="who">The whole team</span>
+            <p>Working software in users' hands sooner, with fewer defects making it that far.</p>
+          </li>
+        </ol>
+
+        <div class="change">
+          <div class="change-copy reveal">
+            <h3>Adoption is a leadership problem.</h3>
+            <p>Tools do not transform a team. Changing how the roles work together does. I changed the way of working first, so the technology stuck.</p>
+            <p>Alongside the lifecycle change, the same teams ship AI products of their own.</p>
+          </div>
+          <div class="change-tiles">
+            <article class="tile tile-ink reveal" style="--r:0">
+              <h3>GenAI in every staff member's hands</h3>
+              <p>A self-serve platform my teams built and run, where NUS staff generate content with AI.</p>
+            </article>
+            <article class="tile tile-accent reveal" style="--r:1">
+              <h3>AI with a specific job to do</h3>
+              <p>Applications that point AI at real problems, like reading lab-inspection photos and flagging issues automatically.</p>
+            </article>
+          </div>
+        </div>
       </div>
     </section>
 
-    <section class="section record" id="record">
-      <header class="section-head">
-        <h2 class="reveal reveal-mask"><span>Transformation, before it was called AI.</span></h2>
-        <p class="reveal">The record that makes the AI story credible.</p>
-      </header>
-
-      <div class="record-rows">
-        <article class="record-row reveal">
-          <span class="record-metric">$1.7M<small>/yr</small></span>
-          <div class="record-copy">
-            <h3>Rewired a platform out of its license costs</h3>
-            <p>At JLL, my team reverse-engineered a 15-year-old integration platform and rebuilt it clean, with no business disruption. The saving recurs every year.</p>
-          </div>
-        </article>
-        <article class="record-row reveal">
-          <span class="record-metric">15<small>&nbsp;countries</small></span>
-          <div class="record-copy">
-            <h3>One CRM for Asia Pacific real estate</h3>
-            <p>Replaced scattered apps and spreadsheets with a single regional platform and data model for JLL's leasing business. Ran the migrations, won the adoption.</p>
-          </div>
-        </article>
-        <article class="record-row reveal">
-          <span class="record-metric">$300M<small>+</small></span>
-          <div class="record-copy">
-            <h3>The system behind EMC's Asia Pacific forecast</h3>
-            <p>Built the forecasting and workflow engine used by 80+ sales reps and their leadership. It earned an invitation to the APJ President's Club.</p>
-          </div>
-        </article>
+    <!-- ===== 2. Journey: four different chairs ===== -->
+    <section class="band journey" id="journey">
+      <div class="wrap">
+        <header class="section-head">
+          <h2 class="reveal reveal-mask"><span>Twenty-two years, four different chairs.</span></h2>
+          <p class="reveal">Developer, consultant, operator, director. Each role changed how I did the next one.</p>
+        </header>
       </div>
-    </section>
 
-    <section class="section career" id="career">
-      <div class="career-band">
-        <h2 class="reveal reveal-mask"><span>Twenty-two years, five chapters.</span></h2>
-        <div class="career-grid">
-          <article class="career-cell career-featured reveal">
-            <span class="career-years">2024 - Present</span>
-            <h3>National University of Singapore</h3>
-            <span class="career-role">Senior Associate Director, Application Development</span>
-            <p>Leading AI, mobile and web engineering. Shipping AI products while transforming how every role on the team builds software.</p>
-          </article>
-          <article class="career-cell reveal" style="--r:0">
-            <span class="career-years">2012 - 2024</span>
-            <h3>JLL Technologies</h3>
-            <span class="career-role">Director, Software Engineering</span>
-            <p>Owned engineering for JLL's leasing business: ten applications, one regional CRM, and a $1.7M cost takeout.</p>
-          </article>
-          <article class="career-cell reveal" style="--r:1">
-            <span class="career-years">2009 - 2012</span>
-            <h3>EMC</h3>
-            <span class="career-role">Manager, Business Operations</span>
-            <p>Forecasting and analytics for Asia Pacific sales leadership. President's Club, 2012.</p>
-          </article>
-          <article class="career-cell reveal" style="--r:2">
-            <span class="career-years">2006 - 2009</span>
-            <h3>Avanade</h3>
-            <span class="career-role">Senior Consultant</span>
-            <p>Resident consultant at a Singapore investment institution, growing from developer to solution architect on mission-critical systems.</p>
-          </article>
-          <article class="career-cell reveal" style="--r:3">
-            <span class="career-years">2004 - 2006</span>
+      <div class="panorama reveal">
+        <img src="assets/images/journey-2000.jpg"
+             srcset="assets/images/journey-1200.jpg 1200w, assets/images/journey-2000.jpg 2000w, assets/images/journey-3584.jpg 3584w"
+             sizes="100vw"
+             alt="Illustrated career path: programmer at Singapore Computer Systems, consultant at Avanade, business operations manager at EMC, software product director at JLL Technologies"
+             width="3584" height="1184" loading="lazy">
+      </div>
+
+      <div class="chairs">
+        <article class="chair reveal" style="--r:0">
+          <div class="chair-crop"><img src="assets/images/journey-1200.jpg" srcset="assets/images/journey-1200.jpg 1200w, assets/images/journey-2000.jpg 2000w" sizes="500px" alt="" width="3584" height="1184" loading="lazy" style="--fx:.19"></div>
+          <div class="chair-text">
+            <span class="year">2004 - 2006</span>
             <h3>Singapore Computer Systems</h3>
-            <span class="career-role">Programme Analyst</span>
-            <p>Built banking workflow software that became a product, and helped pioneer the team's Chengdu offshore model.</p>
+            <span class="role">Programmer</span>
+            <p>Built banking workflow software that became a product. <strong>Learned how software actually gets made.</strong></p>
+          </div>
+        </article>
+        <article class="chair reveal" style="--r:1">
+          <div class="chair-crop"><img src="assets/images/journey-1200.jpg" srcset="assets/images/journey-1200.jpg 1200w, assets/images/journey-2000.jpg 2000w" sizes="500px" alt="" width="3584" height="1184" loading="lazy" style="--fx:.39"></div>
+          <div class="chair-text">
+            <span class="year">2006 - 2009</span>
+            <h3>Avanade</h3>
+            <span class="role">Consultant</span>
+            <p>Resident at a Singapore investment institution, developer to solution architect. <strong>Learned to deliver inside someone else's constraints.</strong></p>
+          </div>
+        </article>
+        <article class="chair reveal" style="--r:2">
+          <div class="chair-crop"><img src="assets/images/journey-1200.jpg" srcset="assets/images/journey-1200.jpg 1200w, assets/images/journey-2000.jpg 2000w" sizes="500px" alt="" width="3584" height="1184" loading="lazy" style="--fx:.63"></div>
+          <div class="chair-text">
+            <span class="year">2009 - 2012</span>
+            <h3>EMC</h3>
+            <span class="role">Business Operations Manager</span>
+            <p>Built the forecasting engine behind a $300M+ Asia Pacific number. <strong>Learned what the business really measures.</strong></p>
+          </div>
+        </article>
+        <article class="chair reveal" style="--r:3">
+          <div class="chair-crop"><img src="assets/images/journey-1200.jpg" srcset="assets/images/journey-1200.jpg 1200w, assets/images/journey-2000.jpg 2000w" sizes="500px" alt="" width="3584" height="1184" loading="lazy" style="--fx:.82"></div>
+          <div class="chair-text">
+            <span class="year">2012 - 2024</span>
+            <h3>JLL Technologies</h3>
+            <span class="role">Director, Software Engineering</span>
+            <p>Ten applications, one CRM across 15 countries, $1.7M a year taken out. <strong>Learned that teams outlast projects.</strong></p>
+          </div>
+        </article>
+      </div>
+
+      <div class="wrap">
+        <div class="now reveal">
+          <div>
+            <span class="year">2024 - Present</span>
+            <h3>National University of Singapore</h3>
+            <span class="role">Senior Associate Director, Application Development</span>
+          </div>
+          <p>AI transformation needs all four chairs at once. You have to <em>build it</em>, advise on it, run it and lead it. That is the job I do now.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== 3. Leadership ===== -->
+    <section class="band lead" id="lead">
+      <div class="wrap">
+        <header class="section-head">
+          <h2 class="reveal reveal-mask"><span>How I lead.</span></h2>
+          <p class="reveal">I work for the team. The team ships. Everything below follows from that.</p>
+        </header>
+
+        <div class="lead-grid">
+          <article class="lead-tile tile-ink reveal" style="--r:0">
+            <h3>Servant leadership, taken literally.</h3>
+            <p>The team does not work for me. I work for them. My calendar is spent on the things that let engineers, product owners and testers do their best work without asking twice.</p>
+            <span class="kicker">Lead from underneath.</span>
+          </article>
+          <article class="lead-tile tile-white reveal" style="--r:1">
+            <h3>I clear the path.</h3>
+            <p>Blockers, approvals, unclear requirements, cross-team politics. I take them off the team's plate so delivery keeps moving.</p>
+            <span class="kicker">Obstacles are my job, not theirs.</span>
+          </article>
+          <article class="lead-tile tile-tint reveal" style="--r:2">
+            <h3>People first. Delivery follows.</h3>
+            <p>Teams that feel safe and trusted ship better software. I invest in the person before the plan, and the plan gets better for it.</p>
+            <span class="kicker">Trust is the fastest process.</span>
+          </article>
+          <article class="lead-tile tile-band reveal" style="--r:3">
+            <h3>Best people in the best place.</h3>
+            <p>I match people to the problems where they are strongest, give them the mandate, and get out of the way.</p>
+            <span class="kicker">Then step back.</span>
           </article>
         </div>
       </div>
     </section>
 
-    <section class="section lead">
-      <h2 class="reveal reveal-mask"><span>How I lead.</span></h2>
-      <div class="lead-list">
-        <article class="lead-item reveal">
-          <h3>Adoption is a leadership problem.</h3>
-          <p>Tools don't transform organisations, people do. I change how roles work together first, so the technology sticks.</p>
-        </article>
-        <article class="lead-item reveal">
-          <h3>Ship, then scale.</h3>
-          <p>Working software earns trust that strategy decks never will. Every transformation I run starts with something real in users' hands.</p>
-        </article>
-        <article class="lead-item reveal">
-          <h3>Teams outlast projects.</h3>
-          <p>I build teams that keep delivering after the programme ends. That is the difference between a project and a transformation.</p>
-        </article>
-      </div>
-    </section>
-
-    <section class="section contact" id="contact">
-      <div class="contact-inner reveal">
-        <h2>Let's make it <em>real</em>.</h2>
-        <p>I'm always glad to compare notes with people working on AI transformation — what's working, what isn't, and experiments worth teaming up on. If you're building something interesting, I'd like to hear about it.</p>
-        <div class="contact-ctas">
-          <a class="btn btn-primary btn-large" href="mailto:bennyfoocy@gmail.com" data-magnetic>Start a conversation</a>
+    <!-- ===== Contact ===== -->
+    <section class="band contact" id="contact">
+      <div class="wrap">
+        <div class="contact-inner reveal">
+          <h2>Let's make it <em>real</em>.</h2>
+          <p>I compare notes with people working on AI transformation: what is working, what is not, and experiments worth teaming up on. If you are building something interesting, I would like to hear about it.</p>
+          <div class="contact-ctas">
+            <a class="btn btn-primary btn-large" href="mailto:bennyfoocy@gmail.com" data-magnetic>Get in touch</a>
+          </div>
         </div>
       </div>
     </section>
@@ -272,8 +311,8 @@
     <div class="footer-inner">
       <span>&copy; 2026 Benny Foo</span>
       <div class="footer-links">
-        <a href="ai-digest/">AI Digest</a>
-        <a href="utilities/">Utilities</a>
+        <a href="ai-digest/index.html">AI Digest</a>
+        <a href="utilities/index.html">Utilities</a>
         <a href="mailto:bennyfoocy@gmail.com">bennyfoocy@gmail.com</a>
         <a href="https://www.linkedin.com/in/bennyfoo/" target="_blank" rel="noopener">LinkedIn</a>
       </div>

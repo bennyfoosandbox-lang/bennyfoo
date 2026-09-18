@@ -45,10 +45,18 @@
       });
     }, { threshold: 0.6 });
 
-    document.querySelectorAll('.stat-value').forEach(function (el) {
+    document.querySelectorAll('.stat-value, .proof-value').forEach(function (el) {
       statObserver.observe(el);
     });
   }
+
+  /* ---------- Hero video: respect reduced motion, show the poster instead ---------- */
+  document.querySelectorAll('video[autoplay]').forEach(function (video) {
+    if (reducedMotion) {
+      video.removeAttribute('autoplay');
+      video.pause();
+    }
+  });
 
   /* ---------- Eyebrow scramble-in ---------- */
   (function () {
