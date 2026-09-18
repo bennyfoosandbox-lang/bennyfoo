@@ -2,10 +2,53 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-17
-run_count: 49
-digest_count: 49
+last_run: 2026-09-18
+run_count: 50
+digest_count: 50
 entries:
+  - fingerprint: crusoe-3-9b-series-f-30-9b-valuation-ai-factories-sep2026
+    title: "Crusoe raises $3.9B Series F at a $30.9B valuation to build vertically integrated \"AI factories\""
+    first_seen: 2026-09-18
+    digest: using-ai-for-business-productivity-2026-Sep-18.html
+    urls:
+      - https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/
+      - https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding
+      - https://www.globenewswire.com/news-release/2026/09/17/3364326/0/en/crusoe-raises-3-9-billion-series-f-for-its-vertically-integrated-ai-infrastructure-platform.html
+      - https://thenextweb.com/news/crusoe-3-9-billion-series-f-30-9-billion-valuation-spark
+  - fingerprint: salesforce-koa-reasoning-model-claudeforce-anthropic-sep2026
+    title: "Salesforce follows AIforce with its own reasoning model, Koa, and an Anthropic-built \"Claudeforce\" skill pack"
+    first_seen: 2026-09-18
+    digest: using-ai-for-business-productivity-2026-Sep-18.html
+    urls:
+      - https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/
+      - https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership
+      - https://www.techtimes.com/articles/327676/20260917/salesforce-launches-koa-crm-model-its-own-benchmark-agentforce-roi-gap-persists.htm
+      - https://www.therundown.ai/news/salesforce-koa-reasoning-model-claudeforce
+  - fingerprint: notion-3-7-agent-skills-team-wide-sharing-sep2026
+    title: "Notion 3.7 lets teams package their own AI know-how into shareable, portable \"skills\""
+    first_seen: 2026-09-18
+    digest: using-ai-for-business-productivity-2026-Sep-18.html
+    urls:
+      - https://www.notion.com/releases/2026-09-15
+      - https://alternativeto.net/news/2026/9/notion-rolls-out-v3-7-with-team-wide-ai-agent-skills-nested-agent-calls-and-agents-ios-app/
+      - https://www.notion.com/help/skills-for-notion-agent
+  - fingerprint: comp-ai-34m-series-a-agentic-compliance-cybersecurity-sep2026
+    title: "Comp AI raises $34M Series A to push \"agentic compliance\" into continuous cybersecurity"
+    first_seen: 2026-09-18
+    digest: using-ai-for-business-productivity-2026-Sep-18.html
+    urls:
+      - https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/
+      - https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/
+      - https://www.trycomp.ai/press/series-a
+      - https://thenextweb.com/news/comp-ai-34m-series-a-agentic-compliance-security
+  - fingerprint: anthropic-claude-biomolecular-models-4x-speedup-life-sciences-sep2026
+    title: "Anthropic says Claude sped up 30+ open-source biology models roughly 4x, hinting at AI-accelerated R&D at scale"
+    first_seen: 2026-09-18
+    digest: using-ai-for-business-productivity-2026-Sep-18.html
+    urls:
+      - https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling
+      - https://www.unite.ai/anthropic-reports-claude-optimized-30-plus-open-source-biomolecular-models/
+      - https://endpoints.news/analysis-what-anthropics-protein-study-says-about-its-life-sciences-aims/
   - fingerprint: salesforce-aiforce-dreamforce-2026-aws-google-cloud-integrations-sep2026
     title: "At Dreamforce, Salesforce unveils AIforce and widens its AWS, Google Cloud and Siemens agent alliances"
     first_seen: 2026-09-17
@@ -2389,3 +2432,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **AIUC raises $40M to sell insurable proof that an enterprise's AI agents are actually safe** — Series A led by Ribbit Capital (total funding $55M) scales AIUC-1, an audit standard for agent jailbreaks/hallucinations/prompt injection, backed by Lloyd's of London-underwritten policies; ElevenLabs holds the first AIUC-1-backed policy at up to $50M coverage. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-17.html)
 - **Manufacturing-AI platform CADDi raises $114M Series D at a $1.2B valuation** — Chicago/Tokyo company's total funding hits $234M with Salesforce Ventures joining; platform structures manufacturers' scattered drawings/specs/part data for procurement and engineering reuse, funds go to North America-centered global expansion. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-17.html)
 - **Nationwide survey: small businesses are adopting AI faster than they're managing its risks** — Edelman Intelligence-fielded survey: 6 in 10 owners say employees use public AI tools for work but only 36% have a written policy, 27% have data-input rules, 25% verify AI output, and nearly a third report being targeted by a gen-AI scam in the past year. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-17.html)
+
+## 2026-Sep-18
+- **Crusoe raises $3.9B Series F at a $30.9B valuation to build vertically integrated "AI factories"** — round co-led by Atreides Management, Mubadala Capital and Valor Equity Partners with Nvidia and QIA participating; 6+ GW gross contracted capacity, 1+ GW delivered, customers include Meta, Microsoft and Oracle. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-18.html)
+- **Salesforce follows AIforce with its own reasoning model, Koa, and an Anthropic-built "Claudeforce" skill pack** — Koa is a CRM-tuned reasoning model on Nvidia Nemotron 3 Super (GA winter 2026, claims 3x fewer errors on CRM actions); Claudeforce embeds a 37-skill MCP server for Salesforce data directly inside Claude. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-18.html)
+- **Notion 3.7 lets teams package their own AI know-how into shareable, portable "skills"** — reusable, database-stored instructions that teach Notion agents team-specific conventions, exportable as SKILL.md files to Claude Code/Codex/Cursor/Gemini/Grok; also adds nested sub-agent calls and an Agents iOS app. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-18.html)
+- **Comp AI raises $34M Series A to push "agentic compliance" into continuous cybersecurity** — Roo Capital/Grand Ventures-led round (total funding $37.5M) for AI agents that write security policies and gather SOC 2 audit evidence continuously; claims 15x YoY revenue growth and 1,000+ customers. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-18.html)
+- **Anthropic says Claude sped up 30+ open-source biology models roughly 4x, hinting at AI-accelerated R&D at scale** — Claude optimized 30+ open-source biomolecular models in under 4 weeks (structure prediction, protein design, inverse folding, genomics), open-sourced the code, and launched a protein-design competition with Adaptyv Bio backed by $1M in Claude credits. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-18.html)
