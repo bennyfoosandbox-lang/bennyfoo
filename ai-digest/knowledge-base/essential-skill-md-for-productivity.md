@@ -2,10 +2,46 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-17
-run_count: 43
-digest_count: 43
+last_run: 2026-09-18
+run_count: 44
+digest_count: 44
 entries:
+  - fingerprint: claude-code-v2-1-275-skill-plugin-claude-ai-sync
+    title: "Claude Code starts syncing your claude.ai skills straight into the terminal"
+    first_seen: 2026-09-18
+    digest: essential-skill-md-for-productivity-2026-Sep-18.html
+    urls:
+      - https://code.claude.com/docs/en/changelog
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.275
+  - fingerprint: claude-compliance-api-chrome-sessions-coverage
+    title: "Anthropic extends Compliance API session visibility to Claude in Chrome"
+    first_seen: 2026-09-18
+    digest: essential-skill-md-for-productivity-2026-Sep-18.html
+    urls:
+      - https://platform.claude.com/docs/en/manage-claude/compliance-sessions
+      - https://github.com/llms-txt-archive/anthropic-platform/releases/tag/archive-20260917T171619Z
+  - fingerprint: hubspot-fall-26-spotlight-growth-context-agent-builder
+    title: "HubSpot rebuilds its platform around a shared Growth Context that agent skills draw from"
+    first_seen: 2026-09-18
+    digest: essential-skill-md-for-productivity-2026-Sep-18.html
+    urls:
+      - https://martech.org/hubspot-rebuilds-its-platform-around-ai-agents/
+      - https://www.unixcommerce.com/2026/09/16/hubspot-overhauls-crm-with-ai-agents-and-self-updating-data/
+      - https://finance.yahoo.com/technology/ai/articles/fall-26-spotlight-hubspot-just-133000556.html
+  - fingerprint: evoskill-gui-reflect-revise-reuse-arxiv
+    title: "EvoSkill-GUI lets GUI agents rewrite their own skill packages when a pop-up breaks the plan"
+    first_seen: 2026-09-18
+    digest: essential-skill-md-for-productivity-2026-Sep-18.html
+    urls:
+      - https://arxiv.org/abs/2609.17653
+      - https://arxiv.org/html/2609.17653
+  - fingerprint: skill-based-agentic-evaluation-realtime-data-science-arxiv
+    title: "A new benchmark grades data-science skills against live data instead of frozen answer keys"
+    first_seen: 2026-09-18
+    digest: essential-skill-md-for-productivity-2026-Sep-18.html
+    urls:
+      - https://arxiv.org/abs/2609.16487
+      - https://arxiv.org/html/2609.16487
   - fingerprint: notion-3-7-agent-skills-whole-team
     title: "Notion ships a shared Skills library, betting portability beats lock-in"
     first_seen: 2026-09-17
@@ -1433,6 +1469,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-18
+- **Claude Code v2.1.275 (Sep 17)** — auto-syncs the skills and plugins enabled on a user's claude.ai account into every terminal session signed in with it (opt out via `syncClaudeAiSkills`/`syncClaudeAiPlugins`); also adds gateway sign-in account confirmation, a ctrl+enter send-now key, and faster long sessions. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-18.html)
+- **Compliance API adds Claude in Chrome (Sep 18)** — local session endpoints now return browser-extension transcripts tagged `claude_in_chrome`, in beta for Claude Enterprise, using the existing Compliance Access Key with no new scope needed. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-18.html)
+- **HubSpot Fall '26 Spotlight (Sep 16)** — introduces "Growth Context" as a shared knowledge layer backing a rebuilt Agent Builder and new specialized agents; Breeze Assistant now proposes an agent's goal/tools/knowledge sources from a plain-language description. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-18.html)
+- **EvoSkill-GUI (arXiv 2609.17653, Sep 15)** — training-free framework where GUI-automation skills are structured multi-file packages the agent revises from execution feedback at deployment time; up to +16.2pp gains across MobileWorld/AndroidWorld/OSWorld without fine-tuning. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-18.html)
+- **"Ground-truth-as-code" data-science skill eval (arXiv 2609.16487, Sep 15)** — encodes expected answers as executable functions that recompute against live data at evaluation time, so data-science skills are graded on today's numbers rather than a frozen answer key. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-18.html)
 
 ## 2026-Sep-17
 - **Notion 3.7 (Sep 15)** — ships a shared Skills tab in every workspace's Library; skills are versioned in a Notion database, auto-invoked by the Notion Agent, and downloadable to Claude Code, Codex, Cursor, Gemini or Grok, plus a new Skills API for programmatic generation. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-17.html)
