@@ -2,10 +2,55 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-18
-run_count: 50
-digest_count: 50
+last_run: 2026-09-19
+run_count: 51
+digest_count: 51
 entries:
+  - fingerprint: anthropic-claude-26-percent-self-rd-30000-agents-sep2026
+    title: "Anthropic says Claude now leads 26% of the work that builds the next Claude, running 30,000 agents at once"
+    first_seen: 2026-09-19
+    digest: using-ai-for-business-productivity-2026-Sep-19.html
+    urls:
+      - https://www.nbcnews.com/tech/tech-news/anthropic-says-model-claude-helping-build-next-version-rcna598494
+      - https://www.washingtontimes.com/news/2026/sep/17/anthropic-says-claude-helping-build-next-version/
+      - https://www.digitaltoday.co.kr/en/view/105487/anthropic-says-26-percent-of-ai-rd-work-done-by-claude-runs-30000-internal-agents
+      - https://www.koreatimes.co.kr/world/20260918/anthropic-says-its-model-claude-is-helping-to-build-the-next-version-of-itself
+  - fingerprint: anthropic-cowork-retired-claude-docs-slides-small-business-sep2026
+    title: "Anthropic retires standalone Cowork, folds it into Claude chat, and ships Claude Docs and Claude Slides"
+    first_seen: 2026-09-19
+    digest: using-ai-for-business-productivity-2026-Sep-19.html
+    urls:
+      - https://venturebeat.com/technology/anthropic-is-killing-off-cowork-and-folding-it-into-claude-launching-claude-docs-and-claude-slides
+      - https://www.computerworld.com/article/4223177/anthropic-tries-to-make-claude-stickier-with-launch-of-docs-and-slides.html
+      - https://www.anthropic.com/news/claude-for-small-business
+      - https://www.forbes.com/sites/boazsobrado/2026/09/15/anthropic-puts-claude-on-small-business-sales-after-900000-installs/
+  - fingerprint: mind-72m-series-b-ai-native-dlp-cyber-verification-sep2026
+    title: "MIND raises $72M Series B to bring data loss prevention into the AI era, joins Anthropic's Cyber Verification Program"
+    first_seen: 2026-09-19
+    digest: using-ai-for-business-productivity-2026-Sep-19.html
+    urls:
+      - https://www.unite.ai/mind-raises-72m-series-b-to-scale-ai-native-data-loss-prevention/
+      - https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/
+      - https://siliconangle.com/2026/09/17/mind-raises-72m-to-stop-sensitive-data-leaking-into-ai-tools/
+      - https://www.prnewswire.com/news-releases/mind-raises-72m-series-b-funding-to-bring-complete-dlp-to-the-ai-era-302881118.html
+  - fingerprint: zai-glm-5-3-flash-320b-ox-alpha-100k-accelerators-sep2026
+    title: "Z.ai's 320B-parameter GLM-5.3-Flash quietly became the most-used model on OpenCode and OpenRouter before it even had a name"
+    first_seen: 2026-09-19
+    digest: using-ai-for-business-productivity-2026-Sep-19.html
+    urls:
+      - https://www.unite.ai/z-ai-details-glm-5-3-flash-inference-build-on-100-000-chinese-chips/
+      - https://pandaily.com/zhipu-glm-5-3-flashx-domestic-accelerator-inference
+      - https://xenospectrum.com/en/z-ai-ox-alpha-reveal/
+      - https://enterprisedna.co/resources/news/z-ai-ox-alpha-glm-53-flash-open-weight-enterprise-2026/
+  - fingerprint: cohere-gomez-cartel-ai-standards-body-pushback-sep2026
+    title: "Cohere's CEO calls rival labs' AI safety-standards plan a \"cartel,\" proposes a rulebook of his own"
+    first_seen: 2026-09-19
+    digest: using-ai-for-business-productivity-2026-Sep-19.html
+    urls:
+      - https://www.theglobeandmail.com/business/technology/article-cohere-ceo-aidan-gomez-criticizes-calls-for-ai-slowdown/
+      - https://www.bloomberg.com/news/videos/2026-09-14/cohere-ceo-warns-against-an-ai-safety-cartel-video
+      - https://aiweekly.co/alerts/cohere-ceo-gomez-calls-rival-labs-standards-plan-a-cartel
+      - https://www.digitaljournal.com/article/openai-anthropic-and-google-are-working-to-create-an-ai-standards-body/
   - fingerprint: crusoe-3-9b-series-f-30-9b-valuation-ai-factories-sep2026
     title: "Crusoe raises $3.9B Series F at a $30.9B valuation to build vertically integrated \"AI factories\""
     first_seen: 2026-09-18
@@ -2091,6 +2136,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-19
+- **Anthropic says Claude now leads 26% of the work that builds the next Claude, running 30,000 agents at once** — Claude's share of R&D on its own successor rose from under 1% in February to 26% in August; ~30,000 agents run concurrently, humans review only ~50 high-priority cases weekly. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-19.html)
+- **Anthropic retires standalone Cowork, folds it into Claude chat, and ships Claude Docs and Claude Slides** — agentic background-work architecture becomes the default for Pro/Max plans; Claude for Small Business (900k+ installs) adds Shopify, Salesforce, Xero, Gusto, Square, Stripe connectors. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-19.html)
+- **MIND raises $72M Series B to bring data loss prevention into the AI era** — Seattle DLP/insider-risk startup hits $112M total funding, 17x revenue growth; first company in Anthropic's Cyber Verification Program. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-19.html)
+- **Z.ai's 320B-parameter GLM-5.3-Flash quietly became the most-used model on OpenCode and OpenRouter before it even had a name** — anonymous "Ox Alpha" preview processed 62T+ tokens in six days on ~100,000 Chinese accelerators. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-19.html)
+- **Cohere's CEO calls rival labs' AI safety-standards plan a "cartel," proposes a rulebook of his own** — Aidan Gomez pushes back on OpenAI/Anthropic/Google's reported FINRA-style standards body, names Dario Amodei, offers a four-pillar alternative. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-19.html)
 
 ## 2026-Sep-10
 - **Accenture and Google Cloud launch a 1,000-engineer group to push agentic AI past the pilot stage** — Accenture Gemini Enterprise Business Group pairs ~50,000 Google Cloud-skilled staff with a new 1,000-person forward-deployed engineer workforce; cites a YouTube Gemini Enterprise agent lifting customer sentiment 11% and cutting handling time 37%. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-10.html)
