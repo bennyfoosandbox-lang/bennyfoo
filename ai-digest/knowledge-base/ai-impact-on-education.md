@@ -2,10 +2,42 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-18
-run_count: 39
-digest_count: 36
+last_run: 2026-09-19
+run_count: 40
+digest_count: 37
 entries:
+  - fingerprint: mit-cognitive-surrender-report-universities-bind-sep2026
+    title: "MIT's verdict on campus AI: students are undergoing 'cognitive surrender'"
+    first_seen: 2026-09-19
+    digest: ai-impact-on-education-2026-Sep-19.html
+    urls:
+      - https://aiandeducation.mit.edu/report/
+      - https://www.inquirer.com/education/artificial-intelligence-college-students-universities-approaches-mit-harvard-ohio-chicago-20260918.html
+      - https://gvwire.com/2026/09/15/an-mit-report-warns-ai-is-causing-cognitive-surrender-universities-are-in-a-bind/
+      - https://futurism.com/future-society/mit-report-ai-cognitive-surrender-students
+  - fingerprint: student-defense-shape-ai-admissions-no-policy-24-colleges-sep2026
+    title: "No policy, no problem? A watchdog finds elite universities have zero rules for AI in admissions"
+    first_seen: 2026-09-19
+    digest: ai-impact-on-education-2026-Sep-19.html
+    urls:
+      - https://www.insidehighered.com/news/quick-takes/2026/09/18/report-higher-eds-adoption-ai-outpaces-student-guards
+      - https://defendstudents.org/shapeai
+      - https://thecollegeinvestor.com/85812/berkeley-ucla-ohio-state-among-24-colleges-with-no-ai-admissions-policy-report-finds/
+  - fingerprint: pangram-ai-detector-bloomberg-northeastern-gold-standard-sep2026
+    title: "Meet the AI detector that professors are betting can actually catch cheating"
+    first_seen: 2026-09-19
+    digest: ai-impact-on-education-2026-Sep-19.html
+    urls:
+      - https://www.bloomberg.com/news/features/2026-09-16/pangram-ai-detection-tool-tries-to-prove-tech-deception-can-be-caught
+      - https://www.theaugmentededucator.com/p/pangram-and-the-all-clear
+  - fingerprint: university-kentucky-facial-scanning-dorms-alcatraz-sep2026
+    title: "A university just started scanning students' faces to let them into their dorms"
+    first_seen: 2026-09-19
+    digest: ai-impact-on-education-2026-Sep-19.html
+    urls:
+      - https://www.wkyt.com/2026/09/19/uk-installs-ai-facial-scanning-technology-residence-halls/
+      - https://www.lex18.com/news/covering-kentucky/university-of-kentucky-tests-ai-facial-scanning-for-campus-building-access
+      - https://fox56news.com/news/local/lexington/university-of-kentucky-installs-facial-authentication-technology-across-campus/
   - fingerprint: universities-uk-future-jobs-roadmap-ai-trailblazer-surrey-degrees-sep2026
     title: "The UK tells every university lecturer to become an 'AI trailblazer'"
     first_seen: 2026-09-18
@@ -1501,6 +1533,12 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-19
+- **MIT's verdict on campus AI: students are undergoing "cognitive surrender"** — A new MIT report finds reaching for a chatbot at the first sign of difficulty produces an illusion of learning, plus early signs of diminished critical thinking, weakened memory and less classroom participation, putting AI-eager administrators at odds with wary faculty and students. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-19.html)
+- **No policy, no problem? A watchdog finds elite universities have zero rules for AI in admissions** — Student Defense's SHAPE AI initiative found that of 24 public colleges surveyed (Berkeley, UCLA, Ohio State among them), not one of the 20 that responded had any policy governing AI use in admissions, recruitment or financial aid. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-19.html)
+- **Meet the AI detector that professors are betting can actually catch cheating** — A Bloomberg feature on Brooklyn startup Pangram, which outperformed every rival in an independent University of Chicago audit, complicates the "detection is dead" narrative as a Northeastern professor adopts it to catch AI misuse. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-19.html)
+- **A university just started scanning students' faces to let them into their dorms** — The University of Kentucky is piloting Alcatraz AI's "Rock" facial-authentication system at residence halls and other buildings, letting students unlock doors with a face scan; several students said they had no idea it was being installed. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-19.html)
 
 ## 2026-Sep-18
 - **The UK tells every university lecturer to become an "AI trailblazer"** — Universities UK's new Future Jobs Roadmap calls for AI access for every undergraduate and an "AI trailblazer" lecturer on every course; the University of Surrey redesigns all its degrees around discipline-specific AI teaching, backed by University of Cumbria. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-18.html)
