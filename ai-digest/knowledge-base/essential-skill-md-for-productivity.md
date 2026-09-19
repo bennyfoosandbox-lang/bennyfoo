@@ -2,10 +2,45 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-18
-run_count: 44
-digest_count: 44
+last_run: 2026-09-19
+run_count: 45
+digest_count: 45
 entries:
+  - fingerprint: github-copilot-agentic-cli-usage-metrics-api
+    title: "GitHub starts tracking skill, agent and MCP usage inside its own metrics API"
+    first_seen: 2026-09-19
+    digest: essential-skill-md-for-productivity-2026-Sep-19.html
+    urls:
+      - https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api
+  - fingerprint: openai-astra-for-law-47-skills
+    title: "OpenAI's Astra for Law ships with 47 ready-made legal skills, not just a smarter model"
+    first_seen: 2026-09-19
+    digest: essential-skill-md-for-productivity-2026-Sep-19.html
+    urls:
+      - https://openai.com/index/astra-for-law/
+      - https://www.lawnext.com/2026/09/openai-releases-astra-for-law-a-gpt-6-model-configured-for-legal-work.html
+      - https://siliconangle.com/2026/09/17/openai-launches-astra-for-law-a-gpt-6-configuration-for-legal-research/
+  - fingerprint: chatgpt-for-word-ga-skills-office-suite
+    title: "ChatGPT for Word reaches every plan, completing OpenAI's Skills-enabled Office suite"
+    first_seen: 2026-09-19
+    digest: essential-skill-md-for-productivity-2026-Sep-19.html
+    urls:
+      - https://mixed-news.com/en/chatgpt-now-works-inside-microsoft-word-free-plan/
+      - https://help.openai.com/en/articles/20001526-chatgpt-for-word
+  - fingerprint: slack-skill-sets-bundling-september-2026
+    title: "Slack lets admins bundle Slackbot skills into one-click Skill Sets for the whole org"
+    first_seen: 2026-09-19
+    digest: essential-skill-md-for-productivity-2026-Sep-19.html
+    urls:
+      - https://vantagepoint.io/blog/sf/slack-september-2026-admin-updates
+      - https://slack.com/help/articles/51448833927187-Browse-share-and-create-Slackbot-skills
+  - fingerprint: dreamforce-2026-last-years-ai-already-enough
+    title: "Dreamforce reality check: buyers say last year's AI already covers most of what skills need to do"
+    first_seen: 2026-09-19
+    digest: essential-skill-md-for-productivity-2026-Sep-19.html
+    urls:
+      - https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html
+      - https://qz.com/dreamforce-business-leaders-ai-moving-too-fast-091826
   - fingerprint: claude-code-v2-1-275-skill-plugin-claude-ai-sync
     title: "Claude Code starts syncing your claude.ai skills straight into the terminal"
     first_seen: 2026-09-18
@@ -1469,6 +1504,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-19
+- **GitHub Copilot usage metrics API (Sep 17)** — "agentic CLI customizations" (skills, custom agents, MCP servers, slash commands, plugins) now appear in enterprise/organization 1-day and 28-day usage reports, closing a gap between installed and actually-invoked skills. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-19.html)
+- **OpenAI Astra for Law (Sep 17)** — GPT-6 Astra legal configuration ships with a 230M-URL legal search index plus 9 community skill packs (47 skills) and 26 partner plugins (Relativity, Clio) bundled straight into ChatGPT. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-19.html)
+- **ChatGPT for Word reaches GA (Sep 17)** — sidebar add-in ships on every plan including Free, sharing the Skills mechanism already live in Excel/Sheets and PowerPoint; defaults on Oct 1, 2026, no memory/plugin carryover, token-rate billing. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-19.html)
+- **Slack Skill Sets (Sep 2026 admin update)** — admins bundle up to 25 related Slackbot skills into one named set and roll it out org-wide in one share, with auto-sync on updates and an admin-dashboard view of who has what. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-19.html)
+- **Dreamforce reality check (Sep 18)** — G2's Tim Sanders and other attendees tell CNBC/Quartz that "last year's AI" already drives most agentic outcomes; Salesforce's own Agentforce results don't depend on the newest frontier releases, and token-based pricing is squeezing margins. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-19.html)
 
 ## 2026-Sep-18
 - **Claude Code v2.1.275 (Sep 17)** — auto-syncs the skills and plugins enabled on a user's claude.ai account into every terminal session signed in with it (opt out via `syncClaudeAiSkills`/`syncClaudeAiPlugins`); also adds gateway sign-in account confirmation, a ctrl+enter send-now key, and faster long sessions. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-18.html)
