@@ -2,10 +2,50 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-19
-run_count: 40
-digest_count: 37
+last_run: 2026-09-20
+run_count: 41
+digest_count: 38
 entries:
+  - fingerprint: atlanta-aps-ai-policy-committee-review-parent-pushback-sep2026
+    title: "Atlanta's AI rules for students hit a snag — and parents want to know why"
+    first_seen: 2026-09-20
+    digest: ai-impact-on-education-2026-Sep-20.html
+    urls:
+      - https://hoodline.com/2026/09/atlanta-schools-move-toward-ai-rules-for-students-parents-seek-clarity/
+      - https://www.atlantanewsfirst.com/2026/09/17/atlanta-public-schools-moves-toward-adopting-new-ai-policy/
+      - https://citizenportal.ai/articles/10008883/Georgia/School-Districts/Atlanta-Public-Schools/Committee-advances-AI-policy-to-next-meeting-after-detailed-discussion-and-public-concerns
+  - fingerprint: alaska-lee-county-frederick-north-texas-ai-policy-wave-sep2026
+    title: "From Alaska to Texas, a fresh round of school and university AI rules takes shape"
+    first_seen: 2026-09-20
+    digest: ai-impact-on-education-2026-Sep-20.html
+    urls:
+      - https://alaskapublic.org/news/education/2026-09-18/university-of-alaska-regents-consider-draft-ai-policy
+      - https://www.ktoo.org/2026/09/16/university-of-alaska-regents-consider-draft-ai-policy/
+      - https://www.winknews.com/news/southwest_florida/swfl-schools-prep-for-floridas-new-parental-consent-ai-policy/article_b0ca6975-5fcb-4949-9226-4d19145e815a.html
+      - https://www.fredericknewspost.com/news/education/schools/public_k-12/school-board-agrees-to-create-ai-policy-for-district/article_e70b9070-fc5b-5c77-a46b-c67bb81f056c.html
+      - https://www.dallasnews.com/news/education/article/north-texas-schools-ai-rules-22431700.php
+  - fingerprint: professors-redesign-courses-around-ai-not-just-exams-sep2026
+    title: "It's not just exams anymore — professors are redesigning whole courses around AI"
+    first_seen: 2026-09-20
+    digest: ai-impact-on-education-2026-Sep-20.html
+    urls:
+      - https://www.wsls.com/news/local/2026/09/16/colleges-ai/
+      - https://www.cavalierdaily.com/article/2026/09/professors-say-rise-in-ai-use-has-pushed-redevelopment-of-courses
+  - fingerprint: digital-promise-quanthub-k12-career-pathways-partnership-sep2026
+    title: "A new push puts AI and data skills into every K-12 career track — not just the tech ones"
+    first_seen: 2026-09-20
+    digest: ai-impact-on-education-2026-Sep-20.html
+    urls:
+      - https://www.govtech.com/education/k-12/new-partnership-brings-ai-skills-to-k-12-career-education
+      - https://www.prnewswire.com/news-releases/digital-promise-and-quanthub-partner-to-bring-digital-fluency-to-career-pathways-302868094.html
+      - https://www.gettingsmart.com/2026/09/07/digital-fluency-is-the-missing-foundation-in-k-12-career-pathways/
+  - fingerprint: anthropic-claude-campus-ambassador-program-2026-stipend-sep2026
+    title: "Anthropic pays students $3,600 to become its AI evangelists on campus"
+    first_seen: 2026-09-20
+    digest: ai-impact-on-education-2026-Sep-20.html
+    urls:
+      - https://claude.com/programs/campus
+      - https://opportunitiesforyouth.org/2026/09/04/claude-campus-ambassador-program-2026-paid-student-opportunities-with-anthropic/
   - fingerprint: mit-cognitive-surrender-report-universities-bind-sep2026
     title: "MIT's verdict on campus AI: students are undergoing 'cognitive surrender'"
     first_seen: 2026-09-19
@@ -1533,6 +1573,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-20
+- **Atlanta's AI rules for students hit a snag — and parents want to know why** — APS's Policy Review Committee sent its draft AI-use policy (no AI grading, no chatbot-written assignments, human review before any detection-flag consequence) back for another review cycle after parents and board members pressed on training and due process; a board vote is now expected in November. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-20.html)
+- **From Alaska to Texas, a fresh round of school and university AI rules takes shape** — University of Alaska regents review a summer-drafted AI policy needing more feedback; Lee County, FL preps for the state's new parental-opt-in rule; Frederick County, MD weighs banning AI from grading ahead of Maryland's Oct 22 deadline; Dallas ISD and Frisco ISD roll out their own classroom AI rules. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-20.html)
+- **It's not just exams anymore — professors are redesigning whole courses around AI** — Virginia coverage and University of Virginia's Cavalier Daily report faculty redeveloping assignments and course structure (more in-class work, staged drafts) rather than just changing exam format, even as US/Canada faculty intent to use AI themselves has declined. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-20.html)
+- **A new push puts AI and data skills into every K-12 career track — not just the tech ones** — Digital Promise and QuantHub launch a multi-year partnership to embed AI, data-science and cybersecurity skills into K-12 career-pathway credentials nationwide, arguing most non-tech job postings mentioning AI are outside traditional tech tracks. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-20.html)
+- **Anthropic pays students $3,600 to become its AI evangelists on campus** — Anthropic's 2026 Claude Campus Ambassador Program (three tracks: undergrad, grad, PhD/postdoc) pays a stipend plus API credits to students who run AI workshops and build campus AI communities from September 2026 through June 2027. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-20.html)
 
 ## 2026-Sep-19
 - **MIT's verdict on campus AI: students are undergoing "cognitive surrender"** — A new MIT report finds reaching for a chatbot at the first sign of difficulty produces an illusion of learning, plus early signs of diminished critical thinking, weakened memory and less classroom participation, putting AI-eager administrators at odds with wary faculty and students. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-19.html)
