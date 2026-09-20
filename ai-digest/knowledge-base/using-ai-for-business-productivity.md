@@ -2,10 +2,52 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-19
-run_count: 51
-digest_count: 51
+last_run: 2026-09-20
+run_count: 52
+digest_count: 52
 entries:
+  - fingerprint: anthropic-100b-annualized-revenue-nyt-ipo-sep2026
+    title: "Anthropic's annualized revenue is on pace to top $100 billion in 2026, the New York Times reports"
+    first_seen: 2026-09-20
+    digest: using-ai-for-business-productivity-2026-Sep-20.html
+    urls:
+      - https://www.bloomberg.com/news/articles/2026-09-18/anthropic-s-annualized-revenue-to-top-100-billion-in-2026-nyt
+      - https://www.axios.com/2026/09/18/anthropic-100-billion-revenue
+      - https://gulfnews.com/world/americas/anthropic-on-track-to-top-100-billion-revenue-pace-ahead-of-potential-ipo-1.500680887
+      - https://finance.yahoo.com/technology/ai/articles/anthropic-tops-100-billion-revenue-224001996.html
+  - fingerprint: openai-astra-for-law-gpt6-legal-sep2026
+    title: "OpenAI launches Astra for Law, wiring GPT-6 into a 230-million-URL legal research index"
+    first_seen: 2026-09-20
+    digest: using-ai-for-business-productivity-2026-Sep-20.html
+    urls:
+      - https://openai.com/index/astra-for-law/
+      - https://www.unite.ai/openai-introduces-astra-for-law-with-legal-search-and-trusted-access/
+      - https://www.lawnext.com/2026/09/openai-releases-astra-for-law-a-gpt-6-model-configured-for-legal-work.html
+      - https://siliconangle.com/2026/09/17/openai-launches-astra-for-law-a-gpt-6-configuration-for-legal-research/
+  - fingerprint: disney-karandeep-anand-first-cto-character-ai-sep2026
+    title: "Disney names ex-Character.AI CEO Karandeep Anand as its first-ever Chief Technology Officer"
+    first_seen: 2026-09-20
+    digest: using-ai-for-business-productivity-2026-Sep-20.html
+    urls:
+      - https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-names-karandeep-anand-to-newly-created-role-of-chief-technology-officer/
+      - https://www.thewrap.com/industry-news/business/disney-karandeep-anand-chief-technology-officer/
+      - https://deadline.com/2026/09/disney-chief-technology-officer-character-ai-1237107626/
+      - https://investors.thewaltdisneycompany.com/news/news-details/2026/The-Walt-Disney-Company-Names-Karandeep-Anand-to-Newly-Created-Role-of-Chief-Technology-Officer/default.aspx
+  - fingerprint: abacus-ai3-regulated-industries-governance-sep2026
+    title: "Abacus launches AI³, a governance-first push to get regulated industries adopting AI faster"
+    first_seen: 2026-09-20
+    digest: using-ai-for-business-productivity-2026-Sep-20.html
+    urls:
+      - https://www.prnewswire.com/news-releases/abacus-launches-ai-initiative-to-accelerate-enterprise-ai-adoption-for-regulated-industries-302876630.html
+      - https://www.hpcwire.com/aiwire/2026/09/16/abacus-introduces-managed-ai-services-with-a-focus-on-governance/
+      - https://cioinfluence.com/security/abacus-launches-ai%C2%B3-initiative-to-accelerate-enterprise-ai-adoption-for-regulated-industries/
+  - fingerprint: scsk-real-estate-ai-agent-set-japan-sep2026
+    title: "SCSK packages a vertical AI agent set for Japan's real estate industry"
+    first_seen: 2026-09-20
+    digest: using-ai-for-business-productivity-2026-Sep-20.html
+    urls:
+      - https://www.scsk.jp/news/2026/press/product/20260918.html
+      - https://futurumgroup.com/insights/scsk-bets-on-vertical-ai-agents-to-crack-japans-real-estate-market/
   - fingerprint: anthropic-claude-26-percent-self-rd-30000-agents-sep2026
     title: "Anthropic says Claude now leads 26% of the work that builds the next Claude, running 30,000 agents at once"
     first_seen: 2026-09-19
@@ -2136,6 +2178,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-20
+- **Anthropic's annualized revenue is on pace to top $100 billion in 2026, the New York Times reports** — up from ~$65B in July, more than 10x its end-of-2025 pace, as it preps a stock-market debut as soon as November. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-20.html)
+- **OpenAI launches Astra for Law, wiring GPT-6 into a 230-million-URL legal research index** — ChatGPT for Word hits GA for legal drafting the same day; Harvey, Legora, Relativity and Clio can build on top. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-20.html)
+- **Disney names ex-Character.AI CEO Karandeep Anand as its first-ever Chief Technology Officer** — newly created role spanning enterprise tech, infrastructure, data and AI platforms, reporting to CEO Josh D'Amaro. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-20.html)
+- **Abacus launches AI³, a governance-first push to get regulated industries adopting AI faster** — managed-services initiative built on OpenAI/Google/Microsoft partnerships, vendor-agnostic, aimed at healthcare and financial services. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-20.html)
+- **SCSK packages a vertical AI agent set for Japan's real estate industry** — pre-built agents for sales brokerage, rental management and leasing, drawing on 50+ existing enterprise clients' domain knowledge. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-20.html)
 
 ## 2026-Sep-19
 - **Anthropic says Claude now leads 26% of the work that builds the next Claude, running 30,000 agents at once** — Claude's share of R&D on its own successor rose from under 1% in February to 26% in August; ~30,000 agents run concurrently, humans review only ~50 high-priority cases weekly. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-19.html)
