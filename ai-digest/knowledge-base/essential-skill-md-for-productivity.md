@@ -2,10 +2,48 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-19
-run_count: 45
-digest_count: 45
+last_run: 2026-09-20
+run_count: 46
+digest_count: 46
 entries:
+  - fingerprint: claude-code-v2-1-277-278-agents-md-auto-mode-server
+    title: "Claude Code v2.1.277–278 add AGENTS.md fallback and put auto mode's classifier on the server for free"
+    first_seen: 2026-09-20
+    digest: essential-skill-md-for-productivity-2026-Sep-20.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.278
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.277
+      - https://code.claude.com/docs/en/changelog
+  - fingerprint: anthropic-platform-skills-api-beta-container-skill-rename
+    title: "Anthropic renames BetaSkill to BetaContainerSkill and drops the skills beta header entirely"
+    first_seen: 2026-09-20
+    digest: essential-skill-md-for-productivity-2026-Sep-20.html
+    urls:
+      - https://platform.claude.com/docs/en/release-notes/overview
+      - https://releasebot.io/updates/anthropic/claude-developer-platform
+  - fingerprint: skillatlas-attack-trace-library-arxiv
+    title: "SkillAtlas turns thousands of private skill-attack reports into a searchable public library"
+    first_seen: 2026-09-20
+    digest: essential-skill-md-for-productivity-2026-Sep-20.html
+    urls:
+      - https://arxiv.org/abs/2609.13353
+      - https://arxiv.org/html/2609.13353
+      - https://en.cryptonomist.ch/2026/09/15/attack-trace-library-skillatlas/
+  - fingerprint: econskills-web-agent-economic-data-skill-library-arxiv
+    title: "EconSkills shows a skill library only pays off if the agent can actually pick the right skill back out"
+    first_seen: 2026-09-20
+    digest: essential-skill-md-for-productivity-2026-Sep-20.html
+    urls:
+      - https://arxiv.org/abs/2609.19523
+      - https://arxiv.org/html/2609.19523
+      - https://huggingface.co/datasets/EconWebArena/EconSkills
+  - fingerprint: github-copilot-unified-experience-relaunch-sept28
+    title: "GitHub will merge Copilot Chat and its cloud agent into one experience — with a policy and retention reset attached"
+    first_seen: 2026-09-20
+    digest: essential-skill-md-for-productivity-2026-Sep-20.html
+    urls:
+      - https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing/
+      - https://www.developersdigest.tech/blog/github-copilot-september-policy-billing-reset-2026
   - fingerprint: github-copilot-agentic-cli-usage-metrics-api
     title: "GitHub starts tracking skill, agent and MCP usage inside its own metrics API"
     first_seen: 2026-09-19
@@ -1504,6 +1542,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-20
+- **Claude Code v2.1.277–278 (Sep 18–19)** — v2.1.277 adds an AGENTS.md fallback when a project has no CLAUDE.md; v2.1.278 defaults Auto mode's classifier to run server-side at no extra cost, adds an "Auto mode server" /status row, and removes the TaskOutput tool. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-20.html)
+- **Anthropic Claude Developer Platform SDK update** — BetaSkill renamed to BetaContainerSkill, skill-deletion behavior changed, and the `skills-2025-10-02` beta header is no longer required anywhere, including container-loaded Skills via the Messages API. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-20.html)
+- **SkillAtlas (arXiv 2609.13353)** — public attack-trace library of 3,014 cases / 6,589 traces / 151,131 steps across 233 skills and 8 risk categories; 42.5% of successful attacks only succeeded after an initial failed attempt, and trajectory-grounded labels lift pre-execution guard accuracy to 0.770. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-20.html)
+- **EconSkills (arXiv 2609.19523)** — 50-skill SOP library for live economic-data retrieval; isolates skill transfer from skill retrieval/selection and finds selection, not transfer, is where most real-world failure happens in a growing skill library. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-20.html)
+- **GitHub Copilot unified experience (no earlier than Sep 28)** — Copilot Chat on github.com, GitHub Mobile and the cloud agent merge into one experience under one policy; chat data retention extends from 28 days to the life of the account. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-20.html)
 
 ## 2026-Sep-19
 - **GitHub Copilot usage metrics API (Sep 17)** — "agentic CLI customizations" (skills, custom agents, MCP servers, slash commands, plugins) now appear in enterprise/organization 1-day and 28-day usage reports, closing a gap between installed and actually-invoked skills. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-19.html)
