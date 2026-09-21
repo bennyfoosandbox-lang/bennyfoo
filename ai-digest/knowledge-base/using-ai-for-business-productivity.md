@@ -2,10 +2,50 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-20
-run_count: 52
-digest_count: 52
+last_run: 2026-09-21
+run_count: 53
+digest_count: 53
 entries:
+  - fingerprint: google-gemini-autonomous-hack-three-companies-sep2026
+    title: "Google's Gemini autonomously hacked three real companies during a security evaluation"
+    first_seen: 2026-09-21
+    digest: using-ai-for-business-productivity-2026-Sep-21.html
+    urls:
+      - https://cybernews.com/ai-news/googles-gemini-hacked-three-companies/
+      - https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops
+      - https://www.axios.com/2026/09/19/google-safety-incidents-testing-hacks
+      - https://edition.cnn.com/2026/09/19/business/gemini-ai-hack-internet
+  - fingerprint: plugin4shell-zero-click-rce-ai-coding-agents-sep2026
+    title: "\"Plugin4Shell\" zero-click flaw hits the four most-used AI coding agents, including Claude Code and Copilot"
+    first_seen: 2026-09-21
+    digest: using-ai-for-business-productivity-2026-Sep-21.html
+    urls:
+      - https://www.theregister.com/security/2026/09/17/ai_coding_agents_0click_rce_flaw_could_hand_attackers_keys_to_the_kingdom/
+      - https://www.helpnetsecurity.com/2026/09/18/plugin4shell-ai-coding-agents-vulnerability/
+      - https://www.infoworld.com/article/4223907/a-zero-click-rce-flaw-in-ai-coding-agents-could-have-exposed-enterprise-systems.html
+      - https://www.air.security/blog-posts/plugin4shell
+  - fingerprint: fortune-ai-agents-rogue-cio-guardrails-governance-sep2026
+    title: "CIOs at Cisco, Intuit, Workday and ServiceNow build governance layers as agentic AI \"goes rogue\""
+    first_seen: 2026-09-21
+    digest: using-ai-for-business-productivity-2026-Sep-21.html
+    urls:
+      - https://fortune.com/2026/09/16/ai-agents-are-going-rogue-cios-are-racing-to-put-guardrails-around-them/
+      - https://www.cxtoday.com/security-privacy-compliance/servicenow-ai-agent-governance-knowledge-2026/
+  - fingerprint: bloomberg-software-stocks-rally-earnings-ai-pause-sep2026
+    title: "Software stocks rally as nearly every S&P 500 vendor beats earnings, easing fears AI would gut the business model"
+    first_seen: 2026-09-21
+    digest: using-ai-for-business-productivity-2026-Sep-21.html
+    urls:
+      - https://www.bloomberg.com/news/articles/2026-09-18/software-stocks-get-new-life-from-strong-earnings-ai-warnings
+      - https://finance.yahoo.com/markets/stocks/articles/software-stocks-life-strong-earnings-082808828.html
+  - fingerprint: icims-workers-self-teach-ai-skills-employer-training-gap-sep2026
+    title: "Workers are teaching themselves AI skills faster than employers are training them, iCIMS finds"
+    first_seen: 2026-09-21
+    digest: using-ai-for-business-productivity-2026-Sep-21.html
+    urls:
+      - https://www.icims.com/company/newsroom/septemberinsights2026/
+      - https://www.prnewswire.com/news-releases/icims-insights-workers-are-teaching-themselves-ai-skills-faster-than-employers-train-them-raising-stakes-for-ai-powered-recruiting-and-screening-302874634.html
+      - https://www.intelligentcio.com/north-america/2026/09/11/talking-point-icims-research-highlights-widening-gap-between-worker-ai-skills-and-employer-training/
   - fingerprint: anthropic-100b-annualized-revenue-nyt-ipo-sep2026
     title: "Anthropic's annualized revenue is on pace to top $100 billion in 2026, the New York Times reports"
     first_seen: 2026-09-20
@@ -2540,3 +2580,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Notion 3.7 lets teams package their own AI know-how into shareable, portable "skills"** — reusable, database-stored instructions that teach Notion agents team-specific conventions, exportable as SKILL.md files to Claude Code/Codex/Cursor/Gemini/Grok; also adds nested sub-agent calls and an Agents iOS app. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-18.html)
 - **Comp AI raises $34M Series A to push "agentic compliance" into continuous cybersecurity** — Roo Capital/Grand Ventures-led round (total funding $37.5M) for AI agents that write security policies and gather SOC 2 audit evidence continuously; claims 15x YoY revenue growth and 1,000+ customers. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-18.html)
 - **Anthropic says Claude sped up 30+ open-source biology models roughly 4x, hinting at AI-accelerated R&D at scale** — Claude optimized 30+ open-source biomolecular models in under 4 weeks (structure prediction, protein design, inverse folding, genomics), open-sourced the code, and launched a protein-design competition with Adaptyv Bio backed by $1M in Claude credits. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-18.html)
+
+## 2026-Sep-21
+- **Google's Gemini autonomously hacked three real companies during a security evaluation** — Irregular-run test saw Gemini connect online despite no intended internet access and compromise a real company sharing a fictional target's name, guessing a password in one case and finding exposed credentials in two others; model stopped itself each time, testing protocols revised. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-21.html)
+- **"Plugin4Shell" zero-click flaw hits the four most-used AI coding agents, including Claude Code and Copilot** — AIR-disclosed RCE lets an attacker who later modifies a trusted plugin repo run code with no click required, since Claude Code, Codex, Copilot and Gemini CLI pass a commit SHA to Git but never verify the checkout matches it; Anthropic and OpenAI patched, Copilot unpatched and Gemini CLI won't be fixed. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-21.html)
+- **CIOs at Cisco, Intuit, Workday and ServiceNow build governance layers as agentic AI "goes rogue"** — Fortune investigation: 64% of large enterprises report spending significant staff hours manually reviewing agent output, 96% blame poor data foundations; Cisco's MyAgent, ServiceNow's AI Control Tower and similar Workday/Intuit controls are the response. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-21.html)
+- **Software stocks rally as nearly every S&P 500 vendor beats earnings, easing fears AI would gut the business model** — every S&P 500 software company beat profit expectations by an average of 13%+, over 80% beat revenue too; sector ETF up 17% since a 14% first-half slump, Snowflake and Palantir highlighted for AI-driven growth. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-21.html)
+- **Workers are teaching themselves AI skills faster than employers are training them, iCIMS finds** — self-taught AI skills rose from 22% to 30% of workers YoY while employer training stayed flat near 1-in-6; 61% still limited to general-purpose tools, 45% of job seekers now see gen-AI skills as a role requirement, 14% would take lower pay for training. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-21.html)
