@@ -2,10 +2,51 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-20
-run_count: 41
-digest_count: 38
+last_run: 2026-09-21
+run_count: 42
+digest_count: 39
 entries:
+  - fingerprint: south-korea-sky-universities-ai-cheating-f-grades-crackdown-sep2026
+    title: "South Korea's top universities start handing down F grades in a widening AI-cheating crackdown"
+    first_seen: 2026-09-21
+    digest: ai-impact-on-education-2026-Sep-21.html
+    urls:
+      - https://en.sedaily.com/society/2026/09/18/students-caught-using-chatgpt-in-exams-face-f-grades
+      - https://www.koreaherald.com/article/10612853
+      - https://www.koreajoongangdaily.com/korea/mass-ai-cheating-scandal-uncovered-at-yonsei-university-hundreds-of-students-reportedly-involved
+      - https://www.timeshighereducation.com/news/mass-cheating-case-exposes-south-koreas-assessment-crisis
+  - fingerprint: openai-australian-youth-safety-blueprint-six-pillars-sep2026
+    title: "OpenAI publishes a six-pillar blueprint for teen AI use, with classroom literacy as pillar one"
+    first_seen: 2026-09-21
+    digest: ai-impact-on-education-2026-Sep-21.html
+    urls:
+      - https://openai.com/index/australian-youth-safety-blueprint/
+      - https://aiweekly.co/alerts/openais-australian-blueprint-sets-six-pillars-for-teen-ai
+      - https://kenashe.ai/blog/2026-09-19-openais-australian-youth-safety-blueprint-what-six-pillars-mean-for-anyone
+  - fingerprint: gauth-gizmo-turbo-ai-homework-apps-charts-surge-sep2026
+    title: "Three AI homework apps just cracked the App Store's top education charts at once"
+    first_seen: 2026-09-21
+    digest: ai-impact-on-education-2026-Sep-21.html
+    urls:
+      - https://aiweekly.co/editors-blog/in-the-wild-2026-09-21
+      - https://www.technology.org/2026/08/03/gauth-app-breakdown-is-this-ai-study-app-actually-worth-it/
+  - fingerprint: samsung-mark-cuban-foundation-ai-curriculum-6-12-sep2026
+    title: "Samsung and the Mark Cuban Foundation ship a free, seven-session AI curriculum for grades 6-12"
+    first_seen: 2026-09-21
+    digest: ai-impact-on-education-2026-Sep-21.html
+    urls:
+      - https://news.samsung.com/us/samsung-mark-cuban-foundation-sending-classrooms-back-school-new-ai-curriculum/
+      - https://www.dallasnews.com/business/philanthropy/article/ai-curriculum-mark-cuban-foundation-samsung-22422520.php
+      - https://en.sedaily.com/finance/2026/09/10/samsung-teams-with-mark-cuban-foundation-on-free-ai-classes
+  - fingerprint: assam-india-six-ai-mous-schools-sep2026
+    title: "India's Assam state signs six AI-in-schools deals in a single day, from teacher training to literacy screening"
+    first_seen: 2026-09-21
+    digest: ai-impact-on-education-2026-Sep-21.html
+    urls:
+      - https://www.freepressjournal.in/education/assam-signs-mous-with-6-organisations-to-bring-ai-into-school-education-watch
+      - https://digitallearning.eletsonline.com/2026/09/assam-partners-with-six-organisations-to-bring-ai-into-school-education/
+      - https://nenews.in/assam/assam-signs-six-mous-to-integrate-ai-and-technology-into-school-education/63253/
+      - https://news.careers360.com/iit-guwahati-backing-assams-ai-push-teacher-training-preparing-textbooks-director-class-11-12
   - fingerprint: atlanta-aps-ai-policy-committee-review-parent-pushback-sep2026
     title: "Atlanta's AI rules for students hit a snag — and parents want to know why"
     first_seen: 2026-09-20
@@ -1573,6 +1614,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-21
+- **South Korea's top universities start handing down F grades in a widening AI-cheating crackdown** — Six SKY-tier universities (Seoul National, Yonsei, Korea, Sogang, Sungkyunkwan, Hanyang) confirm AI-assisted exam-cheating cases; Yonsei's ChatGPT midterm scandal alone saw 190 of 353 polled students admit cheating, with self-reporters getting a zero and holdouts risking suspension. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-21.html)
+- **OpenAI publishes a six-pillar blueprint for teen AI use, with classroom literacy as pillar one** — OpenAI's Australian Youth Safety Blueprint leads with "responsible educational adoption and AI literacy" ahead of age assurance, under-18 safety policies, manipulation protections, crisis response and parental controls, following August's ChatGPT for Teens rollout. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-21.html)
+- **Three AI homework apps just cracked the App Store's top education charts at once** — Gauth (#3 overall in Education, ahead of TikTok/Gmail/WhatsApp), Gizmo: AI Tutor (#10) and Turbo AI all climb simultaneously as back-to-school demand shifts toward purpose-built AI tutoring apps over general chatbots. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-21.html)
+- **Samsung and the Mark Cuban Foundation ship a free, seven-session AI curriculum for grades 6-12** — Ready-to-teach curriculum covers how LLMs work, effective prompting and verifying AI output, timed ahead of the Sept 30 opening of the Samsung Solve for Tomorrow STEM competition. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-21.html)
+- **India's Assam state signs six AI-in-schools deals in a single day, from teacher training to literacy screening** — MoUs with Google AI, IIT Madras' Bodhan AI (100,000 teachers by May 2027), Wadhwani AI (reading-fluency assessment), Educate Girls, EkStep-AXL and Canva Education split the bet across teacher training, literacy screening and equity outreach instead of one vendor platform. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-21.html)
 
 ## 2026-Sep-20
 - **Atlanta's AI rules for students hit a snag — and parents want to know why** — APS's Policy Review Committee sent its draft AI-use policy (no AI grading, no chatbot-written assignments, human review before any detection-flag consequence) back for another review cycle after parents and board members pressed on training and due process; a board vote is now expected in November. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-20.html)
