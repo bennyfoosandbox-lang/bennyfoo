@@ -2,10 +2,39 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-20
-run_count: 46
-digest_count: 46
+last_run: 2026-09-21
+run_count: 47
+digest_count: 47
 entries:
+  - fingerprint: claude-opus-5-openai-staff-account-takeover-hacktron
+    title: "Claude Opus 5 helped researchers chain two bugs into a full takeover of OpenAI staff accounts"
+    first_seen: 2026-09-21
+    digest: essential-skill-md-for-productivity-2026-Sep-21.html
+    urls:
+      - https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html
+      - https://bellatorcyber.com/blog/openai-account-takeover-report-chained-flaws
+      - https://www.infosectoday.io/claude-opus-5-helped-researchers-take-over-openai-staff-accounts-via-chained-flaws
+  - fingerprint: atlassian-rovo-custom-skills-ga-september
+    title: "Atlassian ships custom Skills for Rovo, letting teams turn Chat prompts into reusable playbooks"
+    first_seen: 2026-09-21
+    digest: essential-skill-md-for-productivity-2026-Sep-21.html
+    urls:
+      - https://www.atlassian.com/blog/company-news/rovo-chat-new-features-september-2026
+      - https://community.atlassian.com/forums/Atlassian-AI-Rovo-articles/The-ultimate-TEAM-26-Rovo-announcement-overview-and-more/ba-p/3241987
+  - fingerprint: salesforce-darwinx-frozen-model-skill-harness-evolution
+    title: "Salesforce's DarwinX takes a browser agent from 43.5% to 93% by evolving its skills, not its model"
+    first_seen: 2026-09-21
+    digest: essential-skill-md-for-productivity-2026-Sep-21.html
+    urls:
+      - https://venturebeat.com/orchestration/salesforce-researchers-took-an-ai-agent-from-finishing-43-5-of-browser-tasks-to-93-without-touching-the-model
+      - https://arxiv.org/html/2608.07545v1
+  - fingerprint: harness-state-of-agent-dlc-2026-confidence-gap
+    title: "Harness survey: enterprises are confident about their agent and skill inventories, but rarely check"
+    first_seen: 2026-09-21
+    digest: essential-skill-md-for-productivity-2026-Sep-21.html
+    urls:
+      - https://www.harness.io/blog/the-ai-agent-confidence-gap
+      - https://www.prnewswire.com/news-releases/new-harness-report-reveals-enterprise-confidence-in-ai-agents-isnt-backed-by-real-controls-302875476.html
   - fingerprint: claude-code-v2-1-277-278-agents-md-auto-mode-server
     title: "Claude Code v2.1.277–278 add AGENTS.md fallback and put auto mode's classifier on the server for free"
     first_seen: 2026-09-20
@@ -1542,6 +1571,12 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-21
+- **Claude Opus 5 / OpenAI account takeover (Sep 19)** — Hacktron researchers used Claude Opus 5 to chain a Discourse image-processing bug with OpenAI's shared login system, taking over staff ChatGPT/Codex accounts and reaching an internal repo in under 72 hours; disclosed responsibly, $6,500 bounty paid. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-21.html)
+- **Atlassian Rovo custom Skills (Sep 17)** — Rovo Chat update lets users describe a repeated task in natural language and have Rovo build it into a reusable, refinable skill, alongside visible memory controls, @mentionable agents and shareable chats. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-21.html)
+- **Salesforce DarwinX (arXiv 2608.07545, press Sep 17)** — evolving an agent's prompts/tools/skills/control-flow around a frozen model lifted a browser-task benchmark pass rate from 43.5% to 93.0% on WebArena-Infinity, without any model fine-tuning. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-21.html)
+- **Harness "State of Agent DLC 2026" (Sep 10)** — survey of 700 enterprise technologists finds 77% confident in their agent/skill/MCP inventory but only 44% running active discovery tooling to verify it; same confidence-vs-control gap repeats across testing, security, cost and rollback. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-21.html)
 
 ## 2026-Sep-20
 - **Claude Code v2.1.277–278 (Sep 18–19)** — v2.1.277 adds an AGENTS.md fallback when a project has no CLAUDE.md; v2.1.278 defaults Auto mode's classifier to run server-side at no extra cost, adds an "Auto mode server" /status row, and removes the TaskOutput tool. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-20.html)
