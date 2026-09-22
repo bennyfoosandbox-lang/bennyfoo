@@ -2,10 +2,37 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-21
-run_count: 47
-digest_count: 47
+last_run: 2026-09-22
+run_count: 48
+digest_count: 48
 entries:
+  - fingerprint: plugin4shell-zero-click-pinned-plugin-rce-four-agents
+    title: "Plugin4Shell: a zero-click supply-chain flaw breaks \"pinned\" plugin/skill integrity across all four major coding agents"
+    first_seen: 2026-09-22
+    digest: essential-skill-md-for-productivity-2026-Sep-22.html
+    urls:
+      - https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html
+      - https://www.air.security/blog-posts/plugin4shell
+      - https://cybersecuritynews.com/plugin4shell-zero-click-rce/
+      - https://cryptorank.io/news/feed/7d18d-plugin4shell-bypasses-sha-pinning-across-all-four-major-ai-coding-agents
+      - https://easternherald.com/2026/09/20/plugin4shell-ai-agents-supply-chain-rce/
+  - fingerprint: openclaw-2026-9-5-atomic-updates-plugin-hot-reload
+    title: "OpenClaw ships v2026.9.5 with Plugin Hot Reload and Atomic Updates for safer skill/plugin rollouts"
+    first_seen: 2026-09-22
+    digest: essential-skill-md-for-productivity-2026-Sep-22.html
+    urls:
+      - https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/
+      - https://www.bighatgroup.com/blog/openclaw-weekly-2026-09-21/
+      - https://docs.openclaw.ai/releases/2026.9.5
+      - https://superpowerdaily.com/posts/openclaw-adds-atomic-updates-and-guided-agent-teams-in-v2026-9-5
+  - fingerprint: graphskillevo-graph-structured-skill-evolution-arxiv
+    title: "GraphSkillEvo: representing skills as graphs, not prose, beats the leading SkillOpt baseline"
+    first_seen: 2026-09-22
+    digest: essential-skill-md-for-productivity-2026-Sep-22.html
+    urls:
+      - https://arxiv.org/abs/2609.21749
+      - https://arxiv.org/html/2609.21749
+      - https://huggingface.co/papers/2609.21749
   - fingerprint: claude-opus-5-openai-staff-account-takeover-hacktron
     title: "Claude Opus 5 helped researchers chain two bugs into a full takeover of OpenAI staff accounts"
     first_seen: 2026-09-21
@@ -1571,6 +1598,11 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-22
+- **Plugin4Shell (disclosed Sep 18–21)** — AIR Security found a zero-click flaw letting a plugin/skill repo owner swap in malicious code after SHA-pinned review, bypassing integrity checks in Claude Code, OpenAI Codex, GitHub Copilot and Gemini CLI; Anthropic and OpenAI have patched, GitHub has not, Google won't patch Gemini CLI at all. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-22.html)
+- **OpenClaw v2026.9.5 (Sep 19–21)** — adds Atomic Updates (staged, verified, auto-rollback Gateway upgrades) and Plugin Hot Reload (install/reload plugins with no Gateway restart), targeting the upgrade-reliability gaps prior weekly digests flagged. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-22.html)
+- **GraphSkillEvo (arXiv 2609.21749, Sep 18)** — argues prose-based SKILL.md is a search-space bottleneck for automated skill improvement; representing skills as graphs and evolving them with population-based mutation/crossover beats the SkillOpt baseline by 4.01% (GPT-5.4-nano) and 1.76% (GPT-5.4) across five benchmarks. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-22.html)
 
 ## 2026-Sep-21
 - **Claude Opus 5 / OpenAI account takeover (Sep 19)** — Hacktron researchers used Claude Opus 5 to chain a Discourse image-processing bug with OpenAI's shared login system, taking over staff ChatGPT/Codex accounts and reaching an internal repo in under 72 hours; disclosed responsibly, $6,500 bounty paid. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-21.html)
