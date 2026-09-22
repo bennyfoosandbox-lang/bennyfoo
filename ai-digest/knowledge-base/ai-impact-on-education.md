@@ -2,10 +2,43 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-21
-run_count: 42
-digest_count: 39
+last_run: 2026-09-22
+run_count: 43
+digest_count: 40
 entries:
+  - fingerprint: horowitz-andreessen-academy-college-alternative-launch-sep2026
+    title: "Andreessen Horowitz launches a free, no-homework 'academy' as a college alternative"
+    first_seen: 2026-09-22
+    digest: ai-impact-on-education-2026-Sep-22.html
+    urls:
+      - https://www.bloomberg.com/news/articles/2026-09-22/andreessen-horowitz-launches-ai-school-as-a-college-alternative
+      - https://www.cbsnews.com/news/andreessen-horowitz-ai-school-college-alternative/
+      - https://fortune.com/2026/09/22/a16z-horowitz-andreessen-academy-college-alternative-tuition-biyani/
+      - https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/
+      - https://a16z.com/announcement/incubating-horowitz-andreessen-academy/
+  - fingerprint: gates-foundation-1b-pledge-400m-ai-education-teacher-pushback-sep2026
+    title: "The Gates Foundation puts $400 million behind AI tutoring for schools — and teachers push back"
+    first_seen: 2026-09-22
+    digest: ai-impact-on-education-2026-Sep-22.html
+    urls:
+      - https://fortune.com/2026/09/19/the-gates-foundation-ai-schools-teachers-warn-gap-reading-math/
+      - https://www.yahoo.com/news/us/articles/gates-foundation-spending-400-million-080100834.html
+  - fingerprint: chalkbeat-state-ai-guidance-skirts-cheating-teachers-unsupported-sep2026
+    title: "States tell schools to embrace AI, then leave teachers to fight cheating on their own"
+    first_seen: 2026-09-22
+    digest: ai-impact-on-education-2026-Sep-22.html
+    urls:
+      - https://www.chalkbeat.org/2026/09/02/state-ai-guidance-schools-skirts-cheating-teachers/
+      - https://www.boston25news.com/news/states-urge-schools/DPCIJ2T3DU6AVHPOKDPKDMLW5Y/
+      - https://www.kiro7.com/news/states-urge-schools/DPCIJ2T3DU6AVHPOKDPKDMLW5Y/
+      - https://www.wsbtv.com/news/states-urge-schools/DPCIJ2T3DU6AVHPOKDPKDMLW5Y/
+  - fingerprint: openai-academy-role-based-courses-educators-college-students-sep2026
+    title: "OpenAI Academy adds dedicated tracks for K-12 teachers and college students"
+    first_seen: 2026-09-22
+    digest: ai-impact-on-education-2026-Sep-22.html
+    urls:
+      - https://openai.com/index/expanding-openai-academy-with-new-learning-paths/
+      - https://edunewsletter.openai.com/p/the-edu-prompt-issue-5
   - fingerprint: south-korea-sky-universities-ai-cheating-f-grades-crackdown-sep2026
     title: "South Korea's top universities start handing down F grades in a widening AI-cheating crackdown"
     first_seen: 2026-09-21
@@ -1614,6 +1647,12 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-22
+- **Andreessen Horowitz launches a free, no-homework "academy" as a direct bet against the four-year degree** — the Horowitz Andreessen Academy is an unaccredited, tuition-free two-year program for 16-22 year-olds building AI products instead of taking classes; Anthropic, Google, Meta, Nvidia and OpenAI are founding partners and Sam Altman is billed as an instructor/guest lecturer, with the first ~50-student cohort starting fall 2027. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-22.html)
+- **The Gates Foundation puts $400 million behind AI tutoring for schools — and teachers push back** — of a new $1 billion Gates Foundation AI commitment, ~40% ($400M) targets school AI tutoring; teachers and education writers warn the money chases a tech fix while underfunding, overcrowded classrooms and thin mental-health support go unaddressed. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-22.html)
+- **States tell schools to embrace AI, then leave teachers to fight cheating on their own** — a Chalkbeat investigation (redistributed nationwide today) finds most state AI guidance skips concrete cheating-detection strategies, with over a third of states discouraging reliance on AI detectors; profiled teacher Paige Wyatt quit after buying her own detection tools with no administrative support. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-22.html)
+- **OpenAI Academy adds dedicated tracks for K-12 teachers and college students** — new "AI for Educators" and "ChatGPT for Higher Education Students" courses ship with assessments and badges, plus four free months of ChatGPT Plus for U.S. college students without campus ChatGPT EDU access, through Oct 31, 2026. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-22.html)
 
 ## 2026-Sep-21
 - **South Korea's top universities start handing down F grades in a widening AI-cheating crackdown** — Six SKY-tier universities (Seoul National, Yonsei, Korea, Sogang, Sungkyunkwan, Hanyang) confirm AI-assisted exam-cheating cases; Yonsei's ChatGPT midterm scandal alone saw 190 of 353 polled students admit cheating, with self-reporters getting a zero and holdouts risking suspension. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-21.html)
