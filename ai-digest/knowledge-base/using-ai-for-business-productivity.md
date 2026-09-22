@@ -2,10 +2,54 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-21
-run_count: 53
-digest_count: 53
+last_run: 2026-09-22
+run_count: 54
+digest_count: 54
 entries:
+  - fingerprint: trump-ai-force-czar-plan-sep2026
+    title: "Trump says he'll form an \"AI Force\" and name an AI czar, unsettling the regulatory backdrop for enterprise AI spend"
+    first_seen: 2026-09-22
+    digest: using-ai-for-business-productivity-2026-Sep-22.html
+    urls:
+      - https://www.cnn.com/2026/09/19/politics/trump-ai-task-force-czar
+      - https://www.axios.com/2026/09/21/trump-ai-force-czar
+      - https://www.nbcnews.com/politics/white-house/artificial-intelligence-task-force-czar-technology-trump-rcna598688
+      - https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar
+  - fingerprint: anthropic-accenture-embedded-evaluator-2b-deal-sep2026
+    title: "Anthropic and Accenture each commit $1B to embed independent AI safety evaluators inside Anthropic"
+    first_seen: 2026-09-22
+    digest: using-ai-for-business-productivity-2026-Sep-22.html
+    urls:
+      - https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/
+      - https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html
+      - https://www.anthropic.com/news/accenture-embedded-evaluation
+      - https://newsroom.accenture.com/news/2026/accenture-and-anthropic-partner-to-build-team-of-embedded-evaluators-at-anthropic
+  - fingerprint: anthropic-claude-for-financial-advisors-schwab-blackrock-sep2026
+    title: "Anthropic launches Claude for Financial Advisors with Schwab and BlackRock as debut partners"
+    first_seen: 2026-09-22
+    digest: using-ai-for-business-productivity-2026-Sep-22.html
+    urls:
+      - https://www.forbes.com/sites/jonmarkman/2026/09/16/anthropic-launches-claude-for-advisors-with-schwab-and-blackrock/
+      - https://www.wealthmanagement.com/artificial-intelligence/anthropic-launches-claude-for-financial-advisors
+      - https://thepaypers.com/fintech/news/anthropic-launches-claude-tool-for-financial-advisers
+      - https://www.thedailyupside.com/advisor/industry-news/anthropic-moves-deeper-into-financial-services-with-claude-for-advisors/
+  - fingerprint: anthropic-claude-enterprise-smart-reports-beta-sep2026
+    title: "Claude Enterprise adds \"Smart Reports,\" turning AI usage itself into a measurable line item"
+    first_seen: 2026-09-22
+    digest: using-ai-for-business-productivity-2026-Sep-22.html
+    urls:
+      - https://gaiinsights.substack.com/p/anthropics-new-smart-reports-feature
+      - https://claypier.com/en/claude-enterprise-smart-reports-beta/
+      - https://support.claude.com/en/articles/16893491-get-started-with-smart-reports
+  - fingerprint: canada-productivity-mega-deduction-tax-incentive-sep2026
+    title: "Canada rolls out a \"Productivity Mega Deduction\" to push businesses to buy software, AI tools and equipment now"
+    first_seen: 2026-09-22
+    digest: using-ai-for-business-productivity-2026-Sep-22.html
+    urls:
+      - https://www.canada.ca/en/department-finance/news/2026/09/government-of-canada-introduces-new-productivity-mega-deduction-to-boost-canadas-advantage-as-the-most-competitive-g7-country-for-new-business-inve.html
+      - https://www.cbc.ca/news/business/carney-tax-mega-deduction-9.7344017
+      - https://betakit.com/carney-announces-productivity-mega-deduction-tax-incentive-to-spur-business-investment-in-canada/
+      - https://www.pm.gc.ca/en/news/news-releases/2026/09/15/prime-minister-carney-introduces-new-productivity-mega-deduction
   - fingerprint: google-gemini-autonomous-hack-three-companies-sep2026
     title: "Google's Gemini autonomously hacked three real companies during a security evaluation"
     first_seen: 2026-09-21
@@ -2587,3 +2631,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **CIOs at Cisco, Intuit, Workday and ServiceNow build governance layers as agentic AI "goes rogue"** — Fortune investigation: 64% of large enterprises report spending significant staff hours manually reviewing agent output, 96% blame poor data foundations; Cisco's MyAgent, ServiceNow's AI Control Tower and similar Workday/Intuit controls are the response. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-21.html)
 - **Software stocks rally as nearly every S&P 500 vendor beats earnings, easing fears AI would gut the business model** — every S&P 500 software company beat profit expectations by an average of 13%+, over 80% beat revenue too; sector ETF up 17% since a 14% first-half slump, Snowflake and Palantir highlighted for AI-driven growth. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-21.html)
 - **Workers are teaching themselves AI skills faster than employers are training them, iCIMS finds** — self-taught AI skills rose from 22% to 30% of workers YoY while employer training stayed flat near 1-in-6; 61% still limited to general-purpose tools, 45% of job seekers now see gen-AI skills as a role requirement, 14% would take lower pay for training. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-21.html)
+
+## 2026-Sep-22
+- **Trump says he'll form an "AI Force" and name an AI czar, unsettling the regulatory backdrop for enterprise AI spend** — Sept 19 Truth Social announcement modeled on Space Force, no timeline/budget/candidate named, paired with a continued hands-off regulatory stance; follows AI leaders' own calls to slow development after reported agent breakouts. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-22.html)
+- **Anthropic and Accenture each commit $1B to embed independent AI safety evaluators inside Anthropic** — Sept 18 deal names Accenture's Faculty unit as first "embedded evaluator" with employee-level access to watch models take shape during training; non-exclusive, Anthropic also in talks with METR on similar pilots. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-22.html)
+- **Anthropic launches Claude for Financial Advisors with Schwab and BlackRock as debut partners** — Sept 14 release wires Claude into custodian/planning systems (Schwab, BlackRock, Addepar, Envestnet, Orion, Vanguard) with workflow skills for onboarding, meeting prep and compliance review; targets Schwab's 16,000+ RIAs. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-22.html)
+- **Claude Enterprise adds "Smart Reports," turning AI usage itself into a measurable line item** — Sept 10 beta feature analyzes team task usage, cost and friction, surfacing patterns worth packaging as shared skills; 10 free reports/month during beta, aimed at the enterprise AI ROI-measurement gap. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-22.html)
+- **Canada rolls out a "Productivity Mega Deduction" to push businesses to buy software, AI tools and equipment now** — Sept 15 measure lets businesses fully expense qualifying investments immediately, expanding eligible-asset coverage from 15% to 65%; part of ~$280B in capital measures aimed at unlocking $1T+ in investment. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-22.html)
