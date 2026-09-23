@@ -2,10 +2,26 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-22
-run_count: 43
-digest_count: 40
+last_run: 2026-09-23
+run_count: 44
+digest_count: 41
 entries:
+  - fingerprint: massachusetts-district-ai-policy-patchwork-boston-chatgpt-block-sep2026
+    title: "Massachusetts shows what \"AI policy\" looks like with no state mandate: a patchwork, three years running"
+    first_seen: 2026-09-23
+    digest: ai-impact-on-education-2026-Sep-23.html
+    urls:
+      - https://www.wbur.org/news/2026/09/22/massachusetts-schools-ai-use
+      - https://www.nenc.news/wbur/2026-09-22/school-districts-slowly-build-guidance-around-ai-learning-in-classrooms
+      - https://districtadministration.com/school-districts-slowly-build-guidance-around-ai-learning-in-classrooms/
+  - fingerprint: uottawa-jama-pediatrics-ai-emotional-support-youth-distress-sep2026
+    title: "Study: teens who lean on AI chatbots for emotional support are twice as likely to show serious emotional difficulties"
+    first_seen: 2026-09-23
+    digest: ai-impact-on-education-2026-Sep-23.html
+    urls:
+      - https://www.cbc.ca/news/health/ai-teenagers-mental-health-study-9.7327227
+      - https://www.eurekalert.org/news-releases/1142125
+      - https://phys.org/news/2026-08-ai-chatbot-emotional-loneliness-students.html
   - fingerprint: horowitz-andreessen-academy-college-alternative-launch-sep2026
     title: "Andreessen Horowitz launches a free, no-homework 'academy' as a college alternative"
     first_seen: 2026-09-22
@@ -1647,6 +1663,10 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-23
+- **Massachusetts shows what "AI policy" looks like with no state mandate: a patchwork, three years running** — Boston blocks ChatGPT but allows Gemini, Lexington and Medfield take looser approaches, and Newton is rewriting its guidance for a third straight year, as the state weighs a proposed graduation requirement for responsible AI use. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-23.html)
+- **Study: teens who lean on AI chatbots for emotional support are twice as likely to show serious emotional difficulties** — a University of Ottawa/JAMA Pediatrics study of ~40,000 Ontario students finds the ~1-in-5 who used chatbots for emotional support had far higher rates of clinical-level emotional difficulties (57.7% vs. 29.2%), a gap that held after adjusting for demographics and loneliness. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-23.html)
 
 ## 2026-Sep-22
 - **Andreessen Horowitz launches a free, no-homework "academy" as a direct bet against the four-year degree** — the Horowitz Andreessen Academy is an unaccredited, tuition-free two-year program for 16-22 year-olds building AI products instead of taking classes; Anthropic, Google, Meta, Nvidia and OpenAI are founding partners and Sam Altman is billed as an instructor/guest lecturer, with the first ~50-student cohort starting fall 2027. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-22.html)
