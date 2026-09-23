@@ -2,10 +2,36 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-22
-run_count: 48
-digest_count: 48
+last_run: 2026-09-23
+run_count: 49
+digest_count: 49
 entries:
+  - fingerprint: claude-opus-5-5-launch-claude-code-copilot-default
+    title: "Claude Opus 5.5 ships and instantly becomes Claude Code's default model"
+    first_seen: 2026-09-23
+    digest: essential-skill-md-for-productivity-2026-Sep-23.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.280
+      - https://code.claude.com/docs/en/changelog
+      - https://siliconangle.com/2026/09/22/anthropic-releases-claude-opus-5-5-and-openai-counters-with-two-cheaper-gpt-6-models/
+      - https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot/
+      - https://www.havoptic.com/tools/claude-code
+  - fingerprint: anthropic-transparency-disclosure-claude-26-percent-rd
+    title: "Anthropic's first transparency disclosure: Claude now leads 26% of its own R&D, up from under 1% in February"
+    first_seen: 2026-09-23
+    digest: essential-skill-md-for-productivity-2026-Sep-23.html
+    urls:
+      - https://betanews.com/article/claude-ai-rd-development/
+      - https://qz.com/anthropic-claude-ai-research-development-automation-091826
+      - https://alphasignal.ai/news/anthropic-reveals-claude-now-leads-26-of-its-own-ai-research
+      - https://insideai.news/news/ai-safety/anthropic-ai-rd-automation/12519/
+  - fingerprint: github-copilot-cli-v1-0-88-terminal-notifications
+    title: "GitHub Copilot CLI v1.0.88 tightens terminal integration and session-approval memory"
+    first_seen: 2026-09-23
+    digest: essential-skill-md-for-productivity-2026-Sep-23.html
+    urls:
+      - https://github.com/github/copilot-cli/releases
+      - https://www.havoptic.com/tools/github-copilot
   - fingerprint: plugin4shell-zero-click-pinned-plugin-rce-four-agents
     title: "Plugin4Shell: a zero-click supply-chain flaw breaks \"pinned\" plugin/skill integrity across all four major coding agents"
     first_seen: 2026-09-22
@@ -1598,6 +1624,11 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-23
+- **Claude Opus 5.5 launch (Sep 22)** — cheaper (~40% off typical Opus cost), faster (30%+), 1M-context model became Claude Code's default in v2.1.280 the same day (with `/skills` list mouse support and a raisable MCP tool-description cap) and reached GitHub Copilot hours later; OpenAI answered same-day with two cheaper GPT-6 models. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-23.html)
+- **Anthropic transparency disclosure (Sep 22)** — Claude now "leads" 26% of Anthropic's internal AI R&D (up from <1% in February) across ~30,000 concurrent internal agents; Anthropic reviewed 1B+ agent decisions in August, blocking 1 in 47,000, with a 100%-coverage offline monitor escalating ~50 top cases/week to humans. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-23.html)
+- **GitHub Copilot CLI v1.0.88 (Sep 22)** — adds OSC 777 terminal notifications for Ghostty/WezTerm, fixes dialog text selection, and (in v1.0.88-1) preserves `/allow-all` and per-path session approvals across managed-settings refresh failures. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-23.html)
 
 ## 2026-Sep-22
 - **Plugin4Shell (disclosed Sep 18–21)** — AIR Security found a zero-click flaw letting a plugin/skill repo owner swap in malicious code after SHA-pinned review, bypassing integrity checks in Claude Code, OpenAI Codex, GitHub Copilot and Gemini CLI; Anthropic and OpenAI have patched, GitHub has not, Google won't patch Gemini CLI at all. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-22.html)
