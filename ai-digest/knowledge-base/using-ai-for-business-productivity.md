@@ -2,10 +2,52 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-22
-run_count: 54
-digest_count: 54
+last_run: 2026-09-23
+run_count: 55
+digest_count: 55
 entries:
+  - fingerprint: anthropic-openai-price-war-opus-5-5-gpt-6-sol-luna-sep2026
+    title: "Anthropic and OpenAI cut prices on new flagship models, reopening the AI cost war"
+    first_seen: 2026-09-23
+    digest: using-ai-for-business-productivity-2026-Sep-23.html
+    urls:
+      - https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html
+      - https://siliconangle.com/2026/09/22/anthropic-releases-claude-opus-5-5-and-openai-counters-with-two-cheaper-gpt-6-models/
+      - https://fortune.com/2026/09/22/what-ai-slowdown-openai-anthropic-release-dueling-moreaffordable-models-as-ai-price-wars-heat-up/
+      - https://www.engadget.com/2265801/anthropic-and-openai-announce-more-powerful-and-cheaper-ai-models/
+  - fingerprint: cohere-aleph-alpha-20b-merger-sep2026
+    title: "Cohere and Aleph Alpha seal $20B merger, consolidating Europe's AI challenger"
+    first_seen: 2026-09-23
+    digest: using-ai-for-business-productivity-2026-Sep-23.html
+    urls:
+      - https://www.unite.ai/cohere-signs-definitive-combination-agreement-with-aleph-alpha/
+      - https://siliconangle.com/2026/09/16/cohere-and-aleph-alpha-agree-to-merge-in-reported-20b-deal/
+      - https://www.telecompaper.com/news/cohere-aleph-alpha-sign-definitive-merger-agreement--1583012
+      - https://mlq.ai/news/cohere-merges-with-aleph-alpha-creating-a-20-billion-combined-entity/
+  - fingerprint: guildai-agent-management-gap-report-sep2026
+    title: "Guild.ai: companies think they track their AI agents — two-thirds got burned anyway"
+    first_seen: 2026-09-23
+    digest: using-ai-for-business-productivity-2026-Sep-23.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/09/22/3366611/0/en/the-ai-agent-management-gap-is-growing.html
+      - https://www.guild.ai/blog/ai-insights/the-state-of-agent-governance
+      - https://briefglance.com/articles/guildai-launches-control-plane-to-tame-the-ai-agent-workforce
+  - fingerprint: deloitte-finance-trends-2027-cfo-ai-costs-sep2026
+    title: "Deloitte: 60% of CFOs expect AI costs to keep climbing through 2027, not fall"
+    first_seen: 2026-09-23
+    digest: using-ai-for-business-productivity-2026-Sep-23.html
+    urls:
+      - https://www.deloitte.com/us/en/about/press-room/deloitte-finance-trends-2027-finance-leaders-balance-ambition-with-accountability.html
+      - https://www.cfodive.com/news/cfos-brace-higher-ai-costs-fiscal-2027-deloitte/830379/
+      - https://www.prnewswire.com/news-releases/deloitte-finance-trends-2027-finance-leaders-balance-ai-ambition-with-enterprise-accountability-302873330.html
+  - fingerprint: openai-third-party-safety-assessments-training-sep2026
+    title: "OpenAI opens model training to outside safety evaluators, pitching trust alongside price"
+    first_seen: 2026-09-23
+    digest: using-ai-for-business-productivity-2026-Sep-23.html
+    urls:
+      - https://www.bloomberg.com/news/articles/2026-09-22/openai-to-let-outside-groups-evaluate-ai-models-at-earlier-phase
+      - https://openai.com/index/priorities-principles-third-party-assessments/
+      - https://www.streetinsider.com/Corporate+News/OpenAI+outlines+framework+for+third-party+AI+safety+assessments/27090172.html
   - fingerprint: trump-ai-force-czar-plan-sep2026
     title: "Trump says he'll form an \"AI Force\" and name an AI czar, unsettling the regulatory backdrop for enterprise AI spend"
     first_seen: 2026-09-22
@@ -2262,6 +2304,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-23
+- **Anthropic and OpenAI cut prices on new flagship models, reopening the AI cost war** — Claude Opus 5.5 runs ~40% cheaper than Opus 5; OpenAI answers with GPT-6 Sol and Luna at roughly half of GPT-5.6's promotional rates. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-23.html)
+- **Cohere and Aleph Alpha seal $20B merger, consolidating Europe's AI challenger** — dual-headquartered in Toronto and Berlin, Schwarz Gruppe puts in $600M, deal expected to close later in 2026 pending regulatory approval. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-23.html)
+- **Guild.ai: companies think they track their AI agents — two-thirds got burned anyway** — 96.4% of IT leaders are confident in their agent inventory, yet 66.7% suffered an agent-related operational incident in the past year; only 31% have an automated kill switch. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-23.html)
+- **Deloitte: 60% of CFOs expect AI costs to keep climbing through 2027, not fall** — Finance Trends 2027 survey of 1,434 leaders finds those bracing for higher costs are also further along in AI adoption and FinOps-style cost management. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-23.html)
+- **OpenAI opens model training to outside safety evaluators, pitching trust alongside price** — third-party technical assessments now run during training and evaluation, not just after launch, as OpenAI courts enterprise buyers on trust as well as cost. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-23.html)
 
 ## 2026-Sep-20
 - **Anthropic's annualized revenue is on pace to top $100 billion in 2026, the New York Times reports** — up from ~$65B in July, more than 10x its end-of-2025 pace, as it preps a stock-market debut as soon as November. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-20.html)
