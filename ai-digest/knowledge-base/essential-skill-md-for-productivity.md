@@ -2,10 +2,50 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-23
-run_count: 49
-digest_count: 49
+last_run: 2026-09-24
+run_count: 50
+digest_count: 50
 entries:
+  - fingerprint: anthropic-claude-marketplace-launch-committed-spend
+    title: "Anthropic opens the Claude Marketplace, turning committed API spend into a procurement channel"
+    first_seen: 2026-09-24
+    digest: essential-skill-md-for-productivity-2026-Sep-24.html
+    urls:
+      - https://venturebeat.com/technology/anthropic-launches-claude-marketplace-giving-enterprises-access-to-claude
+      - https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-challenges-saas-giants-with-claude-marketplace/
+      - https://www.techzine.eu/news/applications/139359/anthropic-launches-claude-powered-app-marketplace-without-taking-a-cut/
+      - https://superpowerdaily.com/posts/anthropic-opens-claude-marketplace-for-partner-software-and-services
+  - fingerprint: claude-code-v2-1-281-gateway-bedrock-skill-short-names
+    title: "Claude Code v2.1.281 tightens enterprise gateway control and trims skill/plugin naming clutter"
+    first_seen: 2026-09-24
+    digest: essential-skill-md-for-productivity-2026-Sep-24.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.281
+      - https://code.claude.com/docs/en/changelog
+      - https://docs.anthropic.com/en/release-notes/claude-code
+  - fingerprint: github-copilot-jetbrains-1-18-org-skills-assisted-approvals
+    title: "GitHub Copilot for JetBrains 1.18 catches up with org-wide shared skills and assisted tool approvals"
+    first_seen: 2026-09-24
+    digest: essential-skill-md-for-productivity-2026-Sep-24.html
+    urls:
+      - https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains/
+      - https://windowsforum.com/news/github-copilot-for-jetbrains-1-18-adds-preview-assisted-approvals.445531/
+      - https://daily.dev/posts/new-features-and-improvements-in-copilot-for-jetbrains-0sw9sg9z8
+  - fingerprint: openclaw-2026-9-6-macos-crash-sparkle-withdrawal
+    title: "OpenClaw's v2026.9.6 release bricks macOS launches within hours, pulled from auto-update"
+    first_seen: 2026-09-24
+    digest: essential-skill-md-for-productivity-2026-Sep-24.html
+    urls:
+      - https://github.com/openclaw/openclaw/issues/156861
+      - https://github.com/openclaw/openclaw/pull/156881
+      - https://github.com/openclaw/openclaw/releases
+  - fingerprint: knowledge-as-skill-skillmd-knowledge-base-index-arxiv
+    title: "A new arXiv paper repurposes SKILL.md itself as the index layer for agent knowledge bases"
+    first_seen: 2026-09-24
+    digest: essential-skill-md-for-productivity-2026-Sep-24.html
+    urls:
+      - https://arxiv.org/abs/2609.25991
+      - https://arxiv.org/html/2609.25991
   - fingerprint: claude-opus-5-5-launch-claude-code-copilot-default
     title: "Claude Opus 5.5 ships and instantly becomes Claude Code's default model"
     first_seen: 2026-09-23
@@ -1624,6 +1664,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-24
+- **Claude Marketplace launch (Sep 23)** — Anthropic opened a purchasing route letting enterprises redirect committed API spend toward Claude-powered partner products (CrowdStrike, Cursor, Harvey, Legora, Lovable, Snowflake, plus SI partners) with no Anthropic cut; eligible commitment share not yet disclosed. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-24.html)
+- **Claude Code v2.1.281 (Sep 23)** — adds Claude apps gateway policy keys and Bedrock cross-account IAM role assumption/guardrails; `/skills`, `/context` and `/plugin` now show claude.ai-synced skills by short name; `/code-review` moved to leaner inline prompts; default MCP negotiation moved to 2026-07-28. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-24.html)
+- **GitHub Copilot for JetBrains 1.18 (Sep 22)** — local and cloud Copilot agent sessions in JetBrains IDEs gain organization/enterprise shared skills and custom instructions, plus public-preview AI-assisted tool approvals and Codex plan-mode review. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-24.html)
+- **OpenClaw v2026.9.6 macOS crash (Sep 23)** — the release bricks macOS launches (async sleep-frame bug, issue #156861); pulled from the Sparkle feed within hours pending a 2026.9.7 hotfix (PR #156881), while its gateway/channel-delivery reliability fixes shipped cleanly on other platforms. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-24.html)
+- **Knowledge-as-Skill (arXiv, Sep 22)** — proposes a SKILL.md discovery file plus per-directory index.md and YAML-frontmatter documents as a structural scheme for making agent knowledge bases self-describing and navigable, not just retrievable. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-24.html)
 
 ## 2026-Sep-23
 - **Claude Opus 5.5 launch (Sep 22)** — cheaper (~40% off typical Opus cost), faster (30%+), 1M-context model became Claude Code's default in v2.1.280 the same day (with `/skills` list mouse support and a raisable MCP tool-description cap) and reached GitHub Copilot hours later; OpenAI answered same-day with two cheaper GPT-6 models. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-23.html)
