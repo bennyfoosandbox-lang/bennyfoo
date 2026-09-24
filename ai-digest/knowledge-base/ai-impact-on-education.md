@@ -2,10 +2,48 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-23
-run_count: 44
-digest_count: 41
+last_run: 2026-09-24
+run_count: 45
+digest_count: 42
 entries:
+  - fingerprint: dartmouth-provost-schnell-ai-written-columns-pangram-sep2026
+    title: "Dartmouth's AI-ethics provost is accused of using AI to ghostwrite his own columns on AI in education"
+    first_seen: 2026-09-24
+    digest: ai-impact-on-education-2026-Sep-24.html
+    urls:
+      - https://www.thedartmouth.com/article/2026/09/schnell-ai-writing
+      - https://www.chronicle.com/article/dartmouths-provost-quietly-used-ai-in-his-published-work-its-touched-off-a-campus-firestorm
+      - https://www.insidehighered.com/opinion/columns/just-visiting/2026/09/24/dartmouths-provost-has-stopped-writing
+      - https://www.thedartmouth.com/article/2026/09/moyse-fire-provost-santiago-schnell
+  - fingerprint: arxiv-ai-admissions-essays-widespread-penalized-equity-sep2026
+    title: "New study: AI made college essays better and admissions worse for the applicants who used it"
+    first_seen: 2026-09-24
+    digest: ai-impact-on-education-2026-Sep-24.html
+    urls:
+      - https://arxiv.org/abs/2609.22549
+      - https://ghost.edandclass.com/penalizing-mostly-low-income-applicants-for-ai-use-on-college-admissions-essays/
+      - https://gradpilot.com/news/ai-college-admissions-research-evidence-major-studies
+  - fingerprint: sanoma-european-teacher-survey-2026-ai-adoption-sep2026
+    title: "63% of European teachers now use AI — but only 16% think it actually helps students learn"
+    first_seen: 2026-09-24
+    digest: ai-impact-on-education-2026-Sep-24.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/09/24/3367985/0/en/european-teachers-are-adopting-ai-rapidly-but-want-tools-built-for-education.html
+      - https://www.sanomalearning.com/en/our-solutions/european-teacher-survey/
+  - fingerprint: insidehighered-provosts-survey-2026-ai-strategy-gap-sep2026
+    title: "Seven in 10 provosts use AI weekly — almost none have an institutional AI strategy"
+    first_seen: 2026-09-24
+    digest: ai-impact-on-education-2026-Sep-24.html
+    urls:
+      - https://www.insidehighered.com/news/governance/executive-leadership/2026/09/23/ai-use-funding-cuts-how-provosts-navigate-2026
+      - https://www.insidehighered.com/news/quick-takes/2026/09/23/provosts-survey-2026-responsiveness-amid-constraint
+  - fingerprint: digital-promise-k12-ai-infrastructure-second-cohort-grantees-sep2026
+    title: "Digital Promise's $26M K-12 AI fund names its second cohort, pivoting to formative assessment"
+    first_seen: 2026-09-24
+    digest: ai-impact-on-education-2026-Sep-24.html
+    urls:
+      - https://digitalpromise.org/2026/09/21/new-grantees-awarded-by-the-k-12-ai-infrastructure-program/
+      - https://k12-ai-infrastructure.org/rfp-due-march-8-2026/
   - fingerprint: massachusetts-district-ai-policy-patchwork-boston-chatgpt-block-sep2026
     title: "Massachusetts shows what \"AI policy\" looks like with no state mandate: a patchwork, three years running"
     first_seen: 2026-09-23
@@ -1663,6 +1701,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-24
+- **Dartmouth's AI-ethics provost is accused of using AI to ghostwrite his own columns on AI in education** — an investigation by The Dartmouth found AI-detector Pangram scored a median of 96% "AI-written" across nine of Provost Santiago Schnell's 2026 published articles (vs. 100% human-written pre-2022), an awkward twist given Schnell's own public advocacy for redesigning assessment around undisclosed AI use. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-24.html)
+- **New study: AI made college essays better and admissions worse for the applicants who used it** — an arXiv working paper on ~7,500 applications to a US public-policy master's program finds 56% of the latest cycle's essays were likely AI-generated despite a ban, AI-flagged essays were admitted at lower rates, and admission-rate gaps for lower-income applicants widened even as AI narrowed writing-style gaps. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-24.html)
+- **63% of European teachers now use AI — but only 16% think it actually helps students learn** — Sanoma Learning's 2026 European Teacher Survey (20,000+ teachers, 14 countries) finds fast-rising AI adoption paired with thin confidence in its learning value and strong demand for education-purpose-built tools over general chatbots. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-24.html)
+- **Seven in 10 provosts use AI weekly — almost none have an institutional AI strategy** — Inside Higher Ed's 2026 provosts survey (376 CAOs) finds heavy personal AI use by provosts alongside almost no centralized institutional strategy, with faculty resistance, student-impact concerns and cost cited as the top barriers amid real budget strain. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-24.html)
+- **Digital Promise's $26M K-12 AI fund names its second cohort, pivoting to formative assessment** — eight new grantees (including a Maine Math & Science Alliance/TERC multimodal-assessment dataset and the OpenLiteracy early-reading suite) will build openly licensed AI infrastructure for real-time formative assessment, continuing the program's bet on public AI infrastructure over vendor lock-in. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-24.html)
 
 ## 2026-Sep-23
 - **Massachusetts shows what "AI policy" looks like with no state mandate: a patchwork, three years running** — Boston blocks ChatGPT but allows Gemini, Lexington and Medfield take looser approaches, and Newton is rewriting its guidance for a third straight year, as the state weighs a proposed graduation requirement for responsible AI use. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-23.html)
