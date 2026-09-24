@@ -2,10 +2,53 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-23
-run_count: 55
-digest_count: 55
+last_run: 2026-09-24
+run_count: 56
+digest_count: 56
 entries:
+  - fingerprint: un-security-council-altman-amodei-ai-safety-standards-sep2026
+    title: "Altman and Amodei tell the UN Security Council the industry can't govern AI alone"
+    first_seen: 2026-09-24
+    digest: using-ai-for-business-productivity-2026-Sep-24.html
+    urls:
+      - https://www.cnn.com/2026/09/23/tech/altman-amodei-ai-safety-un-security-council
+      - https://www.bloomberg.com/news/articles/2026-09-23/altman-amodei-call-for-global-cooperation-on-ai-to-boost-safety
+      - https://news.un.org/en/story/2026/09/1168414
+      - https://fortune.com/2026/09/23/trump-un-ai-globalist-scheme-altman-amodei-security-council/
+  - fingerprint: go-ai-85m-series-a-on-prem-regulated-industries-sep2026
+    title: "Go.AI raises $85M to sell regulated industries AI that never leaves their firewall"
+    first_seen: 2026-09-24
+    digest: using-ai-for-business-productivity-2026-Sep-24.html
+    urls:
+      - https://www.businesswire.com/news/home/20260922352774/en/Go.AI-Raises-$85-Million-Series-A-to-Accelerate-On-Prem-AI-Infrastructure-for-Regulated-Industries
+      - https://finance.yahoo.com/technology/ai/articles/ai-raises-85-million-series-120000215.html
+      - https://finovate.com/go-ai-secures-85-million-in-series-a-funding/
+      - https://fintech.global/2026/09/22/go-ai-raises-85m-series-a-for-on-prem-ai-push/
+  - fingerprint: wso2-agent-manager-ga-governance-sep2026
+    title: "WSO2 ships a vendor-neutral control plane to rein in enterprise AI agent sprawl"
+    first_seen: 2026-09-24
+    digest: using-ai-for-business-productivity-2026-Sep-24.html
+    urls:
+      - https://wso2.com/about/news/wso2-launches-agent-manager/
+      - https://www.infoq.com/news/2026/09/ws02-agent-manager/
+      - https://www.globenewswire.com/news-release/2026/09/15/3362114/0/en/wso2-agent-manager-brings-sovereign-ai-governance-to-enterprise-agent-sprawl.html
+      - https://www.itnewsafrica.com/2026/09/wso2-agent-manager-brings-sovereign-ai-governance-to-enterprise-agent-sprawl/
+  - fingerprint: zoom-ai-revenue-os-launch-barracuda-results-sep2026
+    title: "Zoom's AI \"Revenue OS\" pitches quota numbers, not just chatbot demos"
+    first_seen: 2026-09-24
+    digest: using-ai-for-business-productivity-2026-Sep-24.html
+    urls:
+      - https://news.zoom.com/zoom-unveils-ai-powered-revenue-os/
+      - https://finance.yahoo.com/technology/ai/articles/zoom-launches-ai-powered-revenue-141012786.html
+      - https://www.globenewswire.com/news-release/2026/09/15/3362161/0/en/zoom-unveils-ai-powered-revenue-os-to-unify-buyer-intelligence-customer-conversations-and-revenue-execution.html
+      - https://telecomreseller.com/2026/09/18/zoom-unveils-ai-powered-revenue-os-to-unify-buyer-intelligence-customer-conversations-and-revenue-execution/
+  - fingerprint: gartner-ai-vendors-not-enterprise-ready-sep2026
+    title: "Gartner to CIOs: don't trust your AI vendors' enterprise claims yet"
+    first_seen: 2026-09-24
+    digest: using-ai-for-business-productivity-2026-Sep-24.html
+    urls:
+      - https://www.theregister.com/ai-and-ml/2026/09/14/ai-and-its-main-promoters-are-not-enterprise-ready-says-gartner/5296074
+      - https://www.arnnet.com.au/article/4221889/ai-vendors-testing-traditional-it-assumptions-and-creating-trust-deficit-gartner.html
   - fingerprint: anthropic-openai-price-war-opus-5-5-gpt-6-sol-luna-sep2026
     title: "Anthropic and OpenAI cut prices on new flagship models, reopening the AI cost war"
     first_seen: 2026-09-23
@@ -2304,6 +2347,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-24
+- **Altman and Amodei tell the UN Security Council the industry can't govern AI alone** — France-convened Sept 23 briefing; Amodei proposes narrow bans, mutual verification and an incident-notification standard, Altman calls for shared capability-assessment criteria; lands the same day Trump calls AI oversight a "globalist scheme." [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-24.html)
+- **Go.AI raises $85M to sell regulated industries AI that never leaves their firewall** — Series A led by Updata Partners (Sept 22), total funding $90M; 200+ customers processing 12.5M+ queries/day on-prem across financial services, healthcare, aerospace/defense and manufacturing; ARR up 8x YoY while profitable. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-24.html)
+- **WSO2 ships a vendor-neutral control plane to rein in enterprise AI agent sprawl** — Agent Manager reaches GA in September (beta since June), Apache 2.0 open-source governance layer for identity/policy/observability across any agent framework, competing with ServiceNow/Cisco/Workday's proprietary tooling. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-24.html)
+- **Zoom's AI "Revenue OS" pitches quota numbers, not just chatbot demos** — Sept 15 launch pairs Common Room buyer intelligence with Revenue Accelerator's Engage/Forecast; customer Barracuda Networks reports 15% more deals closed, 5% faster velocity, reps at 100-140% of quota; IDC names Zoom a 2026 MarketScape Leader. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-24.html)
+- **Gartner to CIOs: don't trust your AI vendors' enterprise claims yet** — Sept IT Symposium keynote (Plummer/Moyer) says AI vendors "are not enterprise grade" on terms, liability and continuity; 86% of CIOs see AI risk outpacing value, 40%+ of agentic AI projects forecast to be canceled by 2027. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-24.html)
 
 ## 2026-Sep-23
 - **Anthropic and OpenAI cut prices on new flagship models, reopening the AI cost war** — Claude Opus 5.5 runs ~40% cheaper than Opus 5; OpenAI answers with GPT-6 Sol and Luna at roughly half of GPT-5.6's promotional rates. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-23.html)
