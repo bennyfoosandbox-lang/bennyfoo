@@ -2,10 +2,53 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-24
-run_count: 56
-digest_count: 56
+last_run: 2026-09-25
+run_count: 57
+digest_count: 57
 entries:
+  - fingerprint: amazon-seller-assistant-claude-plugin-sep2026
+    title: "Amazon opens its Seller Assistant to outside AI tools, starting with Claude"
+    first_seen: 2026-09-25
+    digest: using-ai-for-business-productivity-2026-Sep-25.html
+    urls:
+      - https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/
+      - https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-plugin-amazon-quick-claude
+      - https://siliconangle.com/2026/09/23/amazons-new-plugin-lets-sellers-manage-their-entire-ecommerce-business-with-ai/
+      - https://www.unixcommerce.com/2026/09/24/amazon-seller-assistant-adds-24-7-automation-and-claude-integration/
+  - fingerprint: frontier-ai-standards-agency-krishnan-ceo-sep2026
+    title: "Google, OpenAI and Anthropic court Sriram Krishnan to run their new AI safety body"
+    first_seen: 2026-09-25
+    digest: using-ai-for-business-productivity-2026-Sep-25.html
+    urls:
+      - https://www.bankinfosecurity.com/google-openai-anthropic-plan-frontier-ai-standards-body-a-32926
+      - https://aiweekly.co/alerts/google-openai-anthropic-court-sriram-krishnan-for-ai-safety-body
+      - https://phemex.com/news/article/google-openai-and-anthropic-form-new-ai-safety-standards-body-97758
+      - https://finance.biggo.com/news/68b8e4d6-f606-424a-ad58-a0dc7ae22dcf
+  - fingerprint: alibaba-agentcore-apsara-agentic-cloud-sep2026
+    title: "Alibaba Cloud unveils AgentCore, betting enterprises want a managed agent stack, not raw models"
+    first_seen: 2026-09-25
+    digest: using-ai-for-business-productivity-2026-Sep-25.html
+    urls:
+      - https://pandaily.com/alibaba-cloud-agentic-cloud-agentcore-cpfs-hpn-8-0-pro
+      - https://techafricanews.com/2026/09/24/alibaba-full-stack-ai-strategy-qwen-chips-agentic-cloud/
+      - https://news.futunn.com/en/post/1000063650/alibaba-cloud-launches-enterprise-grade-agent-platform-agentcore
+      - https://panafricanvisions.com/2026/09/alibaba-unveils-roadmap-on-full-stack-ai-strategy-from-chips-cloud-infrastructure-models-to-agents/
+  - fingerprint: ema-77m-series-b-ai-employees-sep2026
+    title: "Ema raises $77M as \"AI employees\" start eating into enterprise software budgets"
+    first_seen: 2026-09-25
+    digest: using-ai-for-business-productivity-2026-Sep-25.html
+    urls:
+      - https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/
+      - https://www.globenewswire.com/news-release/2026/09/23/3367506/0/en/ema-raises-77m-series-b-to-put-ai-employees-to-work-across-the-enterprise.html
+      - https://www.pymnts.com/news/artificial-intelligence/2026/ema-secures-77-million-to-scale-ai-agents-across-enterprises/
+  - fingerprint: paychex-wise-hire-agentic-recruiting-sep2026
+    title: "Paychex launches WISE Hire, betting agentic AI can hire small-business staff 4x faster"
+    first_seen: 2026-09-25
+    digest: using-ai-for-business-productivity-2026-Sep-25.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/09/23/3367408/0/en/paychex-introduces-agentic-ai-recruiting-capabilities-through-wise-hire.html
+      - https://www.paychex.com/newsroom/news-releases/paychex-wise-hire-ai-recruiting
+      - https://www.stocktitan.net/news/PAYX/paychex-introduces-agentic-ai-recruiting-capabilities-through-wise-c6ls5ntqap0i.html
   - fingerprint: un-security-council-altman-amodei-ai-safety-standards-sep2026
     title: "Altman and Amodei tell the UN Security Council the industry can't govern AI alone"
     first_seen: 2026-09-24
@@ -2347,6 +2390,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-25
+- **Amazon opens its Seller Assistant to outside AI tools, starting with Claude** — Sept 23 launch adds persistent memory, always-on workflows and a Selling Partner plugin piping listings/inventory/analytics into Amazon Quick and beta Claude; sellers approve actions with full audit trail; Amazon cites 90% of sellers already using third-party AI. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-25.html)
+- **Google, OpenAI and Anthropic court Sriram Krishnan to run their new AI safety body** — updates the Sept-19 "cartel" story: the voluntary body now has a tentative name (Frontier AI Standards Agency / SAFA, modeled on FINRA) and a leadership shortlist (Krishnan as CEO candidate, plus Prabhakar, Rice, Friedberg); would launch without government oversight. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-25.html)
+- **Alibaba Cloud unveils AgentCore, betting enterprises want a managed agent stack, not raw models** — Apsara Conference roadmap adds AI Native Cloud, Agent Native Cloud (AgentCore + Agent Security Center) and Agent Context, which Alibaba says cuts token usage up to 67%; shifts Alibaba's pitch from cheap models to production-ready agent infrastructure. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-25.html)
+- **Ema raises $77M as "AI employees" start eating into enterprise software budgets** — Sept 23 Series B led by Creaegis brings total funding to $140M at 4x+ prior valuation; Ema claims 50+ enterprise deals, 1M+ active users (NTT DATA, Hitachi, ADP, PwC, KPMG, Microsoft among customers), 50x revenue growth over two years. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-25.html)
+- **Paychex launches WISE Hire, betting agentic AI can hire small-business staff 4x faster** — Sept 23 AI-native recruiting product automates multi-channel sourcing (Google for Jobs, Meta local jobs), screening, coordination and scheduling for Paychex's SMB HCM base, with human-in-the-loop final hiring decisions. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-25.html)
 
 ## 2026-Sep-24
 - **Altman and Amodei tell the UN Security Council the industry can't govern AI alone** — France-convened Sept 23 briefing; Amodei proposes narrow bans, mutual verification and an incident-notification standard, Altman calls for shared capability-assessment criteria; lands the same day Trump calls AI oversight a "globalist scheme." [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-24.html)
