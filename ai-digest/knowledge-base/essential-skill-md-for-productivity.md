@@ -2,10 +2,47 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-24
-run_count: 50
-digest_count: 50
+last_run: 2026-09-25
+run_count: 51
+digest_count: 51
 entries:
+  - fingerprint: claude-code-v2-1-282-maxprosewidth-telemetry-notice
+    title: "Claude Code v2.1.282 caps prose width and stops undecryptable web-search history from killing conversations"
+    first_seen: 2026-09-25
+    digest: essential-skill-md-for-productivity-2026-Sep-25.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.282
+      - https://code.claude.com/docs/en/changelog
+      - https://ccleaks.com/news/claude-code-2-1-282-sep-2026
+  - fingerprint: skillapt-counterfactual-activation-control-arxiv
+    title: "SkillApt teaches agents when to skip a matched skill, cutting activation to 31.5% with no accuracy loss"
+    first_seen: 2026-09-25
+    digest: essential-skill-md-for-productivity-2026-Sep-25.html
+    urls:
+      - https://arxiv.org/abs/2609.26863
+      - https://arxiv.org/html/2609.26863
+  - fingerprint: devin-knowledge-to-skills-migration-plugin-fixes
+    title: "Devin retires 'Knowledge' notes for Skills, then spends a week fixing what broke"
+    first_seen: 2026-09-25
+    digest: essential-skill-md-for-productivity-2026-Sep-25.html
+    urls:
+      - https://docs.devin.ai/release-notes/overview
+      - https://releasebot.io/updates/devin
+  - fingerprint: github-copilot-cli-v1-0-89-series-model-picker-fixes
+    title: "GitHub Copilot CLI ships four v1.0.89 point releases in three days, wiring in Claude Opus 5.5 and GPT-6"
+    first_seen: 2026-09-25
+    digest: essential-skill-md-for-productivity-2026-Sep-25.html
+    urls:
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.89-0
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.89-3
+      - https://github.com/github/copilot-cli/releases
+  - fingerprint: openclaw-2026-9-6-crash-root-cause-fix-merged
+    title: "OpenClaw traces its 2026.9.6 crash-loop to an 8-byte stack-frame bug and merges the fix"
+    first_seen: 2026-09-25
+    digest: essential-skill-md-for-productivity-2026-Sep-25.html
+    urls:
+      - https://github.com/openclaw/openclaw/pull/156881
+      - https://github.com/openclaw/openclaw/issues/156861
   - fingerprint: anthropic-claude-marketplace-launch-committed-spend
     title: "Anthropic opens the Claude Marketplace, turning committed API spend into a procurement channel"
     first_seen: 2026-09-24
@@ -1664,6 +1701,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-25
+- **Claude Code v2.1.282 (Sep 24)** — adds `maxProseWidth` for wide terminals, a telemetry-variable audit in `/status`/`claude doctor`, and fixes 400 errors from undecryptable web-search history, dropped extended thinking on mid-turn slash commands, and `/skills`/`/mcp` list rendering. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-25.html)
+- **SkillApt (arXiv, Sep 22)** — a post-retrieval LOAD/ABSTAIN controller matches BM25 Top-1 accuracy (0.838 vs. 0.838) on SRA-Bench while cutting skill activation from 100% to 31.5% and token usage by 74.3%, arguing retrieval and activation are separate decisions. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-25.html)
+- **Devin Knowledge→Skills migration (Sep 18, fixes through Sep 24)** — Cognition's Devin auto-converts legacy Knowledge notes into per-scope Skill plugins, then spends the week fixing skill-content truncation, `$ARGUMENTS`/`$1`–`$9` interpolation, mid-session skill re-listing after compaction, and plugin-origin labeling. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-25.html)
+- **GitHub Copilot CLI v1.0.89-0 through -3 (Sep 22–24)** — four releases in three days add Claude Opus 5.5 and GPT-6 Sol/Luna to the model picker, fix `view_range` handling and MCP OAuth scopes, and add Windows sandboxed-localhost access and model-ID autocomplete. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-25.html)
+- **OpenClaw crash root cause (Sep 24)** — traces the 2026.9.6 macOS crash-loop to an 8-byte-too-small async stack frame in the compiled ARM64 binary; fix merged pending a 2026.9.7 preflight build and mandatory binary audit. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-25.html)
 
 ## 2026-Sep-24
 - **Claude Marketplace launch (Sep 23)** — Anthropic opened a purchasing route letting enterprises redirect committed API spend toward Claude-powered partner products (CrowdStrike, Cursor, Harvey, Legora, Lovable, Snowflake, plus SI partners) with no Anthropic cut; eligible commitment share not yet disclosed. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-24.html)
