@@ -2,10 +2,53 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-24
-run_count: 45
-digest_count: 42
+last_run: 2026-09-25
+run_count: 46
+digest_count: 43
 entries:
+  - fingerprint: utah-usbe-google-gemini-statewide-rollout-sep2026
+    title: "Utah becomes the first state to put Google's Gemini in front of every public-school student"
+    first_seen: 2026-09-25
+    digest: ai-impact-on-education-2026-Sep-25.html
+    urls:
+      - https://www.ksl.com/article/news/utah/science-and-tech/utah-introduces-ai-tools-in-classrooms-statewide/51506597
+      - https://blog.google/products-and-platforms/products/education/utah-state-education-partnership/
+      - https://kutv.com/news/education/utah-schools-to-adopt-gemini-ai-tools-for-students-educators
+      - https://utahpolicy.com/news-release/77622-usbe-adopts-gemini-for-education-to-enhance-student-learning-and-teacher-support
+  - fingerprint: pitt-passhe-faculty-unions-ai-job-security-bargaining-sep2026
+    title: "\"Professor Claude?\" College unions start bargaining over AI, not just policing it"
+    first_seen: 2026-09-25
+    digest: ai-impact-on-education-2026-Sep-25.html
+    urls:
+      - https://www.publicsource.org/pitt-unions-ai-bargaining/
+      - https://www.opencampus.org/2026/09/23/professor-claude-college-unions-negotiate-for-protection-against-ai-teachers-and-evaluators/
+  - fingerprint: college-wage-premium-ai-exposed-majors-research-sep2026
+    title: "New research ties AI directly to the shrinking payoff of a college degree"
+    first_seen: 2026-09-25
+    digest: ai-impact-on-education-2026-Sep-25.html
+    urls:
+      - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7364838
+      - https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html
+      - https://marginalrevolution.com/marginalrevolution/2026/09/the-college-wage-premium-in-the-generative-ai-era.html
+      - https://www.independent.org/article/2026/09/21/value-college-degree-collapsing/
+      - https://www.chalkbeat.org/2026/09/24/chalkbeat-ideas-roundup-ai-college-nyc-schools/
+  - fingerprint: challenge-success-survey-critical-thinking-erosion-homework-sep2026
+    title: "Teachers' real fear isn't cheating anymore — it's that AI is eroding critical thinking"
+    first_seen: 2026-09-25
+    digest: ai-impact-on-education-2026-Sep-25.html
+    urls:
+      - https://www.the74million.org/article/homework-artificial-intelligence-cheating/
+      - https://kvia.com/stacker-k-12/2026/09/23/the-end-of-homework-teachers-grapple-with-cheating-in-the-age-of-ai/
+      - https://localnews8.com/stacker-k-12/2026/09/24/the-end-of-homework-teachers-grapple-with-cheating-in-the-age-of-ai/
+  - fingerprint: uk-seldon-bunting-national-ai-framework-schools-report-sep2026
+    title: "UK report: schools are \"bewildered\" by AI and need a national plan by next September"
+    first_seen: 2026-09-25
+    digest: ai-impact-on-education-2026-Sep-25.html
+    urls:
+      - https://www.yahoo.com/news/us/articles/schools-not-ready-ai-crying-000214705.html
+      - https://edexec.co.uk/news-report-calls-for-national-ai-plan-for-schools/
+      - https://www.info-gov.uk/data-protection/data-protection-news/seldon-report-calls-for-federated-pupil-data-model-and-data-lakes-to-drive-ai-in-schools
+      - https://assets.nationbuilder.com/stonehaven/pages/6430/attachments/original/1790070901/Britain's_Greatest_Education_Opportunity_Ever_report.pdf
   - fingerprint: dartmouth-provost-schnell-ai-written-columns-pangram-sep2026
     title: "Dartmouth's AI-ethics provost is accused of using AI to ghostwrite his own columns on AI in education"
     first_seen: 2026-09-24
@@ -1701,6 +1744,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-25
+- **Utah becomes the first state to put Google's Gemini in front of every public-school student** — USBE signed a statewide data-privacy agreement with Google to roll out Gemini for Education across all Utah public schools in 2026-27 (~680,000 students, 28,000 educators), leaving adoption itself to individual districts and charters ("LEA choice") while standardizing the privacy terms. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-25.html)
+- **"Professor Claude?" College unions start bargaining over AI, not just policing it** — Pitt faculty, staff and grad students, plus PASSHE faculty and coaches, are pushing job-security, privacy and human-evaluation protections against AI into new collective bargaining agreements, echoing the St. Paul Federation of Educators' 2025 no-AI-driven-layoffs clause. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-25.html)
+- **New research ties AI directly to the shrinking payoff of a college degree** — an SSRN paper finds AI-exposed occupations explain roughly a third of the college wage premium's drop from 0.626 (2022) to 0.575 (2026), while a companion Census working paper finds the most AI-exposed college majors saw initial-employment odds fall 5 points and starting earnings drop 13% since ChatGPT's 2022 debut. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-25.html)
+- **Teachers' real fear isn't cheating anymore — it's that AI is eroding critical thinking** — a Challenge Success survey of 678 US faculty/staff finds 58% cite eroding critical thinking, not cheating, as their top AI concern; widely syndicated "end of homework?" reporting frames take-home work itself as losing its function as proof of learning. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-25.html)
+- **UK report: schools are "bewildered" by AI and need a national plan by next September** — Sir Anthony Seldon and Tim Bunting's Public First report "Britain's Greatest Education Opportunity Ever" calls England's AI rollout "chaotic and anarchic" and urges a national school AI framework by September 2027, including a two-lane assessment model and federated pupil-data "data lakes." [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-25.html)
 
 ## 2026-Sep-24
 - **Dartmouth's AI-ethics provost is accused of using AI to ghostwrite his own columns on AI in education** — an investigation by The Dartmouth found AI-detector Pangram scored a median of 96% "AI-written" across nine of Provost Santiago Schnell's 2026 published articles (vs. 100% human-written pre-2022), an awkward twist given Schnell's own public advocacy for redesigning assessment around undisclosed AI use. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-24.html)
