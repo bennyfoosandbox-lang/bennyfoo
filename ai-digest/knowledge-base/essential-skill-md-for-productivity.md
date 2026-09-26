@@ -2,10 +2,40 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-25
-run_count: 51
-digest_count: 51
+last_run: 2026-09-26
+run_count: 52
+digest_count: 52
 entries:
+  - fingerprint: claude-code-v2-1-283-doctor-prompt-audit-gateway-hints
+    title: "Claude Code v2.1.283 adds a skill/agent prompt audit, gateway hint headers, and stricter model allowlists"
+    first_seen: 2026-09-26
+    digest: essential-skill-md-for-productivity-2026-Sep-26.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.283
+      - https://code.claude.com/docs/en/changelog
+      - https://ccleaks.com/news/claude-code-2-1-283-sep-2026
+  - fingerprint: skilder-progressive-skill-discovery-access-control-arxiv
+    title: "Skilder packages enterprise tools into role-scoped skill bundles so agents can't touch what they haven't learned"
+    first_seen: 2026-09-26
+    digest: essential-skill-md-for-productivity-2026-Sep-26.html
+    urls:
+      - https://arxiv.org/abs/2609.28693
+      - https://arxiv.org/html/2609.28693
+  - fingerprint: skillgym-internalizing-human-skills-training-envs-arxiv
+    title: "SkillGym turns 2,756 human-written skills into training environments to internalize workflows into model weights"
+    first_seen: 2026-09-26
+    digest: essential-skill-md-for-productivity-2026-Sep-26.html
+    urls:
+      - https://arxiv.org/abs/2609.27717
+      - https://arxiv.org/html/2609.27717
+  - fingerprint: microsoft-declarative-agent-skills-general-availability-sept2026
+    title: "Microsoft 365 Copilot's Skills in Declarative Agents complete their rollout to general availability"
+    first_seen: 2026-09-26
+    digest: essential-skill-md-for-productivity-2026-Sep-26.html
+    urls:
+      - https://pupuweb.com/mc1476977-skills-in-declarative-agents-becoming-generally-available/
+      - https://mwpro.co.uk/blog/2026/09/22/mc1476977-microsoft-365-copilot-adds-skills-support-to-declarative-agents-for-general-availability/
+      - https://mc.merill.net/message/MC1476977
   - fingerprint: claude-code-v2-1-282-maxprosewidth-telemetry-notice
     title: "Claude Code v2.1.282 caps prose width and stops undecryptable web-search history from killing conversations"
     first_seen: 2026-09-25
@@ -1701,6 +1731,12 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-26
+- **Claude Code v2.1.283 (Sep 26)** — adds `/doctor prompt-audit` to flag CLAUDE.md/skills/agents/commands written for older models, an opt-in gateway hint header (`x-claude-code-prompt-id`) for grouping requests, and `availableModelsMatch: "exact"`/`deniedModels` managed settings for pinning or blocking model versions. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-26.html)
+- **Skilder (arXiv, Sep 26)** — packages enterprise tools into role-scoped skill bundles delivered through a single MCP server, so an agent only receives a tool once it has learned the role/skill that unlocks it, enforcing scope deterministically instead of relying on prompt-level policy. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-26.html)
+- **SkillGym (arXiv, Sep 25)** — converts human-written skills into 2,756 verifiable training environments across 12 categories (8,364 successful trajectories) to internalize skill workflows into model weights rather than just retrieving them at inference time. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-26.html)
+- **Microsoft Skills in Declarative Agents reaches GA (MC1476977, rollout Sep 22–30)** — the Sep 14 preview of packaged SKILL.md-style capabilities for Microsoft 365 Copilot declarative agents completes its rollout to general availability. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-26.html)
 
 ## 2026-Sep-25
 - **Claude Code v2.1.282 (Sep 24)** — adds `maxProseWidth` for wide terminals, a telemetry-variable audit in `/status`/`claude doctor`, and fixes 400 errors from undecryptable web-search history, dropped extended thinking on mid-turn slash commands, and `/skills`/`/mcp` list rendering. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-25.html)
