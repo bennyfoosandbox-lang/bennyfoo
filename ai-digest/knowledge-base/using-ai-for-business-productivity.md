@@ -2,10 +2,56 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-25
-run_count: 57
-digest_count: 57
+last_run: 2026-09-26
+run_count: 58
+digest_count: 58
 entries:
+  - fingerprint: microsoft-copilot-super-app-official-launch-sep2026
+    title: "Microsoft officially unveils its Copilot \"super app,\" pitching Home, Code and Autopilot at business users"
+    first_seen: 2026-09-26
+    digest: using-ai-for-business-productivity-2026-Sep-26.html
+    urls:
+      - https://fortune.com/2026/09/25/microsoft-unveils-copilot-super-app-targeting-business-users-with-ai-agents/
+      - https://www.geekwire.com/2026/microsoft-unveils-all-in-one-copilot-app-taking-on-anthropic-and-openai-in-new-push-to-boost-adoption/
+      - https://gizmodo.com/microsoft-thinks-its-finally-figured-out-copilot-this-time-2000817460
+      - https://www.pcworld.com/article/3243683/four-ways-that-microsofts-updated-copilot-will-rework-productivity.html
+      - https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-bundles-copilot-features-challenge-anthropic-openai-workplace/
+  - fingerprint: adobe-for-claude-acrobat-gemini-expansion-sep2026
+    title: "Adobe brings Acrobat's PDF tools into Claude and pushes Creative Cloud into Gemini"
+    first_seen: 2026-09-26
+    digest: using-ai-for-business-productivity-2026-Sep-26.html
+    urls:
+      - https://blog.adobe.com/en/publish/2026/09/24/adobe-comes-to-gemini-expands-what-you-can-do-in-claude
+      - https://www.digitaltrends.com/computing/adobe-just-made-claude-far-more-useful-for-pdfs-by-bringing-acrobat-tools-directly-into-the-chat/
+      - https://www.computerworld.com/article/4226747/adobes-next-platform-for-creative-cloud-your-ai-assistant.html
+      - https://www.channelnews.com.au/adobe-expands-claude-integration-with-acrobat-pdf-editing-tools/
+  - fingerprint: openai-chatgpt-voice-plugins-work-gpt6-sep2026
+    title: "OpenAI turns ChatGPT Voice into a business tool: plugins, model choice and spoken-to-document creation"
+    first_seen: 2026-09-26
+    digest: using-ai-for-business-productivity-2026-Sep-26.html
+    urls:
+      - https://9to5mac.com/2026/09/23/openai-just-upgraded-chatgpt-voice-in-three-ways/
+      - https://runtimewire.com/article/openai-chatgpt-voice-work-connected-apps
+      - https://finance.biggo.com/news/86ab5aa8-2305-4bcf-9b16-34821787c661
+      - https://aiweekly.co/alerts/openai-wires-chatgpt-voice-into-work-agent-and-gpt-6-models
+  - fingerprint: dataiku-agent-management-launch-sep2026
+    title: "Dataiku launches a product to find and police every AI agent a company has running, on any platform"
+    first_seen: 2026-09-26
+    digest: using-ai-for-business-productivity-2026-Sep-26.html
+    urls:
+      - https://www.dataiku.com/company/news/dataiku-agent-management-general-availability
+      - https://siliconangle.com/2026/09/24/dataiku-debuts-cross-platform-agent-management-expands-cobuild-building-agent/
+      - https://www.hpcwire.com/bigdatawire/this-just-in/dataiku-unveils-agent-management-to-track-enterprise-ai-agents-across-platforms/
+      - https://aithority.com/machine-learning/dataiku-launches-agent-management-to-track-and-manage-performance-of-ai-agents-built-and-running-on-leading-platforms/
+  - fingerprint: ando-agent-native-messaging-stealth-20m-seed-sep2026
+    title: "Ando emerges from stealth with $20M to rebuild team chat around AI agents, not just humans"
+    first_seen: 2026-09-26
+    digest: using-ai-for-business-productivity-2026-Sep-26.html
+    urls:
+      - https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/
+      - https://www.globenewswire.com/news-release/2026/09/24/3368344/0/en/ando-launches-agent-native-messaging-platform-announces-20-million-seed.html
+      - https://finance.yahoo.com/technology/ai/articles/ando-launches-agent-native-messaging-130000269.html
+      - https://martechseries.com/sales-marketing/messaging/ando-launches-agent-native-messaging-platform-announces-20-million-seed/
   - fingerprint: amazon-seller-assistant-claude-plugin-sep2026
     title: "Amazon opens its Seller Assistant to outside AI tools, starting with Claude"
     first_seen: 2026-09-25
@@ -2390,6 +2436,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-26
+- **Microsoft officially unveils its Copilot "super app," pitching Home, Code and Autopilot at business users** — Sept 25 launch converges consumer and Microsoft 365 Copilot into one tabbed app (Home/chat+Cowork, Code/describe-to-build, Autopilot/always-on agent formerly Scout); full Word/Excel/PowerPoint now live inside Copilot; Nadella calls it "a new OS for work." Updates the Aug-11/14 "merge begins" story with the finished product and rollout dates. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-26.html)
+- **Adobe brings Acrobat's PDF tools into Claude and pushes Creative Cloud into Gemini** — Sept 24: Acrobat joins the "Adobe for Claude" plugin (PDF organize/redact/interactive editor) alongside 80+ existing Acrobat/Express/Photoshop/Illustrator/Premiere tools; Adobe's creative tools also land in Gemini for the first time; global rollout immediate. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-26.html)
+- **OpenAI turns ChatGPT Voice into a business tool: plugins, model choice and spoken-to-document creation** — Sept 23: Voice gains email/calendar/Slack plugins, user-selectable GPT-6 Astra/Sol/Luna backends, and ChatGPT Work integration so Plus/Pro users can speak a request into a finished doc, deck, site or spreadsheet. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-26.html)
+- **Dataiku launches a product to find and police every AI agent a company has running, on any platform** — Sept 24 at Dataiku Succeed: Agent Management discovers agents across AWS Bedrock, Databricks, Vertex, Copilot Studio/Azure Foundry, Agentforce and Snowflake Cortex, tracks KPIs/performance and tiers risk; GA in October. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-26.html)
+- **Ando emerges from stealth with $20M to rebuild team chat around AI agents, not just humans** — Sept 24: agent-native messaging platform (Accel, Index, Emergence) lets agents (Codex, Claude, Grok, etc.) join channels/threads as first-class members with identity and permissions; already used across ~12 countries in software, real estate and financial services. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-26.html)
 
 ## 2026-Sep-25
 - **Amazon opens its Seller Assistant to outside AI tools, starting with Claude** — Sept 23 launch adds persistent memory, always-on workflows and a Selling Partner plugin piping listings/inventory/analytics into Amazon Quick and beta Claude; sellers approve actions with full audit trail; Amazon cites 90% of sellers already using third-party AI. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-25.html)
