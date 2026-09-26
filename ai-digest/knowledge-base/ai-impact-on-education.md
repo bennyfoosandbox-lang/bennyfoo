@@ -2,10 +2,38 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-25
-run_count: 46
-digest_count: 43
+last_run: 2026-09-26
+run_count: 47
+digest_count: 44
 entries:
+  - fingerprint: dartmouth-provost-schnell-removal-calls-review-sep2026
+    title: "Dartmouth's AI-ethics firestorm escalates: faculty and students now demand Provost Schnell's ouster"
+    first_seen: 2026-09-26
+    digest: ai-impact-on-education-2026-Sep-26.html
+    urls:
+      - https://www.bostonglobe.com/2026/09/25/metro/dartmouth-provost-artificial-intelligence-ai/
+      - https://www.thedartmouth.com/article/2026/09/sharma-hubbard-beilock-ai-statement
+      - https://www.thedartmouth.com/article/2026/09/moyse-fire-provost-santiago-schnell
+  - fingerprint: nysut-unplugged-conference-albany-garcia-sep2026
+    title: "New York's biggest teachers union stages a statewide reckoning on classroom AI — with a chatbot-death survivor's mother as keynote"
+    first_seen: 2026-09-26
+    digest: ai-impact-on-education-2026-Sep-26.html
+    urls:
+      - https://www.fingerlakes1.com/2026/09/26/nysut-conference-presses-for-limits-and-safeguards-on-classroom-ai/
+      - https://www.chalkbeat.org/newyork/2026/06/01/nysut-teachers-union-wants-ban-on-ai-screens-for-young-students/
+  - fingerprint: frontiers-k12-teacher-beliefs-five-countries-study-sep2026
+    title: "Five-country study finds teachers' enthusiasm for AI and their worries about it run on separate tracks"
+    first_seen: 2026-09-26
+    digest: ai-impact-on-education-2026-Sep-26.html
+    urls:
+      - https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1929017/full
+  - fingerprint: santa-barbara-unified-ai-task-force-launch-sep2026
+    title: "Santa Barbara's new AI task force meets for the first time — after parents say they were shut out of forming it"
+    first_seen: 2026-09-26
+    digest: ai-impact-on-education-2026-Sep-26.html
+    urls:
+      - https://www.newspress.com/2026/09/25/students-parents-teachers-want-their-voices-heard-on-artificial-intelligence-in-santa-barbara-schools/
+      - https://www.independent.com/2026/05/28/pencils-not-pixels-parents-push-for-stricter-tech-policies-pause-on-ai-in-santa-barbara-unified-schools/
   - fingerprint: utah-usbe-google-gemini-statewide-rollout-sep2026
     title: "Utah becomes the first state to put Google's Gemini in front of every public-school student"
     first_seen: 2026-09-25
@@ -1744,6 +1772,12 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-26
+- **Dartmouth's AI-ethics firestorm escalates: faculty and students now demand Provost Schnell's ouster** — an update on the 2026-09-24 story: faculty and students are now publicly calling for Schnell's removal, his own AI-defending statement was itself flagged 100% AI-written, and President Beilock has announced a formal review of his AI use with no set timeline. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-26.html)
+- **New York's biggest teachers union stages a statewide reckoning on classroom AI — with a chatbot-death survivor's mother as keynote** — 500+ educators, parents, lawmakers and advocates gathered in Albany for NYSUT's "Unplugged" conference; child-safety advocate Megan Garcia described an AI companion chatbot's role in her son's 2024 death, and neuroscientist Jared Cooney Horvath argued "tech will never be a learning tool." [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-26.html)
+- **Five-country study finds teachers' enthusiasm for AI and their worries about it run on separate tracks** — a Frontiers in Education survey of 1,405 K-12 teachers (US, India, Qatar, Colombia, Philippines) finds AI readiness/support explains ~50% of positive-belief variance but only 6-7% of plagiarism/creativity-concern variance, which instead tracks with country-specific factors. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-26.html)
+- **Santa Barbara's new AI task force meets for the first time — after parents say they were shut out of forming it** — SBUSD's task force held its first meeting, splitting into academic-integrity, teacher-guidelines, data-privacy and board-policy groups working toward a November board vote, while the "Pencils, Not Pixels" parents who pushed for it say they were excluded from it. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-26.html)
 
 ## 2026-Sep-25
 - **Utah becomes the first state to put Google's Gemini in front of every public-school student** — USBE signed a statewide data-privacy agreement with Google to roll out Gemini for Education across all Utah public schools in 2026-27 (~680,000 students, 28,000 educators), leaving adoption itself to individual districts and charters ("LEA choice") while standardizing the privacy terms. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-25.html)
