@@ -2,9 +2,9 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-26
-run_count: 58
-digest_count: 58
+last_run: 2026-09-27
+run_count: 59
+digest_count: 59
 entries:
   - fingerprint: microsoft-copilot-super-app-official-launch-sep2026
     title: "Microsoft officially unveils its Copilot \"super app,\" pitching Home, Code and Autopilot at business users"
@@ -2431,11 +2431,63 @@ entries:
       - https://avitrader.com/2026/08/12/ryanair-signs-five-year-google-cloud-partnership/
       - https://aviationsourcenews.com/ryanair-partners-with-google-cloud-on-five-year-data-and-ai-deal/
       - https://airlinegeeks.com/2026/08/12/ryanair-to-integrate-googles-ai-platform/
+  - fingerprint: ey-ai-governance-gap-47pct-circumvent-policies-sep2026
+    title: "EY: nearly half of big US companies are quietly bypassing their own AI governance rules"
+    first_seen: 2026-09-27
+    digest: using-ai-for-business-productivity-2026-Sep-27.html
+    urls:
+      - https://www.ey.com/en_us/newsroom/2026/09/ey-survey-finds-that-autonomous-ai-implementation-outpaces-oversight-yielding-an-ai-governance-gap
+      - https://techinformed.com/nearly-half-of-big-us-firms-have-bypassed-ai-governance/
+      - https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight
+      - https://www.globallegalpost.com/news/almost-half-of-us-companies-skip-their-ai-governance-policies-to-speed-up-deployment-ey-study-916839952
+  - fingerprint: california-no-robo-bosses-act-sb947-newsom-pending-sep2026
+    title: "California's second attempt at a \"No Robo Bosses Act\" now sits on Newsom's desk, deadline September 30"
+    first_seen: 2026-09-27
+    digest: using-ai-for-business-productivity-2026-Sep-27.html
+    urls:
+      - https://hoodline.com/2026/09/california-bill-would-stop-bosses-from-letting-ai-fire-workers-solo/
+      - https://www.mlex.com/mlex/artificial-intelligence/articles/2437078/california-senator-reintroduces-no-robo-bosses-act-after-last-year-s-veto
+      - https://www.crowell.com/en/insights/client-alerts/california-sb-947-no-robo-bosses-act-new-proposed-guardrails-on-use-of-automated-decision-systems-in-employer-discipline-and-termination-decisions
+      - https://news.bloomberglaw.com/daily-labor-report/californias-workplace-ai-decision-making-bill-heads-to-governor
+  - fingerprint: factory-200m-5b-valuation-autonomous-software-sep2026
+    title: "AI coding startup Factory triples its valuation to $5B in five months"
+    first_seen: 2026-09-27
+    digest: using-ai-for-business-productivity-2026-Sep-27.html
+    urls:
+      - https://pulse2.com/factory-raises-200-million-at-5-billion-valuation-to-scale-self-improving-software-development-platform/
+      - https://thenextweb.com/news/factory-200m-5bn-valuation-ai-coding-agents
+      - https://techstartups.com/2026/09/15/ai-coding-startup-factory-raises-200-million-more-than-triples-valuation-to-5-billion/
+      - https://factory.com/news/5-billion-valuation
+  - fingerprint: uk-workplace-monitoring-technologies-consultation-sep2026
+    title: "UK's consultation on AI workplace monitoring (\"bossware\") closes the same week as California's bill decision"
+    first_seen: 2026-09-27
+    digest: using-ai-for-business-productivity-2026-Sep-27.html
+    urls:
+      - https://www.aoshearman.com/en/insights/ao-shearman-on-employment/102ncu5/uk-government-consults-on-workplace-monitoring-technologies
+      - https://www.littler.com/news-analysis/asap/uk-government-consults-workplace-monitoring-technologies
+      - https://www.theregister.com/software/2026/08/04/uk-mulls-making-employers-ask-before-installing-bossware/5282440
+      - https://www.globalworkplaceinsider.com/2026/08/government-consultation-on-new-workplace-monitoring-technologies-rules/
+  - fingerprint: axya-17m-series-a-ai-procurement-manufacturers-sep2026
+    title: "Axya raises $17M CAD to bring AI procurement automation to manufacturers"
+    first_seen: 2026-09-27
+    digest: using-ai-for-business-productivity-2026-Sep-27.html
+    urls:
+      - https://betakit.com/axya-closes-17-million-series-a-to-modernize-manufacturing-procurement/
+      - https://www.tipranks.com/news/private-companies/axya-raises-c17-million-to-scale-ai-procurement-platform-and-global-expansion
+      - https://finance.yahoo.com/technology/ai/articles/axya-secures-17-million-cad-133000838.html
+      - https://www.prnewswire.com/news-releases/axya-secures-17-million-cad-in-funding-to-help-manufacturers-modernize-procurement-with-ai-302888441.html
 ---
 
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-27
+- **EY: nearly half of big US companies are quietly bypassing their own AI governance rules** — Sept 15 survey of 202 board members/execs at $1B+ revenue companies: 47% skipped governance for urgent deployments despite 98% having formal policies; 49% haven't updated frameworks for agentic AI, 26% can't detect unauthorized agents, 36% report a materially negative AI incident. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-27.html)
+- **California's second attempt at a "No Robo Bosses Act" now sits on Newsom's desk, deadline September 30** — SB 947 passed Senate 28-10/Assembly 53-14, would bar employers from firing/disciplining solely via automated decision systems (effective July 2027 if signed); a rewrite of SB 7, which Newsom vetoed in Oct 2025. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-27.html)
+- **AI coding startup Factory triples its valuation to $5B in five months** — Sept 15: $200M raised (Blackstone, Sequoia, Khosla, Insight Partners, Benioff) at $5B, up from $1.5B in April; platform gives enterprises a coordinated, self-improving autonomous software-development environment; total funding now $400M+. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-27.html)
+- **UK's consultation on AI workplace monitoring ("bossware") closes the same week as California's bill decision** — consultation launched July 8 under the Employment Rights Act 2025 agenda, closes Sept 30; covers keystroke logging, location tracking and AI-driven performance evaluation; weighing options from guidance to new statutory code/legislation. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-27.html)
+- **Axya raises $17M CAD to bring AI procurement automation to manufacturers** — Sept 24 Series A (McRock Capital, Yamaha Motor Ventures, BDC) for the Montreal startup's AI sourcing/RFQ/purchase-order platform for manufacturers, replacing email-and-spreadsheet procurement workflows. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-27.html)
 
 ## 2026-Sep-26
 - **Microsoft officially unveils its Copilot "super app," pitching Home, Code and Autopilot at business users** — Sept 25 launch converges consumer and Microsoft 365 Copilot into one tabbed app (Home/chat+Cowork, Code/describe-to-build, Autopilot/always-on agent formerly Scout); full Word/Excel/PowerPoint now live inside Copilot; Nadella calls it "a new OS for work." Updates the Aug-11/14 "merge begins" story with the finished product and rollout dates. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-26.html)
