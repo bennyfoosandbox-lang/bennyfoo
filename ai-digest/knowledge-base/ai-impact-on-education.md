@@ -2,10 +2,40 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-26
-run_count: 47
-digest_count: 44
+last_run: 2026-09-27
+run_count: 48
+digest_count: 45
 entries:
+  - fingerprint: bc-peace-river-sd59-sues-openai-altman-tumbler-ridge-sep2026
+    title: "British Columbia and a school district sue OpenAI, seeking money for a new school"
+    first_seen: 2026-09-27
+    digest: ai-impact-on-education-2026-Sep-27.html
+    urls:
+      - https://www.tomshardware.com/tech-industry/artificial-intelligence/british-columbia-sues-openai-to-pay-for-new-school-after-tumbler-ridge-shooting-lawsuit-says-openai-identified-shooters-chatgpt-account-eight-months-prior-but-didnt-warn-police
+      - https://www.yahoo.com/news/world/articles/british-columbia-sues-openai-sam-103000187.html
+      - https://www.lawyer-monthly.com/2026/09/british-columbia-sues-openai-and-sam-altman-over-tumbler-ridge-school-shooting/
+  - fingerprint: dallas-fed-ai-texas-college-grad-job-market-wages-sep2026
+    title: "A new Fed study puts a number on how much AI is hurting Texas college grads' paychecks"
+    first_seen: 2026-09-27
+    digest: ai-impact-on-education-2026-Sep-27.html
+    urls:
+      - https://www.dallasfed.org/research/economics/2026/0922
+      - https://fortworthinc.com/news/dallas-fed-ai-is-hitting-jobs-and-pay-for-recent-college-gra/
+      - https://www.nbcdfw.com/news/local/ai-is-changing-the-job-market-for-texas-college-grads-report-finds/4081732/
+  - fingerprint: handshake-class-2026-workforce-outlook-ai-skills-gap-sep2026
+    title: "85% of graduating seniors already use AI daily — most say their program never taught them how"
+    first_seen: 2026-09-27
+    digest: ai-impact-on-education-2026-Sep-27.html
+    urls:
+      - https://joinhandshake.com/network-trends/class-of-2026-outlook/
+      - https://www.cnbc.com/2026/09/25/ai-jobs-recent-graduates-college-degrees.html
+  - fingerprint: leicester-empaip-innovate-uk-ai-skills-300k-sep2026
+    title: "A UK university turns £300,000 in government funding into 180 AI micro-internships"
+    first_seen: 2026-09-27
+    digest: ai-impact-on-education-2026-Sep-27.html
+    urls:
+      - https://le.ac.uk/news/2026/september/businesses-university-leicester-students-ai-economy
+      - https://www.edtechinnovationhub.com/news/university-of-leicester-secures-300000-for-east-midlands-ai-skills-program
   - fingerprint: dartmouth-provost-schnell-removal-calls-review-sep2026
     title: "Dartmouth's AI-ethics firestorm escalates: faculty and students now demand Provost Schnell's ouster"
     first_seen: 2026-09-26
@@ -1772,6 +1802,12 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-27
+- **British Columbia and a school district sue OpenAI, seeking money for a new school** — B.C.'s AG and School District No. 59 (Peace River South) sue OpenAI and Sam Altman, alleging the company flagged the Tumbler Ridge shooter's ChatGPT account as a credible risk months prior but never warned police. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-27.html)
+- **A new Fed study puts a number on how much AI is hurting Texas college grads' paychecks** — Dallas Fed research finds AI-exposed majors see 1.7pp lower employment and 5% lower pay since ChatGPT's launch, plus falling job postings at AI-exposed employers. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-27.html)
+- **85% of graduating seniors already use AI daily — most say their program never taught them how** — Handshake's Class of 2026 Workforce Outlook finds heavy AI use paired with a 28% formal-instruction rate and rising career pessimism tied to AI. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-27.html)
+- **A UK university turns £300,000 in government funding into 180 AI micro-internships** — University of Leicester's Innovate UK-backed EMPAIP pairs postgrads with East Midlands employers on AI adoption. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-27.html)
 
 ## 2026-Sep-26
 - **Dartmouth's AI-ethics firestorm escalates: faculty and students now demand Provost Schnell's ouster** — an update on the 2026-09-24 story: faculty and students are now publicly calling for Schnell's removal, his own AI-defending statement was itself flagged 100% AI-written, and President Beilock has announced a formal review of his AI use with no set timeline. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-26.html)
