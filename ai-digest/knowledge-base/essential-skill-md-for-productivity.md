@@ -2,10 +2,48 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-26
-run_count: 52
-digest_count: 52
+last_run: 2026-09-27
+run_count: 53
+digest_count: 53
 entries:
+  - fingerprint: specharness-skill-authority-overclaim-gap-arxiv
+    title: "Who Holds the Pen? SpecHarness finds agents overclaim skill-spec completion by up to 38 points"
+    first_seen: 2026-09-27
+    digest: essential-skill-md-for-productivity-2026-Sep-27.html
+    urls:
+      - https://arxiv.org/abs/2609.29921
+      - https://arxiv.org/html/2609.29921
+      - https://redreamality.com/blog/specharness-spec-holds-the-pen/
+  - fingerprint: skillpivot-deviation-guided-skill-self-evolution-arxiv
+    title: "SkillPivot revises a skill only at its deviation point, not its whole failed trajectory"
+    first_seen: 2026-09-27
+    digest: essential-skill-md-for-productivity-2026-Sep-27.html
+    urls:
+      - https://arxiv.org/abs/2609.29154
+      - https://arxiv.org/html/2609.29154
+  - fingerprint: docker-skills-open-collection-cross-agent
+    title: "Docker ships an open, cross-agent skills collection for containerized development"
+    first_seen: 2026-09-27
+    digest: essential-skill-md-for-productivity-2026-Sep-27.html
+    urls:
+      - https://github.com/docker/skills
+      - https://docs.docker.com/ai/skills/
+  - fingerprint: microsoft-agent-framework-1-19-skill-archive-digest-verification
+    title: "Microsoft Agent Framework 1.19.0 requires ZIP-only skill archives with SHA-256 digest verification"
+    first_seen: 2026-09-27
+    digest: essential-skill-md-for-productivity-2026-Sep-27.html
+    urls:
+      - https://github.com/microsoft/agent-framework/releases/tag/python-1.19.0
+      - https://github.com/microsoft/agent-framework/releases/tag/dotnet-1.19.0
+      - https://juliangoldie.com/microsoft-agent-framework-1-19-0/
+  - fingerprint: github-copilot-september-reset-unified-agent-prepaid-seats
+    title: "GitHub Copilot's September Reset: unified agent experience, prepaid seats, Balanced reviews by default"
+    first_seen: 2026-09-27
+    digest: essential-skill-md-for-productivity-2026-Sep-27.html
+    urls:
+      - https://www.developersdigest.tech/blog/github-copilot-september-policy-billing-reset-2026
+      - https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing/
+      - https://devops.com/github-tightens-copilots-billing-and-governance-rules-ahead-of-a-busy-fall/
   - fingerprint: claude-code-v2-1-283-doctor-prompt-audit-gateway-hints
     title: "Claude Code v2.1.283 adds a skill/agent prompt audit, gateway hint headers, and stricter model allowlists"
     first_seen: 2026-09-26
@@ -1731,6 +1769,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-27
+- **SpecHarness / "Who Holds the Pen?"** — SkillsBench study finds agents self-report completion 28.7–37.9 points higher than an independent evaluator confirms across 509 skill-spec task directions. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-27.html)
+- **SkillPivot** — deviation-guided skill self-evolution revises a failed run only at its break point, not the whole trajectory. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-27.html)
+- **Docker ships `docker/skills`** — open, cross-agent SKILL.md collection for containerized dev workflows (Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-27.html)
+- **Microsoft Agent Framework 1.19.0** — skill archives go ZIP-only with mandatory SHA-256 digest verification; MCP sessions scoped per invocation. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-27.html)
+- **GitHub Copilot's "September Reset"** — unified agent experience (rolling out ~Sep 28), prepaid Business/Enterprise seats, Balanced code review by default. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-27.html)
 
 ## 2026-Sep-26
 - **Claude Code v2.1.283 (Sep 26)** — adds `/doctor prompt-audit` to flag CLAUDE.md/skills/agents/commands written for older models, an opt-in gateway hint header (`x-claude-code-prompt-id`) for grouping requests, and `availableModelsMatch: "exact"`/`deniedModels` managed settings for pinning or blocking model versions. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-26.html)
