@@ -2,10 +2,42 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-27
-run_count: 48
-digest_count: 45
+last_run: 2026-09-28
+run_count: 49
+digest_count: 46
 entries:
+  - fingerprint: npr-schools-experimenting-ai-little-evidence-dayton-jordan-sep28
+    title: "Schools are experimenting with AI on students — with little evidence or policy behind it"
+    first_seen: 2026-09-28
+    digest: ai-impact-on-education-2026-Sep-28.html
+    urls:
+      - https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research
+      - https://www.wunc.org/2026-09-28/schools-are-experimenting-with-ai-with-little-evidence-or-policy-to-guide-them
+      - https://www.wlrn.org/npr-breaking-news/2026-09-28/schools-are-experimenting-with-ai-with-little-evidence-or-policy-to-guide-them
+  - fingerprint: national-parents-union-echelon-poll-ai-guardrails-sep2026
+    title: "Parents say guardrails, not bans: NPU poll of 1,528 parents"
+    first_seen: 2026-09-28
+    digest: ai-impact-on-education-2026-Sep-28.html
+    urls:
+      - https://nationalparentsunion.org/2026/09/28/parents-reject-ai-doom-narrative-and-want-tech-taught-responsibly-in-classrooms-new-national-parents-union-poll-finds/
+  - fingerprint: lake-worth-isd-studyfetch-nvidia-ai-literacy-course
+    title: "Lake Worth ISD offers 1,200 free StudyFetch–Nvidia AI literacy licenses"
+    first_seen: 2026-09-28
+    digest: ai-impact-on-education-2026-Sep-28.html
+    urls:
+      - https://fortworthreport.org/2026/09/28/lake-worth-isd-offers-students-free-ai-literacy-course/
+  - fingerprint: unc-nsf-750k-ai-tools-high-school-science-nguyen-sadler
+    title: "UNC lands $750,000 NSF grant for AI tools with high-school science teachers"
+    first_seen: 2026-09-28
+    digest: ai-impact-on-education-2026-Sep-28.html
+    urls:
+      - https://ed.unc.edu/2026/09/28/nsf-grant-will-help-nguyen-develop-ai-tools-for-high-school-science-classrooms/
+  - fingerprint: turnitin-chechitelli-one-in-five-80pct-ai-detection-to-skills-op-ed
+    title: "Turnitin exec: nearly one in five submissions 80%+ AI; shift from detection to skills"
+    first_seen: 2026-09-28
+    digest: ai-impact-on-education-2026-Sep-28.html
+    urls:
+      - https://universitybusiness.com/how-to-shift-from-ai-detection-to-skill-development/
   - fingerprint: bc-peace-river-sd59-sues-openai-altman-tumbler-ridge-sep2026
     title: "British Columbia and a school district sue OpenAI, seeking money for a new school"
     first_seen: 2026-09-27
@@ -1802,6 +1834,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-28
+- **Schools are experimenting with AI on students — with little evidence or policy behind it** — Dayton's $72.6K SchoolAI 'Jordan' chatbot pilot, Wichita's missing success metric, Winthrop/Lake quotes; NYC and LAUSD bans. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-28.html)
+- **Parents say guardrails, not bans: NPU poll of 1,528 parents** — 85% want AI safety taught, 77% AI use skills, 71% back a school-day chatbot ban; 16-city tour from Oct 5. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-28.html)
+- **Lake Worth ISD offers 1,200 free StudyFetch–Nvidia AI literacy licenses** — Optional self-paced course; part of a 250,000-license national initiative; board wants contract and data terms. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-28.html)
+- **UNC lands $750,000 NSF grant for AI tools with high-school science teachers** — Nguyen and Sadler; 25 teachers, ~2,000 students in Missouri and North Carolina. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-28.html)
+- **Turnitin exec: nearly one in five submissions 80%+ AI; shift from detection to skills** — Vendor op-ed in University Business; self-interested framing noted. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-28.html)
 
 ## 2026-Sep-27
 - **British Columbia and a school district sue OpenAI, seeking money for a new school** — B.C.'s AG and School District No. 59 (Peace River South) sue OpenAI and Sam Altman, alleging the company flagged the Tumbler Ridge shooter's ChatGPT account as a credible risk months prior but never warned police. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-27.html)
