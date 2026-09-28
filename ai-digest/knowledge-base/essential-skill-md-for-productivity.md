@@ -2,10 +2,41 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-27
-run_count: 53
-digest_count: 53
+last_run: 2026-09-28
+run_count: 54
+digest_count: 54
 entries:
+  - fingerprint: google-gemini-gems-skills-migration-nov17-official
+    title: "Google confirms Gemini Gems will become Skills, with automatic migration starting November 17"
+    first_seen: 2026-09-28
+    digest: essential-skill-md-for-productivity-2026-Sep-28.html
+    urls:
+      - https://9to5google.com/2026/09/27/gemini-gems-skills/
+      - https://www.androidauthority.com/google-gemini-gems-spark-skills-apk-teardown-3709228/
+      - https://www.newsbytesapp.com/news/science/google-phases-out-gems-adds-gemini-skills-november-17-2026/tldr
+  - fingerprint: github-copilot-sept21-weekly-org-enterprise-skills-sandboxing
+    title: "GitHub Copilot makes organization and enterprise skills portable across local and cloud agent sessions, adds local sandboxing preview"
+    first_seen: 2026-09-28
+    digest: essential-skill-md-for-productivity-2026-Sep-28.html
+    urls:
+      - https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21/
+      - https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise/
+  - fingerprint: vercel-skillssh-one-million-skills-280m-installs
+    title: "Vercel's skills.sh registry crosses 1 million published skills and ~280 million installs, but installs are brutally concentrated"
+    first_seen: 2026-09-28
+    digest: essential-skill-md-for-productivity-2026-Sep-28.html
+    urls:
+      - https://vercel.com/blog/state-of-agent-skills
+      - https://superpowerdaily.com/posts/vercel-finds-agent-skill-installs-concentrated-in-a-tiny-share-of-its-registry
+      - https://daily.dev/posts/state-of-agent-skills-gvnocahqj
+  - fingerprint: anthropic-claude-plugin-directory-submission-portal-ga
+    title: "Anthropic opens a developer portal for submitting Agent Skill and MCP plugin bundles to the Claude directory"
+    first_seen: 2026-09-28
+    digest: essential-skill-md-for-productivity-2026-Sep-28.html
+    urls:
+      - https://claude.com/blog/build-plugins-for-claude
+      - https://www.unite.ai/anthropic-opens-directory-submission-portal-for-claude-plugins/
+      - https://superpowerdaily.com/posts/anthropic-opens-claude-plugin-portal-with-review-tracking-and-usage-analytics
   - fingerprint: specharness-skill-authority-overclaim-gap-arxiv
     title: "Who Holds the Pen? SpecHarness finds agents overclaim skill-spec completion by up to 38 points"
     first_seen: 2026-09-27
@@ -1769,6 +1800,12 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-28
+- **Google confirms Gemini Gems→Skills, Nov 17 migration** — official in-app notice replaces the August leak: Gems become Skills starting November 17, editing disabled from Oct 13, Skills currently gated to Pro/Ultra. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-28.html)
+- **GitHub Copilot org/enterprise skill portability** — shared org and enterprise skills now work identically across local and cloud agent sessions; local sandboxing preview and OpenTelemetry activity tracking added. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-28.html)
+- **Vercel "State of Agent Skills"** — skills.sh crosses 1M skills / ~280M installs in ~7 months, but 0.04% of skills account for 62% of installs. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-28.html)
+- **Anthropic opens Claude plugin directory submission portal** — developers can submit Agent Skill + MCP plugin bundles for review, safety scanning and analytics at claude.ai/directory/manage. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-28.html)
 
 ## 2026-Sep-27
 - **SpecHarness / "Who Holds the Pen?"** — SkillsBench study finds agents self-report completion 28.7–37.9 points higher than an independent evaluator confirms across 509 skill-spec task directions. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-27.html)
