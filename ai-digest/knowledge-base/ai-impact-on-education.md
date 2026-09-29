@@ -2,10 +2,44 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-28
-run_count: 49
-digest_count: 46
+last_run: 2026-09-29
+run_count: 50
+digest_count: 47
 entries:
+  - fingerprint: college-board-ap-cs-principles-seminar-ai-redesign-sep2026
+    title: "College Board rewrites two AP courses around AI: chatbots embedded in CS Principles, banned from scored AP Seminar essays"
+    first_seen: 2026-09-29
+    digest: ai-impact-on-education-2026-Sep-29.html
+    urls:
+      - https://www.govtech.com/education/k-12/ai-spurs-college-board-redesign-of-2-ap-courses
+      - https://newsroom.collegeboard.org/new-college-board-research-ap-teachers-push-guardrails-and-support-genai-reshapes-classroom
+  - fingerprint: stanford-rde-ai-altered-student-photo-apology-sep2026
+    title: "Stanford apologizes after its dining arm used AI to swap a Latino student for a Black woman in a promo photo"
+    first_seen: 2026-09-29
+    digest: ai-impact-on-education-2026-Sep-29.html
+    urls:
+      - https://www.nbcnews.com/news/us-news/stanford-apologizes-saying-ai-altered-pic-changed-students-gender-race-rcna599691
+      - https://edsource.org/updates/stanford-apologizes-for-using-ai-to-alter-a-students-race-gender-in-photo
+      - https://stanforddaily.com/2026/09/23/university-confirms-ai-edited-photo/
+      - https://www.nbcbayarea.com/news/local/stanford-ai-photo-policy-violation/4147081/
+  - fingerprint: efekta-us-teacher-ai-survey-73-percent-training-gap-sep2026
+    title: "Efekta survey: 73% of US teachers use AI, but only 40% say their school has integrated it well"
+    first_seen: 2026-09-29
+    digest: ai-impact-on-education-2026-Sep-29.html
+    urls:
+      - https://www.prnewswire.com/news-releases/ai-wont-break-education-failing-to-prepare-teachers-might-302890928.html
+  - fingerprint: brandeis-genai-default-prohibited-policy-student-confusion-sep2026
+    title: "Brandeis's \"AI is prohibited unless your professor says otherwise\" rule leaves most students in a fog"
+    first_seen: 2026-09-29
+    digest: ai-impact-on-education-2026-Sep-29.html
+    urls:
+      - https://www.thejustice.org/article/2026/09/as-brandeis-clarifies-its-generative-ai-policies-some-questions-remain-among-students
+  - fingerprint: usf-ai-future-of-thinking-course-philosophy-ai-courses-sep2026
+    title: "Colleges add courses on what AI does to thinking itself — and a USF class finds students sour on AI"
+    first_seen: 2026-09-29
+    digest: ai-impact-on-education-2026-Sep-29.html
+    urls:
+      - https://www.forbes.com/sites/lesliekatz/2026/09/29/in-this-college-ai-course-descartes-and-rousseau-are-on-the-syllabus/
   - fingerprint: npr-schools-experimenting-ai-little-evidence-dayton-jordan-sep28
     title: "Schools are experimenting with AI on students — with little evidence or policy behind it"
     first_seen: 2026-09-28
@@ -1834,6 +1868,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-29
+- **College Board rewrites two AP courses around AI: chatbots embedded in CS Principles, banned from scored AP Seminar essays** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-29.html)
+- **Stanford apologizes after its dining arm used AI to swap a Latino student for a Black woman in a promo photo** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-29.html)
+- **Efekta survey: 73% of US teachers use AI, but only 40% say their school has integrated it well** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-29.html)
+- **Brandeis's "AI is prohibited unless your professor says otherwise" rule leaves most students in a fog** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-29.html)
+- **Colleges add courses on what AI does to thinking itself — and a USF class finds students sour on AI** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-29.html)
 
 ## 2026-Sep-28
 - **Schools are experimenting with AI on students — with little evidence or policy behind it** — Dayton's $72.6K SchoolAI 'Jordan' chatbot pilot, Wichita's missing success metric, Winthrop/Lake quotes; NYC and LAUSD bans. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-28.html)
