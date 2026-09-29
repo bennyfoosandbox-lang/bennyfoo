@@ -2,10 +2,57 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-28
-run_count: 54
-digest_count: 54
+last_run: 2026-09-29
+run_count: 55
+digest_count: 55
 entries:
+  - fingerprint: openai-gpt6-astra-slim-skills-prompts-guidance
+    title: "OpenAI tells developers to slim down skills and prompts for GPT-6 Astra"
+    first_seen: 2026-09-29
+    digest: essential-skill-md-for-productivity-2026-Sep-29.html
+    urls:
+      - https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra
+      - https://aiweekly.co/alerts/openai-tells-devs-to-trim-skills-prompts-for-gpt-6-astra
+      - https://alphasignal.ai/news/openai-tells-developers-to-slim-down-codex-prompts-for-gpt-6-astra
+      - https://www.digitalapplied.com/blog/gpt-6-astra-skills-prompts-project-upgrade-guide
+      - https://github.com/openai/codex/pull/42931
+  - fingerprint: signal-or-noise-webdev-skills-bench-injection-hurts
+    title: "'Signal or Noise?': injecting a matched skill lowered pass rates in a web-dev benchmark"
+    first_seen: 2026-09-29
+    digest: essential-skill-md-for-productivity-2026-Sep-29.html
+    urls:
+      - https://arxiv.org/abs/2608.23067
+      - https://arxiv.org/html/2608.23067
+      - https://pith.science/paper/2608.23067
+  - fingerprint: skill-coverage-test-adequacy-metric
+    title: "Skill Coverage: agents exercise fewer than half of a skill's instructions"
+    first_seen: 2026-09-29
+    digest: essential-skill-md-for-productivity-2026-Sep-29.html
+    urls:
+      - https://arxiv.org/abs/2606.20659
+      - https://arxiv.org/html/2606.20659v2
+      - https://arxiv.org/html/2607.22015
+      - https://awesomepapers.io/ai-agents/papers/2606.20659
+  - fingerprint: copilot-cowork-shareable-skills-sept-2026
+    title: "Microsoft 365 Copilot Cowork gets shareable skills"
+    first_seen: 2026-09-29
+    digest: essential-skill-md-for-productivity-2026-Sep-29.html
+    urls:
+      - https://m365copilotconnection.substack.com/p/new-copilot-updates-are-here-september
+      - https://m365copilotconnection.substack.com/p/the-copilot-skills-vault-14-skills
+      - https://techcommunity.microsoft.com/blog/spblog/whats-new-in-copilot-in-sharepoint-september-2026/4535422
+      - https://releasebot.io/updates/microsoft/microsoft-copilot
+  - fingerprint: mattpocock-skills-270k-dotnet-skills-95
+    title: "Curated skill packs keep winning: Matt Pocock's repo nears 270k stars, .NET team ships ~95 skills"
+    first_seen: 2026-09-29
+    digest: essential-skill-md-for-productivity-2026-Sep-29.html
+    urls:
+      - https://mer.vin/news/mattpocock-skills-the-skill-pack-topping-github-trending/
+      - https://github.com/mattpocock/skills
+      - https://productize.life/blog/mattpocock-skills/en
+      - https://github.com/dotnet/skills/
+      - https://hysenlabs.com/en/projects/dotnet-skills
+      - https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/
   - fingerprint: google-gemini-gems-skills-migration-nov17-official
     title: "Google confirms Gemini Gems will become Skills, with automatic migration starting November 17"
     first_seen: 2026-09-28
@@ -1800,6 +1847,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-29
+- **OpenAI: slim down skills/prompts for GPT-6 Astra** — specific triggers, contextual loading, defined "done"; Codex OpenAI Docs skill updated. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-29.html)
+- **"Signal or Noise?" WebDev-Skills-Bench** — skill injection cut Pass@2 1.3–4.2% and raised tokens 72–394%; gains in only 17–36% of pairs. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-29.html)
+- **Skill Coverage metric** — agents exercise only 38.7–45.5% of a skill's extracted constraints; failed-constraint emphasis recovers 16.0% of failures. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-29.html)
+- **Copilot Cowork shareable skills** — Microsoft's September update adds shareable skills, cost visibility and a reasoning slider. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-29.html)
+- **Curated skill packs** — mattpocock/skills near 270k stars (25-skill plugin, 11 model-invokable); dotnet/skills ships 14 plugins / ~95 skills. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-29.html)
 
 ## 2026-Sep-28
 - **Google confirms Gemini Gems→Skills, Nov 17 migration** — official in-app notice replaces the August leak: Gems become Skills starting November 17, editing disabled from Oct 13, Skills currently gated to Pro/Ultra. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-28.html)
