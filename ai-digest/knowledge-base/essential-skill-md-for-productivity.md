@@ -2,10 +2,49 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-29
-run_count: 55
-digest_count: 55
+last_run: 2026-09-30
+run_count: 56
+digest_count: 56
 entries:
+  - fingerprint: claude-sonnet-5-5-launch-docs-slides-sheets
+    title: "Claude Sonnet 5.5: 30% faster, up to 30% cheaper per task"
+    first_seen: 2026-09-30
+    digest: essential-skill-md-for-productivity-2026-Sep-30.html
+    urls:
+      - https://www.anthropic.com/claude-sonnet-5-5
+      - https://9to5mac.com/2026/09/28/anthropic-upgrades-claude-with-new-sonnet-5-5-model-details-here/
+      - https://www.unite.ai/anthropic-releases-claude-sonnet-5-5-at-unchanged-sonnet-5-pricing/
+      - https://www.digitaltrends.com/computing/anthropic-launches-claude-sonnet-5-5-with-30-faster-output-and-lower-per-task-costs/
+      - https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/
+  - fingerprint: peakstate-knowledge-worker-skills-17
+    title: "Peak State Global ships 17 knowledge-worker SKILL.md skills"
+    first_seen: 2026-09-30
+    digest: essential-skill-md-for-productivity-2026-Sep-30.html
+    urls:
+      - https://github.com/peakstate-global/peakstate-skills/releases/tag/knowledge-worker-skills-2026-09-30
+  - fingerprint: claude-code-v2-1-284-285-plugin-permissions-providers
+    title: "Claude Code 2.1.284/2.1.285: plugin permission and provider controls"
+    first_seen: 2026-09-30
+    digest: essential-skill-md-for-productivity-2026-Sep-30.html
+    urls:
+      - https://github.com/marckrenn/claude-code-changelog/releases/tag/v2.1.285
+      - https://github.com/dubbl-a/house-rules/issues/90
+      - https://github.com/yonatangross/orchestkit/issues/4542
+      - https://code.claude.com/docs/en/whats-new
+  - fingerprint: skillseam-six-principles-skill-collections
+    title: "SkillSeam: auditing agent skill collections"
+    first_seen: 2026-09-30
+    digest: essential-skill-md-for-productivity-2026-Sep-30.html
+    urls:
+      - https://arxiv.org/abs/2609.13321
+      - https://arxiv.org/html/2609.13321
+  - fingerprint: codex-cli-0-159-instant-interrupt-gpt-6-1-sol
+    title: "Codex CLI 0.159: instant interrupt; GPT-6.1 Sol default"
+    first_seen: 2026-09-30
+    digest: essential-skill-md-for-productivity-2026-Sep-30.html
+    urls:
+      - https://developers.openai.com/codex/changelog
+      - https://www.gradually.ai/en/changelogs/codex-cli/
   - fingerprint: openai-gpt6-astra-slim-skills-prompts-guidance
     title: "OpenAI tells developers to slim down skills and prompts for GPT-6 Astra"
     first_seen: 2026-09-29
@@ -1847,6 +1886,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Sep-30
+- **Claude Sonnet 5.5: 30% faster, up to 30% cheaper per task** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-30.html)
+- **Peak State Global ships 17 knowledge-worker SKILL.md skills** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-30.html)
+- **Claude Code 2.1.284/2.1.285: plugin permission and provider controls** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-30.html)
+- **SkillSeam: auditing agent skill collections** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-30.html)
+- **Codex CLI 0.159: instant interrupt; GPT-6.1 Sol default** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-30.html)
 
 ## 2026-Sep-29
 - **OpenAI: slim down skills/prompts for GPT-6 Astra** — specific triggers, contextual loading, defined "done"; Codex OpenAI Docs skill updated. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-29.html)
