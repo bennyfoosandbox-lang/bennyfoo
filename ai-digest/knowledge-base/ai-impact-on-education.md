@@ -2,10 +2,44 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-29
-run_count: 50
-digest_count: 47
+last_run: 2026-09-30
+run_count: 51
+digest_count: 48
 entries:
+  - fingerprint: harvard-digital-thriving-two-way-suspicion-ai-trust-report-sep2026
+    title: "Harvard report: AI is breeding 'two-way suspicion' between students and teachers"
+    first_seen: 2026-09-30
+    digest: ai-impact-on-education-2026-Sep-30.html
+    urls:
+      - https://abcnews.com/GMA/News/new-report-ai-impacting-trust-students-teachers/story?id=136874802
+      - https://www.edweek.org/technology/how-ai-suspicions-are-undermining-student-teacher-relationships/2026/09
+      - https://digitalthriving.gse.harvard.edu/an-ai-policy-isnt-a-playbook/
+  - fingerprint: google-org-educause-2026-three-higher-ed-ai-initiatives
+    title: "Google.org backs three higher-ed AI initiatives at EDUCAUSE, aimed at community colleges and adult learners"
+    first_seen: 2026-09-30
+    digest: ai-impact-on-education-2026-Sep-30.html
+    urls:
+      - https://blog.google/company-news/outreach-and-initiatives/google-org/educause-2026/
+  - fingerprint: pace-california-districts-ai-use-outpaces-strategy-brief-sep2026
+    title: "Stanford-linked brief: 39% of California districts have essentially no organized response to AI"
+    first_seen: 2026-09-30
+    digest: ai-impact-on-education-2026-Sep-30.html
+    urls:
+      - https://edpolicyinca.org/publications/when-ai-use-outpaces-district-strategy
+  - fingerprint: montclair-nj-ai-pk8-ban-parental-consent-policy-first-reading-sep2026
+    title: "Montclair, NJ proposes banning student AI in pre-K–8 and requiring parental consent in high school"
+    first_seen: 2026-09-30
+    digest: ai-impact-on-education-2026-Sep-30.html
+    urls:
+      - https://montclairlocal.news/2026/09/montclair-school-officials-introduce-policies-limiting-ai-technology-use-in-classrooms
+  - fingerprint: fordham-high-tech-low-standards-survey-ai-without-permission-sep2026
+    title: "Fordham survey: 62% of high schoolers spend over half of class time on school devices, 22% use AI without permission"
+    first_seen: 2026-09-30
+    digest: ai-impact-on-education-2026-Sep-30.html
+    urls:
+      - https://fordhaminstitute.org/national/research/high-tech-low-standards-high-school-age-distraction
+      - https://www.educationnext.org/schools-of-distraction-high-schools-overrun-by-screens-and-ai-enabled-shortcuts/
+      - https://montclairlocal.news/2026/09/montclair-school-officials-introduce-policies-limiting-ai-technology-use-in-classrooms
   - fingerprint: college-board-ap-cs-principles-seminar-ai-redesign-sep2026
     title: "College Board rewrites two AP courses around AI: chatbots embedded in CS Principles, banned from scored AP Seminar essays"
     first_seen: 2026-09-29
@@ -1868,6 +1902,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-30
+- **Harvard report: AI is breeding "two-way suspicion" between students and teachers** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-30.html)
+- **Google.org backs three higher-ed AI initiatives at EDUCAUSE, aimed at community colleges and adult learners** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-30.html)
+- **Stanford-linked brief: 39% of California districts have essentially no organized response to AI** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-30.html)
+- **Montclair, NJ proposes banning student AI in pre-K–8 and requiring parental consent in high school** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-30.html)
+- **Fordham survey: 62% of high schoolers spend over half of class time on school devices, 22% use AI without permission** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-30.html)
 
 ## 2026-Sep-29
 - **College Board rewrites two AP courses around AI: chatbots embedded in CS Principles, banned from scored AP Seminar essays** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-29.html)
