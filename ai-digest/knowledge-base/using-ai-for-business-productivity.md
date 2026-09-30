@@ -2,10 +2,59 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-29
-run_count: 61
-digest_count: 61
+last_run: 2026-09-30
+run_count: 62
+digest_count: 62
 entries:
+  - fingerprint: openai-dots-always-on-agents-gpt6-astra-sep2026
+    title: "OpenAI launches Dots, always-on agents that work across 4,000 apps around the clock"
+    first_seen: 2026-09-30
+    digest: using-ai-for-business-productivity-2026-Sep-30.html
+    urls:
+      - https://9to5google.com/2026/09/29/openai-dots-agent/
+      - https://www.unite.ai/openai-rolls-out-dots-agents-powered-by-gpt-6-astra-in-chatgpt/
+      - https://qz.com/openai-dots-always-on-ai-agents-chatgpt-092926
+      - https://tech.yahoo.com/ai/chatgpt/articles/openai-launches-dots-always-ai-184129710.html
+      - https://tbreak.com/openai-dots-always-on-ai-agents/
+  - fingerprint: anthropic-claude-sonnet-5-5-cheaper-faster-sep2026
+    title: "Anthropic ships Claude Sonnet 5.5: same price, 30% faster, up to 30% cheaper per task"
+    first_seen: 2026-09-30
+    digest: using-ai-for-business-productivity-2026-Sep-30.html
+    urls:
+      - https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-5-with-30-cost-reduction-per-task-due-to-faster-speeds-and-fewer-tool-calls
+      - https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/
+      - https://www.thurrott.com/a-i/anthropic/342139/anthropic-releases-claude-sonnet-5-5
+      - https://thenextweb.com/news/sonnet-5-5-cyber-distillation
+      - https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot/
+  - fingerprint: anthropic-claude-marketplace-2000-connectors-sep2026
+    title: "Anthropic opens Claude Marketplace with 2,000+ connectors, plugins and partner agents"
+    first_seen: 2026-09-30
+    digest: using-ai-for-business-productivity-2026-Sep-30.html
+    urls:
+      - https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/
+      - https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-challenges-saas-giants-with-claude-marketplace/
+      - https://www.ghacks.net/2026/09/27/anthropic-launches-claude-marketplace-with-more-than-2000-connectors-and-plugins/
+      - https://aiweekly.co/alerts/anthropic-opens-claude-marketplace-with-2000-integrations
+      - https://enterprisedna.co/resources/news/anthropic-claude-marketplace-enterprise-plugins-agents-september-2026/
+  - fingerprint: meta-muse-for-small-business-connectors-sep2026
+    title: "Meta launches Muse for Small Business, an agent that runs sales, cash flow and ads across your apps"
+    first_seen: 2026-09-30
+    digest: using-ai-for-business-productivity-2026-Sep-30.html
+    urls:
+      - https://www.cnbc.com/2026/09/29/meta-launches-muse-for-small-business-zuckerberg-pushes-enterprise-ai.html
+      - https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/
+      - https://www.unite.ai/meta-adds-small-business-skills-and-app-connectors-to-muse-ai-agent/
+      - https://qz.com/meta-muse-ai-agent-small-business-092926
+      - https://www.neowin.net/news/metas-muse-for-small-business-connects-canva-and-dropbox/
+  - fingerprint: reco-55m-agent-security-governance-sep2026
+    title: "Reco raises $55M to see and secure every AI agent inside the enterprise"
+    first_seen: 2026-09-30
+    digest: using-ai-for-business-productivity-2026-Sep-30.html
+    urls:
+      - https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/
+      - https://www.securityweek.com/reco-raises-55-million-for-agentic-security/
+      - https://www.bankinfosecurity.com/reco-lands-55m-to-extend-ai-governance-into-agents-a-32968
+      - https://fintech.global/2026/09/29/reco-raises-55m-to-secure-the-agentic-enterprise/
   - fingerprint: meta-enterprise-platform-muse-cj-desai-sep2026
     title: "Meta launches an enterprise AI platform and hires MongoDB's CEO to run it"
     first_seen: 2026-09-29
@@ -2566,6 +2615,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Sep-30
+- **OpenAI launches Dots, always-on agents that work across 4,000 apps around the clock** — OpenAI unveiled Dots at DevDay on September 29: persistent agents powered by GPT-6 Astra that learn what matters to a user, keep working toward goals without daily oversight, and connect to more than 4,000 apps through its plugin ecosystem. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-30.html)
+- **Anthropic ships Claude Sonnet 5.5: same price, 30% faster, up to 30% cheaper per task** — Anthropic released Claude Sonnet 5.5 on September 28, less than a week after Opus 5.5. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-30.html)
+- **Anthropic opens Claude Marketplace with 2,000+ connectors, plugins and partner agents** — Anthropic's Claude Marketplace, live since September 23 and widely covered this week, puts connectors and plugins, Claude-powered agents and service partners in one catalog that organizations can buy from inside the platform. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-30.html)
+- **Meta launches Muse for Small Business, an agent that runs sales, cash flow and ads across your apps** — A day after announcing its enterprise platform, Meta launched Muse for Small Business on September 29. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-30.html)
+- **Reco raises $55M to see and secure every AI agent inside the enterprise** — Reco, a New York security company founded in 2020, raised $55 million led by AT&T Ventures, bringing its total to $140 million, to extend its SaaS security platform to AI agents. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-30.html)
 
 ## 2026-Sep-29
 - **Meta launches an enterprise AI platform and hires MongoDB's CEO to run it** — Meta announced the Meta Enterprise Platform on September 28, bundling its Muse agent, Meta Business Agent, Muse API and Muse Code under one roof, and named MongoDB CEO CJ Desai its chief enterprise platform officer reporting directly to Zuckerberg, who called it the "next major pillar" of the business. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-29.html)
