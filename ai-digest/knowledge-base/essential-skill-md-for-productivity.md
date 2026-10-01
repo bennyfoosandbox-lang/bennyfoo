@@ -2,10 +2,45 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-09-30
-run_count: 56
-digest_count: 56
+last_run: 2026-10-01
+run_count: 57
+digest_count: 57
 entries:
+  - fingerprint: posit-package-manager-agent-plugin-governance
+    title: "Posit Package Manager governs agent plugins"
+    first_seen: 2026-10-01
+    digest: essential-skill-md-for-productivity-2026-Oct-01.html
+    urls:
+      - https://posit.co/blog/how-secure-your-organizations-agent-plugins-posit-package-manager
+  - fingerprint: pixelleak-gitshot-skill-screenshot-leak
+    title: "PixelLeak: agents leaked 13,000+ screenshots via a public-repo skill default"
+    first_seen: 2026-10-01
+    digest: essential-skill-md-for-productivity-2026-Oct-01.html
+    urls:
+      - https://www.theregister.com/ai-and-ml/2026/09/29/ai-models-keep-posting-screenshots-showing-sensitive-data-from-inside-tech-companies/5299640
+      - https://pasqualepillitteri.it/en/news/19560/pixelleak-ai-coding-agents-screenshots-github
+      - https://www.glow.io/blogs/how-ai-agents-exposed-developer-screenshots-from-leading-tech-companies
+  - fingerprint: skill-cascading-attacks-neurips-2609-30383
+    title: "Skill cascading attacks evade per-skill scanners"
+    first_seen: 2026-10-01
+    digest: essential-skill-md-for-productivity-2026-Oct-01.html
+    urls:
+      - https://arxiv.org/abs/2609.30383
+  - fingerprint: meta-muse-small-business-skills-muse-code-skillmd
+    title: "Meta Muse for Small Business skills; Muse Code reads SKILL.md"
+    first_seen: 2026-10-01
+    digest: essential-skill-md-for-productivity-2026-Oct-01.html
+    urls:
+      - https://www.aiagentslibrary.com/blog/meta-muse-skills/
+      - https://dev.meta.ai/docs/muse-code/extending
+      - https://about.fb.com/news/2026/09/introducing-muse-small-business/
+  - fingerprint: agenthouse-skills-release-2026-09-30
+    title: "AgentHouse Skills: positioning-brief and motion-ad 0.2.0"
+    first_seen: 2026-10-01
+    digest: essential-skill-md-for-productivity-2026-Oct-01.html
+    urls:
+      - https://github.com/agenthouse-org/skills/releases/tag/release-2026-09-30
+      - https://github.com/agenthouse-org/skills/pull/1
   - fingerprint: claude-sonnet-5-5-launch-docs-slides-sheets
     title: "Claude Sonnet 5.5: 30% faster, up to 30% cheaper per task"
     first_seen: 2026-09-30
@@ -1886,6 +1921,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-01
+- **Posit Package Manager governs agent plugins** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-01.html)
+- **PixelLeak: agents leaked 13,000+ screenshots via a public-repo skill default** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-01.html)
+- **Skill cascading attacks evade per-skill scanners** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-01.html)
+- **Meta Muse for Small Business skills; Muse Code reads SKILL.md** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-01.html)
+- **AgentHouse Skills: positioning-brief and motion-ad 0.2.0** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-01.html)
+
+Note: Firecrawl worked this run; ~40 candidates scanned in a thin 24h window (several sites egress-blocked, scraped via Firecrawl). Gemini skills GA and /skill-doctor were already in the KB and skipped.
 
 ## 2026-Sep-30
 - **Claude Sonnet 5.5: 30% faster, up to 30% cheaper per task** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Sep-30.html)
