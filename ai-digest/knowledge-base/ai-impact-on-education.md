@@ -2,10 +2,42 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-09-30
-run_count: 51
-digest_count: 48
+last_run: 2026-10-01
+run_count: 52
+digest_count: 49
 entries:
+  - fingerprint: harvard-fas-science-five-ai-faculty-searches-hiring-freeze-sep2026
+    title: "Harvard's science division launches five AI-themed faculty searches while a hiring freeze holds"
+    first_seen: 2026-10-01
+    digest: ai-impact-on-education-2026-Oct-01.html
+    urls:
+      - https://www.thecrimson.com/article/2026/9/30/harvard-faculty-ai-hiring/
+  - fingerprint: instructure-edtech-top-40-higher-ed-no-ai-tool-top-100-sep2026
+    title: "Instructure data: no dedicated AI tool ranks in the top 100 of U.S. higher-ed learning tech"
+    first_seen: 2026-10-01
+    digest: ai-impact-on-education-2026-Oct-01.html
+    urls:
+      - https://www.prnewswire.com/news-releases/instructure-launches-first-edtech-top-40-for-higher-education-finds-dedicated-ai-tools-outside-the-top-100-302892355.html
+  - fingerprint: google-gemini-classroom-sierra-leone-rct-teacher-notebooks-update-oct2026
+    title: "Update: Gemini study help reaches all ages in Classroom, with a Sierra Leone trial showing a 0.26 SD math gain"
+    first_seen: 2026-10-01
+    digest: ai-impact-on-education-2026-Oct-01.html
+    urls:
+      - https://winbuzzer.com/2026/10/01/google-opens-classrooms-gemini-study-tools-to-younger-students-xcxwbn/
+      - https://www.edweek.org/technology/schools-caught-flat-footed-after-google-makes-gemini-chatbot-available-to-all-students/2026/09
+  - fingerprint: punjab-pakistan-ai-curriculum-160k-teachers-special-children-sep2026
+    title: "Punjab, Pakistan pairs a 160,000-teacher AI training drive with AI education for special-needs children"
+    first_seen: 2026-10-01
+    digest: ai-impact-on-education-2026-Oct-01.html
+    urls:
+      - https://propakistani.pk/2026/09/29/punjab-to-introduce-ai-education-for-special-children/
+      - https://propakistani.pk/2026/09/26/punjab-to-train-160000-teachers-under-ai-curriculum/
+  - fingerprint: khda-dubai-private-schools-ai-policy-2027-oct2026
+    title: "Dubai's KHDA to publish a standardised AI policy for private schools in 2027"
+    first_seen: 2026-10-01
+    digest: ai-impact-on-education-2026-Oct-01.html
+    urls:
+      - https://www.dubaieye1038.com/news/local/khda-to-launch-ai-policy-for-dubai-schools-in-2027/
   - fingerprint: harvard-digital-thriving-two-way-suspicion-ai-trust-report-sep2026
     title: "Harvard report: AI is breeding 'two-way suspicion' between students and teachers"
     first_seen: 2026-09-30
@@ -1902,6 +1934,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-01
+- **Harvard's science division launches five AI-themed faculty searches while a hiring freeze holds** — Harvard's Faculty of Arts and Sciences science departments are opening at least five AI-related faculty searches spanning eight-plus departments, afte. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-01.html)
+- **Instructure data: no dedicated AI tool ranks in the top 100 of U.S. higher-ed learning tech** — Instructure's first higher-education EdTech Top 40, built from Canvas LTI launch data on 19.5 million U.S. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-01.html)
+- **Update: Gemini study help reaches all ages in Classroom, with a Sierra Leone trial showing a 0.26 SD math gain** — Google's August expansion of Gemini study help in Classroom to students of all ages, previously covered, now has new detail: teachers can assign sourc. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-01.html)
+- **Punjab, Pakistan pairs a 160,000-teacher AI training drive with AI education for special-needs children** — Pakistan's Punjab province launched an AI Curriculum and Training Initiative to train 160,000 teachers, backed by the School Education Department, UNI. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-01.html)
+- **Dubai's KHDA to publish a standardised AI policy for private schools in 2027** — Dubai's Knowledge and Human Development Authority is drafting a standardised policy on the ethical use of AI in private schools, due in 2027, KHDA Dir. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-01.html)
 
 ## 2026-Sep-30
 - **Harvard report: AI is breeding "two-way suspicion" between students and teachers** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Sep-30.html)
