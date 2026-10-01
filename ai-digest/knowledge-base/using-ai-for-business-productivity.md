@@ -2,10 +2,53 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-09-30
-run_count: 62
-digest_count: 62
+last_run: 2026-10-01
+run_count: 63
+digest_count: 63
 entries:
+  - fingerprint: openai-chatgpt-space-gpt-6-1-sol-devday-oct2026
+    title: "ChatGPT Space and GPT-6.1 Sol: OpenAI's DevDay push into shared team workspaces and cheaper reasoning"
+    first_seen: 2026-10-01
+    digest: using-ai-for-business-productivity-2026-Oct-01.html
+    urls:
+      - https://www.axios.com/2026/09/29/openai-dev-day-2026-dots-space-sol
+      - https://www.theneuron.ai/news/openai-devday-2026-chatgpt-is-becoming-an-ai-operating-system/
+      - https://analyticsindiamag.com/ai-features/from-dots-to-gpt-61-sol-12-major-announcements-at-openai-devday-2026
+      - https://www.bgr.com/2272332/openai-devday-2026-announcements/
+  - fingerprint: pwc-hopes-fears-2026-ai-workforce-split-front-runners
+    title: "PwC survey of ~50,000 workers: AI is splitting the workforce, and the best AI users are flight risks"
+    first_seen: 2026-10-01
+    digest: using-ai-for-business-productivity-2026-Oct-01.html
+    urls:
+      - https://www.pwc.com/gx/en/news-room/press-releases/2026/companies-risk-losing-ai-savvy-employees.html
+      - https://www.prnewswire.com/news-releases/companies-risk-losing-their-most-ai-savvy-employees-while-leaving-majority-behind-pwc-302891362.html
+      - https://www.manilatimes.net/2026/09/29/tmt-newswire/pr-newswire/companies-risk-losing-their-most-ai-savvy-employees-while-leaving-majority-behind-pwc/2434717
+  - fingerprint: korn-ferry-workforce-2026-india-ai-adoption-workload
+    title: "Korn Ferry: India leads on AI adoption, but productivity gains arrive with heavier workloads"
+    first_seen: 2026-10-01
+    digest: using-ai-for-business-productivity-2026-Oct-01.html
+    urls:
+      - https://www.aninews.in/news/business/india-outpaces-global-peers-on-workplace-ai-adoption-but-productivity-gains-come-with-rising-workloads-says-korn-ferry20260930110003/
+      - https://www.tribuneindia.com/news/business/india-outpaces-global-peers-on-workplace-ai-adoption-but-productivity-gains-come-with-rising-workloads-says-korn-ferry
+      - https://theprint.in/ani-press-releases/india-outpaces-global-peers-on-workplace-ai-adoption-but-productivity-gains-come-with-rising-workloads-says-korn-ferry/3057602/
+  - fingerprint: servicetitan-state-of-ai-trades-2026
+    title: "ServiceTitan: trades contractors move from 'whether' to 'how' on AI, but trust lags"
+    first_seen: 2026-10-01
+    digest: using-ai-for-business-productivity-2026-Oct-01.html
+    urls:
+      - https://www.manilatimes.net/2026/09/29/tmt-newswire/globenewswire/servicetitan-report-finds-contractors-shifting-focus-from-ai-adoption-to-implementation-and-productivity/2435228
+      - https://www.servicetitan.com/guides/2026-ai-in-the-trades
+      - https://www.contractormag.com/technology/news/55408579/ai-adoption-accelerates-as-contractors-look-for-productivity-gains
+      - https://www.achrnews.com/articles/166737-study-trades-contractors-working-to-translate-ais-benefits
+  - fingerprint: palma-ai-1-8m-pre-seed-agent-governance
+    title: "Palma.ai raises $1.8M for a governance layer between AI agents and corporate systems"
+    first_seen: 2026-10-01
+    digest: using-ai-for-business-productivity-2026-Oct-01.html
+    urls:
+      - https://www.unite.ai/palma-raises-1-8m-to-build-the-governance-layer-for-enterprise-ai-agents/
+      - https://fintech.global/2026/09/28/palma-ai-raises-1-8m-to-govern-enterprise-ai-agents
+      - https://dealroom.co/news/155626-palma-ai-raises-1-8m-to-govern-enterprise-ai-agents/
+      - https://ventureburn.com/palma-ai-secures-1-8m-funding/
   - fingerprint: openai-dots-always-on-agents-gpt6-astra-sep2026
     title: "OpenAI launches Dots, always-on agents that work across 4,000 apps around the clock"
     first_seen: 2026-09-30
@@ -2615,6 +2658,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-01
+- **ChatGPT Space and GPT-6.1 Sol: OpenAI's DevDay push into shared team workspaces and cheaper reasoning** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-01.html)
+- **PwC survey of ~50,000 workers: AI is splitting the workforce, and the best AI users are flight risks** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-01.html)
+- **Korn Ferry: India leads on AI adoption, but productivity gains arrive with heavier workloads** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-01.html)
+- **ServiceTitan: trades contractors move from "whether" to "how" on AI, but trust lags** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-01.html)
+- **Palma.ai raises $1.8M for a governance layer between AI agents and corporate systems** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-01.html)
 
 ## 2026-Sep-30
 - **OpenAI launches Dots, always-on agents that work across 4,000 apps around the clock** — OpenAI unveiled Dots at DevDay on September 29: persistent agents powered by GPT-6 Astra that learn what matters to a user, keep working toward goals without daily oversight, and connect to more than 4,000 apps through its plugin ecosystem. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-30.html)
