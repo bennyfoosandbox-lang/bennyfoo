@@ -2,10 +2,41 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-01
-run_count: 52
-digest_count: 49
+last_run: 2026-10-02
+run_count: 53
+digest_count: 50
 entries:
+  - fingerprint: texas-tea-morath-alpha-school-ai-pilots-propublica-oct2026
+    title: "Texas's education agency helped pilot Alpha School's AI platform after the state board balked"
+    first_seen: 2026-10-02
+    digest: ai-impact-on-education-2026-Oct-02.html
+    urls:
+      - https://www.houstonpublicmedia.org/articles/education/2026/10/02/563426/how-mike-moraths-agency-helped-get-an-ai-tool-in-texas-public-school-classrooms/
+  - fingerprint: boston-nyc-opposite-ai-school-approaches-govtech-oct2026
+    title: "Boston bets on AI fluency for every student while New York City pauses AI through eighth grade"
+    first_seen: 2026-10-02
+    digest: ai-impact-on-education-2026-Oct-02.html
+    urls:
+      - https://www.govtech.com/education/k-12/boston-and-new-york-city-take-opposite-approaches-to-ai-in-school
+  - fingerprint: google-ai-inescapable-schools-search-ai-mode-bans-oct2026
+    title: "Google's AI is nearly impossible to wall off from US schools, even where districts ban it"
+    first_seen: 2026-10-02
+    digest: ai-impact-on-education-2026-Oct-02.html
+    urls:
+      - https://www.techbrew.com/stories/google-gemini-ai-schools-influence
+      - https://gigazine.net/gsc_news/en/20261002-google-push-ai-gemini-education-schools/
+  - fingerprint: janai-india-government-school-teachers-ai-survey-797-sep2026
+    title: "Survey of 797 Indian government-school teachers: 72% positive on AI, but over half have entered student data into tools"
+    first_seen: 2026-10-02
+    digest: ai-impact-on-education-2026-Oct-02.html
+    urls:
+      - https://yourstory.com/2026/09/government-school-teachers-ai-readiness-janai-survey
+  - fingerprint: cen-colleges-grapple-ai-stem-classroom-uncertain-impacts-oct2026
+    title: "C&EN: STEM instructors weigh AI's help against lost problem-solving practice"
+    first_seen: 2026-10-02
+    digest: ai-impact-on-education-2026-Oct-02.html
+    urls:
+      - https://cen.acs.org/education/undergraduate-education/generative-AI-STEM-education-impacts/104/web/2026/10
   - fingerprint: harvard-fas-science-five-ai-faculty-searches-hiring-freeze-sep2026
     title: "Harvard's science division launches five AI-themed faculty searches while a hiring freeze holds"
     first_seen: 2026-10-01
@@ -1934,6 +1965,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-02
+- **Texas's education agency helped pilot Alpha School's AI platform after the state board balked** — A Texas Tribune/ProPublica investigation reports that Education Commissioner Mike Morath and his staff helped steer Alpha School–linked AI programs into public districts even after the State Board of Education voted 10–3 against. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-02.html)
+- **Boston bets on AI fluency for every student while New York City pauses AI through eighth grade** — GovTech lays out a stark split between two big districts. Boston is building AI literacy for all students, with a $1 million public-private partnership, a nine-member industry advisory board, 25 trained teacher ambassadors and a. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-02.html)
+- **Google's AI is nearly impossible to wall off from US schools, even where districts ban it** — Tech Brew, summarising a Wall Street Journal report based on interviews with more than 60 teachers, officials, clinicians and parents, argues that moratoriums in New York City and Los Angeles are undercut by Google's reach: its. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-02.html)
+- **Survey of 797 Indian government-school teachers: 72% positive on AI, but over half have entered student data into tools** — A JanAI survey (an initiative of the Head Held High Foundation) of 797 government-school teachers across Uttar Pradesh, Karnataka, Jharkhand and Maharashtra found 72% feel positive about AI and 26% already use it regularly,. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-02.html)
+- **C&EN: STEM instructors weigh AI's help against lost problem-solving practice** — Chemical & Engineering News surveys how college STEM instructors are coping, noting problem sets that once took hours now finish in minutes and lab reports that can be drafted wholesale by a chatbot. It cites a Digital Education. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-02.html)
 
 ## 2026-Oct-01
 - **Harvard's science division launches five AI-themed faculty searches while a hiring freeze holds** — Harvard's Faculty of Arts and Sciences science departments are opening at least five AI-related faculty searches spanning eight-plus departments, afte. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-01.html)
