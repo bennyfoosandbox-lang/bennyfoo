@@ -2,10 +2,42 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-01
-run_count: 57
-digest_count: 57
+last_run: 2026-10-02
+run_count: 58
+digest_count: 58
 entries:
+  - fingerprint: chainguard-factory-skill-hardening-pipeline
+    title: "Chainguard details its agent-skill hardening pipeline"
+    first_seen: 2026-10-02
+    digest: essential-skill-md-for-productivity-2026-Oct-02.html
+    urls:
+      - https://www.chainguard.dev/unchained/how-do-you-harden-an-agent-skill-the-simple-file-type-with-serious-complexities
+  - fingerprint: redhat-skill-trigger-testing-promptfoo-ci
+    title: "Red Hat: test skill triggers with skill-creator, promptfoo and CI"
+    first_seen: 2026-10-02
+    digest: essential-skill-md-for-productivity-2026-Oct-02.html
+    urls:
+      - https://developers.redhat.com/articles/2026/10/01/master-your-skills-building-skills-you-can-trust
+  - fingerprint: skillseek-skill-retrieval-bm25-arxiv-2609-38822
+    title: "SkillSeek: cheap two-stage skill retrieval matches LLM loops"
+    first_seen: 2026-10-02
+    digest: essential-skill-md-for-productivity-2026-Oct-02.html
+    urls:
+      - https://arxiv.org/abs/2609.38822
+      - https://huggingface.co/papers/2609.38822
+      - https://arxiv.org/html/2609.38822v1
+  - fingerprint: atlassian-twg-cli-agent-skills-install
+    title: "Atlassian TWG CLI installs Jira/Confluence skills across agents"
+    first_seen: 2026-10-02
+    digest: essential-skill-md-for-productivity-2026-Oct-02.html
+    urls:
+      - https://developer.atlassian.com/cloud/twg-cli/agents/skills/
+  - fingerprint: skills-manager-1-40-3-54-agents
+    title: "Skills Manager 1.40.3 syncs skills across 54 agents"
+    first_seen: 2026-10-02
+    digest: essential-skill-md-for-productivity-2026-Oct-02.html
+    urls:
+      - https://github.com/xingkongliang/skills-manager
   - fingerprint: posit-package-manager-agent-plugin-governance
     title: "Posit Package Manager governs agent plugins"
     first_seen: 2026-10-01
@@ -1921,6 +1953,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-02
+- **Chainguard details its agent-skill hardening pipeline** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-02.html)
+- **Red Hat: test skill triggers with skill-creator, promptfoo and CI** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-02.html)
+- **SkillSeek: cheap two-stage skill retrieval matches LLM loops** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-02.html)
+- **Atlassian TWG CLI installs Jira/Confluence skills across agents** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-02.html)
+- **Skills Manager 1.40.3 syncs skills across 54 agents** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-02.html)
 
 ## 2026-Oct-01
 - **Posit Package Manager governs agent plugins** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-01.html)
