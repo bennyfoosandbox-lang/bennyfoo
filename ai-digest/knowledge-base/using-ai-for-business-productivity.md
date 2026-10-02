@@ -2,10 +2,52 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-01
-run_count: 63
-digest_count: 63
+last_run: 2026-10-02
+run_count: 64
+digest_count: 64
 entries:
+  - fingerprint: templafy-business-ready-ai-gap-95-percent-edit-oct2026
+    title: "Templafy: 95% of knowledge workers still edit AI drafts before they are usable"
+    first_seen: 2026-10-02
+    digest: using-ai-for-business-productivity-2026-Oct-02.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/10/01/3372714/0/en/templafy-report-finds-95-of-knowledge-workers-edit-ai-generated-documents-before-they-re-business-ready.html
+      - https://newshub.medianet.com.au/2026/10/templafy-report-finds-95-of-knowledge-workers-edit-ai-generated-documents-before-theyre-business-ready/174567/
+      - https://macaubusiness.com/templafy-report-finds-95-of-knowledge-workers-edit-ai-generated-documents-before-theyre-business-ready/
+  - fingerprint: barclays-anthropic-claude-code-expansion-oct2026
+    title: "Barclays scales Claude and Claude Code across the bank"
+    first_seen: 2026-10-02
+    digest: using-ai-for-business-productivity-2026-Oct-02.html
+    urls:
+      - https://www.bloomberg.com/news/articles/2026-10-01/barclays-expands-use-of-anthropic-s-claude-in-efficiency-push
+      - https://www.anthropic.com/news/barclays-scales-claude
+      - https://www.pymnts.com/news/artificial-intelligence/2026/barclays-accelerates-ai-rollout-with-anthropic-claude-code/
+      - https://cryptobriefing.com/barclays-claude-developer-adoption-2026/
+  - fingerprint: goto-pulse-of-work-2026-83-percent-fear-ai-blame
+    title: "GoTo survey: AI saves 2.3 hours a day, but 83% fear being blamed for its mistakes"
+    first_seen: 2026-10-02
+    digest: using-ai-for-business-productivity-2026-Oct-02.html
+    urls:
+      - https://itbrief.co.uk/story/employees-fear-blame-over-ai-mistakes-survey-finds
+      - https://www.goto.com/blog/pulse-of-work-2026
+      - https://vmblog.com/news/83-of-employees-fear-being-fired-for-an-ai-mistakeaccording-to-research-from-goto/
+      - https://www.fintechnews.org/83-of-employees-fear-being-fired-for-an-ai-mistake-according-to-research-from-goto/
+  - fingerprint: hackett-aris-process-context-study-oct2026
+    title: "Hackett Group and ARIS: process context makes AI outcomes 5x more likely to succeed"
+    first_seen: 2026-10-02
+    digest: using-ai-for-business-productivity-2026-Oct-02.html
+    urls:
+      - https://www.financialcontent.com/article/bizwire-2026-10-1-new-research-organizations-with-strong-process-context-5x-more-likely-to-deliver-successful-ai-outcomes
+      - https://www.northamericaoutlookmag.com/technology/aris-the-hackett-group-strong-process-visibility-makes-ai-projects-five-times-more-likely-to-succeed
+      - https://vmblog.com/bylines/before-you-deploy-agents-make-sure-they-understand-your-business/
+  - fingerprint: bearingpoint-ai-scaling-13-percent-overcapacity-oct2026
+    title: "BearingPoint: three-quarters see AI impact, but only 13% scale as planned"
+    first_seen: 2026-10-02
+    digest: using-ai-for-business-productivity-2026-Oct-02.html
+    urls:
+      - https://www.financialcontent.com/article/bizwire-2026-10-1-ai-delivers-value-but-only-13-of-organizations-scale-it-as-planned
+      - https://www.lelezard.com/en/news-ai-delivers-value-but-only-13-of-organizations-scale-it-as-planned-22386022.html
+      - https://www.01net.it/ai-delivers-value-but-only-13-of-organizations-scale-it-as-planned/
   - fingerprint: openai-chatgpt-space-gpt-6-1-sol-devday-oct2026
     title: "ChatGPT Space and GPT-6.1 Sol: OpenAI's DevDay push into shared team workspaces and cheaper reasoning"
     first_seen: 2026-10-01
@@ -2658,6 +2700,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-02
+- **Templafy: 95% of knowledge workers still edit AI drafts before they are usable** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-02.html)
+- **Barclays scales Claude and Claude Code across the bank** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-02.html)
+- **GoTo survey: AI saves 2.3 hours a day, but 83% fear being blamed for its mistakes** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-02.html)
+- **Hackett Group and ARIS: process context makes AI outcomes 5x more likely to succeed** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-02.html)
+- **BearingPoint: three-quarters see AI impact, but only 13% scale as planned** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-02.html)
 
 ## 2026-Oct-01
 - **ChatGPT Space and GPT-6.1 Sol: OpenAI's DevDay push into shared team workspaces and cheaper reasoning** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-01.html)
