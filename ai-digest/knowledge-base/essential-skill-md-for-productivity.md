@@ -2,10 +2,44 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-02
-run_count: 58
-digest_count: 58
+last_run: 2026-10-03
+run_count: 59
+digest_count: 59
 entries:
+  - fingerprint: claude-code-v2-1-287-mods-not-sandboxed
+    title: "Claude Code 2.1.287 ships 'Mods' — in-process plugins that Anthropic admits are not sandboxed"
+    first_seen: 2026-10-03
+    digest: essential-skill-md-for-productivity-2026-Oct-03.html
+    urls:
+      - https://mixed-news.com/en/claude-code-2-1-287-mods-not-sandboxed-api-key/
+      - https://pasqualepillitteri.it/en/news/19871/claude-code-mods-plugins
+      - https://streamlinefeed.co.ke/news/anthropic-lets-developers-mod-claude-code
+  - fingerprint: dash-security-mods-arrive-as-skills-folder
+    title: "Security researchers: a mod can arrive as a plain skills folder, invisible to endpoint tools"
+    first_seen: 2026-10-03
+    digest: essential-skill-md-for-productivity-2026-Oct-03.html
+    urls:
+      - https://dash.security/blog/claude-mods-the-new-attack-surface-built-in
+      - https://mixed-news.com/en/claude-code-2-1-287-mods-not-sandboxed-api-key/
+  - fingerprint: burch-downloaded-skills-hidden-malware-audit-prompt
+    title: "'A new form of malware': Security Journey exec demos a hidden-exfiltration skill, and a one-question defence"
+    first_seen: 2026-10-03
+    digest: essential-skill-md-for-productivity-2026-Oct-03.html
+    urls:
+      - https://techinformed.com/downloaded-ai-skills-can-hide-malware-warns-michael-burch/
+  - fingerprint: skillsboard-oct-2026-agent-skills-by-the-numbers
+    title: "October 'Agent Skills by the numbers': repos up 34%, but npm downloads fall 27%"
+    first_seen: 2026-10-03
+    digest: essential-skill-md-for-productivity-2026-Oct-03.html
+    urls:
+      - https://github.com/TommyBez/skillsboard/pull/205
+  - fingerprint: hostinger-agents-150-skills-custom-skills-50
+    title: "Hostinger Agents packages 150+ guided 'Skills' for solopreneurs, with up to 50 saved custom skills"
+    first_seen: 2026-10-03
+    digest: essential-skill-md-for-productivity-2026-Oct-03.html
+    urls:
+      - https://www.hostinger.com/support/what-are-hostinger-agents-skills-and-how-to-use-them/
+      - https://www.hostinger.com/hostinger-agent
   - fingerprint: chainguard-factory-skill-hardening-pipeline
     title: "Chainguard details its agent-skill hardening pipeline"
     first_seen: 2026-10-02
@@ -1953,6 +1987,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-03
+- **Claude Code 2.1.287 ships 'Mods' — in-process plugins that Anthropic admits are not sandboxed** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-03.html)
+- **Security researchers: a mod can arrive as a plain skills folder, invisible to endpoint tools** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-03.html)
+- **'A new form of malware': Security Journey exec demos a hidden-exfiltration skill, and a one-question defence** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-03.html)
+- **October 'Agent Skills by the numbers': repos up 34%, but npm downloads fall 27%** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-03.html)
+- **Hostinger Agents packages 150+ guided 'Skills' for solopreneurs, with up to 50 saved custom skills** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-03.html)
 
 ## 2026-Oct-02
 - **Chainguard details its agent-skill hardening pipeline** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-02.html)
