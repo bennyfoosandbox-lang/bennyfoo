@@ -2,10 +2,40 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-02
-run_count: 53
-digest_count: 50
+last_run: 2026-10-03
+run_count: 54
+digest_count: 51
 entries:
+  - fingerprint: uhd-student-wins-false-ai-accusation-appeal-fox26-oct2026
+    title: "A Houston student beats an \"F\" for alleged AI cheating on appeal"
+    first_seen: 2026-10-03
+    digest: ai-impact-on-education-2026-Oct-03.html
+    urls:
+      - https://www.fox26houston.com/news/senior-uh-downtown-prevails-after-being-accused-handing-assignments-were-ai-generated
+  - fingerprint: evergreen-hs-vancouver-wa-student-walkout-pencils-not-prompts-oct2026
+    title: "Washington high schoolers walk out: \"Pencils, not prompts\""
+    first_seen: 2026-10-03
+    digest: ai-impact-on-education-2026-Oct-03.html
+    urls:
+      - https://www.kgw.com/article/news/education/evergreen-high-school-students-demand-ai-regulation-classrooms/283-fb6bb296-afad-493b-a9af-b5c52289f6d0
+  - fingerprint: asu-kenya-storybooks-offline-ai-literacy-mastercard-scholar-oct2026
+    title: "AI literacy without screens: a Kenyan pilot teaches it through printed storybooks"
+    first_seen: 2026-10-03
+    digest: ai-impact-on-education-2026-Oct-03.html
+    urls:
+      - https://news.engineering.asu.edu/2026/10/what-ai-literacy-looks-like-offline/
+  - fingerprint: utsa-meep-student-built-ai-agent-campus-support-oct2026
+    title: "Three UT San Antonio undergrads build the campus AI agent themselves"
+    first_seen: 2026-10-03
+    digest: ai-impact-on-education-2026-Oct-03.html
+    urls:
+      - https://innovation.utsa.edu/news/2026/10/02-learning-by-building-inside-ut-san-antonios-student-led-ai-experiment.html
+  - fingerprint: futurism-students-describe-gemini-slowed-thinking-wsj-update-oct2026
+    title: "Update: students tell of grades sliding after Google's Gemini arrived in their classrooms"
+    first_seen: 2026-10-03
+    digest: ai-impact-on-education-2026-Oct-03.html
+    urls:
+      - https://futurism.com/future-society/tech-industry-aggressive-google-ai-schools-disaster
   - fingerprint: texas-tea-morath-alpha-school-ai-pilots-propublica-oct2026
     title: "Texas's education agency helped pilot Alpha School's AI platform after the state board balked"
     first_seen: 2026-10-02
@@ -1965,6 +1995,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-03
+- **A Houston student beats an "F" for alleged AI cheating on appeal** — University of Houston-Downtown senior Mark Pieterson was given an F in a music appreciation course after his professor said his journal entries and discussion posts were copy-pasted AI output, even though he held A-level marks elsewhere in the class. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-03.html)
+- **Washington high schoolers walk out: "Pencils, not prompts"** — More than 100 students at Evergreen High School in Vancouver, Washington left sixth period on Thursday to demand that the district set clear rules for AI use. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-03.html)
+- **AI literacy without screens: a Kenyan pilot teaches it through printed storybooks** — An Arizona State University master's student and Mastercard Foundation Scholar, Martin Ndegwa, planned a digital AI-literacy curriculum for Kenyan schools but found rural primary schools in Kilifi County with unreliable electricity, few computers and limited internet, and in some places no nearby library within 30 kilometers. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-03.html)
+- **Three UT San Antonio undergrads build the campus AI agent themselves** — UT San Antonio's Academic Innovation unit let three undergraduates design, build and launch MEEP (My Educational Engagement Partner), a Copilot Studio agent that fields campus support questions from a custom knowledge base. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-03.html)
+- **Update: students tell of grades sliding after Google's Gemini arrived in their classrooms** — Building on the Wall Street Journal reporting already covered on Google's reach into schools, a Futurism roundup adds the student accounts. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-03.html)
 
 ## 2026-Oct-02
 - **Texas's education agency helped pilot Alpha School's AI platform after the state board balked** — A Texas Tribune/ProPublica investigation reports that Education Commissioner Mike Morath and his staff helped steer Alpha School–linked AI programs into public districts even after the State Board of Education voted 10–3 against. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-02.html)
