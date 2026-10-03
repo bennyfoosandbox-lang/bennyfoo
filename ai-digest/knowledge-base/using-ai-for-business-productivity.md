@@ -2,9 +2,9 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-02
-run_count: 64
-digest_count: 64
+last_run: 2026-10-03
+run_count: 65
+digest_count: 65
 entries:
   - fingerprint: templafy-business-ready-ai-gap-95-percent-edit-oct2026
     title: "Templafy: 95% of knowledge workers still edit AI drafts before they are usable"
@@ -2695,6 +2695,49 @@ entries:
       - https://www.tipranks.com/news/private-companies/axya-raises-c17-million-to-scale-ai-procurement-platform-and-global-expansion
       - https://finance.yahoo.com/technology/ai/articles/axya-secures-17-million-cad-133000838.html
       - https://www.prnewswire.com/news-releases/axya-secures-17-million-cad-in-funding-to-help-manufacturers-modernize-procurement-with-ai-302888441.html
+  - fingerprint: anthropic-claude-frontier-academy-100m-10k-engineers-oct2026
+    title: "Anthropic launches Claude Frontier Academy: $100M to train 10,000 enterprise deployment engineers"
+    first_seen: 2026-10-03
+    digest: using-ai-for-business-productivity-2026-Oct-03.html
+    urls:
+      - https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html
+      - https://www.unite.ai/new-anthropic-academy-backs-10-000-engineer-residencies-with-100m/
+      - https://cryptobriefing.com/anthropic-100-million-claude-frontier-academy/
+      - https://www.securities.io/anthropic-launches-claude-frontier-academy-with-100-million/
+  - fingerprint: google-gemini-4-argon-enterprise-limited-release-sep2026
+    title: "Google unveils Gemini 4 Argon for enterprise knowledge work, in limited release"
+    first_seen: 2026-10-03
+    digest: using-ai-for-business-productivity-2026-Oct-03.html
+    urls:
+      - https://venturebeat.com/technology/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic-but-in-limited-release
+      - https://www.vktr.com/ai-news/google-debuts-gemini-4-argon-for-cyber-defenders/
+      - https://www.contentgrip.com/gemini-4-argon-enterprise-workflows/
+      - https://sqmagazine.co.uk/google-gemini-4-argon/
+  - fingerprint: openai-devday-decisions-api-fast-agent-routing-sep2026
+    title: "OpenAI's Decisions API: ~150ms classification and routing for agent workflows"
+    first_seen: 2026-10-03
+    digest: using-ai-for-business-productivity-2026-Oct-03.html
+    urls:
+      - https://www.eesel.ai/blog/openai-decisions-api
+      - https://www.latent.space/p/ainews-openai-devday-2026-dots-61
+      - https://aisocratic.org/news/openai-devday-2026-gpt-61-sol-decisions-api-and-the-agent-platform
+      - https://www.gazetaexpress.com/en/OpenAI-introduces-Decisions-API--a-tool-that-can-make-AI-agents-faster-and-more-secure/
+  - fingerprint: totvs-lynn-b2b-ai-foundation-taas-oct2026
+    title: "TOTVS bets on a narrow, task-priced AI foundation (LYNN) for Brazilian businesses"
+    first_seen: 2026-10-03
+    digest: using-ai-for-business-productivity-2026-Oct-03.html
+    urls:
+      - https://siliconangle.com/2026/10/02/totvs-grounds-enterprise-ai-foundation-in-brazilian-business-data-aifactoriesdatacenters/
+      - https://braziljournal.com/brands/totvs-lanca-lynn-para-elevar-a-ai-corporativa-a-outro-nivel/
+      - https://canaltech.com.br/inteligencia-artificial/totvs-lanca-primeiro-foundation-de-ia-b2b-no-brasil/
+  - fingerprint: cx-ai-orchestration-not-adoption-genesys-siliconangle-oct2026
+    title: "CX AI has an orchestration problem, not an adoption problem (Genesys / SiliconANGLE)"
+    first_seen: 2026-10-03
+    digest: using-ai-for-business-productivity-2026-Oct-03.html
+    urls:
+      - https://siliconangle.com/2026/10/02/ai-in-customer-experience-has-an-orchestration-problem-not-an-adoption-problem/
+      - https://www.renascence.io/news/48504/genesys-ai-orchestration-not-adoption-is-the-cx-gap
+      - https://thecuberesearch.com/ai-customer-experience-depends-on-orchestration-not-automation/
 ---
 
 # Knowledge Base — Using AI for Business Productivity
@@ -3146,3 +3189,10 @@ Running log of everything already covered, newest first. Each bullet links the d
 - **Anthropic launches Claude for Financial Advisors with Schwab and BlackRock as debut partners** — Sept 14 release wires Claude into custodian/planning systems (Schwab, BlackRock, Addepar, Envestnet, Orion, Vanguard) with workflow skills for onboarding, meeting prep and compliance review; targets Schwab's 16,000+ RIAs. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-22.html)
 - **Claude Enterprise adds "Smart Reports," turning AI usage itself into a measurable line item** — Sept 10 beta feature analyzes team task usage, cost and friction, surfacing patterns worth packaging as shared skills; 10 free reports/month during beta, aimed at the enterprise AI ROI-measurement gap. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-22.html)
 - **Canada rolls out a "Productivity Mega Deduction" to push businesses to buy software, AI tools and equipment now** — Sept 15 measure lets businesses fully expense qualifying investments immediately, expanding eligible-asset coverage from 15% to 65%; part of ~$280B in capital measures aimed at unlocking $1T+ in investment. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Sep-22.html)
+
+## 2026-Oct-03
+- **Anthropic launches Claude Frontier Academy: $100M to train 10,000 enterprise deployment engineers** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-03.html)
+- **Google unveils Gemini 4 Argon for enterprise knowledge work, in limited release** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-03.html)
+- **OpenAI's Decisions API: ~150ms classification and routing for agent workflows** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-03.html)
+- **TOTVS bets on a narrow, task-priced AI foundation (LYNN) for Brazilian businesses** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-03.html)
+- **CX AI has an orchestration problem, not an adoption problem (Genesys / SiliconANGLE)** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-03.html)
