@@ -2,10 +2,47 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-03
-run_count: 59
-digest_count: 59
+last_run: 2026-10-04
+run_count: 60
+digest_count: 60
 entries:
+  - fingerprint: gemini-skills-official-global-rollout-replace-gems
+    title: "Google makes Gemini Skills official, rolling out in chat for free and paid accounts"
+    first_seen: 2026-10-04
+    digest: essential-skill-md-for-productivity-2026-Oct-04.html
+    urls:
+      - https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/
+      - https://www.androidheadlines.com/2026/10/google-makes-gemini-skills-official-to-automate-tasks-and-replace-gems.html
+  - fingerprint: microsoft-copilot-redesign-skills-autopilot-sep25
+    title: "Microsoft’s rebuilt Copilot puts role-specific Skills inside Word and Excel (from 25 Sep)"
+    first_seen: 2026-10-04
+    digest: essential-skill-md-for-productivity-2026-Oct-04.html
+    urls:
+      - https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/
+      - https://www.unite.ai/microsoft-copilot-overhaul-adds-home-hub-code-builder-and-autopilot-agent/
+      - https://www.technology.org/2026/09/28/microsoft-copilot-code-autopilot-agent-office/
+  - fingerprint: unified-to-100-free-skillmd-integrations
+    title: "Unified.to publishes 100+ free SKILL.md files so coding agents can build integrations"
+    first_seen: 2026-10-04
+    digest: essential-skill-md-for-productivity-2026-Oct-04.html
+    urls:
+      - https://unified.to/blog/september_2026_product_update
+      - https://aiagentsdirectory.com/news/ai-agents-news-brief-october-2-2026
+  - fingerprint: codex-cli-0-160-0-plugin-manifest-caching
+    title: "Codex CLI 0.160.0: faster plugin loading and projectless sessions"
+    first_seen: 2026-10-04
+    digest: essential-skill-md-for-productivity-2026-Oct-04.html
+    urls:
+      - https://github.com/openai/codex/releases/tag/rust-v0.160.0
+      - https://releasebot.io/updates/openai/codex
+      - https://ai-tldr.dev/releases/openai-codex-cli-0-160/
+  - fingerprint: agenthouse-release-2026-10-03-agenticskills-directory-1-7-0
+    title: "Catalogue churn on 3 Oct: a new AgentHouse skills release and AgenticSkills directory v1.7.0"
+    first_seen: 2026-10-04
+    digest: essential-skill-md-for-productivity-2026-Oct-04.html
+    urls:
+      - https://github.com/agenthouse-org/skills/releases/tag/release-2026-10-03
+      - https://agenticskills.io/
   - fingerprint: claude-code-v2-1-287-mods-not-sandboxed
     title: "Claude Code 2.1.287 ships 'Mods' — in-process plugins that Anthropic admits are not sandboxed"
     first_seen: 2026-10-03
@@ -1987,6 +2024,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-04
+- **Google makes Gemini Skills official, rolling out in chat for free and paid accounts** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-04.html)
+- **Microsoft’s rebuilt Copilot puts role-specific Skills inside Word and Excel (from 25 Sep)** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-04.html)
+- **Unified.to publishes 100+ free SKILL.md files so coding agents can build integrations** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-04.html)
+- **Codex CLI 0.160.0: faster plugin loading and projectless sessions** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-04.html)
+- **Catalogue churn on 3 Oct: a new AgentHouse skills release and AgenticSkills directory v1.7.0** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-04.html)
 
 ## 2026-Oct-03
 - **Claude Code 2.1.287 ships 'Mods' — in-process plugins that Anthropic admits are not sandboxed** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-03.html)
