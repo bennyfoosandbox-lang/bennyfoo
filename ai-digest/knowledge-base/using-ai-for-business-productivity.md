@@ -2,10 +2,40 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-03
-run_count: 65
-digest_count: 65
+last_run: 2026-10-04
+run_count: 66
+digest_count: 66
 entries:
+  - fingerprint: perplexity-computer-for-enterprise-meta-router-oct2026
+    title: "Perplexity pitches itself as the 'meta-router' for enterprise AI"
+    first_seen: 2026-10-04
+    digest: using-ai-for-business-productivity-2026-Oct-04.html
+    urls:
+      - https://forkast.news/perplexitys-bet-on-the-meta-router-model/
+      - https://venturebeat.com/ai/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at
+      - https://www.gend.co/blog/perplexity-computer-for-enterprise
+  - fingerprint: zoominfo-agent-teams-doubleo-bundled-oct2026
+    title: "ZoomInfo bundles agent orchestration into every contract after buying DoubleO.ai"
+    first_seen: 2026-10-04
+    digest: using-ai-for-business-productivity-2026-Oct-04.html
+    urls:
+      - https://forkast.news/zoominfo-ships-agent-teams-inside-its-existing-platform-with-no-new-fee-the-first-gtm-data-vendor-to-bundle-agent-orchestration/
+      - https://www.beri.net/article/zoominfo-doubleo-ai-acquisition-gtm-agent-orchestration-pricing-renewal-lock-in
+  - fingerprint: microsoft-roslansky-exit-copilot-reorg-oct2026
+    title: "Microsoft's Roslansky to exit at year-end as Copilot becomes a workplace platform"
+    first_seen: 2026-10-04
+    digest: using-ai-for-business-productivity-2026-Oct-04.html
+    urls:
+      - https://www.konsulteer.com/article/ryan-roslansky-to-leave-microsoft-as-copilot-reshapes-workplace-software
+      - https://www.devx.com/artificial-intelligence-ai/microsoft-copilot-autopilot-explained/
+  - fingerprint: techcrunch-ai-agents-in-text-messages-oct2026
+    title: "AI agents move into text messages, including for workplace tasks"
+    first_seen: 2026-10-04
+    digest: using-ai-for-business-productivity-2026-Oct-04.html
+    urls:
+      - https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/
+      - https://www.techbuzz.ai/articles/ai-agents-invade-your-text-messages-as-conversational-ai-goes-mobile
+      - https://mezha.net/eng/news/2b57d5fa_ai_agents_bring/
   - fingerprint: templafy-business-ready-ai-gap-95-percent-edit-oct2026
     title: "Templafy: 95% of knowledge workers still edit AI drafts before they are usable"
     first_seen: 2026-10-02
@@ -2743,6 +2773,12 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-04
+- **Perplexity pitches itself as the 'meta-router' for enterprise AI** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-04.html)
+- **ZoomInfo bundles agent orchestration into every contract after buying DoubleO.ai** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-04.html)
+- **Microsoft's Roslansky to exit at year-end as Copilot becomes a workplace platform** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-04.html)
+- **AI agents move into text messages, including for workplace tasks** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-04.html)
 
 ## 2026-Oct-02
 - **Templafy: 95% of knowledge workers still edit AI drafts before they are usable** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-02.html)
