@@ -2,10 +2,40 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-03
-run_count: 54
-digest_count: 51
+last_run: 2026-10-04
+run_count: 55
+digest_count: 52
 entries:
+  - fingerprint: uaa-regents-ai-policy-misconduct-119-of-150-oct2026
+    title: "University of Alaska moves toward a system-wide AI policy as AI dominates misconduct cases"
+    first_seen: 2026-10-04
+    digest: ai-impact-on-education-2026-Oct-04.html
+    urls:
+      - https://www.adn.com/alaska-news/education/2026/10/04/ai-policy-coming-to-university-of-alaska-as-student-misuse-increases/
+  - fingerprint: iim-bangalore-students-build-chatbots-to-answer-midterm-oct2026
+    title: "IIM Bangalore has MBA students build chatbots that answer their own exam"
+    first_seen: 2026-10-04
+    digest: ai-impact-on-education-2026-Oct-04.html
+    urls:
+      - https://www.financialexpress.com/jobs-career/education/how-iim-bangalore-made-students-use-genai-to-answer-their-own-exams/4353483/
+  - fingerprint: st-paul-public-schools-ai-governance-policy-by-2028-oct2026
+    title: "St. Paul schools block AI for K-8 while the board plans a governance policy by 2028"
+    first_seen: 2026-10-04
+    digest: ai-impact-on-education-2026-Oct-04.html
+    urls:
+      - https://www.twincities.com/2026/10/04/ai-in-st-paul-public-schools/
+  - fingerprint: guardian-ng-distinction-ai-nigerian-lecturers-prep-time-oct2026
+    title: "Nigerian lecturers use AI to cut course prep from days to minutes, and ask for national rules"
+    first_seen: 2026-10-04
+    digest: ai-impact-on-education-2026-Oct-04.html
+    urls:
+      - https://guardian.ng/news/how-ai-is-saving-nigerian-lecturers-days-of-preparation/
+  - fingerprint: australia-education-dept-parliamentary-inquiry-ai-critical-thinking-research-theft-oct2026
+    title: "Australia's Education Department warns a parliamentary inquiry that AI could dull pupils and expose university research"
+    first_seen: 2026-10-04
+    digest: ai-impact-on-education-2026-Oct-04.html
+    urls:
+      - https://www.theaustralian.com.au/nation/ai-chatbots-harm-childrens-critical-thinking-and-risk-research-theft-inquiry-told/news-story/c064c91c02a226cb9220032db769cc6e
   - fingerprint: uhd-student-wins-false-ai-accusation-appeal-fox26-oct2026
     title: "A Houston student beats an \"F\" for alleged AI cheating on appeal"
     first_seen: 2026-10-03
@@ -1995,6 +2025,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-04
+- **University of Alaska moves toward a system-wide AI policy as AI dominates misconduct cases** — The University of Alaska Board of Regents will weigh system-wide AI guiding principles in November, after an August report from the UAA Dean of Students Office found AI now accounts for most conduct cases: 119 of 150 students cited for academic misconduct used AI, with AI-linked plagiarism up 73% and misconduct overall up 56%. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-04.html)
+- **IIM Bangalore has MBA students build chatbots that answer their own exam** — Rather than ban AI from exams, Prof Subhabrata Majumdar at IIM Bangalore had 78 MBA students take a GenAI midterm by building and prompting their own chatbots, which then answered the exam questions. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-04.html)
+- **St. Paul schools block AI for K-8 while the board plans a governance policy by 2028** — St. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-04.html)
+- **Nigerian lecturers use AI to cut course prep from days to minutes, and ask for national rules** — Distinction AI, an edtech platform from FlexiSAF's Distinction Labs, helps Nigerian educators generate lecture slides, videos, assignments and exams; one Abuja lecturer says slides that took three days now take minutes, and an AI assistant marks coursework. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-04.html)
+- **Australia's Education Department warns a parliamentary inquiry that AI could dull pupils and expose university research** — Australia's federal Education Department told a parliamentary inquiry into artificial intelligence that chatbots risk harming children's critical thinking and could expose sensitive university research to theft, according to The Australian. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-04.html)
 
 ## 2026-Oct-03
 - **A Houston student beats an "F" for alleged AI cheating on appeal** — University of Houston-Downtown senior Mark Pieterson was given an F in a music appreciation course after his professor said his journal entries and discussion posts were copy-pasted AI output, even though he held A-level marks elsewhere in the class. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-03.html)
