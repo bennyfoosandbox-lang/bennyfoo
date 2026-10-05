@@ -2,10 +2,49 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-04
-run_count: 66
-digest_count: 66
+last_run: 2026-10-05
+run_count: 67
+digest_count: 67
 entries:
+  - fingerprint: mckinsey-mgi-11m-us-workers-occupation-shift-2035-sep2026
+    title: "McKinsey: AI could push 11 million US workers into new occupations by 2035"
+    first_seen: 2026-10-05
+    digest: using-ai-for-business-productivity-2026-Oct-05.html
+    urls:
+      - https://axios.com/2026/09/29/ai-jobs-roles-mckinsey
+      - https://aiweekly.co/alerts/mckinsey-ai-may-push-11m-us-workers-into-new-careers-by-2035
+      - https://www.10news.com/business/jobs-employment/ai-could-force-11-million-americans-into-new-careers-by-2035-report-finds
+      - https://www.ibtimes.co.uk/ai-automation-us-workers-change-occupations-2035-1822898
+  - fingerprint: ibm-bob-self-hosted-deployment-oct2026
+    title: "IBM offers its Bob coding agent as a self-hosted deployment"
+    first_seen: 2026-10-05
+    digest: using-ai-for-business-productivity-2026-Oct-05.html
+    urls:
+      - https://www.thailand-business-news.com/?p=332156
+      - https://technode.global/?p=994217
+      - https://itdigest.com/?p=83804
+  - fingerprint: outsystems-96pct-ai-agents-94pct-sprawl-2026
+    title: "OutSystems: 96% of enterprises run AI agents, 94% fear sprawl"
+    first_seen: 2026-10-05
+    digest: using-ai-for-business-productivity-2026-Oct-05.html
+    urls:
+      - https://www.outsystems.com/news/enterprise-ai-agent-report-2026
+      - https://finder.techleap.nl/news/feed/96-of-enterprises-use-ai-agents-but-94-fear-sprawl-outsystems-finds
+      - https://enterprisedna.co/resources/news/outsystems-agentic-ai-sprawl-enterprise-2026
+  - fingerprint: digitalocean-managed-agents-public-preview-sep2026
+    title: "DigitalOcean Managed Agents public preview with microVM runtime and tool gateway"
+    first_seen: 2026-10-05
+    digest: using-ai-for-business-productivity-2026-Oct-05.html
+    urls:
+      - https://finviz.com/news/394387/digitalocean-launches-managed-agents-bringing-agent-execution-tool-access-and-inference-together-on-one-cloud
+      - https://alternativeto.net/news/2026/9/digitalocean-launches-managed-agents-with-runtime-and-tool-gateway/
+      - https://docs.digitalocean.com/products/managed-agents/
+  - fingerprint: hengge-ai-gateway-new-company-oct2026
+    title: "HENNGE spins out HENNGE AI to sell an AI gateway for agent governance"
+    first_seen: 2026-10-05
+    digest: using-ai-for-business-productivity-2026-Oct-05.html
+    urls:
+      - https://it.impress.co.jp/articles/-/29843
   - fingerprint: perplexity-computer-for-enterprise-meta-router-oct2026
     title: "Perplexity pitches itself as the 'meta-router' for enterprise AI"
     first_seen: 2026-10-04
@@ -2773,6 +2812,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-05
+- **McKinsey: AI could push 11 million US workers into new occupations by 2035** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-05.html)
+- **IBM offers its Bob coding agent as a self-hosted deployment** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-05.html)
+- **OutSystems: 96% of enterprises run AI agents, 94% fear sprawl** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-05.html)
+- **DigitalOcean Managed Agents public preview with microVM runtime and tool gateway** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-05.html)
+- **HENNGE spins out HENNGE AI to sell an AI gateway for agent governance** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-05.html)
 
 ## 2026-Oct-04
 - **Perplexity pitches itself as the 'meta-router' for enterprise AI** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-04.html)
