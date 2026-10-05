@@ -2,10 +2,51 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-04
-run_count: 60
-digest_count: 60
+last_run: 2026-10-05
+run_count: 61
+digest_count: 61
 entries:
+  - fingerprint: claude-code-v2-1-288-289-plugin-mod-hardening
+    title: "Claude Code 2.1.288–2.1.289 spends two releases hardening plugins and the new Mods layer"
+    first_seen: 2026-10-05
+    digest: essential-skill-md-for-productivity-2026-Oct-05.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.289
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.288
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.287
+  - fingerprint: openai-devday-plugin-extensions-dots-chatgpt-space
+    title: "OpenAI's DevDay recap: plugin extensions, always-on 'dots' and a shared ChatGPT Space (from 29 Sep)"
+    first_seen: 2026-10-05
+    digest: essential-skill-md-for-productivity-2026-Oct-05.html
+    urls:
+      - https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html
+      - https://www.bgr.com/2272332/openai-devday-2026-announcements/
+      - https://www.engadget.com/2271985/openai-dev-day-live-blog-chatgpt-news/
+      - https://9to5mac.com/2026/09/29/openai-teases-20-announcements-at-devday-watch-live/
+      - https://pulse2.com/openai-expands-codex-with-role-specific-plugins-sites-and-annotations-for-non-developer-teams/
+  - fingerprint: copilot-cli-skills-command-subcommands-oct2
+    title: "Copilot CLI turns /skills into a full management command: list, edit, create, review, status"
+    first_seen: 2026-10-05
+    digest: essential-skill-md-for-productivity-2026-Oct-05.html
+    urls:
+      - https://github.com/abhi-singhs/copilot-cli-claude-code-compat/issues/108
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.92-4
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.92-3
+  - fingerprint: addyosmani-agent-skills-101k-stars-25-skills
+    title: "Addy Osmani's agent-skills pack passes 101K stars, now 25 skills and 70+ supported agents"
+    first_seen: 2026-10-05
+    digest: essential-skill-md-for-productivity-2026-Oct-05.html
+    urls:
+      - https://github.com/addyosmani/agent-skills
+      - https://github.com/VoltAgent/awesome-agent-skills
+  - fingerprint: anthropics-skills-repo-claude-api-skill-sep29
+    title: "Anthropic's official skills repo refreshes its claude-api skill for Opus 5.5 and Sonnet 5.5"
+    first_seen: 2026-10-05
+    digest: essential-skill-md-for-productivity-2026-Oct-05.html
+    urls:
+      - https://github.com/anthropics/skills/commit/8a1541c4a3ffa5a20a5a91de0dcf3f0bab1d1ef4
+      - https://github.com/anthropics/skills/commits/main
+      - https://github.com/anthropics/skills
   - fingerprint: gemini-skills-official-global-rollout-replace-gems
     title: "Google makes Gemini Skills official, rolling out in chat for free and paid accounts"
     first_seen: 2026-10-04
@@ -2024,6 +2065,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-05
+- **Claude Code 2.1.288–2.1.289 spends two releases hardening plugins and the new Mods layer** — Two point releases landed on 2–3 October, right after 2.1.287 introduced in-process Mods, and almost every fix targets the plugin surface. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-05.html)
+- **OpenAI's DevDay recap: plugin extensions, always-on 'dots' and a shared ChatGPT Space (from 29 Sep)** — OpenAI's 29 September DevDay, which the digest had so far only covered as pre-event speculation, delivered more than 20 announcements aimed at turning ChatGPT and Codex into a work platform. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-05.html)
+- **Copilot CLI turns /skills into a full management command: list, edit, create, review, status** — GitHub's Copilot CLI reference now documents `/skills` with five subcommands, `[list|edit|create|review|status]`, where it was previously a simple picker; the change was picked up by an automated docs tracker on 2 October. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-05.html)
+- **Addy Osmani's agent-skills pack passes 101K stars, now 25 skills and 70+ supported agents** — The engineering-discipline skill pack from Addy Osmani, last logged here at about 75K stars in July, now shows 101.2K stars and 10.6K forks, with the repo updated on 3 October. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-05.html)
+- **Anthropic's official skills repo refreshes its claude-api skill for Opus 5.5 and Sonnet 5.5** — The most recent commit to anthropics/skills, dated 29 September (#1930), updates the `claude-api` skill so Claude Opus 5.5 is the default model, adds Sonnet 5.5, and ships new build-eval and hillclimb guides. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-05.html)
 
 ## 2026-Oct-04
 - **Google makes Gemini Skills official, rolling out in chat for free and paid accounts** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-04.html)
