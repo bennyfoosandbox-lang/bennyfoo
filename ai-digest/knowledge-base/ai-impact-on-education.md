@@ -2,10 +2,40 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-04
-run_count: 55
-digest_count: 52
+last_run: 2026-10-05
+run_count: 56
+digest_count: 53
 entries:
+  - fingerprint: college-disputes-students-hiring-lawyers-ai-accusations-oct2026
+    title: "Students accused of AI cheating are hiring lawyers"
+    first_seen: 2026-10-05
+    digest: ai-impact-on-education-2026-Oct-05.html
+    urls:
+      - https://etcjournal.com/2026/10/03/briefing-10-3-26-students-are-hiring-lawyers/
+      - https://www.bnewso.com/2026/10/students-turn-to-lawyers-to-fight-ai.html
+      - https://wdcnews6.com/ai-cheating-accusations-the-students-hiring-lawyers-to-defend-themselves/
+  - fingerprint: arivihan-10m-series-a-accel-prosus-ai-tutoring-india-oct2026
+    title: "Arivihan raises $10.2M to take fully automated AI tutoring deeper into India"
+    first_seen: 2026-10-05
+    digest: ai-impact-on-education-2026-Oct-05.html
+    urls:
+      - https://www.analyticsinsight.net/news/arivihan-raises-usd-10-million-as-accel-prosus-back-edtech-expansion
+      - https://inc42.com/buzz/arivihan-nets-10-2-mn-to-scale-its-ai-tutoring-platform
+      - https://indianstartupnews.com/funding/ai-powered-edtech-startup-arivihan-secures-102-million-to-expand-across-state-boards-cbse-and-neet-12593108
+      - https://dealroom.co/news/156444-arivihan-raises-10m-series-a-to-expand-ai-tutoring-in-indias-smaller-cit/
+  - fingerprint: austin-mn-public-schools-ai-professional-learning-day-bultsma-oct2026
+    title: "Austin, Minnesota schools spend a day on AI professional learning"
+    first_seen: 2026-10-05
+    digest: ai-impact-on-education-2026-Oct-05.html
+    urls:
+      - https://kttc.com/2026/10/05/austin-public-schools-hosts-day-ai-professional-learning
+  - fingerprint: world-teachers-day-2026-ai-teacher-role-oct2026
+    title: "World Teachers' Day puts the teacher's role in the AI age in focus"
+    first_seen: 2026-10-05
+    digest: ai-impact-on-education-2026-Oct-05.html
+    urls:
+      - https://prod.sdgresources.relx.com/events/world-teachers%E2%80%99-day-2026-collaboration-transforms-education
+      - https://tbsnews.net/thoughts/age-ai-teacher-still-matters-most-1563096
   - fingerprint: uaa-regents-ai-policy-misconduct-119-of-150-oct2026
     title: "University of Alaska moves toward a system-wide AI policy as AI dominates misconduct cases"
     first_seen: 2026-10-04
@@ -2025,6 +2055,12 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-05
+- **Students accused of AI cheating are hiring lawyers** — Reporting this weekend describes a growing legal side to campus AI enforcement: students flagged for using AI in assessed work are paying for legal help to clear their names. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-05.html)
+- **Arivihan raises $10.2M to take fully automated AI tutoring deeper into India** — Indian edtech startup Arivihan closed a $10.2 million Series A co-led by Accel and Prosus Ventures, with roughly $200,000 more from angels linked to GSF, bringing its total funding past $15 million. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-05.html)
+- **Austin, Minnesota schools spend a day on AI professional learning** — Austin Public Schools in Minnesota devoted Monday to AI professional learning for both students and staff, led by keynote speaker and AI ethicist Rebecca Bultsma. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-05.html)
+- **World Teachers' Day puts the teacher's role in the AI age in focus** — World Teachers' Day on 5 October marks 60 years since the 1966 ILO/UNESCO Recommendation on the Status of Teachers, under the theme of standing with teachers to protect and advance the profession. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-05.html)
 
 ## 2026-Oct-04
 - **University of Alaska moves toward a system-wide AI policy as AI dominates misconduct cases** — The University of Alaska Board of Regents will weigh system-wide AI guiding principles in November, after an August report from the UAA Dean of Students Office found AI now accounts for most conduct cases: 119 of 150 students cited for academic misconduct used AI, with AI-linked plagiarism up 73% and misconduct overall up 56%. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-04.html)
