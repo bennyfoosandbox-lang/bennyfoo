@@ -2,10 +2,33 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-05
-run_count: 67
-digest_count: 67
+last_run: 2026-10-06
+run_count: 68
+digest_count: 68
 entries:
+  - fingerprint: anthropic-s1-prospectus-leak-518b-obligations-sep2026
+    title: "Anthropic's leaked S-1 shows $11.5B Q2 revenue against $518B of compute obligations"
+    first_seen: 2026-10-06
+    digest: using-ai-for-business-productivity-2026-Oct-06.html
+    urls:
+      - https://fortune.com/2026/09/29/anthropic-ipo-s-1-prospectus-income-statement/
+      - https://qz.com/anthropic-ipo-prospectus-revenue-operating-loss-092926
+      - https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-prospectus-shows-what-2-trillion-dollar-ai-company-costs-run/
+      - https://thenextweb.com/news/anthropic-q2-2026-revenue-11-5-billion-operating-income
+  - fingerprint: venturebeat-pulse-openai-69pct-primary-vs-claude-38pct-aug2026
+    title: "VentureBeat Pulse: OpenAI converts 69% of agent-platform installs to primary vs Claude 38%"
+    first_seen: 2026-10-06
+    digest: using-ai-for-business-productivity-2026-Oct-06.html
+    urls:
+      - https://venturebeat.com/orchestration/69-of-enterprises-that-install-openais-agent-platform-make-it-primary-for-anthropics-claude-platform-its-38
+      - https://ecosistemastartup.com/openai-supera-a-anthropic-en-plataformas-de-ia-empresarial/
+  - fingerprint: white-house-ai-ceos-meeting-sep29-2026
+    title: "White House convenes AI CEOs on industrial strategy and frontier-model safety rules"
+    first_seen: 2026-10-06
+    digest: using-ai-for-business-productivity-2026-Oct-06.html
+    urls:
+      - https://meritalk.com/articles/white-house-convenes-tech-ceos-scolds-on-ai-responsibility/
+      - https://pasqualepillitteri.it/en/news/18948/trump-johnson-ai-ceos-white-house
   - fingerprint: mckinsey-mgi-11m-us-workers-occupation-shift-2035-sep2026
     title: "McKinsey: AI could push 11 million US workers into new occupations by 2035"
     first_seen: 2026-10-05
@@ -2812,6 +2835,11 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-06
+- **Anthropic's leaked IPO prospectus shows a $518B spending plan behind its enterprise boom** — Q2 revenue >$11.5B vs $787M a year ago; ~$518B compute obligations vs ~$4.6B 2025 revenue; ~25% of revenue from two clients. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-06.html)
+- **VentureBeat Pulse: OpenAI turns 69% of agent-platform installs into the primary platform; Claude manages 38%** — OpenAI leads primary platforms (53 of 162, 33%), Google 24%, Anthropic 11%. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-06.html)
+- **White House convenes AI CEOs on industrial strategy and safety rules for frontier models** — Sep 29 meeting with Amodei, Zuckerberg, Huang, Karp, Brockman; no specific rules announced. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-06.html)
 
 ## 2026-Oct-05
 - **McKinsey: AI could push 11 million US workers into new occupations by 2035** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-05.html)
