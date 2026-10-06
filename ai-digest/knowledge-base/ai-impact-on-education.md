@@ -2,9 +2,9 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-05
-run_count: 56
-digest_count: 53
+last_run: 2026-10-06
+run_count: 57
+digest_count: 54
 entries:
   - fingerprint: college-disputes-students-hiring-lawyers-ai-accusations-oct2026
     title: "Students accused of AI cheating are hiring lawyers"
@@ -2050,11 +2050,60 @@ entries:
       - https://www.commonsensemedia.org/press-releases/common-sense-media-releases-new-research-on-teens-and-ai-generated-explicit-material
       - https://www.edtechinnovationhub.com/news/common-sense-media-finds-44-of-us-teens-believe-they-have-seen-ai-generated-sexual-content
       - https://www.cnn.com/2026/07/21/health/teens-generative-ai-sexual-content-wellness
+  - fingerprint: kai-ai-chatbot-beats-group-therapy-anxiety-israel-rct-jama-oct2026
+    title: "AI chatbot outperforms group therapy on student anxiety in a 3-arm trial"
+    first_seen: 2026-10-06
+    digest: ai-impact-on-education-2026-Oct-06.html
+    urls:
+      - https://mentalhealthdaily.com/2026/10/03/ai-chatbot-vs-group-therapy-anxiety-depression-students
+      - https://www.psypost.org/conversational-ai-shows-promise-in-easing-symptoms-of-anxiety-and-depression/
+      - https://www.consultantlive.com/view/conversational-ai-anxiety-matches-group-therapy-outcomes-anat-shoshani-phd
+      - https://letsdatascience.com/news/israeli-trial-shows-ai-lowers-anxiety-and-depression-symptom-27b6c45e
+  - fingerprint: preply-gen-z-ai-learning-progress-gap-fortune-oct2026
+    title: "Gen Z uses AI to learn most, but struggles most to apply it"
+    first_seen: 2026-10-06
+    digest: ai-impact-on-education-2026-Oct-06.html
+    urls:
+      - https://fortune.com/2026/10/01/gen-z-ai-learning-struggle-to-apply-survey/
+      - https://www.unite.ai/?p=475651
+      - https://hi-tech.ua/en/ai-in-education-gen-z-struggles-to-apply-knowledge-despite-increased-study
+  - fingerprint: afp-us-universities-shun-ai-detectors-evidence-oct2026
+    title: "AFP: US campuses move away from AI detectors as primary evidence"
+    first_seen: 2026-10-06
+    digest: ai-impact-on-education-2026-Oct-06.html
+    urls:
+      - https://www.progressiverobot.com/2026/10/06/ai-cheating-us-universities-shun-ai-detectors/
+      - https://aiweekly.co/alerts/yale-johns-hopkins-waterloo-pull-back-on-ai-detection-tools
+      - https://gradpilot.com/news/colleges-that-disabled-ai-detectors
+  - fingerprint: orange-county-fl-schools-new-ai-requirements-parental-consent-oct2026
+    title: "Orange County, Florida schools face new classroom AI requirements"
+    first_seen: 2026-10-06
+    digest: ai-impact-on-education-2026-Oct-06.html
+    urls:
+      - https://www.clickorlando.com/news/local/2026/10/06/orange-county-schools-face-new-requirements-for-classroom-ai-use/
+      - https://www.fox35orlando.com/news/florida-approves-ai-classroom-rules-requiring-parental-consent-new-student-safeguards
+      - https://mynews13.com/fl/orlando/news/2026/07/29/orange-county-passes-first-ever-ai-policy-for-classroom-instruction
+      - https://www.fldoe.org/newsroom/latest-news/florida-sets-national-standard-for-responsible-ai-in-classroomsfrom-vpk-through-college.stml
+  - fingerprint: universities-cannot-grade-their-way-out-of-ai-aiweekly-oct2026
+    title: "Universities 'cannot grade their way out of AI'"
+    first_seen: 2026-10-06
+    digest: ai-impact-on-education-2026-Oct-06.html
+    urls:
+      - https://aiweekly.co/issues/universities-cannot-grade-their-way-out-of-ai
+      - https://www.eschoolnews.com/digital-learning/2026/10/05/learner-agency-comes-first-in-ai-driven-digital-literacy/
+      - https://etcjournal.com/2026/10/05/the-case-for-teaching-young-children-about-ai
 ---
 
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-06
+- **AI chatbot outperforms group therapy on student anxiety in a 3-arm trial** — A randomized trial in Israel enrolled roughly 1,000 university students aged 18–35 and compared a 12-week AI conversational platform, Kai, with face-to-face group therapy and a waiting list. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-06.html)
+- **Gen Z uses AI to learn most, but struggles most to apply it** — A Preply survey of 5,050 working professionals across nine countries found 88% use AI as part of their learning. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-06.html)
+- **AFP: US campuses move away from AI detectors as primary evidence** — An AFP report dated 6 October describes US universities, with Yale and Cornell named, banning or discouraging AI-detection scores as the main evidence in misconduct cases. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-06.html)
+- **Orange County, Florida schools face new classroom AI requirements** — Orange County Public Schools is working through new requirements after the Florida State Board of Education adopted a statewide AI rule on 16 September. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-06.html)
+- **Universities 'cannot grade their way out of AI'** — An AI Weekly analysis argues the useful question is no longer whether students use AI but whether universities can teach them to work with it while still certifying what they can do without it. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-06.html)
 
 ## 2026-Oct-05
 - **Students accused of AI cheating are hiring lawyers** — Reporting this weekend describes a growing legal side to campus AI enforcement: students flagged for using AI in assessed work are paying for legal help to clear their names. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-05.html)
