@@ -2,10 +2,38 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-05
-run_count: 61
-digest_count: 61
+last_run: 2026-10-06
+run_count: 62
+digest_count: 62
 entries:
+  - fingerprint: claude-code-v2-1-290-managed-agents-onboard-loop-compaction-fix
+    title: "Claude Code 2.1.290 adds a Managed Agents onboarding command and fixes /loop after compaction"
+    first_seen: 2026-10-06
+    digest: essential-skill-md-for-productivity-2026-Oct-06.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.290
+      - https://github.com/anthropics/claude-code/releases
+  - fingerprint: anthropics-skills-claude-api-managed-agents-onboard-oct5
+    title: "anthropics/skills ships a managed-agents-onboard path in the claude-api skill"
+    first_seen: 2026-10-06
+    digest: essential-skill-md-for-productivity-2026-Oct-06.html
+    urls:
+      - https://github.com/anthropics/skills/commits/main
+      - https://github.com/anthropics/skills
+  - fingerprint: copilot-cli-1-0-92-stable-config-subcommands
+    title: "Copilot CLI 1.0.92 goes stable with config subcommands as 1.0.93 pre-release follows"
+    first_seen: 2026-10-06
+    digest: essential-skill-md-for-productivity-2026-Oct-06.html
+    urls:
+      - https://github.com/github/copilot-cli/releases
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.92
+  - fingerprint: codex-cli-0-160-1-remote-mcp-windows-env-fix
+    title: "Codex CLI 0.160.1 patches remote MCP servers on Windows while 0.162 alphas roll"
+    first_seen: 2026-10-06
+    digest: essential-skill-md-for-productivity-2026-Oct-06.html
+    urls:
+      - https://github.com/openai/codex/releases/tag/rust-v0.160.1
+      - https://github.com/openai/codex/releases
   - fingerprint: claude-code-v2-1-288-289-plugin-mod-hardening
     title: "Claude Code 2.1.288–2.1.289 spends two releases hardening plugins and the new Mods layer"
     first_seen: 2026-10-05
@@ -2065,6 +2093,12 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-06
+- **Claude Code 2.1.290 adds a Managed Agents onboarding command and fixes /loop after compaction** — Claude Code 2.1.290 shipped late on 5 October, the day after the Mods-hardening 2.1.289. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-06.html)
+- **anthropics/skills ships a managed-agents-onboard path in the claude-api skill** — The official anthropics/skills repository took another commit on 5 October (#1962) that updates the `claude-api` skill so Managed Agents onboarding can start from either a quickstart name or a URL. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-06.html)
+- **Copilot CLI 1.0.92 goes stable with config subcommands as 1.0.93 pre-release follows** — GitHub's Copilot CLI promoted 1.0.92 to the latest release on 5 October after a run of pre-release builds. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-06.html)
+- **Codex CLI 0.160.1 patches remote MCP servers on Windows while 0.162 alphas roll** — OpenAI cut Codex CLI 0.160.1 on 5 October as a narrow fix: remote stdio MCP servers launched with explicitly configured environment variables now keep `SYSTEMROOT`, `TEMP` and `TMP`, so a Unix host driving a Windows executor no longer loses the startup environment. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-06.html)
 
 ## 2026-Oct-05
 - **Claude Code 2.1.288–2.1.289 spends two releases hardening plugins and the new Mods layer** — Two point releases landed on 2–3 October, right after 2.1.287 introduced in-process Mods, and almost every fix targets the plugin surface. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-05.html)
