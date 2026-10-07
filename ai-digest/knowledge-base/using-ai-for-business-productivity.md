@@ -2,10 +2,49 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-06
-run_count: 68
-digest_count: 68
+last_run: 2026-10-07
+run_count: 69
+digest_count: 69
 entries:
+  - fingerprint: openai-marketplace-baseten-open-models-oct2026
+    title: "OpenAI Marketplace lets enterprises spend their OpenAI commitment on partner products, starting with Baseten's open models"
+    first_seen: 2026-10-07
+    digest: using-ai-for-business-productivity-2026-Oct-07.html
+    urls:
+      - https://www.digitaltoday.co.kr/en/view/109278/baseten-joins-openai-marketplace-open-models-available-directly-in-codex
+      - https://digg.com/tech/z8z6j41f
+      - https://community.openai.com/t/devday-2026-announcements-and-developer-resources/1402006
+  - fingerprint: albertsons-openai-chatgpt-enterprise-expansion-oct2026
+    title: "Albertsons widens its OpenAI deal from a Safeway shopping plug-in to ChatGPT Enterprise across its workforce"
+    first_seen: 2026-10-07
+    digest: using-ai-for-business-productivity-2026-Oct-07.html
+    urls:
+      - https://openai.com/index/albertsons-reimagining-retail/
+      - https://chainstoreage.com/albertsons-teams-openai-enterprise-ai-expansion
+  - fingerprint: adp-people-at-work-2026-ai-daily-users-less-productive
+    title: "ADP's People at Work 2026: half of workers use AI weekly, yet daily users are four times likelier to feel less productive"
+    first_seen: 2026-10-07
+    digest: using-ai-for-business-productivity-2026-Oct-07.html
+    urls:
+      - https://au.adp.com/about-adp/press-centre/half-of-global-workforce-using-ai-weekly-yet-frequent-users-question-their-productivity.aspx
+      - https://enterprisedna.co/resources/news/adp-ai-productivity-paradox-workforce-2026
+      - https://adpresearch.com/research/ai-powers-into-the-workplace
+  - fingerprint: anthropic-claude-code-projects-parallel-threads-sep2026
+    title: "Claude Code Projects: one always-on conversation that fans work out to parallel cloud threads (from Sep 17)"
+    first_seen: 2026-10-07
+    digest: using-ai-for-business-productivity-2026-Oct-07.html
+    urls:
+      - https://venturebeat.com/orchestration/anthropic-launches-claude-code-projects-an-always-on-conversation-that-remembers-and-delegates-your-long-running-dev-work
+      - https://pasqualepillitteri.it/en/news/17035/claude-code-projects-thread-paralleli-cloud-en
+      - https://ecosistemastartup.com/anthropic-lanza-claude-code-projects-orquestacion-multi-agente/
+  - fingerprint: eu-digital-omnibus-ai-act-high-risk-delay-dec2027
+    title: "EU Digital Omnibus pushes high-risk AI Act duties to December 2027, giving enterprise agent deployments more runway"
+    first_seen: 2026-10-07
+    digest: using-ai-for-business-productivity-2026-Oct-07.html
+    urls:
+      - https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/
+      - https://www.traverssmith.com/knowledge/knowledge-container/eu-agrees-to-delay-key-ai-act-compliance-deadlines/
+      - https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-high-risk-compliance-deadline-20/
   - fingerprint: anthropic-s1-prospectus-leak-518b-obligations-sep2026
     title: "Anthropic's leaked S-1 shows $11.5B Q2 revenue against $518B of compute obligations"
     first_seen: 2026-10-06
@@ -2835,6 +2874,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-07
+- **OpenAI Marketplace lets enterprises spend their OpenAI commitment on partner products, starting with Baseten's open models** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-07.html)
+- **Albertsons widens its OpenAI deal from a Safeway shopping plug-in to ChatGPT Enterprise across its workforce** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-07.html)
+- **ADP's People at Work 2026: half of workers use AI weekly, yet daily users are four times likelier to feel less productive** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-07.html)
+- **Claude Code Projects: one always-on conversation that fans work out to parallel cloud threads (from Sep 17)** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-07.html)
+- **EU Digital Omnibus pushes high-risk AI Act duties to December 2027, giving enterprise agent deployments more runway** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-07.html)
 
 ## 2026-Oct-06
 - **Anthropic's leaked IPO prospectus shows a $518B spending plan behind its enterprise boom** — Q2 revenue >$11.5B vs $787M a year ago; ~$518B compute obligations vs ~$4.6B 2025 revenue; ~25% of revenue from two clients. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-06.html)
