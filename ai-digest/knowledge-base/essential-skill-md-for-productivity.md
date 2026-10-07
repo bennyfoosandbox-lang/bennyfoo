@@ -2,10 +2,40 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-06
-run_count: 62
-digest_count: 62
+last_run: 2026-10-07
+run_count: 63
+digest_count: 63
 entries:
+  - fingerprint: claude-code-v2-1-291-292-marketplace-flag-subagent-effort-loop-fixes
+    title: "Claude Code 2.1.292 adds a marketplace install flag and sub-agent effort levels, with a long list of /loop and plan-mode fixes"
+    first_seen: 2026-10-07
+    digest: essential-skill-md-for-productivity-2026-Oct-07.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.292
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.291
+      - https://github.com/anthropics/claude-code/releases
+  - fingerprint: copilot-cli-1-0-93-prereleases-mcp-hot-reload-limitto-settings
+    title: "Copilot CLI 1.0.93 pre-releases apply MCP config changes mid-session and add enterprise domain limits"
+    first_seen: 2026-10-07
+    digest: essential-skill-md-for-productivity-2026-Oct-07.html
+    urls:
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.93-3
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.93-2
+      - https://github.com/github/copilot-cli/releases
+  - fingerprint: gemini-cli-0-63-0-mcp-config-errors-auth-loops-autonomous-plan
+    title: "Gemini CLI 0.63.0 separates missing MCP config from broken JSON and enables autonomous plan execution in non-interactive mode"
+    first_seen: 2026-10-07
+    digest: essential-skill-md-for-productivity-2026-Oct-07.html
+    urls:
+      - https://github.com/google-gemini/gemini-cli/releases/tag/v0.63.0
+      - https://github.com/google-gemini/gemini-cli/releases
+  - fingerprint: openclaw-2026-9-8-stable-2026-10-1-beta-8-35-lts-gpt-6-1-sol
+    title: "OpenClaw ships 2026.9.8 stable, a 2026.10.1 beta and an 8.35 LTS-style build with GPT-6.1 Sol support"
+    first_seen: 2026-10-07
+    digest: essential-skill-md-for-productivity-2026-Oct-07.html
+    urls:
+      - https://github.com/openclaw/openclaw/releases
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.9.8
   - fingerprint: claude-code-v2-1-290-managed-agents-onboard-loop-compaction-fix
     title: "Claude Code 2.1.290 adds a Managed Agents onboarding command and fixes /loop after compaction"
     first_seen: 2026-10-06
@@ -2093,6 +2123,12 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-07
+- **Claude Code 2.1.292 adds a marketplace install flag and sub-agent effort levels, with a long list of /loop and plan-mode fixes** — Claude Code 2.1.292 landed on 6 October, hours after the 2.1.291 patch that repaired two regressions (cloud sessions dropping permission-prompt answers, and the last messages of a session being lost on quit). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-07.html)
+- **Copilot CLI 1.0.93 pre-releases apply MCP config changes mid-session and add enterprise domain limits** — GitHub's Copilot CLI shipped three 1.0.93 pre-releases between 5 and 7 October. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-07.html)
+- **Gemini CLI 0.63.0 separates missing MCP config from broken JSON and enables autonomous plan execution in non-interactive mode** — Google's Gemini CLI promoted 0.63.0 on 6 October, with eight contributors and about a dozen fixes. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-07.html)
+- **OpenClaw ships 2026.9.8 stable, a 2026.10.1 beta and an 8.35 LTS-style build with GPT-6.1 Sol support** — OpenClaw, the open agent runtime many SKILL.md packs target, put out three builds in four days. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-07.html)
 
 ## 2026-Oct-06
 - **Claude Code 2.1.290 adds a Managed Agents onboarding command and fixes /loop after compaction** — Claude Code 2.1.290 shipped late on 5 October, the day after the Mods-hardening 2.1.289. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-06.html)
