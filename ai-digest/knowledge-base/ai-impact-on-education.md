@@ -2,10 +2,47 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-06
-run_count: 57
-digest_count: 54
+last_run: 2026-10-07
+run_count: 58
+digest_count: 55
 entries:
+  - fingerprint: uae-amiri-education-first-forum-human-interaction-ai-oct2026
+    title: "UAE education minister: human interaction stays vital as AI spreads"
+    first_seen: 2026-10-07
+    digest: ai-impact-on-education-2026-Oct-07.html
+    urls:
+      - https://thenationalnews.com/news/uae/2026/10/06/human-interaction-will-remain-vital-to-learning-despite-rapid-rise-of-ai-says-education-minister
+  - fingerprint: karnataka-class-6-ai-training-ai-university-shivakumar-oct2026
+    title: "Karnataka pushes government-school AI training down to Class 6"
+    first_seen: 2026-10-07
+    digest: ai-impact-on-education-2026-Oct-07.html
+    urls:
+      - https://www.deccanchronicle.com/southern-states/karnataka/karnataka-plans-to-introduce-ai-training-in-govt-schools-from-class-6-1993312
+      - https://globaleducationnews.org/karnataka-ai-education-push-government-schools-explore-training-from-class-6/
+      - https://insideai.news/news/ai-policy-and-regulation/karnataka-ai-training-schools/13663/
+  - fingerprint: hec-nahe-applied-ai-university-administration-training-oct2026
+    title: "Pakistan's HEC trains university administrators in applied AI"
+    first_seen: 2026-10-07
+    digest: ai-impact-on-education-2026-Oct-07.html
+    urls:
+      - https://propakistani.pk/2026/10/07/hec-launches-ai-training-for-university-administrators/amp
+      - https://www.app.com.pk/?p=1274123
+  - fingerprint: educause-2026-ai-exposes-data-governance-gaps-94-54-oct2026
+    title: "EDUCAUSE '26: AI is exposing gaps in higher-ed data governance"
+    first_seen: 2026-10-07
+    digest: ai-impact-on-education-2026-Oct-07.html
+    urls:
+      - https://govtech.com/education/higher-ed/educause-26-ai-exposes-gaps-in-data-governance
+      - https://www.kiteworks.com/cybersecurity-risk-management/higher-education-ai-governance-gap-data-security-compliance/
+      - https://www.theeduledger.com/ai/article/15830685/the-wild-west-of-campus-ai
+  - fingerprint: morgan-state-google-public-sector-gpar-ai-campus-sep2026
+    title: "Morgan State and Google build an AI research campus (from 10 Sep)"
+    first_seen: 2026-10-07
+    digest: ai-impact-on-education-2026-Oct-07.html
+    urls:
+      - https://www.googlecloudpresscorner.com/2026-09-10-Morgan-State-University-and-Google-Public-Sector-Collaborate-to-Build-Next-Generation-AI-Campus
+      - https://www.edtechinnovationhub.com/news/morgan-state-university-and-google-public-sector-to-build-next-generation-ai-campus
+      - https://www.marketscale.com/industries/education-technology/morgan-state-taps-googles-research-gpu-program-to-build-an-ai-campus
   - fingerprint: college-disputes-students-hiring-lawyers-ai-accusations-oct2026
     title: "Students accused of AI cheating are hiring lawyers"
     first_seen: 2026-10-05
@@ -2097,6 +2134,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-07
+- **UAE education minister says human interaction stays vital as AI spreads** — Minister Sarah Al Amiri told the Education First Forum in Abu Dhabi that teachers keep a crucial role despite rapid AI adoption. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-07.html)
+- **Karnataka plans AI training in government schools from Class 6** — Officials were told to extend Class 9 AI training to Class 6 and to find land for a government AI university. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-07.html)
+- **Pakistan's HEC runs a three-day applied-AI course for university administrators** — The National Academy of Higher Education programme runs 7–9 October. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-07.html)
+- **EDUCAUSE '26: AI exposes higher-ed data-governance gaps** — 94% of higher-ed workers use AI but only 54% know whether a policy covers it, per a study summarised by Kiteworks. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-07.html)
+- **Morgan State and Google build an AI research campus** — Google GPU access and a Center of Excellence, announced 10 September. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-07.html)
 
 ## 2026-Oct-06
 - **AI chatbot outperforms group therapy on student anxiety in a 3-arm trial** — A randomized trial in Israel enrolled roughly 1,000 university students aged 18–35 and compared a 12-week AI conversational platform, Kai, with face-to-face group therapy and a waiting list. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-06.html)
