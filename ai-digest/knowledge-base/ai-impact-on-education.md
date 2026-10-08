@@ -2,10 +2,42 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-07
-run_count: 58
-digest_count: 55
+last_run: 2026-10-08
+run_count: 59
+digest_count: 56
 entries:
+  - fingerprint: frederick-county-md-board-bans-student-ai-prek-12-6-1-oct2026
+    title: "Frederick County, Maryland bans student AI use from pre-K through 12th grade"
+    first_seen: 2026-10-08
+    digest: ai-impact-on-education-2026-Oct-08.html
+    urls:
+      - https://www.baltimoresun.com/2026/10/08/ai-ban-frederick-students/
+      - https://www.fox5dc.com/news/frederick-county-school-board-votes-ban-ai-use-pre-k-through-12th-grade-students
+  - fingerprint: alpha-school-evanston-roycemore-site-critics-2-6x-map-oct2026
+    title: "Alpha School eyes an Evanston campus as local critics question its 2.6x claim"
+    first_seen: 2026-10-08
+    digest: ai-impact-on-education-2026-Oct-08.html
+    urls:
+      - https://evanstonroundtable.com/2026/10/05/alpha-school-evanston-concerns
+  - fingerprint: cap-pi-cappi-maze-education-caps-ai-platform-matric-acer-oct2026
+    title: "South Africa's Cap.π (Cappi) launches an AI study platform days before Matric exams"
+    first_seen: 2026-10-08
+    digest: ai-impact-on-education-2026-Oct-08.html
+    urls:
+      - https://htxt.co.za/2026/10/ai-education-platform-promises-much-for-all-south-african-students/
+  - fingerprint: hydrogen-ai4learning-lagos-secondary-schools-teachers-students-oct2026
+    title: "Lagos secondary schools get a two-track AI course for teachers and students"
+    first_seen: 2026-10-08
+    digest: ai-impact-on-education-2026-Oct-08.html
+    urls:
+      - https://nairametrics.com/2026/10/08/hydrogen-empowers-teachers-and-students-to-leverage-ai-responsibly-through-ai4learning-initiative
+  - fingerprint: globe-khan-academy-philippines-khanmigo-national-teachers-month-oct2026
+    title: "Globe pushes Khan Academy's AI learning tools to more Filipino teachers and families"
+    first_seen: 2026-10-08
+    digest: ai-impact-on-education-2026-Oct-08.html
+    urls:
+      - https://manilatimes.net/2026/10/09/tmt-newswire/globe-brings-khan-academy-ai-learning-to-more-filipinos/2441506
+      - https://www.globe.com.ph/about-us/newsroom/corporate/globe-khan-academy-ai-golearn
   - fingerprint: uae-amiri-education-first-forum-human-interaction-ai-oct2026
     title: "UAE education minister: human interaction stays vital as AI spreads"
     first_seen: 2026-10-07
@@ -2134,6 +2166,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-08
+- **Frederick County, Maryland bans student AI use from pre-K through 12th grade** — Update on a story we have covered as a policy-in-progress: the Frederick County school board voted 6–1 on Wednesday to bar students from using AI at every grade level, with exceptions for AI literacy and IEPs. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-08.html)
+- **Alpha School eyes an Evanston campus as local critics question its 2.6x claim** — The Evanston RoundTable reports that Alpha School, the for-profit AI-driven private school network, is considering the former Roycemore School building for a fall 2027 opening, and that its arrival has prompted pushback from education researchers, teachers and policy analysts. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-08.html)
+- **South Africa's Cap.π (Cappi) launches an AI study platform days before Matric exams** — Hypertext reports that Cap.π, pronounced Cappi, has launched as an AI education platform aligned to South Africa's national CAPS curriculum, with a separate mode for the Independent Examinations Board syllabus. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-08.html)
+- **Lagos secondary schools get a two-track AI course for teachers and students** — Hydrogen Payment Services has wrapped up the first AI4Learning Initiative with the Lagos State Ministry of Basic and Secondary Education, an event held on 30 September in Victoria Island for state-run secondary schools. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-08.html)
+- **Globe pushes Khan Academy's AI learning tools to more Filipino teachers and families** — Globe Telecom is promoting its Khan Academy Philippines partnership during National Teachers' Month, framing it as an easier route to digital learning for families. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-08.html)
 
 ## 2026-Oct-07
 - **UAE education minister says human interaction stays vital as AI spreads** — Minister Sarah Al Amiri told the Education First Forum in Abu Dhabi that teachers keep a crucial role despite rapid AI adoption. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-07.html)
