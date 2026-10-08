@@ -2,10 +2,51 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-07
-run_count: 69
-digest_count: 69
+last_run: 2026-10-08
+run_count: 70
+digest_count: 70
 entries:
+  - fingerprint: workday-global-workforce-report-ai-rewriting-jobs-oct2026
+    title: "Workday's Global Workforce Report: AI is rewriting jobs faster than it is cutting them"
+    first_seen: 2026-10-08
+    digest: using-ai-for-business-productivity-2026-Oct-08.html
+    urls:
+      - https://newsroom.workday.com/2026-10-05-Workday-Global-Workforce-Report-AI-Is-Rewriting-Jobs-More-Than-Its-Cutting-Them
+      - https://www.prnewswire.com/news-releases/workday-global-workforce-report-ai-is-rewriting-jobs-more-than-its-cutting-them-302898076.html
+      - https://stocktitan.net/news/WDAY/workday-global-workforce-report-ai-is-rewriting-jobs-more-than-it-s-zbgt2rfsoczu.html
+  - fingerprint: workday-uae-ai-saves-3-6-hours-spend-3-4-fixing-oct2026
+    title: "UAE workers save 3.6 hours a week with AI, then spend 3.4 hours fixing its output"
+    first_seen: 2026-10-08
+    digest: using-ai-for-business-productivity-2026-Oct-08.html
+    urls:
+      - https://www.khaleejtimes.com/business/uae-employees-save-36-hours-a-week-using-ai-but-spend-34-hours-fixing-its-work
+      - https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Launches-in-the-UAE-to-Help-Organisations-Transform-HR-Finance-and-IT-in-the-AI-Era/default.aspx
+      - https://tbreak.com/workday-dubai-office-ai-adoption/
+  - fingerprint: google-workspace-gemini-skills-replace-gems-oct2026
+    title: "Google rolls out reusable 'Skills' across Workspace and Gemini, setting up the end of Gems"
+    first_seen: 2026-10-08
+    digest: using-ai-for-business-productivity-2026-Oct-08.html
+    urls:
+      - https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html
+      - https://workspace.google.com/blog/product-announcements/teach-gemini-your-teams-know-hows-with-skills-in-google-workspace
+      - https://www.androidcentral.com/apps-software/ai/google-outlines-timeline-to-phase-out-gemini-gems-in-favor-of-skills
+      - https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/
+  - fingerprint: microsoft-365-copilot-business-default-usage-based-billing-oct2026
+    title: "Microsoft 365 Copilot Business moves to default usage-based billing for new purchases"
+    first_seen: 2026-10-08
+    digest: using-ai-for-business-productivity-2026-Oct-08.html
+    urls:
+      - https://stoneridgesoftware.com/?p=288212
+      - https://www.epcgroup.net/blog/copilot-usage-based-billing-default-october-2026-spending-policy-playbook
+      - https://pupuweb.com/mc1476200-simplifying-ai-access-introducing-usage-based-billing/
+      - https://www.microsoft.com/licensing/guidance/Copilot-Credits
+  - fingerprint: anthropic-claude-for-startups-free-team-year-1000-credits-oct2026
+    title: "Anthropic widens its Claude for Startups program with a free year of Claude Team and $1,000 in credits"
+    first_seen: 2026-10-08
+    digest: using-ai-for-business-productivity-2026-Oct-08.html
+    urls:
+      - https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/
+      - https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html
   - fingerprint: openai-marketplace-baseten-open-models-oct2026
     title: "OpenAI Marketplace lets enterprises spend their OpenAI commitment on partner products, starting with Baseten's open models"
     first_seen: 2026-10-07
@@ -2874,6 +2915,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-08
+- **Workday's Global Workforce Report: AI is rewriting jobs faster than it is cutting them** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-08.html)
+- **UAE workers save 3.6 hours a week with AI, then spend 3.4 hours fixing its output** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-08.html)
+- **Google rolls out reusable 'Skills' across Workspace and Gemini, setting up the end of Gems** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-08.html)
+- **Microsoft 365 Copilot Business moves to default usage-based billing for new purchases** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-08.html)
+- **Anthropic widens its Claude for Startups program with a free year of Claude Team and $1,000 in credits** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-08.html)
 
 ## 2026-Oct-07
 - **OpenAI Marketplace lets enterprises spend their OpenAI commitment on partner products, starting with Baseten's open models** [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-07.html)
