@@ -2,10 +2,45 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-07
-run_count: 63
-digest_count: 63
+last_run: 2026-10-08
+run_count: 64
+digest_count: 64
 entries:
+  - fingerprint: claude-code-v2-1-293-haiku-5-5-default-mcp-leak-fix
+    title: "Claude Code 2.1.293 makes Haiku 5.5 the default Haiku and plugs an MCP memory leak"
+    first_seen: 2026-10-08
+    digest: essential-skill-md-for-productivity-2026-Oct-08.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.293
+      - https://github.com/anthropics/claude-code/releases
+  - fingerprint: codex-cli-0-161-0-gpt-6-1-sol-default-mcp-login-voice
+    title: "Codex CLI 0.161.0 makes GPT-6.1 Sol the default and adds in-terminal MCP sign-in"
+    first_seen: 2026-10-08
+    digest: essential-skill-md-for-productivity-2026-Oct-08.html
+    urls:
+      - https://github.com/openai/codex/releases
+      - https://github.com/openai/codex/releases/tag/rust-v0.161.0
+  - fingerprint: copilot-cli-1-0-93-stable-sandbox-for-all-1-0-94-prereleases
+    title: "Copilot CLI 1.0.93 goes stable with sandboxing for everyone, and 1.0.94 pre-releases follow the same day"
+    first_seen: 2026-10-08
+    digest: essential-skill-md-for-productivity-2026-Oct-08.html
+    urls:
+      - https://github.com/github/copilot-cli/releases
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.93
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.94-0
+  - fingerprint: gemini-cli-0-64-0-preview-acp-usage-trusted-folders-0-65-nightly
+    title: "Gemini CLI 0.64.0 preview and 0.65 nightlies tighten folder trust and fix session resume"
+    first_seen: 2026-10-08
+    digest: essential-skill-md-for-productivity-2026-Oct-08.html
+    urls:
+      - https://github.com/google-gemini/gemini-cli/releases
+      - https://github.com/google-gemini/gemini-cli/releases/tag/v0.64.0-preview.0
+  - fingerprint: openclaw-2026-10-1-beta-2-skill-reviews-via-workshop-proposals
+    title: "OpenClaw 2026.10.1-beta.2 routes background skill reviews through Workshop proposals"
+    first_seen: 2026-10-08
+    digest: essential-skill-md-for-productivity-2026-Oct-08.html
+    urls:
+      - https://github.com/openclaw/openclaw/releases
   - fingerprint: claude-code-v2-1-291-292-marketplace-flag-subagent-effort-loop-fixes
     title: "Claude Code 2.1.292 adds a marketplace install flag and sub-agent effort levels, with a long list of /loop and plan-mode fixes"
     first_seen: 2026-10-07
@@ -2123,6 +2158,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-08
+- **Claude Code 2.1.293 makes Haiku 5.5 the default Haiku and plugs an MCP memory leak** — Claude Code 2.1.293 shipped on 7 October, one day after the sub-agent effort release. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-08.html)
+- **Codex CLI 0.161.0 makes GPT-6.1 Sol the default and adds in-terminal MCP sign-in** — OpenAI's Codex CLI promoted 0.161.0 to Latest on 7 October. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-08.html)
+- **Copilot CLI 1.0.93 goes stable with sandboxing for everyone, and 1.0.94 pre-releases follow the same day** — GitHub promoted Copilot CLI 1.0.93 to Latest on 7 October, turning the earlier pre-release features into a stable build. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-08.html)
+- **Gemini CLI 0.64.0 preview and 0.65 nightlies tighten folder trust and fix session resume** — While 0.63.0 remains Latest, Google's Gemini CLI cut a 0.64.0 preview on 6 October and 0.65.0 nightlies on 7 and 8 October. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-08.html)
+- **OpenClaw 2026.10.1-beta.2 routes background skill reviews through Workshop proposals** — OpenClaw published its second 2026.10.1 beta on 8 October, three days after beta.1 and following the 2026.9.8 stable. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-08.html)
 
 ## 2026-Oct-07
 - **Claude Code 2.1.292 adds a marketplace install flag and sub-agent effort levels, with a long list of /loop and plan-mode fixes** — Claude Code 2.1.292 landed on 6 October, hours after the 2.1.291 patch that repaired two regressions (cloud sessions dropping permission-prompt answers, and the last messages of a session being lost on quit). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-07.html)
