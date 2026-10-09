@@ -2,10 +2,48 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-08
-run_count: 59
-digest_count: 56
+last_run: 2026-10-09
+run_count: 60
+digest_count: 57
 entries:
+  - fingerprint: ai-tutor-rct-university-of-maryland-lower-grades-0-37sd-oct2026
+    title: "A 2,379-student randomized trial finds a course-integrated AI tutor lowered grades"
+    first_seen: 2026-10-09
+    digest: ai-impact-on-education-2026-Oct-09.html
+    urls:
+      - https://edworkingpapers.com/ai26-1598
+      - https://www.edtechinnovationhub.com/news/students-offered-an-ai-tutor-got-lower-grades-and-disengaged-from-course-materials-university-of-maryland-trial-finds
+  - fingerprint: openai-chatgpt-college-planner-for-teens-oct2026
+    title: "OpenAI previews a College Planner inside ChatGPT for Teens"
+    first_seen: 2026-10-09
+    digest: ai-impact-on-education-2026-Oct-09.html
+    urls:
+      - https://foxbusiness.com/technology/openai-launches-college-planner-chatgpt-teens-track-application-financial-aid
+      - https://openai.com/index/teens-learn-and-plan/
+      - https://runtimewire.com/article/openai-college-planner-chatgpt-teens-safety-scrutiny
+  - fingerprint: common-sense-media-chatgpt-for-teens-unacceptable-risk-oct2026
+    title: "Common Sense Media rates ChatGPT for Teens an “Unacceptable Risk”"
+    first_seen: 2026-10-09
+    digest: ai-impact-on-education-2026-Oct-09.html
+    urls:
+      - https://axios.com/2026/10/07/chatgpt-teens-safety-risk-common-sense-media
+      - https://thenextweb.com/news/chatgpt-for-teens-is-unsafe-for-under-18s
+      - https://www.lanacion.com.ar/usa/some-guardrails-on-chatgpt-for-teens-dont-work-as-promised-watchdog-group-says-nid07102026/
+  - fingerprint: colorado-ai-engaged-campus-designation-first-cohort-oct2026
+    title: "Colorado names its first “AI-Engaged Campus” colleges"
+    first_seen: 2026-10-09
+    digest: ai-impact-on-education-2026-Oct-09.html
+    urls:
+      - https://cpr.org/2026/10/08/artificial-intelligence-honor-higher-education
+      - https://highered.colorado.gov/ai-engaged-campus-designation
+  - fingerprint: chicago-board-candidates-three-year-ai-moratorium-pledge-2026
+    title: "About half of Chicago school board candidates back a three-year AI pause"
+    first_seen: 2026-10-09
+    digest: ai-impact-on-education-2026-Oct-09.html
+    urls:
+      - https://letsdatascience.com/news/chicago-board-candidates-back-ai-moratorium-pledge-5b8b86e0
+      - https://www.fox32chicago.com/weather/ai-cps-chicago-public-schools.amp
+      - https://stateline.org/?p=18471
   - fingerprint: frederick-county-md-board-bans-student-ai-prek-12-6-1-oct2026
     title: "Frederick County, Maryland bans student AI use from pre-K through 12th grade"
     first_seen: 2026-10-08
@@ -2166,6 +2204,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-09
+- **A 2,379-student randomized trial finds a course-integrated AI tutor lowered grades** — A randomized trial of a course-integrated generative AI tutor covering 2,379 undergraduates and 30 instructors, run in fall 2025 and reported as a University of Maryland study, found that sections offered the tutor ended with final grades about four percentage points lower, or 0.37 standard deviations. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-09.html)
+- **OpenAI previews a College Planner inside ChatGPT for Teens** — OpenAI announced on 7 October that a College Planner is coming to ChatGPT for Teens, consolidating application requirements, deadlines, tasks and financial-aid steps for the schools on a student's list. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-09.html)
+- **Common Sense Media rates ChatGPT for Teens an “Unacceptable Risk”** — Common Sense Media’s Youth AI Safety Institute tested more than 4,000 prompts on teen accounts and rated ChatGPT for Teens an “Unacceptable Risk”, urging OpenAI to keep under-18s off the product until it is safe. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-09.html)
+- **Colorado names its first “AI-Engaged Campus” colleges** — Colorado has created a state designation recognizing colleges that engage with AI deliberately, and Colorado Public Radio reported on 8 October that six schools, including the University of Denver and Colorado State University Global, earned it in the first year. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-09.html)
+- **About half of Chicago school board candidates back a three-year AI pause** — Illinois Families for Public Schools launched a “Pledge to Protect Human-Centered Education” in August asking Chicago Board of Education candidates to support a three-year pause on generative AI in classrooms, limits on screen time, a ban on collecting biometric data and a chief privacy officer. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-09.html)
 
 ## 2026-Oct-08
 - **Frederick County, Maryland bans student AI use from pre-K through 12th grade** — Update on a story we have covered as a policy-in-progress: the Frederick County school board voted 6–1 on Wednesday to bar students from using AI at every grade level, with exceptions for AI literacy and IEPs. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-08.html)
