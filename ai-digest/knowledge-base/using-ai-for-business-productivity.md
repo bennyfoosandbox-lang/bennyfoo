@@ -2,10 +2,55 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-08
-run_count: 70
-digest_count: 70
+last_run: 2026-10-09
+run_count: 71
+digest_count: 71
 entries:
+  - fingerprint: sap-connect-2026-joule-work-autonomous-suite-oct2026
+    title: "SAP Connect puts Joule Work at the centre of an 'Autonomous Suite' for finance, HR, supply chain and spend"
+    first_seen: 2026-10-09
+    digest: using-ai-for-business-productivity-2026-Oct-09.html
+    urls:
+      - https://www.sap.com/blogs/top-sap-connect-2026-announcements
+      - https://news.sap.com/2026/10/joule-assistants-agents-advance-autonomous-scm/
+      - https://www.cio.com/article/4231331/sap-advances-its-autonomous-ai-agenda-with-yet-more-joule-assistants-and-agents.html
+      - https://sapinsider.org/blogs/sap-connect-2026-how-new-agents-will-detect-and-respond-to-supply-disruptions
+      - https://thenewstack.io/sap-connect-joule-assistants/
+  - fingerprint: sap-acquires-techwolf-work-intelligence-oct2026
+    title: "SAP agrees to buy Belgian work-intelligence startup TechWolf to feed skills data into SuccessFactors and Joule"
+    first_seen: 2026-10-09
+    digest: using-ai-for-business-productivity-2026-Oct-09.html
+    urls:
+      - https://www.placera.se/pressmeddelanden/sap-to-acquire-techwolf-giving-enterprises-evidence-based-view-of-work-in-the-age-of-ai-20261006
+      - https://thenextweb.com/news/sap-acquires-techwolf-ai-workforce
+      - https://www.techzine.eu/news/applications/144796/sap-acquires-ghent-based-ai-company-techwolf-adds-it-to-successfactors/
+      - https://sapinsider.org/blogs/sap-to-acquire-techwolf-bringing-ai-powered-work-intelligence-into-sap-successfactors-core/
+  - fingerprint: microsoft-copilot-studio-hooks-agent-policy-enforcement-oct2026
+    title: "Copilot Studio adds 'Hooks' so enterprises can enforce policy on agents instead of just asking nicely"
+    first_seen: 2026-10-09
+    digest: using-ai-for-business-productivity-2026-Oct-09.html
+    urls:
+      - https://aiagentsdirectory.com/news/ai-agents-news-brief-october-6-2026
+      - https://www.hubsite365.com/en-ww/crm-pages/hooks-in-copilot-studio-introduction-d8921e24-bdb5-4b22-8925-62c12447b1a2.htm
+      - https://www.microsoft.com/microsoft-copilot/blog/copilot-studio/introducing-agent-flows-transforming-automation-with-ai-first-workflows/
+  - fingerprint: elevenlabs-22b-tender-enterprise-agents-over-half-revenue-sep2026
+    title: "ElevenLabs doubles its valuation to $22B as enterprise voice agents become more than half of revenue (from 30 Sep)"
+    first_seen: 2026-10-09
+    digest: using-ai-for-business-productivity-2026-Oct-09.html
+    urls:
+      - https://tech.eu/2026/09/30/elelvenlabs-doubles-valuation-to-22bn-with-300m-employee-tender-offer/
+      - https://www.musicbusinessworldwide.com/elevenlabs-valuation-doubles-to-22b-four-times-that-of-ai-music-rival-suno/
+      - https://dealroom.co/news/158002-elevenlabs-hits-22b-valuation-in-employee-tender-doubling-in-months/
+      - https://www.businesswire.com/news/home/20260225955474/en/ElevenLabs-and-Better.com-Showcase-Success-of-AI-Loan-Agent-Betsy%E2%84%A2-at-Scale-in-Financial-Services
+  - fingerprint: ai-agent-unauthorised-deals-business-liability-oct2026
+    title: "Who pays when your AI agent strikes a deal nobody approved? Lawyers say the business does, for now"
+    first_seen: 2026-10-09
+    digest: using-ai-for-business-productivity-2026-Oct-09.html
+    urls:
+      - https://smartcompany.com.au/technology/your-ai-agent-just-made-a-deal-you-didnt-approve
+      - https://legaltechnology.com/anthropics-ai-agent-to-agent-marketplace-experiment-the-legal-frameworks-dont-exist/
+      - https://www.barandbench.com/view-point/agentic-commerce-and-the-law-are-we-ready-for-ai-driven-transactions
+      - https://www.dock.io/post/liability-in-agentic-commerce-who-takes-the-risk-video-and-takeaways
   - fingerprint: workday-global-workforce-report-ai-rewriting-jobs-oct2026
     title: "Workday's Global Workforce Report: AI is rewriting jobs faster than it is cutting them"
     first_seen: 2026-10-08
@@ -2915,6 +2960,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-09
+- **SAP Connect puts Joule Work at the centre of an Autonomous Suite for finance, HR, supply chain and spend** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-09.html)
+- **SAP agrees to buy TechWolf to feed skills data into SuccessFactors and Joule** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-09.html)
+- **Copilot Studio adds Hooks so enterprises can enforce policy on agents** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-09.html)
+- **ElevenLabs doubles valuation to $22B as enterprise voice agents pass half of revenue (from Sep 30)** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-09.html)
+- **Who pays when an AI agent strikes an unapproved deal? Lawyers say the business, for now** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-09.html)
 
 ## 2026-Oct-08
 - **Workday's Global Workforce Report: AI is rewriting jobs faster than it is cutting them** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-08.html)
