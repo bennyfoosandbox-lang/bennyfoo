@@ -2,10 +2,46 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-08
-run_count: 64
-digest_count: 64
+last_run: 2026-10-09
+run_count: 65
+digest_count: 65
 entries:
+  - fingerprint: claude-code-v2-1-294-295-onfailure-block-hooks-subagent-32-skill-cap
+    title: "Claude Code 2.1.294 and 2.1.295 add fail-closed hooks, 16K tool descriptions and a 32-skill sub-agent preload cap"
+    first_seen: 2026-10-09
+    digest: essential-skill-md-for-productivity-2026-Oct-09.html
+    urls:
+      - https://code.claude.com/docs/en/changelog
+      - https://blog.cloudflare.com/mcp-v2/
+      - https://blog.modelcontextprotocol.io/tags/mcp/
+  - fingerprint: redreamality-agent-skills-2026-lifecycle-survey-oct6
+    title: "Survey maps agent skills as a lifecycle: on-demand loading, pre-install scanning and signing"
+    first_seen: 2026-10-09
+    digest: essential-skill-md-for-productivity-2026-Oct-09.html
+    urls:
+      - https://redreamality.com/blog/agent-skills-2026-survey-lifecycle-map/
+  - fingerprint: niteagent-skillmd-guide-oct5-star-counts-portability
+    title: "Fresh star counts: obra/superpowers passes 295K, anthropics/skills hits about 180K"
+    first_seen: 2026-10-09
+    digest: essential-skill-md-for-productivity-2026-Oct-09.html
+    urls:
+      - https://niteagent.com/blog/agent-skills-skillmd-authoring-portability-security/
+      - https://parallel.ai/articles/what-are-agent-skills
+      - https://codex.danielvaughan.com/2026/05/09/cross-agent-skills-ecosystem-maturity-npm-analogy-codex-cli-portability/
+  - fingerprint: skillselion-state-of-agent-skills-62k-census-oct2
+    title: "Ecosystem census counts 62,347 agent skills as of 2 October, but the figure is single-sourced"
+    first_seen: 2026-10-09
+    digest: essential-skill-md-for-productivity-2026-Oct-09.html
+    urls:
+      - https://skillselion.com/state-of-ai-agent-skills-2026
+      - https://agentskills.io/llms-full.txt
+  - fingerprint: grith-skillmd-no-portable-permission-model-skillguard
+    title: "SKILL.md has no portable permission model, argues Grith, citing a paper that halves but does not eliminate attacks"
+    first_seen: 2026-10-09
+    digest: essential-skill-md-for-productivity-2026-Oct-09.html
+    urls:
+      - https://grith.ai/blog/skill-md-permissions-manifest
+      - https://www.alphaxiv.org/abs/2606.03024
   - fingerprint: claude-code-v2-1-293-haiku-5-5-default-mcp-leak-fix
     title: "Claude Code 2.1.293 makes Haiku 5.5 the default Haiku and plugs an MCP memory leak"
     first_seen: 2026-10-08
@@ -2158,6 +2194,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-09
+- **Claude Code 2.1.294 and 2.1.295 add fail-closed hooks, 16K tool descriptions and a 32-skill sub-agent preload cap** — Claude Code shipped two builds on 8 October. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-09.html)
+- **Survey maps agent skills as a lifecycle: on-demand loading, pre-install scanning and signing** — A survey published on 6 October argues the original idea of a skill, a folder with a SKILL.md that names the skill, says when to use it and explains the task, has split into several distinct lines of work by autumn 2026. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-09.html)
+- **Fresh star counts: obra/superpowers passes 295K, anthropics/skills hits about 180K** — A SKILL.md authoring and portability guide published around 5 October reports GitHub API star counts taken on 5 October: obra/superpowers at 295,590, anthropics/skills at 179,764 and addyosmani/agent-skills at 101,480. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-09.html)
+- **Ecosystem census counts 62,347 agent skills as of 2 October, but the figure is single-sourced** — A "State of AI Agent Skills 2026" page reports a census dated 2 October that counts 62,347 agent skills among 84,819 tracked AI coding-agent tools, and says the open standard at agentskills.io lists more than 40 adopting clients as of September. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-09.html)
+- **SKILL.md has no portable permission model, argues Grith, citing a paper that halves but does not eliminate attacks** — Security firm Grith argues in a post titled "An agent skill can hand a stranger your shell" that the Agent Skills spec has no portable way to limit which files a skill's bundled Python, Bash or JavaScript can read, which processes it can spawn or which hosts it can contact. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-09.html)
 
 ## 2026-Oct-08
 - **Claude Code 2.1.293 makes Haiku 5.5 the default Haiku and plugs an MCP memory leak** — Claude Code 2.1.293 shipped on 7 October, one day after the sub-agent effort release. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-08.html)
