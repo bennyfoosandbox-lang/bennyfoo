@@ -2,10 +2,51 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-09
-run_count: 71
-digest_count: 71
+last_run: 2026-10-10
+run_count: 72
+digest_count: 72
 entries:
+  - fingerprint: google-gemini-agent-universal-agent-for-work-oct2026
+    title: "Google launches 'Gemini agent', a universal agent for work, in private preview"
+    first_seen: 2026-10-10
+    digest: using-ai-for-business-productivity-2026-Oct-10.html
+    urls:
+      - https://9to5google.com/2026/10/08/gemini-agent-google-cloud/
+      - https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/
+      - https://qz.com/google-gemini-universal-agent-enterprise-workplace-100826
+      - https://www.androidauthority.com/google-gemini-universal-agent-3720956/
+      - https://www.reworked.co/collaboration-productivity/google-debuts-its-all-purpose-gemini-agent-for-work/
+  - fingerprint: openai-gpt-6-intelligent-ui-chatgpt-rollout-oct2026
+    title: "OpenAI starts rolling out GPT-6 with an 'Intelligent UI' that answers with interactive charts and forms"
+    first_seen: 2026-10-10
+    digest: using-ai-for-business-productivity-2026-Oct-10.html
+    urls:
+      - https://letsdatascience.com/news/openai-brings-gpt-6-and-intelligent-ui-to-chatgpt-4f0d797c
+      - https://scalevise.com/resources/gpt-6-intelligent-ui-chatgpt-rollout/
+  - fingerprint: stuut-52m-series-b-order-to-cash-agents-oct2026
+    title: "Stuut raises $52.5M Series B to run order-to-cash with AI agents"
+    first_seen: 2026-10-10
+    digest: using-ai-for-business-productivity-2026-Oct-10.html
+    urls:
+      - https://thenextweb.com/news/stuut-52-5m-series-b-ai-order-to-cash
+      - https://aiweekly.co/alerts/stuut-lands-525m-series-b-from-insight-a16z-and-m12-to-scale-ai-order-to-cash
+      - https://hackernoon.com/stuut-raises-$525m-from-insight-partners-and-a16z-to-unlock-$16-trillion-in-unpaid-invoices
+  - fingerprint: cognizant-activate-mid-market-ai-transformation-unit-oct2026
+    title: "Cognizant launches 'Activate' to sell enterprise-grade AI transformation to $1B–$5B companies"
+    first_seen: 2026-10-10
+    digest: using-ai-for-business-productivity-2026-Oct-10.html
+    urls:
+      - https://letsdatascience.com/news/cognizant-launches-activate-for-emerging-enterprises-f1d19037
+      - https://www.hpcwire.com/bigdatawire/this-just-in/cognizant-launches-activate-unit-to-bring-ai-services-to-emerging-enterprises/
+      - https://finviz.com/news/398580/cognizant-launches-cognizant-activate-to-bring-enterprise-ai-transformation-for-emerging-enterprises
+  - fingerprint: infor-2026-10-release-industry-ai-agents-governed-execution-oct2026
+    title: "Infor's 2026.10 release pushes industry AI agents from advising to governed execution"
+    first_seen: 2026-10-10
+    digest: using-ai-for-business-productivity-2026-Oct-10.html
+    urls:
+      - https://www.infor.com/blog/infor-industry-ai-2026-10-release
+      - https://www.techfinitive.com/features/from-velocity-suite-to-agentic-orchestrator-how-infors-industry-ai-push-turns-cloudsuite-into-a-process-optimization-engine/
+      - https://softwarereviews.com/research/infor-analyst-summit-2026-agentic-orchestration-sharpens-its-operational-pitch
   - fingerprint: sap-connect-2026-joule-work-autonomous-suite-oct2026
     title: "SAP Connect puts Joule Work at the centre of an 'Autonomous Suite' for finance, HR, supply chain and spend"
     first_seen: 2026-10-09
@@ -2960,6 +3001,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-10
+- **Google launches 'Gemini agent', a universal agent for work, in private preview** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-10.html)
+- **OpenAI starts rolling out GPT-6 with an 'Intelligent UI' that answers with interactive charts and forms** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-10.html)
+- **Stuut raises $52.5M Series B to run order-to-cash with AI agents** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-10.html)
+- **Cognizant launches 'Activate' to sell enterprise-grade AI transformation to $1B–$5B companies** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-10.html)
+- **Infor's 2026.10 release pushes industry AI agents from advising to governed execution** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-10.html)
 
 ## 2026-Oct-09
 - **SAP Connect puts Joule Work at the centre of an Autonomous Suite for finance, HR, supply chain and spend** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-09.html)
