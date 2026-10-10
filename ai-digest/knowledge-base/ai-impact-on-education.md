@@ -2,10 +2,49 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-09
-run_count: 60
-digest_count: 57
+last_run: 2026-10-10
+run_count: 61
+digest_count: 58
 entries:
+  - fingerprint: eef-nfer-oak-aila-lesson-planning-trial-49-minutes-oct2026
+    title: "Oak’s Aila AI lesson planner cuts primary teachers’ prep time by about 49 minutes a week in an EEF trial"
+    first_seen: 2026-10-10
+    digest: ai-impact-on-education-2026-Oct-10.html
+    urls:
+      - https://www.edtechinnovationhub.com/news/oaks-aila-saves-primary-teachers-49-minutes-a-week-on-lesson-planning-eef-trial-finds
+      - https://www.resultsense.com/news/2026-10-06-eef-trial-oak-aila-lesson-planning-time/
+      - https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/aila-teacher-choices-trial
+  - fingerprint: russia-compulsory-ai-information-security-course-grades-5-11-oct2026
+    title: "Russia will make an AI and information-security course compulsory for grades 5–11"
+    first_seen: 2026-10-10
+    digest: ai-impact-on-education-2026-Oct-10.html
+    urls:
+      - https://en.iz.ru/en/2181396/2026-10-09/compulsory-ai-course-will-be-introduced-russian-schools-starting-2027
+      - https://vietnam.vn/en/ai-se-la-mon-hoc-bat-buoc-doi-voi-hoc-sinh-nga-tu-lop-5-den-lop-11
+  - fingerprint: google-ai-educator-series-uk-ireland-650k-educators-oct2026
+    title: "Google extends its free AI Educator Series to about 650,000 teachers in the UK and Ireland"
+    first_seen: 2026-10-10
+    digest: ai-impact-on-education-2026-Oct-10.html
+    urls:
+      - https://www.edtechinnovationhub.com/news/google-opens-free-ai-training-to-650000-uk-and-ireland-educators
+      - https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/
+      - https://www.resultsense.com/news/2026-10-05-google-ai-educator-series-uk-ireland/
+  - fingerprint: bytexl-9m-elevar-kalaari-dell-ai-skilling-engineering-colleges-oct2026
+    title: "byteXL raises $9M to build AI skilling into Indian engineering-college degrees"
+    first_seen: 2026-10-10
+    digest: ai-impact-on-education-2026-Oct-10.html
+    urls:
+      - https://yourstory.com/2026/10/edtech-firm-bytexl-9m-investors-back-college-linked-ai-skilling-model
+      - https://inc42.com/buzz/bytexl-raises-9-mn-to-take-tech-ai-skilling-to-more-engineering-colleges/
+      - https://www.business-standard.com/education/news/edtech-firm-bytexl-raises-9-million-in-funding-round-led-by-elevar-equity-126100701049_1.html
+      - https://www.deccanchronicle.com/business/in-other-news/bytexl-raises-9-million-in-latest-funding-round-led-by-elevar-equity-and-participation-from-existing-investors-kalaari-capital-and-the-michael-susan-dell-foundation-1993869
+  - fingerprint: ai-for-math-fund-35m-22-grants-renaissance-xtx-oct2026
+    title: "AI for Math Fund grows to $35.1M as 22 proposals win grants for AI theorem proving and math tools"
+    first_seen: 2026-10-10
+    digest: ai-impact-on-education-2026-Oct-10.html
+    urls:
+      - https://www.edtechinnovationhub.com/news/ai-for-math-fund-expands-to-351m-as-new-grants-back-open-tools-theorem-proving-and-ai-generated-proofs
+      - https://www.renaissancephilanthropy.org/ai-for-math-fund
   - fingerprint: ai-tutor-rct-university-of-maryland-lower-grades-0-37sd-oct2026
     title: "A 2,379-student randomized trial finds a course-integrated AI tutor lowered grades"
     first_seen: 2026-10-09
@@ -2204,6 +2243,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-10
+- **Oak’s Aila AI lesson planner cuts primary teachers’ prep time by about 49 minutes a week in an EEF trial** — a randomised EEF/NFER trial reported 6 October found Aila users spent ~76% of the planning time of controls (≈2.5h vs 3.3h/week) with no loss in resource quality, but only ~7% of lessons used it. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-10.html)
+- **Russia will make an AI and information-security course compulsory for grades 5–11** — Education Minister Kravtsov said on 9 October the subject will be compulsory in all schools from next academic year. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-10.html)
+- **Google extends its free AI Educator Series to about 650,000 teachers in the UK and Ireland** — announced 5 October: 15–45 minute Gemini modules with micro-credentials plus England roadshow events; extends the earlier US/India/Korea programme. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-10.html)
+- **byteXL raises $9M to build AI skilling into Indian engineering-college degrees** — round led by Elevar Equity (7 October); plans 40→120 institutions and 2→5 lakh students in two years. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-10.html)
+- **AI for Math Fund grows to $35.1M as 22 proposals win grants for AI theorem proving and math tools** — Renaissance Philanthropy and XTX Markets added $17.1M (8 October); grants of $100k–$1M for AI-assisted proving, datasets and evaluation tools. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-10.html)
 
 ## 2026-Oct-09
 - **A 2,379-student randomized trial finds a course-integrated AI tutor lowered grades** — A randomized trial of a course-integrated generative AI tutor covering 2,379 undergraduates and 30 instructors, run in fall 2025 and reported as a University of Maryland study, found that sections offered the tutor ended with final grades about four percentage points lower, or 0.37 standard deviations. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-09.html)
