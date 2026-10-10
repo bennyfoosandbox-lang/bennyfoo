@@ -2,10 +2,44 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-09
-run_count: 65
-digest_count: 65
+last_run: 2026-10-10
+run_count: 66
+digest_count: 66
 entries:
+  - fingerprint: claude-code-v2-1-296-subagent-autocompact-managed-hook-fixes
+    title: "Claude Code 2.1.296 lets subagents auto-compact early and hardens managed hooks"
+    first_seen: 2026-10-10
+    digest: essential-skill-md-for-productivity-2026-Oct-10.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.296
+      - https://github.com/anthropics/claude-code/releases
+  - fingerprint: anthropics-skills-claude-api-dynamic-workflows-quickstarts-oct9
+    title: "Anthropic's claude-api skill adds dynamic workflows and four Managed Agents quickstarts"
+    first_seen: 2026-10-10
+    digest: essential-skill-md-for-productivity-2026-Oct-10.html
+    urls:
+      - https://github.com/anthropics/skills/commit/dbd4588
+      - https://github.com/anthropics/skills/commit/9d63080
+      - https://github.com/anthropics/skills/commits/main
+  - fingerprint: codex-cli-0-162-0-required-skills-plugin-snapshots-0-162-1-fixes
+    title: "Codex CLI 0.162 enforces required skills before inference and scopes plugin snapshots per step"
+    first_seen: 2026-10-10
+    digest: essential-skill-md-for-productivity-2026-Oct-10.html
+    urls:
+      - https://github.com/openai/codex/releases/tag/rust-v0.162.0
+      - https://github.com/openai/codex/releases
+  - fingerprint: copilot-cli-1-0-95-stable-managed-plugin-retry-1-0-96-sandbox
+    title: "Copilot CLI 1.0.95 retries managed plugin setup hourly; 1.0.96 prereleases add sandbox controls"
+    first_seen: 2026-10-10
+    digest: essential-skill-md-for-productivity-2026-Oct-10.html
+    urls:
+      - https://github.com/github/copilot-cli/releases
+  - fingerprint: gemini-cli-0-64-0-preview-1-untrusted-flag-backport-0-65-nightly-oct10
+    title: "Gemini CLI 0.64.0 preview.1 backports a trusted-command fix as the 0.65 nightly tightens MCP shutdown"
+    first_seen: 2026-10-10
+    digest: essential-skill-md-for-productivity-2026-Oct-10.html
+    urls:
+      - https://github.com/google-gemini/gemini-cli/releases
   - fingerprint: claude-code-v2-1-294-295-onfailure-block-hooks-subagent-32-skill-cap
     title: "Claude Code 2.1.294 and 2.1.295 add fail-closed hooks, 16K tool descriptions and a 32-skill sub-agent preload cap"
     first_seen: 2026-10-09
@@ -2194,6 +2228,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-10
+- **Claude Code 2.1.296 lets subagents auto-compact early and hardens managed hooks** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-10.html)
+- **Anthropic's claude-api skill adds dynamic workflows and four Managed Agents quickstarts** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-10.html)
+- **Codex CLI 0.162 enforces required skills before inference and scopes plugin snapshots per step** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-10.html)
+- **Copilot CLI 1.0.95 retries managed plugin setup hourly; 1.0.96 prereleases add sandbox controls** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-10.html)
+- **Gemini CLI 0.64.0 preview.1 backports a trusted-command fix as the 0.65 nightly tightens MCP shutdown** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-10.html)
 
 ## 2026-Oct-09
 - **Claude Code 2.1.294 and 2.1.295 add fail-closed hooks, 16K tool descriptions and a 32-skill sub-agent preload cap** — Claude Code shipped two builds on 8 October. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-09.html)
