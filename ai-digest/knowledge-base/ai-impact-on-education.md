@@ -2,10 +2,29 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-10
-run_count: 61
-digest_count: 58
+last_run: 2026-10-11
+run_count: 62
+digest_count: 59
 entries:
+  - fingerprint: national-history-day-bars-generative-ai-contest-edweek-oct2026
+    title: "National History Day bars students from using generative AI for any part of its contest"
+    first_seen: 2026-10-11
+    digest: ai-impact-on-education-2026-Oct-11.html
+    urls:
+      - https://www.edweek.org/teaching-learning/in-social-studies-does-ai-shortcut-historical-thinking-or-deepen-it/2026/10
+  - fingerprint: hanover-research-k12-ai-survey-policy-lag-oct2026
+    title: "Hanover Research survey: high school educators are adopting AI faster than policies and classroom realities can keep up"
+    first_seen: 2026-10-11
+    digest: ai-impact-on-education-2026-Oct-11.html
+    urls:
+      - https://www.k12dive.com/news/pop-quiz-test-k-12-news-october-9-2026/832544/
+  - fingerprint: colleges-expand-ai-security-education-cybersecurity-dive-oct2026
+    title: "Colleges race to build AI security programs as frontier-model incidents raise the stakes"
+    first_seen: 2026-10-11
+    digest: ai-impact-on-education-2026-Oct-11.html
+    urls:
+      - https://www.cybersecuritydive.com/news/ai-cybersecurity-education-university/832132/
+      - https://www.cmu.edu/ini/academics/secure-ai.html
   - fingerprint: eef-nfer-oak-aila-lesson-planning-trial-49-minutes-oct2026
     title: "Oak’s Aila AI lesson planner cuts primary teachers’ prep time by about 49 minutes a week in an EEF trial"
     first_seen: 2026-10-10
@@ -2243,6 +2262,11 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-11
+- **National History Day bars students from using generative AI for any part of its contest** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-11.html)
+- **Hanover Research survey: high school educators are adopting AI faster than policies and classroom realities can keep up** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-11.html)
+- **Colleges race to build AI security programs as frontier-model incidents raise the stakes** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-11.html)
 
 ## 2026-Oct-10
 - **Oak’s Aila AI lesson planner cuts primary teachers’ prep time by about 49 minutes a week in an EEF trial** — a randomised EEF/NFER trial reported 6 October found Aila users spent ~76% of the planning time of controls (≈2.5h vs 3.3h/week) with no loss in resource quality, but only ~7% of lessons used it. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-10.html)
