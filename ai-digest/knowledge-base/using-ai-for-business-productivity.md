@@ -2,10 +2,46 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-10
-run_count: 72
-digest_count: 72
+last_run: 2026-10-11
+run_count: 73
+digest_count: 73
 entries:
+  - fingerprint: oracle-fusion-claw-governed-execution-runtime-sep2026
+    title: "Oracle's Fusion Claw splits AI planning from deterministic execution for back-office work"
+    first_seen: 2026-10-11
+    digest: using-ai-for-business-productivity-2026-Oct-11.html
+    urls:
+      - https://www.oracle.com/news/announcement/oracle-extends-fusion-agentic-applications-with-introduction-of-fusion-claw-2026-09-29/
+      - https://erp.today/fusion-claw-oracles-new-runtime-for-autonomous-governed-enterprise-work/
+      - https://www.techfinitive.com/oracle-expands-ai-applications-with-new-execution-runtime/
+      - https://futurumgroup.com/?p=96126
+  - fingerprint: nvidia-open-agent-safety-platform-openshell-sentry-sep2026
+    title: "Nvidia's Open Agent Safety Platform puts a hardware watchdog around enterprise agents"
+    first_seen: 2026-10-11
+    digest: using-ai-for-business-productivity-2026-Oct-11.html
+    urls:
+      - https://thenextweb.com/news/nvidia-open-agent-safety-platform
+      - https://securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog
+      - https://www.pbs.org/newshour/amp/world/nvidia-announced-a-software-tool-to-stop-rogue-ai-how-would-it-work
+      - https://letsdatascience.com/news/nvidia-launches-hardware-backed-ai-agent-safety-platform-7ff43d11
+  - fingerprint: cohere-north-2-enterprise-agent-platform-memory-admin-oct2026
+    title: "Cohere ships North 2 with cross-session memory and token-level admin controls"
+    first_seen: 2026-10-11
+    digest: using-ai-for-business-productivity-2026-Oct-11.html
+    urls:
+      - https://technologymagazine.com/news/cohere-north-2-unifying-security-control-in-enterprise-ai
+      - https://letsdatascience.com/news/cohere-introduces-north-2-with-agent-orchestration-and-token-8b1f2415
+      - https://aiweekly.co/alerts/cohere-ships-north-2-enterprise-agent-platform-with-cross-session-memory-and
+      - https://www.hpcwire.com/bigdatawire/this-just-in/cohere-introduces-north-2-with-expanded-enterprise-ai-agent-capabilities/
+  - fingerprint: salesforce-winter-27-agentforce-default-on-ga-oct2026
+    title: "Salesforce Winter '27 goes GA on 12 October with Agentforce switched on by default"
+    first_seen: 2026-10-11
+    digest: using-ai-for-business-productivity-2026-Oct-11.html
+    urls:
+      - https://stellagent.ai/insights/salesforce-winter-27-agentforce-commerce
+      - https://www.salesforceben.com/salesforce-to-auto-enable-agentforce-in-winter-27-what-that-means-for-you/
+      - https://www.citrincooperman.com/In-Focus-Resource-Center/Salesforce-Winter-27-Core-Platform-Flow-and-Sales-Cloud-Upgrades
+      - https://vantagepoint.io/blog/sf/winter-27-agentforce-financial-services-release
   - fingerprint: google-gemini-agent-universal-agent-for-work-oct2026
     title: "Google launches 'Gemini agent', a universal agent for work, in private preview"
     first_seen: 2026-10-10
@@ -3001,6 +3037,12 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-11
+- **Oracle's Fusion Claw splits AI planning from deterministic execution for back-office work** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-11.html)
+- **Nvidia's Open Agent Safety Platform puts a hardware watchdog around enterprise agents** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-11.html)
+- **Cohere ships North 2 with cross-session memory and token-level admin controls** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-11.html)
+- **Salesforce Winter '27 goes GA on 12 October with Agentforce switched on by default** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-11.html)
 
 ## 2026-Oct-10
 - **Google launches 'Gemini agent', a universal agent for work, in private preview** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-10.html)
