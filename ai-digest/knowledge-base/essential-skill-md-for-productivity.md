@@ -2,10 +2,17 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-10
-run_count: 66
-digest_count: 66
+last_run: 2026-10-11
+run_count: 67
+digest_count: 67
 entries:
+  - fingerprint: openclaw-2026-10-1-stable-skill-reviews-workshop-haiku-5-5
+    title: "OpenClaw 2026.10.1 goes stable: background skill reviews via Workshop proposals"
+    first_seen: 2026-10-11
+    digest: essential-skill-md-for-productivity-2026-Oct-11.html
+    urls:
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.10.1
+      - https://github.com/openclaw/openclaw/releases
   - fingerprint: claude-code-v2-1-296-subagent-autocompact-managed-hook-fixes
     title: "Claude Code 2.1.296 lets subagents auto-compact early and hardens managed hooks"
     first_seen: 2026-10-10
@@ -2228,6 +2235,9 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-11
+- **OpenClaw 2026.10.1 goes stable: background skill reviews via Workshop proposals** — plugin skills kept during updates, multiline skill indentation fix, Haiku 5.5 support. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-11.html)
 
 ## 2026-Oct-10
 - **Claude Code 2.1.296 lets subagents auto-compact early and hardens managed hooks** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-10.html)
