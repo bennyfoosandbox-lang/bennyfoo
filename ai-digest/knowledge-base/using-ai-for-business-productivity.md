@@ -2,10 +2,55 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-11
-run_count: 73
-digest_count: 73
+last_run: 2026-10-12
+run_count: 74
+digest_count: 74
 entries:
+  - fingerprint: servicenow-ai-workflow-factory-autonomous-engineer-oct2026
+    title: "ServiceNow's AI Workflow Factory turns process mining, building and governance into one loop"
+    first_seen: 2026-10-12
+    digest: using-ai-for-business-productivity-2026-Oct-12.html
+    urls:
+      - https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-launches-AI-Workflow-Factory-to-turn-workflow-improvement-into-a-continuous-agentic-AI-powered-loop/default.aspx
+      - https://www.infoworld.com/article/4231166/servicenow-takes-aim-at-enterprise-ais-workflow-bottleneck-with-ai-workflow-factory-2.html
+      - https://www.cio.com/article/4231156/servicenow-takes-aim-at-enterprise-ais-workflow-bottleneck-with-ai-workflow-factory.html
+      - https://futurumgroup.com/?p=96453
+  - fingerprint: datarails-cfo-sentiments-26pct-time-verifying-ai-oct2026
+    title: "Datarails survey: finance teams spend 26% of their time checking AI output"
+    first_seen: 2026-10-12
+    digest: using-ai-for-business-productivity-2026-Oct-12.html
+    urls:
+      - https://www.cfodive.com/news/ai-verification-eats-26percent-finance-teams-workweek-datarails/832210/
+      - https://www.itpro.com/business/business-strategy/finance-teams-are-wasting-a-quarter-of-their-week-checking-ai-slop
+      - https://www.prnewswire.com/il/news-releases/finance-teams-now-spend-a-quarter-of-their-week-fact-checking-ai-new-datarails-survey-finds-302899700.html
+      - https://www.cpapracticeadvisor.com/?p=191230
+  - fingerprint: anthropic-claude-haiku-5-5-launch-oct2026
+    title: "Claude Haiku 5.5 cuts small-model costs by about 75% for high-volume work"
+    first_seen: 2026-10-12
+    digest: using-ai-for-business-productivity-2026-Oct-12.html
+    urls:
+      - https://yourstory.com/ai-story/claude-haiku-5-5-anthropic-small-ai-model
+      - https://www.clubic.com/actualite-633157-anthropic-devoile-haiku-5-5-un-petit-modele-environ-75-moins-cher-que-haiku-4-5.html
+      - https://www.digitaltoday.co.kr/cn/view/112034/anthropic-launches-fast-low-cost-ai-claude-haiku-55-cuts-costs-75-percent
+      - https://gori.me/it/171039
+  - fingerprint: nous-research-90m-series-b-hermes-for-businesses-oct2026
+    title: "Nous Research raises $90M to take open-source Hermes agent into business"
+    first_seen: 2026-10-12
+    digest: using-ai-for-business-productivity-2026-Oct-12.html
+    urls:
+      - https://runtimewire.com/article/nous-research-90m-series-b-hermes-agent
+      - https://www.digitaltoday.co.kr/en/view/112594/open-source-ai-agent-hermes-raises-series-b-at-1-5-billion-valuation-targets-enterprises
+      - https://mezha.net/eng/?p=3729422
+      - https://aiweekly.co/fr/alerts/nous-research-lve-90-m-en-srie-b-15-md-pour-hermes
+  - fingerprint: manus-500m-round-after-meta-unwind-oct2026
+    title: "Manus raises over $500M, its first round since Meta's acquisition was unwound"
+    first_seen: 2026-10-12
+    digest: using-ai-for-business-productivity-2026-Oct-12.html
+    urls:
+      - https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/
+      - https://thenextweb.com/news/manus-raises-500m-after-meta-exit
+      - https://www.vktr.com/ai-platforms/manus-raises-500m-in-first-round-since-china-blocked-meta-deal/
+      - https://dealroom.co/news/151507-manus-targets-4b-valuation-in-500m-round-after-meta-split/
   - fingerprint: oracle-fusion-claw-governed-execution-runtime-sep2026
     title: "Oracle's Fusion Claw splits AI planning from deterministic execution for back-office work"
     first_seen: 2026-10-11
@@ -3037,6 +3082,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-12
+- **ServiceNow's AI Workflow Factory turns process mining, building and governance into one loop** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-12.html)
+- **Datarails survey: finance teams spend 26% of their time checking AI output** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-12.html)
+- **Claude Haiku 5.5 cuts small-model costs by about 75% for high-volume work** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-12.html)
+- **Nous Research raises $90M to take open-source Hermes agent into business** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-12.html)
+- **Manus raises over $500M, its first round since Meta's acquisition was unwound** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-12.html)
 
 ## 2026-Oct-11
 - **Oracle's Fusion Claw splits AI planning from deterministic execution for back-office work** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-11.html)
