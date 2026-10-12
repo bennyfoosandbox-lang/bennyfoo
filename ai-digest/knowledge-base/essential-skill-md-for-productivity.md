@@ -2,10 +2,31 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-11
-run_count: 67
-digest_count: 67
+last_run: 2026-10-12
+run_count: 68
+digest_count: 68
 entries:
+  - fingerprint: openclaw-2026-10-5-beta-1-skill-workshop-history-learned-skills-procedures
+    title: "OpenClaw 2026.10.5 beta puts Skill Workshop history in one view and narrows learned skills to procedures"
+    first_seen: 2026-10-12
+    digest: essential-skill-md-for-productivity-2026-Oct-12.html
+    urls:
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.10.5-beta.1
+      - https://github.com/openclaw/openclaw/releases
+  - fingerprint: addyosmani-agent-skills-oct10-validator-eval-hardening-wave
+    title: "addyosmani/agent-skills lands a hardening wave: stricter skill linting, eval cleanup and new host guides"
+    first_seen: 2026-10-12
+    digest: essential-skill-md-for-productivity-2026-Oct-12.html
+    urls:
+      - https://github.com/addyosmani/agent-skills/commits/main
+      - https://github.com/addyosmani/agent-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc
+      - https://github.com/addyosmani/agent-skills
+  - fingerprint: hermes-agent-v0-21-4-skills-auto-load-v0-21-5-live-plugin-skills
+    title: "Hermes Agent adds skills.auto_load and live plugin skills in open chats"
+    first_seen: 2026-10-12
+    digest: essential-skill-md-for-productivity-2026-Oct-12.html
+    urls:
+      - https://github.com/NousResearch/hermes-agent/releases
   - fingerprint: openclaw-2026-10-1-stable-skill-reviews-workshop-haiku-5-5
     title: "OpenClaw 2026.10.1 goes stable: background skill reviews via Workshop proposals"
     first_seen: 2026-10-11
@@ -2235,6 +2256,11 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-12
+- **OpenClaw 2026.10.5-beta.1** — Skill Workshop shows changes/files/history in one view; learned skills narrowed to repeatable procedures; ClawHub browse/search in Gateway; 7 skills/MCP fixes. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-12.html)
+- **addyosmani/agent-skills hardening wave (Oct 10)** — frontmatter linter and persona validator fixes, eval ID/workspace cleanup, simplify-ignore hook fix, Pi/Copilot/Cursor host docs. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-12.html)
+- **Hermes Agent v0.21.4–0.21.6** — skills.auto_load pins skills into every new session; plugin tools/skills live in open chats (Sept 21–24 fallback item). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-12.html)
 
 ## 2026-Oct-11
 - **OpenClaw 2026.10.1 goes stable: background skill reviews via Workshop proposals** — plugin skills kept during updates, multiline skill indentation fix, Haiku 5.5 support. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-11.html)
