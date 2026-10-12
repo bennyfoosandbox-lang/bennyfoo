@@ -2,10 +2,43 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-11
-run_count: 62
-digest_count: 59
+last_run: 2026-10-12
+run_count: 63
+digest_count: 60
 entries:
+  - fingerprint: oklahoma-responsible-technology-in-schools-act-model-policy-oct2026
+    title: "Oklahoma's new school-AI law forces districts to notify parents, offer opt-outs and keep AI out of high-stakes calls"
+    first_seen: 2026-10-12
+    digest: ai-impact-on-education-2026-Oct-12.html
+    urls:
+      - https://www.hppr.org/hppr-news/2026-10-06/building-the-airplane-while-its-flying-oklahoma-schools-set-guardrails-for-ai-in-the-classroom
+      - https://oklahoma.gov/content/dam/ok/en/osde/ai-and-digital-learning/Model%20Policy%20AI%20Use%20in%20Schools%20Update%20October%202026.pdf
+  - fingerprint: cwu-survey-english-vs-math-teachers-ai-integrity-oct2026
+    title: "Survey of 222 Washington teachers: English teachers are far more worried about AI cheating than math teachers"
+    first_seen: 2026-10-12
+    digest: ai-impact-on-education-2026-Oct-12.html
+    urls:
+      - https://www.newsfromthestates.com/node/430647
+      - https://www.seattleschild.com/?p=121530
+      - https://etcjournal.com/2026/10/04/briefing-10-4-26-english-teachers-most-concerned-about-ai-cheating/
+  - fingerprint: edreports-brief-edtech-ai-integration-before-evidence-sep2026
+    title: "EdReports brief: only 1 of 10 curriculum vendors offers third-party evidence that its AI add-ons help students"
+    first_seen: 2026-10-12
+    digest: ai-impact-on-education-2026-Oct-12.html
+    urls:
+      - https://www.edsurge.com/news/study-edtech-is-rushing-ai-integration-before-proving-it-works
+  - fingerprint: gothamist-nyc-students-ai-still-sneaking-into-classrooms-oct2026
+    title: "NYC students say AI is still showing up in classrooms despite the city's moratorium"
+    first_seen: 2026-10-12
+    digest: ai-impact-on-education-2026-Oct-12.html
+    urls:
+      - https://gothamist.com/news/ai-wary-nyc-students-say-the-tech-is-still-sneaking-into-classrooms
+  - fingerprint: global-study-english-language-teachers-ai-policy-assessment-oct2026
+    title: "International study of English-language teachers urges a rethink of AI policy, assessment and training"
+    first_seen: 2026-10-12
+    digest: ai-impact-on-education-2026-Oct-12.html
+    urls:
+      - https://thekoalanews.com/ai-in-the-classroom-needs-teachers-in-the-drivers-seat-global-study-finds
   - fingerprint: national-history-day-bars-generative-ai-contest-edweek-oct2026
     title: "National History Day bars students from using generative AI for any part of its contest"
     first_seen: 2026-10-11
@@ -2262,6 +2295,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-12
+- **Oklahoma's new school-AI law forces districts to notify parents, offer opt-outs and keep AI out of high-stakes calls** — Oklahoma's Responsible Technology in Schools Act is now shaping how districts write their rules, and the state education department has posted an updated model board policy dated October 2026 for districts to adopt. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-12.html)
+- **Survey of 222 Washington teachers: English teachers are far more worried about AI cheating than math teachers** — Three Central Washington University faculty surveyed 222 high school English and math teachers in May and published the results this month. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-12.html)
+- **EdReports brief: only 1 of 10 curriculum vendors offers third-party evidence that its AI add-ons help students** — A brief from the curriculum reviewer EdReports, reported by EdSurge on 29 September, finds that publishers and edtech providers are folding AI into instructional materials much faster than they are proving it works. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-12.html)
+- **NYC students say AI is still showing up in classrooms despite the city's moratorium** — Gothamist reported on 8 October that students in New York City schools say AI is still appearing in their classrooms even though the city has restricted student-facing generative AI. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-12.html)
+- **International study of English-language teachers urges a rethink of AI policy, assessment and training** — A global study of English-language teachers, reported on 12 October, argues that teachers need to be in the driver's seat as AI enters classrooms and calls for rethinking AI policy, assessment design and professional development. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-12.html)
 
 ## 2026-Oct-11
 - **National History Day bars students from using generative AI for any part of its contest** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-11.html)
