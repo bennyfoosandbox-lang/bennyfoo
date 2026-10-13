@@ -2,10 +2,45 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-12
-run_count: 68
-digest_count: 68
+last_run: 2026-10-13
+run_count: 69
+digest_count: 69
 entries:
+  - fingerprint: copilot-cli-1-0-97-agent-scoped-hooks-plugin-dir-skills-fix
+    title: "Copilot CLI 1.0.97 prereleases give custom agents their own hooks and fix missing --plugin-dir skills"
+    first_seen: 2026-10-13
+    digest: essential-skill-md-for-productivity-2026-Oct-13.html
+    urls:
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.97-0
+      - https://github.com/github/copilot-cli/releases
+  - fingerprint: openclaw-2026-10-2-stable-provider-compaction-prompt-cache-5-beta-2-skills-watcher
+    title: "OpenClaw 2026.10.2 ships stable with provider-native compaction, as 10.5-beta.2 trims skills-watcher shutdown"
+    first_seen: 2026-10-13
+    digest: essential-skill-md-for-productivity-2026-Oct-13.html
+    urls:
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.10.2
+      - https://github.com/openclaw/openclaw/releases
+  - fingerprint: hermes-agent-v0-21-7-mid-session-skills-reach-model-plugin-sdk
+    title: "Hermes Agent v0.21.7: skills installed mid-session reach the model without a prompt rebuild"
+    first_seen: 2026-10-13
+    digest: essential-skill-md-for-productivity-2026-Oct-13.html
+    urls:
+      - https://github.com/NousResearch/hermes-agent/releases/tag/v0.21.7
+      - https://github.com/NousResearch/hermes-agent/releases
+  - fingerprint: microsoft-agent-framework-python-1-20-skill-scripts-context-dotnet-1-24-mcp-skill-archive
+    title: "Microsoft Agent Framework: skill scripts get opt-in invocation context, MCP skill archives load more consistently"
+    first_seen: 2026-10-13
+    digest: essential-skill-md-for-productivity-2026-Oct-13.html
+    urls:
+      - https://github.com/microsoft/agent-framework/releases/tag/python-1.20.0
+      - https://github.com/microsoft/agent-framework/releases/tag/dotnet-1.24.0
+      - https://github.com/microsoft/agent-framework/releases
+  - fingerprint: claude-plugins-official-oct9-11-bumps-data-agent-kit-1-0-0
+    title: "Anthropic's official Claude plugin directory refreshes vendor plugins, and data-agent-kit hits 1.0.0"
+    first_seen: 2026-10-13
+    digest: essential-skill-md-for-productivity-2026-Oct-13.html
+    urls:
+      - https://github.com/anthropics/claude-plugins-official/commits/main
   - fingerprint: openclaw-2026-10-5-beta-1-skill-workshop-history-learned-skills-procedures
     title: "OpenClaw 2026.10.5 beta puts Skill Workshop history in one view and narrows learned skills to procedures"
     first_seen: 2026-10-12
@@ -2256,6 +2291,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-13
+- **Copilot CLI 1.0.97 prereleases give custom agents their own hooks and fix missing --plugin-dir skills** — digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-13.html)
+- **OpenClaw 2026.10.2 ships stable with provider-native compaction, as 10.5-beta.2 trims skills-watcher shutdown** — digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-13.html)
+- **Hermes Agent v0.21.7: skills installed mid-session reach the model without a prompt rebuild** — digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-13.html)
+- **Microsoft Agent Framework: skill scripts get opt-in invocation context, MCP skill archives load more consistently** — digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-13.html)
+- **Anthropic's official Claude plugin directory refreshes vendor plugins, and data-agent-kit hits 1.0.0** — digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-13.html)
 
 ## 2026-Oct-12
 - **OpenClaw 2026.10.5-beta.1** — Skill Workshop shows changes/files/history in one view; learned skills narrowed to repeatable procedures; ClawHub browse/search in Gateway; 7 skills/MCP fixes. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-12.html)
