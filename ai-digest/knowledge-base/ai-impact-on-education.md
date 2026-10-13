@@ -2,10 +2,48 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-12
-run_count: 63
-digest_count: 60
+last_run: 2026-10-13
+run_count: 64
+digest_count: 61
 entries:
+  - fingerprint: white-house-presidential-super-intelligence-challenge-k12-oct2026
+    title: "The White House relaunches its student AI contest as the “Presidential Super Intelligence Challenge”"
+    first_seen: 2026-10-13
+    digest: ai-impact-on-education-2026-Oct-13.html
+    urls:
+      - https://www.washingtontimes.com/news/2026/oct/13/white-house-pushes-super-intelligence-classrooms-new-student/
+      - https://thehill.com/blogs/in-the-know/6146039-melania-trumps-student-ai-si-presidential-challenge/
+      - https://tokenpost.com/news/regulation/29692
+  - fingerprint: nys-focus-over-half-ny-districts-no-ai-policy-oct2026
+    title: "More than half of New York’s school districts have no board-adopted AI policy"
+    first_seen: 2026-10-13
+    digest: ai-impact-on-education-2026-Oct-13.html
+    urls:
+      - https://nysfocus.com/2026/10/13/ny-schools-lack-ai-policies
+      - https://www.route-fifty.com/artificial-intelligence/2026/10/we-tried-collect-every-new-york-school-districts-ai-policy-most-didnt-have-one/416554/
+      - https://highlandscurrent.org/2026/10/13/most-school-districts-dont-have-ai-policies/
+  - fingerprint: rest-of-world-uae-mandatory-k12-ai-curriculum-oct2026
+    title: "Rest of World: inside the UAE’s mandate that makes AI a required K-12 subject"
+    first_seen: 2026-10-13
+    digest: ai-impact-on-education-2026-Oct-13.html
+    urls:
+      - https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/
+      - https://www.analyticsinsight.net/education/top-countries-leading-ai-education-in-2026
+  - fingerprint: washingtonian-dc-private-schools-ai-approaches-oct2026
+    title: "DC-area private schools split between banning AI by default and building days around it"
+    first_seen: 2026-10-13
+    digest: ai-impact-on-education-2026-Oct-13.html
+    urls:
+      - https://washingtonian.com/2026/10/13/how-dc-area-private-schools-are-handling-ai/
+      - https://www.5wpr.com/new/28-dc-prep-schools-score-below-77-on-ai-only-sidwell-and-gds-pass/
+  - fingerprint: ecu-ai-2030-strategy-ai-ready-pirates-oct2026
+    title: "East Carolina University maps an “ECU AI 2030” plan to make every graduate “AI-ready”"
+    first_seen: 2026-10-13
+    digest: ai-impact-on-education-2026-Oct-13.html
+    urls:
+      - https://wcti12.com/news/news-12-investigates/news-12-investigates-rethinking-education-as-ai-enters-the-classroom
+      - https://news.ecu.edu/2026/09/25/ecu-trustees-learn-about-ai-strategy-efforts-on-campus/
+      - https://www.witn.com/2026/09/25/ecu-leaders-rollout-new-ai-strategy-prepare-students-changing-workforce/
   - fingerprint: oklahoma-responsible-technology-in-schools-act-model-policy-oct2026
     title: "Oklahoma's new school-AI law forces districts to notify parents, offer opt-outs and keep AI out of high-stakes calls"
     first_seen: 2026-10-12
@@ -2295,6 +2333,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-13
+- **The White House relaunches its student AI contest as the “Presidential Super Intelligence Challenge”** — First Lady Melania Trump announced the 2027 Presidential Super Intelligence Challenge, an open call for K-12 students, educators and schools, together with a “First Lady Seal of SI Readiness” for participating schools. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-13.html)
+- **More than half of New York’s school districts have no board-adopted AI policy** — New York Focus reviewed roughly 680 district websites and board policy manuals and found that most districts have no formal, board-approved AI policy; the count of districts with one is reported as around 270 in the body text and around 300 in the headline material. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-13.html)
+- **Rest of World: inside the UAE’s mandate that makes AI a required K-12 subject** — Rest of World looks at how the United Arab Emirates turned AI into a compulsory subject across public schools, following a May 2025 Cabinet decision. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-13.html)
+- **DC-area private schools split between banning AI by default and building days around it** — Washingtonian surveys how elite private schools around Washington are handling AI and finds no consensus. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-13.html)
+- **East Carolina University maps an “ECU AI 2030” plan to make every graduate “AI-ready”** — East Carolina University’s CIO presented “ECU AI 2030” to trustees on 24 September, with three priorities: AI-ready graduates, research, and operational efficiency; local TV followed up with an in-depth report on 12–13 October. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-13.html)
 
 ## 2026-Oct-12
 - **Oklahoma's new school-AI law forces districts to notify parents, offer opt-outs and keep AI out of high-stakes calls** — Oklahoma's Responsible Technology in Schools Act is now shaping how districts write their rules, and the state education department has posted an updated model board policy dated October 2026 for districts to adopt. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-12.html)
