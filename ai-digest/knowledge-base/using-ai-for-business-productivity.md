@@ -2,10 +2,48 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-12
-run_count: 74
-digest_count: 74
+last_run: 2026-10-13
+run_count: 75
+digest_count: 75
 entries:
+  - fingerprint: workday-gartner-emq-ai-agents-hr-market-shaper-oct2026
+    title: "Workday claims Gartner 'Market Shaper' status in AI agents for HR, with 95% automated frontline hiring"
+    first_seen: 2026-10-13
+    digest: using-ai-for-business-productivity-2026-Oct-13.html
+    urls:
+      - https://newsroom.workday.com/2026-10-08-Workday-Named-as-a-Market-Shaper-in-the-2026-Gartner-R-Emerging-Market-Quadrant-for-AI-Agents-in-Human-Resources-Established-Vendors
+      - https://finviz.com/news/400549/workday-named-as-a-market-shaper-in-the-2026-gartner-emerging-market-quadrant-for-ai-agents-in-human-resources-established-vendors
+      - https://www.gartner.com/en/documents/8417513
+  - fingerprint: realtor-com-realassist-ai-agents-approval-gated-oct2026
+    title: "Realtor.com puts an approval-gated AI assistant in front of 192,000 real estate agents"
+    first_seen: 2026-10-13
+    digest: using-ai-for-business-productivity-2026-Oct-13.html
+    urls:
+      - https://www.rismedia.com/2026/10/06/realtor-com-unveils-realassist-ai-for-agents-to-power-a-more-intelligent-workspace/
+      - https://www.realestatenews.com/2026/10/06/realtor-com-adds-ai-assistant-wearable-agent-safety-tool-debuts
+      - https://inman.com/2026/10/06/realtor-com-adds-realassist-ai
+  - fingerprint: microsoft-work-iq-preview-dynamics-365-power-platform-oct2026
+    title: "Microsoft opens Work IQ preview so Copilot can reason over Dynamics 365 and Power Platform data"
+    first_seen: 2026-10-13
+    digest: using-ai-for-business-productivity-2026-Oct-13.html
+    urls:
+      - https://erp.today/microsoft-opens-work-iq-preview-for-dynamics-365-and-power-platform-data/
+      - https://cloudwars.com/ai/microsofts-work-iq-gets-down-to-business-and-thats-what-makes-agents-useful/
+  - fingerprint: culture-amp-ai-at-work-benchmark-71pct-productive-workload-oct2026
+    title: "Culture Amp: 71% of workers feel more productive with AI, yet workloads barely move"
+    first_seen: 2026-10-13
+    digest: using-ai-for-business-productivity-2026-Oct-13.html
+    urls:
+      - https://www.cultureamp.com/company/announcements/ai-at-work-benchmark-2026
+      - https://itbrief.com.au/story/employees-back-ai-but-say-leaders-lack-clear-direction
+      - https://itbrief.co.uk/story/employees-back-ai-but-say-leaders-lack-clear-direction
+  - fingerprint: st-louis-fed-genai-adoption-like-pc-productivity-uncertain-oct2026
+    title: "St. Louis Fed: generative AI is being adopted as fast as the PC, but the productivity payoff is uncertain"
+    first_seen: 2026-10-13
+    digest: using-ai-for-business-productivity-2026-Oct-13.html
+    urls:
+      - https://www.frbsf.org/research-and-insights/publications/system-research-st-louis-fed/2026/10/new-survey-findings-ai-adoption-effects-employment-productivity/
+      - https://venturebeat.com/ai/generative-ai-adoption-surpasses-early-pc-and-internet-usage-study-finds
   - fingerprint: servicenow-ai-workflow-factory-autonomous-engineer-oct2026
     title: "ServiceNow's AI Workflow Factory turns process mining, building and governance into one loop"
     first_seen: 2026-10-12
@@ -3082,6 +3120,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-13
+- **Workday claims Gartner 'Market Shaper' status in AI agents for HR, with 95% automated frontline hiring** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-13.html)
+- **Realtor.com puts an approval-gated AI assistant in front of 192,000 real estate agents** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-13.html)
+- **Microsoft opens Work IQ preview so Copilot can reason over Dynamics 365 and Power Platform data** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-13.html)
+- **Culture Amp: 71% of workers feel more productive with AI, yet workloads barely move** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-13.html)
+- **St. Louis Fed: generative AI is being adopted as fast as the PC, but the productivity payoff is uncertain** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-13.html)
 
 ## 2026-Oct-12
 - **ServiceNow's AI Workflow Factory turns process mining, building and governance into one loop** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-12.html)
