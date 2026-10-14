@@ -2,10 +2,53 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-13
-run_count: 75
-digest_count: 75
+last_run: 2026-10-14
+run_count: 76
+digest_count: 76
 entries:
+  - fingerprint: jabra-worklife-2026-ai-time-saved-not-working-less-oct2026
+    title: "Jabra: AI is handing workers time back, but they are not working any less"
+    first_seen: 2026-10-14
+    digest: using-ai-for-business-productivity-2026-Oct-14.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/10/13/3379475/0/en/jabra-worklife-report-unveils-a-productivity-paradox-ai-is-giving-workers-time-back-but-they-re-not-working-any-less.html
+      - https://www.financialcontent.com/article/gnwcq-2026-10-13-jabra-worklife-report-unveils-a-productivity-paradox-ai-is-giving-workers-time-back-but-theyre-not-working-any-less
+      - https://www.lelezard.com/en/news-jabra-worklife-report-unveils-a-productivity-paradox-ai-is-giving-workers-time-back-22398947.html
+  - fingerprint: cisco-webexone-claude-managed-agents-openai-agents-webex-oct2026
+    title: "Cisco lets teams invite Claude and OpenAI agents into Webex meetings and spaces"
+    first_seen: 2026-10-14
+    digest: using-ai-for-business-productivity-2026-Oct-14.html
+    urls:
+      - https://uctoday.com/webexone-2026-amit-barave-on-claude-agents-the-new-webex
+      - https://www.computerworld.com/?p=4231779
+      - https://siliconangle.com/?p=849734
+      - https://www.dutchitchannel.nl/news/762074/teams-profiteren-van-anthropic-claude-in-cisco-webex
+  - fingerprint: atlassian-openai-expanded-partnership-gpt-6-rovo-oct2026
+    title: "OpenAI's GPT-6 models will power Atlassian's Rovo agents across Jira and Confluence"
+    first_seen: 2026-10-14
+    digest: using-ai-for-business-productivity-2026-Oct-14.html
+    urls:
+      - https://openai.com/index/atlassian-partnership/
+      - https://www.channelinsider.com/channel-business/news-openai-atlassian-partnership-gpt-6-rovo/
+      - https://fourweekmba.com/ai-openai-says-gpt-6-models-will-power-atlassian-agents/
+  - fingerprint: california-newsom-signs-sb947-sb951-ai-workplace-laws-sep2026
+    title: "California signs the 'No Robo Bosses Act' and an AI-layoff disclosure law"
+    first_seen: 2026-10-14
+    digest: using-ai-for-business-productivity-2026-Oct-14.html
+    urls:
+      - https://techradar.com/pro/california-governor-gavin-newsom-signs-no-robo-bosses-act-so-an-ai-can-no-longer-fire-you-on-its-own
+      - https://www.ksat.com/news/politics/2026/09/30/california-gov-gavin-newsom-signs-laws-to-protect-workers-from-ai-risks/
+      - https://abcnews.com/Technology/wireStory/california-gov-gavin-newsom-signs-laws-protect-workers-136904967
+      - https://techinformed.com/california-bars-ai-from-firing-employees-on-its-own/
+  - fingerprint: gartner-ai-layoffs-rehire-30pct-by-2029-sep2026
+    title: "Gartner: about 30% of workers laid off for AI will need to be rehired by 2029, at higher cost"
+    first_seen: 2026-10-14
+    digest: using-ai-for-business-productivity-2026-Oct-14.html
+    urls:
+      - https://www.ciodive.com/news/AI-replaced-workers-rehired-gartner/830426/
+      - https://www.channeldive.com/news/one-third-of-ai-replaced-workers-will-be-rehired-by-2029-gartner/830214/
+      - https://itbrief.co.uk/story/gartner-warns-ai-layoffs-could-force-rehiring-by-2029
+      - https://www.thenewdaily.com.au/themoneyedition/work/2026/10/08/ai-layoffs-could-backfire-as-firms-face-rehiring
   - fingerprint: workday-gartner-emq-ai-agents-hr-market-shaper-oct2026
     title: "Workday claims Gartner 'Market Shaper' status in AI agents for HR, with 95% automated frontline hiring"
     first_seen: 2026-10-13
@@ -3120,6 +3163,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-14
+- **Jabra: AI is handing workers time back, but they are not working any less** — Jabra's WorkLife 2026 report, released October 13, surveyed more than 6,000 knowledge workers across France, Germany, India, Poland, the UK and the US in May and finds a productivity paradox: workers say AI is saving them time, yet in every category of work measured they report doing more than a year ago. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-14.html)
+- **Cisco lets teams invite Claude and OpenAI agents into Webex meetings and spaces** — At WebexOne (October 7), Cisco said employees will be able to invite collaborative AI agents into Webex spaces, meetings and calls, where they can pick up the conversation's context and carry out multi-step work across Webex and third-party apps. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-14.html)
+- **OpenAI's GPT-6 models will power Atlassian's Rovo agents across Jira and Confluence** — Atlassian and OpenAI expanded their partnership on October 6 so OpenAI's frontier (GPT-6 family) models sit behind agents across Atlassian's platform and Rovo. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-14.html)
+- **California signs the "No Robo Bosses Act" and an AI-layoff disclosure law** — Our earlier note that SB 947 was waiting on Newsom's desk has resolved: he signed it around September 30 as part of a package of AI worker protections. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-14.html)
+- **Gartner: about 30% of workers laid off for AI will need to be rehired by 2029, at higher cost** — Gartner forecasts that by 2029 roughly 30% of employees laid off because AI replaced their roles will have to be rehired, likely at significantly higher cost, citing lost institutional knowledge and weakened talent pipelines. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-14.html)
 
 ## 2026-Oct-13
 - **Workday claims Gartner 'Market Shaper' status in AI agents for HR, with 95% automated frontline hiring** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-13.html)
