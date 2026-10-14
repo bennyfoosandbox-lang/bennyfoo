@@ -2,10 +2,36 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-13
-run_count: 69
-digest_count: 69
+last_run: 2026-10-14
+run_count: 70
+digest_count: 70
 entries:
+  - fingerprint: copilot-cli-1-0-97-stable-token-retry-1-0-98-gemini-4-argon
+    title: "Copilot CLI 1.0.97 goes stable: agent-scoped hooks, marketplace fetch retry and --plugin-dir skill fix"
+    first_seen: 2026-10-14
+    digest: essential-skill-md-for-productivity-2026-Oct-14.html
+    urls:
+      - https://github.com/github/copilot-cli/releases
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.98-1
+  - fingerprint: openclaw-2026-10-3-stable-90-commits-99-contributors
+    title: "OpenClaw 2026.10.3 becomes the latest stable, a 90-commit, 99-contributor train"
+    first_seen: 2026-10-14
+    digest: essential-skill-md-for-productivity-2026-Oct-14.html
+    urls:
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.10.3
+      - https://github.com/openclaw/openclaw/releases
+  - fingerprint: codex-0-163-0-alpha-8-10-oct13
+    title: "Codex cuts three 0.163.0 alphas in one day, following the per-step skill snapshot change"
+    first_seen: 2026-10-14
+    digest: essential-skill-md-for-productivity-2026-Oct-14.html
+    urls:
+      - https://github.com/openai/codex/releases
+  - fingerprint: microsoft-365-copilot-agents-skills-in-prompts-mc1479519
+    title: "Microsoft 365 Copilot lets users drop Agents and Skills straight into prompts"
+    first_seen: 2026-10-14
+    digest: essential-skill-md-for-productivity-2026-Oct-14.html
+    urls:
+      - https://mc.merill.net/message/MC1479519
   - fingerprint: copilot-cli-1-0-97-agent-scoped-hooks-plugin-dir-skills-fix
     title: "Copilot CLI 1.0.97 prereleases give custom agents their own hooks and fix missing --plugin-dir skills"
     first_seen: 2026-10-13
@@ -2291,6 +2317,12 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-14
+- **Copilot CLI 1.0.97 goes stable: agent-scoped hooks, marketplace fetch retry and --plugin-dir skill fix** — digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-14.html)
+- **OpenClaw 2026.10.3 becomes the latest stable, a 90-commit, 99-contributor train** — digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-14.html)
+- **Codex cuts three 0.163.0 alphas in one day, following the per-step skill snapshot change** — digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-14.html)
+- **Microsoft 365 Copilot lets users drop Agents and Skills straight into prompts** — digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-14.html)
 
 ## 2026-Oct-13
 - **Copilot CLI 1.0.97 prereleases give custom agents their own hooks and fix missing --plugin-dir skills** — digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-13.html)
