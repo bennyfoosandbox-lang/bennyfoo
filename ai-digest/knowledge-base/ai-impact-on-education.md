@@ -2,10 +2,40 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-13
-run_count: 64
-digest_count: 61
+last_run: 2026-10-14
+run_count: 65
+digest_count: 62
 entries:
+  - fingerprint: aero-australia-ai-sparingly-cognitive-outsourcing-guidance-oct2026
+    title: "Australia’s national research body tells schools to use AI “sparingly” — and not at all in the first three years"
+    first_seen: 2026-10-14
+    digest: ai-impact-on-education-2026-Oct-14.html
+    urls:
+      - https://www.abc.net.au/news/2026-10-14/ai-in-schools-warning-affecting-long-term-learning/107263444
+  - fingerprint: gallup-walton-mattering-survey-59pct-educators-used-ai-oct2026
+    title: "Gallup: 59% of US K-12 educators used AI last year, and most of them say it bought back time"
+    first_seen: 2026-10-14
+    digest: ai-impact-on-education-2026-Oct-14.html
+    urls:
+      - https://news.gallup.com/poll/715364/teachers-using-say-frees-time-matters-mostost.aspx
+  - fingerprint: korea-times-teachers-oppose-csat-essay-questions-ai-grading-disputes-oct2026
+    title: "Korean teachers push back on essay-style CSAT questions as students start citing AI to dispute grades"
+    first_seen: 2026-10-14
+    digest: ai-impact-on-education-2026-Oct-14.html
+    urls:
+      - https://www.koreatimes.co.kr/southkorea/education/20261014/7-in-10-teachers-oppose-csat-essay-questions-over-grading-disputes-ai-concerns
+  - fingerprint: fordham-ignatian-ai-conference-jesuit-high-school-panel-oct2026
+    title: "Jesuit high-school panel at Fordham: use AI as the spotter, not the one doing the reps"
+    first_seen: 2026-10-14
+    digest: ai-impact-on-education-2026-Oct-14.html
+    urls:
+      - https://now.fordham.edu/university-news/should-ai-be-used-in-schools-weighing-the-benefits-and-risks/
+  - fingerprint: columbia-law-paul-weiss-five-year-gen-ai-initiative-oct2026
+    title: "Columbia Law and Paul Weiss sign a five-year partnership to build generative AI into legal education"
+    first_seen: 2026-10-14
+    digest: ai-impact-on-education-2026-Oct-14.html
+    urls:
+      - https://www.law.com/newyorklawjournal/2026/10/14/paul-weiss-columbia-law-school-launch-collaborative-gen-ai-initiative-/
   - fingerprint: white-house-presidential-super-intelligence-challenge-k12-oct2026
     title: "The White House relaunches its student AI contest as the “Presidential Super Intelligence Challenge”"
     first_seen: 2026-10-13
@@ -2333,6 +2363,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-14
+- **Australia’s national research body tells schools to use AI “sparingly” — and not at all in the first three years** — AERO urges schools to use AI sparingly and keep it out of the first three years of primary school. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-14.html)
+- **Gallup: 59% of US K-12 educators used AI last year, and most of them say it bought back time** — Gallup finds 59% of K-12 educators used AI last year and 64% of users say it freed up time. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-14.html)
+- **Korean teachers push back on essay-style CSAT questions as students start citing AI to dispute grades** — 73.5% of surveyed Korean teachers oppose essay-style CSAT questions; AI grading and AI-backed grade disputes add friction. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-14.html)
+- **Jesuit high-school panel at Fordham: use AI as the spotter, not the one doing the reps** — Four Jesuit high schools show red/yellow/green rules, Flint tutor bots and a “spotter” model for AI. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-14.html)
+- **Columbia Law and Paul Weiss sign a five-year partnership to build generative AI into legal education** — Columbia Law names Paul Weiss lead partner of a five-year generative AI initiative with a scholar-in-residence. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-14.html)
 
 ## 2026-Oct-13
 - **The White House relaunches its student AI contest as the “Presidential Super Intelligence Challenge”** — First Lady Melania Trump announced the 2027 Presidential Super Intelligence Challenge, an open call for K-12 students, educators and schools, together with a “First Lady Seal of SI Readiness” for participating schools. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-13.html)
