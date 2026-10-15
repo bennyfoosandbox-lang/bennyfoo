@@ -2,10 +2,28 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-14
-run_count: 70
-digest_count: 70
+last_run: 2026-10-15
+run_count: 71
+digest_count: 71
 entries:
+  - fingerprint: claude-code-v2-1-297-300-skill-prompt-hook-frontmatter-agent-spawn-rewrite-plugin-authoring
+    title: "Claude Code 2.1.299 and 2.1.300 give skill hooks full frontmatter and let agent.spawn rewrite workflow prompts"
+    first_seen: 2026-10-15
+    digest: essential-skill-md-for-productivity-2026-Oct-15.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases
+  - fingerprint: copilot-cli-1-0-99-0-trusted-plugins-autoinstall-allowed-tools-commas-path-instructions
+    title: "Copilot CLI 1.0.99-0 auto-installs trusted repo plugins and fixes allowed-tools parsing in skills"
+    first_seen: 2026-10-15
+    digest: essential-skill-md-for-productivity-2026-Oct-15.html
+    urls:
+      - https://github.com/github/copilot-cli/releases
+  - fingerprint: codex-0-163-0-alpha-9-11-oct14
+    title: "Codex 0.163.0 alphas continue to alpha.11 with no changelog; 0.162.1 remains the stable build"
+    first_seen: 2026-10-15
+    digest: essential-skill-md-for-productivity-2026-Oct-15.html
+    urls:
+      - https://github.com/openai/codex/releases
   - fingerprint: copilot-cli-1-0-97-stable-token-retry-1-0-98-gemini-4-argon
     title: "Copilot CLI 1.0.97 goes stable: agent-scoped hooks, marketplace fetch retry and --plugin-dir skill fix"
     first_seen: 2026-10-14
@@ -2317,6 +2335,11 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-15
+- **Claude Code 2.1.299 and 2.1.300 give skill hooks full frontmatter and let agent.spawn rewrite workflow prompts** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-15.html)
+- **Copilot CLI 1.0.99-0 auto-installs trusted repo plugins and fixes allowed-tools parsing in skills** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-15.html)
+- **Codex 0.163.0 alphas continue to alpha.11 with no changelog; 0.162.1 remains the stable build** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-15.html)
 
 ## 2026-Oct-14
 - **Copilot CLI 1.0.97 goes stable: agent-scoped hooks, marketplace fetch retry and --plugin-dir skill fix** — digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-14.html)
