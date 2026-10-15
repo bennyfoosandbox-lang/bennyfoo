@@ -2,10 +2,42 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-14
-run_count: 65
-digest_count: 62
+last_run: 2026-10-15
+run_count: 66
+digest_count: 63
 entries:
+  - fingerprint: federal-ai-education-rd-ali-report-stanford-scale-evidence-gap-oct2026
+    title: "Federal research push: a coalition says schools are adopting AI with almost no causal evidence"
+    first_seen: 2026-10-15
+    digest: ai-impact-on-education-2026-Oct-15.html
+    urls:
+      - https://www.edweek.org/technology/we-need-research-on-ai-in-schools-the-feds-should-fund-it-report-says/2026/10
+      - https://www.alicoalition.org/publications/investing-in-rd-for-safe-and-effective-ai-in-education-federal-policy-recommendations/
+  - fingerprint: forbes-belsky-openai-enfeeble-curiosity-amplifier-process-assessment-oct2026
+    title: "OpenAI’s head of education: AI could “enfeeble the next generation” and mostly lifts the already curious"
+    first_seen: 2026-10-15
+    digest: ai-impact-on-education-2026-Oct-15.html
+    urls:
+      - https://www.forbes.com/sites/rayravaglia/2026/10/15/ai-in-education-is-forcing-schools-to-explain-why-learning-matters/
+      - https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts/
+  - fingerprint: startribune-perry-ai-backlash-equity-human-instruction-gap-oct2026
+    title: "Will the AI backlash leave low-income students behind?"
+    first_seen: 2026-10-15
+    digest: ai-impact-on-education-2026-Oct-15.html
+    urls:
+      - https://www.startribune.com/perry-will-the-ai-backlash-leave-low-income-students-behind/601901693
+  - fingerprint: falls-church-fccps-approved-ai-tools-gemini-schoolai-data-questions-oct2026
+    title: "Falls Church schools publish their approved AI tools — and the questions they haven’t answered"
+    first_seen: 2026-10-15
+    digest: ai-impact-on-education-2026-Oct-15.html
+    urls:
+      - https://www.fcnp.com/2026/10/14/falls-church-schools-detail-classroom-ai-use/
+  - fingerprint: sharjah-spea-ai-ethical-framework-private-schools-oct2026
+    title: "Sharjah issues an AI ethics framework for private schools"
+    first_seen: 2026-10-15
+    digest: ai-impact-on-education-2026-Oct-15.html
+    urls:
+      - https://gulfbusiness.com/en/2026/education/sharjah-introduces-ai-guidelines-for-private-schools
   - fingerprint: aero-australia-ai-sparingly-cognitive-outsourcing-guidance-oct2026
     title: "Australia’s national research body tells schools to use AI “sparingly” — and not at all in the first three years"
     first_seen: 2026-10-14
@@ -2363,6 +2395,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-15
+- **Federal research push: a coalition says schools are adopting AI with almost no causal evidence** — ALI report asks Congress to fund AI-in-education R&D; Stanford SCALE found ~20 of 800+ K-12 AI papers had strong causal evidence. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-15.html)
+- **OpenAI’s head of education: AI could “enfeeble the next generation” and mostly lifts the already curious** — Belsky interview: strongest students gain most from AI; Duke Fuqua records team meetings to assess process. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-15.html)
+- **Will the AI backlash leave low-income students behind?** — Star Tribune column: human-centered, AI-limited schooling may become a privilege of wealthier students; cites UChicago and Berkeley Law bans. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-15.html)
+- **Falls Church schools publish their approved AI tools — and the questions they haven’t answered** — FCCPS approves 4 teacher tools and 2 student tools, bars AI from grading/discipline decisions; vendor data access and costs unanswered. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-15.html)
+- **Sharjah issues an AI ethics framework for private schools** — SPEA framework requires AI-use rules and disclosure for assignments, with human oversight and data protection. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-15.html)
 
 ## 2026-Oct-14
 - **Australia’s national research body tells schools to use AI “sparingly” — and not at all in the first three years** — AERO urges schools to use AI sparingly and keep it out of the first three years of primary school. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-14.html)
