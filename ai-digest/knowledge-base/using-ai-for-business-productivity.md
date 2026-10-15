@@ -2,10 +2,47 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-14
-run_count: 76
-digest_count: 76
+last_run: 2026-10-15
+run_count: 77
+digest_count: 77
 entries:
+  - fingerprint: workday-rising-2026-autopilot-agents-c1ai-acquisition-oct2026
+    title: "Workday Rising: Autopilot agents, headless agent platform, C1.ai deal"
+    first_seen: 2026-10-15
+    digest: using-ai-for-business-productivity-2026-Oct-15.html
+    urls:
+      - https://www.indiatoday.in/amp/technology/news/story/workday-launches-new-ai-tools-for-ai-and-finance-here-is-what-they-can-do-3017014-2026-10-14
+      - https://www.thehindubusinessline.com/info-tech/accenture-workday-join-hands-to-help-businesses-deploy-ai-agents-faster/article71584763.ece
+  - fingerprint: glean-report-ai-saves-11-hours-36pct-hide-gains-oct2026
+    title: "Glean: AI saves ~11 hrs/week, 36% hide gains"
+    first_seen: 2026-10-15
+    digest: using-ai-for-business-productivity-2026-Oct-15.html
+    urls:
+      - https://fortune.com/2026/10/14/the-question-behind-ai-panic-what-happens-to-me-if-it-works/
+      - https://www.glean.com/press/workers-say-ai-saves-11-hours-a-week-over-one-quarter-of-the-workweek-but-lack-of-context-is-eating-the-gains-new-report-finds
+  - fingerprint: oyster-2026-global-ai-talent-report-95pct-unwritten-ai-work-oct2026
+    title: "Oyster: 95% of firms have unwritten AI work in roles"
+    first_seen: 2026-10-15
+    digest: using-ai-for-business-productivity-2026-Oct-15.html
+    urls:
+      - https://www.businesswire.com/news/home/20261014019170/en/Oysters-2026-Global-AI-Talent-Report-Finds-95-of-Companies-Have-Employees-Doing-AI-Work-Their-Jobs-Never-Asked-For
+  - fingerprint: duvo-32m-series-a-balderton-enterprise-execution-os-oct2026
+    title: "Duvo raises $32M Series A for enterprise execution OS"
+    first_seen: 2026-10-15
+    digest: using-ai-for-business-productivity-2026-Oct-15.html
+    urls:
+      - https://pulse2.com/duvo-raises-32-million-series-a/
+      - https://www.citybiz.co/article/918388/duvo-raises-32m-series-a-led-by-balderton-capital-appoints-michael-green-and-spencer-insolia/
+      - https://ventureburn.com/duvo-raises-32m-enterprise-ai-automation/?amp=1
+      - https://app.dealroom.co/news/note/rohlik-founder-raises-32m-for-ai-automation-startup-duvo
+      - https://www.calcalistech.com/ctechnews/article/b1zgob6jfe
+      - https://www.prnewswire.com/news-releases/labelbox-raises-100-million-in-series-e-funding-to-advance-reinforcement-learning-and-enterprise-ai-agents-302909147.html
+  - fingerprint: ssc-deliver-2026-ai-survey-87pct-productivity-43pct-governance-oct2026
+    title: "SS&C survey: 87% productivity goal, 43% consistent governance"
+    first_seen: 2026-10-15
+    digest: using-ai-for-business-productivity-2026-Oct-15.html
+    urls:
+      - https://www.businesswire.com/news/home/20261014862344/en/As-Enterprises-Implement-AI-to-Gain-Productivity-Governance-and-Performance-Measurement-Present-Scaling-Opportunities-SSC-Survey
   - fingerprint: jabra-worklife-2026-ai-time-saved-not-working-less-oct2026
     title: "Jabra: AI is handing workers time back, but they are not working any less"
     first_seen: 2026-10-14
@@ -3163,6 +3200,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-15
+- **Workday Rising: Autopilot agents, headless agent platform, C1.ai deal** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-15.html)
+- **Glean: AI saves ~11 hrs/week, 36% hide gains** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-15.html)
+- **Oyster: 95% of firms have unwritten AI work in roles** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-15.html)
+- **Duvo raises $32M Series A for enterprise execution OS** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-15.html)
+- **SS&C survey: 87% productivity goal, 43% consistent governance** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-15.html)
 
 ## 2026-Oct-14
 - **Jabra: AI is handing workers time back, but they are not working any less** — Jabra's WorkLife 2026 report, released October 13, surveyed more than 6,000 knowledge workers across France, Germany, India, Poland, the UK and the US in May and finds a productivity paradox: workers say AI is saving them time, yet in every category of work measured they report doing more than a year ago. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-14.html)
