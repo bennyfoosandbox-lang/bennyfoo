@@ -2,10 +2,49 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-15
-run_count: 77
-digest_count: 77
+last_run: 2026-10-16
+run_count: 78
+digest_count: 78
 entries:
+  - fingerprint: honeywell-forge-cognition-nvidia-dell-agentic-facility-ops-oct2026
+    title: "Honeywell launches Forge Cognition: agents plus digital twins for buildings and industrial sites"
+    first_seen: 2026-10-16
+    digest: using-ai-for-business-productivity-2026-Oct-16.html
+    urls:
+      - https://www.honeywell.com/us/en/news/press-releases/2026/10/honeywell-technologies-launches-forge-cognition-with-nvidia-and-dell-technologies-advancing-physical-ai-across-buildings-and-industrial-operations
+      - https://itbrief.asia/story/honeywell-launches-forge-cognition-ai-for-buildings
+      - https://www.rttnews.com/3698995/honeywell-technologies-launches-forge-cognition-with-nvidia-and-dell.aspx
+      - https://seekingalpha.com/news/4652939-honeywell-launches-ai-platform-with-nvidia-dell-for-building-automation
+  - fingerprint: ey-ceo-outlook-ai-productivity-driver-cost-visibility-gap-oct2026
+    title: "EY CEO Outlook: AI a top productivity driver, but only 14-16% of CEOs can see AI costs in real time"
+    first_seen: 2026-10-16
+    digest: using-ai-for-business-productivity-2026-Oct-16.html
+    urls:
+      - https://www.techradar.com/pro/ceos-say-ai-is-helping-their-businesses-be-more-productive-even-if-theyre-not-always-sure-whats-going-on
+      - https://www.cfodive.com/news/companies-struggle-turning-ai-productivity-gains-profits-ey/831948/
+      - https://newsweek.com/ai-is-boosting-productivity-but-is-it-worth-it-12541940
+  - fingerprint: dxc-langchain-oasis-langsmith-agentic-it-ops-oct2026
+    title: "DXC and LangChain: OASIS agents for IT operations scale toward 125 customer environments"
+    first_seen: 2026-10-16
+    digest: using-ai-for-business-productivity-2026-Oct-16.html
+    urls:
+      - https://dxc.com/newsroom/10132026-dxc-and-langchain-advance-agentic-ai-harnesses
+      - https://runtimewire.com/article/dxc-langchain-agentic-ai-it-operations
+      - https://finviz.com/news/401477/dxc-and-langchain-advance-agentic-ai-harnesses-for-mission-critical-it-operations
+  - fingerprint: meta-yougov-apac-small-business-ai-84pct-use-76pct-productivity-oct2026
+    title: "Meta/YouGov APAC survey: 84% of small businesses use AI, 76% of users report productivity gains"
+    first_seen: 2026-10-16
+    digest: using-ai-for-business-productivity-2026-Oct-16.html
+    urls:
+      - https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance
+      - https://asiatimes.com/2026/10/choices-that-will-define-asias-ai-future-are-coming-into-focus/
+  - fingerprint: california-no-robo-bosses-act-signed-newsom-gibson-dunn-oct2026
+    title: "UPDATE: Newsom signs California No Robo Bosses Act; Gibson Dunn launches AI-in-employment newsletter"
+    first_seen: 2026-10-16
+    digest: using-ai-for-business-productivity-2026-Oct-16.html
+    urls:
+      - https://www.gibsondunn.com/artificial-intelligence-in-employment-newsletter-october-2026/
+      - https://www.gibsondunn.com/wp-content/uploads/2026/10/artificial-intelligence-in-employment-newsletter-october-2026.pdf
   - fingerprint: workday-rising-2026-autopilot-agents-c1ai-acquisition-oct2026
     title: "Workday Rising: Autopilot agents, headless agent platform, C1.ai deal"
     first_seen: 2026-10-15
@@ -3200,6 +3239,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-16
+- **Honeywell launches Forge Cognition: agents plus digital twins for buildings and industrial sites** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-16.html)
+- **EY CEO Outlook: AI a top productivity driver, but only 14-16% of CEOs can see AI costs in real time** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-16.html)
+- **DXC and LangChain: OASIS agents for IT operations scale toward 125 customer environments** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-16.html)
+- **Meta/YouGov APAC survey: 84% of small businesses use AI, 76% of users report productivity gains** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-16.html)
+- **UPDATE: Newsom signs California No Robo Bosses Act; Gibson Dunn launches AI-in-employment newsletter** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-16.html)
 
 ## 2026-Oct-15
 - **Workday Rising: Autopilot agents, headless agent platform, C1.ai deal** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-15.html)
