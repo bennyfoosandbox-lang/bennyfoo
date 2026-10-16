@@ -2,10 +2,43 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-15
-run_count: 66
-digest_count: 63
+last_run: 2026-10-16
+run_count: 67
+digest_count: 64
 entries:
+  - fingerprint: dutch-rtl-pangram-masters-theses-fifth-ai-written-minister-fraud-oct2026
+    title: "Dutch minister calls AI-written master’s theses “fraud” after TV scan finds a fifth chatbot-led"
+    first_seen: 2026-10-16
+    digest: ai-impact-on-education-2026-Oct-16.html
+    urls:
+      - https://www.timeshighereducation.com/news/dutch-minister-criticises-fraud-fifth-theses-ai-written
+      - https://etcjournal.com/2026/10/16/briefing-10-16-26-masters-theses-chatbot-written/
+  - fingerprint: newsweek-map-states-limit-ai-schools-nyc-moratorium-umn-consensus-oct2026
+    title: "A map of US limits on classroom AI: NYC’s K-8 moratorium, LA’s device rules, and four states writing guardrails"
+    first_seen: 2026-10-16
+    digest: ai-impact-on-education-2026-Oct-16.html
+    urls:
+      - https://www.newsweek.com/ai-politics/map-shows-states-that-are-trying-to-get-ai-out-of-schools-12574251
+  - fingerprint: edutopia-five-good-ai-uses-bad-for-students-reich-willingham-oct2026
+    title: "Edutopia: five “harmless” student AI uses that research suggests erode the skills they are meant to build"
+    first_seen: 2026-10-16
+    digest: ai-impact-on-education-2026-Oct-16.html
+    urls:
+      - https://www.edutopia.org/article/5-good-ai-use-cases-that-are-actually-bad-for-students
+  - fingerprint: ace-ultranauts-ai-amplifying-learning-paper-process-assessment-oct2026
+    title: "ACE and Ultranauts paper: AI can amplify learning, but assessment has to move toward process"
+    first_seen: 2026-10-16
+    digest: ai-impact-on-education-2026-Oct-16.html
+    urls:
+      - https://www.acenet.edu/News-Room/Pages/New-Paper-AI-Amplifying-Learning.aspx
+      - https://etcjournal.com/2026/10/16/briefing-10-16-26-masters-theses-chatbot-written/
+  - fingerprint: salesforce-free-slack-enterprise-uk-students-oct2026
+    title: "Salesforce offers free Slack Enterprise to UK higher and further education students"
+    first_seen: 2026-10-16
+    digest: ai-impact-on-education-2026-Oct-16.html
+    urls:
+      - https://www.salesforce.com/uk/news/press-releases/2026/10/15/slack-education-announcement/
+      - https://etcjournal.com/2026/10/16/briefing-10-16-26-masters-theses-chatbot-written/
   - fingerprint: federal-ai-education-rd-ali-report-stanford-scale-evidence-gap-oct2026
     title: "Federal research push: a coalition says schools are adopting AI with almost no causal evidence"
     first_seen: 2026-10-15
@@ -2395,6 +2428,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-16
+- **Dutch minister calls AI-written master’s theses “fraud” after TV scan finds a fifth chatbot-led** — Dutch broadcaster scan finds a fifth of master’s theses AI-written; minister calls it fraud. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-16.html)
+- **A map of US limits on classroom AI: NYC’s K-8 moratorium, LA’s device rules, and four states writing guardrails** — Newsweek map of state and district limits on AI in schools. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-16.html)
+- **Edutopia: five “harmless” student AI uses that research suggests erode the skills they are meant to build** — Edutopia on AI use cases that undermine student skill-building. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-16.html)
+- **ACE and Ultranauts paper: AI can amplify learning, but assessment has to move toward process** — ACE paper on AI amplifying learning and rethinking assessment. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-16.html)
+- **Salesforce offers free Slack Enterprise to UK higher and further education students** — Salesforce free Slack Enterprise for UK students. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-16.html)
 
 ## 2026-Oct-15
 - **Federal research push: a coalition says schools are adopting AI with almost no causal evidence** — ALI report asks Congress to fund AI-in-education R&D; Stanford SCALE found ~20 of 800+ K-12 AI papers had strong causal evidence. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-15.html)
