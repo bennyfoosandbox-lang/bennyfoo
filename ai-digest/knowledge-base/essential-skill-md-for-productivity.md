@@ -2,10 +2,41 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-15
-run_count: 71
-digest_count: 71
+last_run: 2026-10-16
+run_count: 72
+digest_count: 72
 entries:
+  - fingerprint: claude-code-v2-1-301-claude-api-otel-skill-argument-cap-fable-fallback
+    title: "Claude Code 2.1.301 adds claude-api tracing guidance, caps skill argument expansion and fixes a Fable alias fallback"
+    first_seen: 2026-10-16
+    digest: essential-skill-md-for-productivity-2026-Oct-16.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases
+  - fingerprint: copilot-cli-1-0-99-1-2-ghapp-skill-install-links-trust-folder-semantic-search
+    title: "Copilot CLI 1.0.99 prereleases add one-link skill and plugin installs and a trust-folder flag for scripted runs"
+    first_seen: 2026-10-16
+    digest: essential-skill-md-for-productivity-2026-Oct-16.html
+    urls:
+      - https://github.com/github/copilot-cli/releases
+  - fingerprint: terra-api-ten-agent-skills-webhook-rules-npx-skills-plugin
+    title: "Terra API ships ten agent skills so coding agents stop guessing health-data integrations"
+    first_seen: 2026-10-16
+    digest: essential-skill-md-for-productivity-2026-Oct-16.html
+    urls:
+      - https://tryterra.co/blog/terra-agent-skills
+      - https://github.com/tryterra/agent-skills
+  - fingerprint: langchain-deep-agents-skills-bind-tools-pinned-skills-reload
+    title: "LangChain's Deep Agents lets skills bind tools, pin on demand and reload mid-thread"
+    first_seen: 2026-10-16
+    digest: essential-skill-md-for-productivity-2026-Oct-16.html
+    urls:
+      - https://www.langchain.com/blog/revamping-skills-in-deep-agents
+  - fingerprint: google-android-skills-android-cli-skills-add-open-standard
+    title: "Google's Android skills bring the open SKILL.md format to Android development via the Android CLI"
+    first_seen: 2026-10-16
+    digest: essential-skill-md-for-productivity-2026-Oct-16.html
+    urls:
+      - https://developer.android.com/tools/agents/android-skills
   - fingerprint: claude-code-v2-1-297-300-skill-prompt-hook-frontmatter-agent-spawn-rewrite-plugin-authoring
     title: "Claude Code 2.1.299 and 2.1.300 give skill hooks full frontmatter and let agent.spawn rewrite workflow prompts"
     first_seen: 2026-10-15
@@ -2335,6 +2366,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-16
+- **Claude Code 2.1.301 adds claude-api tracing guidance, caps skill argument expansion and fixes a Fable alias fallback** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-16.html)
+- **Copilot CLI 1.0.99 prereleases add one-link skill and plugin installs and a trust-folder flag for scripted runs** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-16.html)
+- **Terra API ships ten agent skills so coding agents stop guessing health-data integrations** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-16.html)
+- **LangChain's Deep Agents lets skills bind tools, pin on demand and reload mid-thread** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-16.html)
+- **Google's Android skills bring the open SKILL.md format to Android development via the Android CLI** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-16.html)
 
 ## 2026-Oct-15
 - **Claude Code 2.1.299 and 2.1.300 give skill hooks full frontmatter and let agent.spawn rewrite workflow prompts** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-15.html)
