@@ -2,10 +2,50 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-16
-run_count: 78
-digest_count: 78
+last_run: 2026-10-17
+run_count: 79
+digest_count: 79
 entries:
+  - fingerprint: accenture-caps-central-claude-funding-29-per-employee-oct2026
+    title: "Accenture caps central Claude funding at $29 per employee a month, pushing overages onto project budgets"
+    first_seen: 2026-10-17
+    digest: using-ai-for-business-productivity-2026-Oct-17.html
+    urls:
+      - https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/
+      - https://aiweekly.co/alerts/accenture-caps-monthly-claude-funding-at-29-per-employee
+      - https://superpowerdaily.com/posts/accenture-limits-central-claude-funding-to-29-a-month-shifting-excess-costs-to-teams
+      - https://explainx.ai/blog/accenture-caps-central-claude-funding-29-dollars-per-person-consumption-based-404-media-2026
+  - fingerprint: microsoft-copilot-studio-agent-accounts-shared-memory-triggers-oct2026
+    title: "Microsoft previews Copilot Studio agents with their own accounts, shared memory and triggers"
+    first_seen: 2026-10-17
+    digest: using-ai-for-business-productivity-2026-Oct-17.html
+    urls:
+      - https://www.neoteo.com/en/microsoft-announces-persistent-agents-for-copilot-studio
+      - https://www.microsoft.com/en-us/copilot/blog/copilot-studio/delegate-shared-business-processes-to-agents-that-are-more-persistent-and-proactive-with-microsoft-copilot-studio
+      - https://aiagentsdirectory.com/news/ai-agents-news-brief-october-16-2026
+  - fingerprint: reworked-vendor-ai-charges-rate-limits-breaking-agents-oct2026
+    title: "Vendor rate limits, seat caps and per-call fees are breaking AI agents in production, Reworked warns"
+    first_seen: 2026-10-17
+    digest: using-ai-for-business-productivity-2026-Oct-17.html
+    urls:
+      - https://www.reworked.co/digital-workplace/how-it-should-respond-to-vendor-ai-charges-and-limits/
+      - https://www.reworked.co/digital-workplace/salesforces-slack-api-restrictions-sparks-broader-questions-on-future-of-ai/
+      - https://developers.figma.com/docs/figma-mcp-server/rate-limits-access/
+  - fingerprint: servicenow-employeeworks-employee-built-agents-toolsmith-oct2026
+    title: "ServiceNow lets employees build their own role-specific agents in EmployeeWorks and adds ToolSmith for developers"
+    first_seen: 2026-10-17
+    digest: using-ai-for-business-productivity-2026-Oct-17.html
+    urls:
+      - https://www.gurufocus.com/news/9125552/servicenow-now-enhances-employeeworks-platform-with-ai-agents-to-boost-workflow-automation
+      - https://aiagentsdirectory.com/news/ai-agents-news-brief-october-16-2026
+  - fingerprint: openai-chatgpt-chrome-extension-tab-control-oct2026
+    title: "OpenAI's ChatGPT Chrome extension can now manage open browser tabs to complete tasks"
+    first_seen: 2026-10-17
+    digest: using-ai-for-business-productivity-2026-Oct-17.html
+    urls:
+      - https://www.unite.ai/openai-brings-computer-use-to-chrome-with-chatgpt-tab-controls
+      - https://aiagentsdirectory.com/news/ai-agents-news-brief-october-16-2026
+      - https://siliconangle.com/2026/07/09/openai-debuts-chatgpt-work-agentic-tool-automating-business-workflows/
   - fingerprint: honeywell-forge-cognition-nvidia-dell-agentic-facility-ops-oct2026
     title: "Honeywell launches Forge Cognition: agents plus digital twins for buildings and industrial sites"
     first_seen: 2026-10-16
@@ -3239,6 +3279,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-17
+- **Accenture caps central Claude funding at $29 per employee a month, pushing overages onto project budgets** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-17.html)
+- **Microsoft previews Copilot Studio agents with their own accounts, shared memory and triggers** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-17.html)
+- **Vendor rate limits, seat caps and per-call fees are breaking AI agents in production, Reworked warns** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-17.html)
+- **ServiceNow lets employees build their own role-specific agents in EmployeeWorks and adds ToolSmith for developers** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-17.html)
+- **OpenAI's ChatGPT Chrome extension can now manage open browser tabs to complete tasks** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-17.html)
 
 ## 2026-Oct-16
 - **Honeywell launches Forge Cognition: agents plus digital twins for buildings and industrial sites** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-16.html)
