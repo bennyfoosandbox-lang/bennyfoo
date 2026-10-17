@@ -2,10 +2,43 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-16
-run_count: 72
-digest_count: 72
+last_run: 2026-10-17
+run_count: 73
+digest_count: 73
 entries:
+  - fingerprint: prismatic-skills-rebuilt-open-standard-five-coding-agents
+    title: "Prismatic rebuilds its integration skills on the open standard and ships them to five coding agents"
+    first_seen: 2026-10-17
+    digest: essential-skill-md-for-productivity-2026-Oct-17.html
+    urls:
+      - https://prismatic.io/blog/prismatic-skills-cursor-codex-copilot-antigravity/
+      - https://github.com/prismatic-io/agent-skills
+  - fingerprint: etherscan-transaction-debugger-skill-evm
+    title: "Etherscan's Transaction Debugger skill grounds agents in live on-chain data"
+    first_seen: 2026-10-17
+    digest: essential-skill-md-for-productivity-2026-Oct-17.html
+    urls:
+      - https://cryptobriefing.com/etherscan-transaction-debugger-ai-agents/
+      - https://github.com/etherscan/skills
+  - fingerprint: bluerock-agentic-trust-registry-skills-mcp-scan
+    title: "BlueRock launches an Agentic Trust Registry that scans skills, tools and MCP servers"
+    first_seen: 2026-10-17
+    digest: essential-skill-md-for-productivity-2026-Oct-17.html
+    urls:
+      - https://aithority.com/security/bluerock-launches-agentic-trust-registry-to-analyze-agents-skills-and-mcp-servers/
+  - fingerprint: truefoundry-skills-registry-versioned-bundles
+    title: "TrueFoundry explains versioned skill registries: pin numbered bundles and treat skills as release artifacts"
+    first_seen: 2026-10-17
+    digest: essential-skill-md-for-productivity-2026-Oct-17.html
+    urls:
+      - https://www.truefoundry.com/blog/truefoundry-skills-registry-explained
+  - fingerprint: google-maps-platform-agent-skills-official
+    title: "Google Maps Platform publishes official agent skills, installable in Claude Code, Gemini CLI, Lovable and more"
+    first_seen: 2026-10-17
+    digest: essential-skill-md-for-productivity-2026-Oct-17.html
+    urls:
+      - https://developers.google.com/maps/ai/agent-skills
+      - https://github.com/googlemaps/agent-skills
   - fingerprint: claude-code-v2-1-301-claude-api-otel-skill-argument-cap-fable-fallback
     title: "Claude Code 2.1.301 adds claude-api tracing guidance, caps skill argument expansion and fixes a Fable alias fallback"
     first_seen: 2026-10-16
@@ -2366,6 +2399,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-17
+- **Prismatic rebuilds its integration skills on the open standard and ships them to five coding agents** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-17.html)
+- **Etherscan's Transaction Debugger skill grounds agents in live on-chain data** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-17.html)
+- **BlueRock launches an Agentic Trust Registry that scans skills, tools and MCP servers** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-17.html)
+- **TrueFoundry explains versioned skill registries: pin numbered bundles and treat skills as release artifacts** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-17.html)
+- **Google Maps Platform publishes official agent skills, installable in Claude Code, Gemini CLI, Lovable and more** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-17.html)
 
 ## 2026-Oct-16
 - **Claude Code 2.1.301 adds claude-api tracing guidance, caps skill argument expansion and fixes a Fable alias fallback** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-16.html)
