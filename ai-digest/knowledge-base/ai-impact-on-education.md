@@ -2,10 +2,42 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-16
-run_count: 67
-digest_count: 64
+last_run: 2026-10-17
+run_count: 68
+digest_count: 65
 entries:
+  - fingerprint: bihar-ai-policy-universities-exams-disclosure-oct2026
+    title: "Bihar drafts a state AI policy for universities, with disclosure rules for teachers and students"
+    first_seen: 2026-10-17
+    digest: ai-impact-on-education-2026-Oct-17.html
+    urls:
+      - https://patnapress.com/bihar-ai-policy-universities-higher-education/
+  - fingerprint: cambodia-lecturers-ai-survey-150-discover-ai-oct2026
+    title: "Survey of 150 Cambodian lecturers: 93% have used AI to teach, but training is the top ask"
+    first_seen: 2026-10-17
+    digest: ai-impact-on-education-2026-Oct-17.html
+    urls:
+      - https://bioengineer.org/inside-cambodian-lecture-halls-ai-is-quietly-rewriting-how-teaching-gets-done/
+      - https://doi.org/10.1007/s44163-026-02313-w
+  - fingerprint: turkey-preservice-teachers-ai-metacreativity-five-week-study-oct2026
+    title: "Structured AI use lifted future teachers' creativity and attitudes in a five-week Turkish study"
+    first_seen: 2026-10-17
+    digest: ai-impact-on-education-2026-Oct-17.html
+    urls:
+      - https://bioengineer.org/ai-supported-lessons-boost-future-teachers-perceived-creative-thinking-skills/
+      - https://doi.org/10.1007/s44163-026-02319-4
+  - fingerprint: conti-ai-teacher-deskilling-ten-risks-language-gym-oct2026
+    title: "Language educator warns AI could make teachers more productive but less competent"
+    first_seen: 2026-10-17
+    digest: ai-impact-on-education-2026-Oct-17.html
+    urls:
+      - https://gianfrancoconti.com/2026/10/17/is-ai-making-teachers-more-productive-but-less-competent-the-negative-impact-of-artificial-intelligence-on-teacher-expertise/
+  - fingerprint: unibeta-nigeria-ai-exam-revision-startup-techcabal-oct2026
+    title: "Nigerian startup UniBeta rebuilds around AI exam revision tuned to local syllabuses"
+    first_seen: 2026-10-17
+    digest: ai-impact-on-education-2026-Oct-17.html
+    urls:
+      - https://techcabal.com/2026/10/17/cracking-the-nigerian-syllabus-unibeta-ai/
   - fingerprint: dutch-rtl-pangram-masters-theses-fifth-ai-written-minister-fraud-oct2026
     title: "Dutch minister calls AI-written master’s theses “fraud” after TV scan finds a fifth chatbot-led"
     first_seen: 2026-10-16
@@ -2428,6 +2460,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-17
+- **Bihar drafts a state AI policy for universities, with disclosure rules for teachers and students** — The Bihar government is preparing an AI policy for all state universities and higher-education institutions, with Deputy Chief Minister Samrat Chaudhary directing the Higher Education and Science & Technology departments to draft it after consulting experts. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-17.html)
+- **Survey of 150 Cambodian lecturers: 93% have used AI to teach, but training is the top ask** — A new survey in Discover Artificial Intelligence, covering 150 lecturers across Cambodian universities, finds that only 7.3% have never used an AI tool for teaching. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-17.html)
+- **Structured AI use lifted future teachers' creativity and attitudes in a five-week Turkish study** — Researchers at Tokat Gaziosmanpaşa University tested generative AI (ChatGPT, Claude, NotebookLM, Gamma, Suno, Perplexity) in a five-week Philosophy of Education course with 50 pre-service teachers. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-17.html)
+- **Language educator warns AI could make teachers more productive but less competent** — In a widely shared post, language-teaching specialist Gianfranco Conti argues that routine delegation of lesson planning, diagnosis and feedback to AI risks professional deskilling: weaker pedagogical content knowledge, less reflective practice, reduced autonomy and fewer chances for novice teachers to build expertise. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-17.html)
+- **Nigerian startup UniBeta rebuilds around AI exam revision tuned to local syllabuses** — TechCabal profiles UniBeta, founded at the University of Lagos, which abandoned a failed campus 'super-app' to build UniBeta AI, launched in October 2025. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-17.html)
 
 ## 2026-Oct-16
 - **Dutch minister calls AI-written master’s theses “fraud” after TV scan finds a fifth chatbot-led** — Dutch broadcaster scan finds a fifth of master’s theses AI-written; minister calls it fraud. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-16.html)
