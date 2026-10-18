@@ -2,10 +2,44 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-17
-run_count: 73
-digest_count: 73
+last_run: 2026-10-18
+run_count: 74
+digest_count: 74
 entries:
+  - fingerprint: openai-render-skill-hallucinated-domain
+    title: "A hallucinated domain in an official OpenAI skill siphoned real production tokens"
+    first_seen: 2026-10-18
+    digest: essential-skill-md-for-productivity-2026-Oct-18.html
+    urls:
+      - https://www.csoonline.com/article/4236659/hallucinated-domain-in-official-openai-skill-underscores-ai-supply-chain-risks.html
+      - https://www.air.security/blog-posts/render-openai
+  - fingerprint: oracle-martinez-skillbox-minimal-harness
+    title: "Oracle's Martinez: keep ~100 skills out of context with a retrieval 'skillbox'"
+    first_seen: 2026-10-18
+    digest: essential-skill-md-for-productivity-2026-Oct-18.html
+    urls:
+      - https://finance.biggo.com/news/a93b12807837b161
+  - fingerprint: analytics-insight-claude-skills-data-scientists
+    title: "Six Claude skills data scientists can package to stop re-prompting"
+    first_seen: 2026-10-18
+    digest: essential-skill-md-for-productivity-2026-Oct-18.html
+    urls:
+      - https://www.analyticsinsight.net/data-scientists/beyond-prompting-the-claude-skills-data-scientists-can-put-to-work
+  - fingerprint: rea-reverse-engineer-anything-mcp-plus-skill
+    title: "Reverse Engineer Anything (REA) pairs an MCP server with a skill for Claude Code and Codex"
+    first_seen: 2026-10-18
+    digest: essential-skill-md-for-productivity-2026-Oct-18.html
+    urls:
+      - https://techgig.com/news/software-devops/reverse-engineer-anything-project-links-ai-agents-to-binary-tools/135014922
+      - https://pasqualepillitteri.it/en/news/23845/rea-reverse-engineer-anything-github-true-false
+      - https://www.kunalganglani.com/blog/rea-reverse-engineer-anything-agents.md
+  - fingerprint: anthropic-flows-talk-claude-api-skill-hill-climb
+    title: "Anthropic's multi-agent Flows talk leans on the claude-api skill, including a prompt-tuning 'hill climb'"
+    first_seen: 2026-10-18
+    digest: essential-skill-md-for-productivity-2026-Oct-18.html
+    urls:
+      - https://finance.biggo.com/podcast/9ecaa6d8d3a2adb8
+      - https://www.youtube.com/watch?v=kiClTcJUnhc
   - fingerprint: prismatic-skills-rebuilt-open-standard-five-coding-agents
     title: "Prismatic rebuilds its integration skills on the open standard and ships them to five coding agents"
     first_seen: 2026-10-17
@@ -2399,6 +2433,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-18
+- **A hallucinated domain in an official OpenAI skill siphoned real production tokens** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-18.html)
+- **Oracle's Martinez: keep ~100 skills out of context with a retrieval "skillbox"** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-18.html)
+- **Six Claude skills data scientists can package to stop re-prompting** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-18.html)
+- **Reverse Engineer Anything (REA) pairs an MCP server with a skill for Claude Code and Codex** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-18.html)
+- **Anthropic's multi-agent Flows talk leans on the claude-api skill, including a prompt-tuning "hill climb"** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-18.html)
 
 ## 2026-Oct-17
 - **Prismatic rebuilds its integration skills on the open standard and ships them to five coding agents** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-17.html)
