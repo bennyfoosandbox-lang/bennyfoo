@@ -2,10 +2,41 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-17
-run_count: 68
-digest_count: 65
+last_run: 2026-10-18
+run_count: 69
+digest_count: 66
 entries:
+  - fingerprint: springfield-union-petition-ai-moratorium-alpha-pilot-halted-oct2026
+    title: "Springfield teachers’ union launches a petition for an AI moratorium after the Alpha School pilot is shelved"
+    first_seen: 2026-10-18
+    digest: ai-impact-on-education-2026-Oct-18.html
+    urls:
+      - https://www.masslive.com/westernmass/2026/10/springfield-educators-call-for-moratorium-on-ai-in-class.html
+  - fingerprint: turnitin-eula-student-submissions-ai-training-uk-ireland-universities-oct2026
+    title: "Turnitin’s proposed licence change to train AI on student submissions alarms UK and Irish universities"
+    first_seen: 2026-10-18
+    digest: ai-impact-on-education-2026-Oct-18.html
+    urls:
+      - https://universitytimes.ie/2026/10/british-and-irish-students-express-concern-over-turnitin-ai-policy/
+  - fingerprint: wise-iie-seven-country-higher-ed-ai-readiness-gap-oct2026
+    title: "Seven-country WISE–IIE study finds universities at sharply different stages of AI readiness"
+    first_seen: 2026-10-18
+    digest: ai-impact-on-education-2026-Oct-18.html
+    urls:
+      - https://www.universityworldnews.com/post.php?story=20261015140656705
+  - fingerprint: moms-for-liberty-m4l-aware-ai-school-board-agenda-monitoring-oct2026
+    title: "Moms for Liberty deploys AI to scan school board agendas in 13,000 districts"
+    first_seen: 2026-10-18
+    digest: ai-impact-on-education-2026-Oct-18.html
+    urls:
+      - https://www.newsweek.com/moms-for-liberty-ai-school-board-monitoring-12580966
+      - https://www.fox32chicago.com/news/moms-liberty-unleashes-ai-watchdog-13000-school-districts-flag-controversial-policies-before-votes
+  - fingerprint: chosun-korea-schools-teach-ai-hallucination-verification-oct2026
+    title: "Korean schools teach pupils to catch AI hallucinations as errors creep into homework"
+    first_seen: 2026-10-18
+    digest: ai-impact-on-education-2026-Oct-18.html
+    urls:
+      - https://www.chosun.com/english/national-en/2026/10/18/DWACL6NYRJEA3JDMZJG7WDFM5Y/
   - fingerprint: bihar-ai-policy-universities-exams-disclosure-oct2026
     title: "Bihar drafts a state AI policy for universities, with disclosure rules for teachers and students"
     first_seen: 2026-10-17
@@ -2460,6 +2491,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-18
+- **Springfield teachers’ union launches a petition for an AI moratorium after the Alpha School pilot is shelved** — The Springfield Education Association, joined by parents and community members, is circulating a petition asking the School Committee to freeze any new student-facing or labor-facing AI technology until research shows its short- and long-term effects. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-18.html)
+- **Turnitin’s proposed licence change to train AI on student submissions alarms UK and Irish universities** — Turnitin has floated an end-user licence amendment letting it use student submissions, in aggregated and de-identified form, to improve or develop AI tools, which would effectively opt students in by default. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-18.html)
+- **Seven-country WISE–IIE study finds universities at sharply different stages of AI readiness** — A policy brief from the World Innovation Summit for Education and the Institute of International Education, covering Colombia, Ghana, India, Kazakhstan, Qatar, Spain and the US, argues the global AI debate has been too fixated on cheating. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-18.html)
+- **Moms for Liberty deploys AI to scan school board agendas in 13,000 districts** — Moms for Liberty unveiled “M4L AWARE” at its national summit in Dallas, a system that scans school board agendas every 12 hours and alerts local chapters to items on topics such as DEI, gender policy, curriculum and Title IX, aiming to give parents about 72 hours before a vote. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-18.html)
+- **Korean schools teach pupils to catch AI hallucinations as errors creep into homework** — The Chosun Daily reports that South Korean educators are turning AI’s tendency to state falsehoods into a lesson. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-18.html)
 
 ## 2026-Oct-17
 - **Bihar drafts a state AI policy for universities, with disclosure rules for teachers and students** — The Bihar government is preparing an AI policy for all state universities and higher-education institutions, with Deputy Chief Minister Samrat Chaudhary directing the Higher Education and Science & Technology departments to draft it after consulting experts. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-17.html)
