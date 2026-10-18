@@ -2,10 +2,57 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-17
-run_count: 79
-digest_count: 79
+last_run: 2026-10-18
+run_count: 80
+digest_count: 80
 entries:
+  - fingerprint: servicenow-ai-passport-nvidia-agent-runtime-permissions-oct2026
+    title: "ServiceNow gives AI agents a 'passport' that limits what they can do at runtime"
+    first_seen: 2026-10-18
+    digest: using-ai-for-business-productivity-2026-Oct-18.html
+    urls:
+      - https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-advances-its-operational-harness-for-enterprise-AI-with-AI-Passport-and-expanded-governance-capabilities/default.aspx
+      - https://www.cio.com/article/4235863/servicenow-makes-it-easier-to-build-ai-agents-gives-them-verifiable-identities.html
+      - https://www.constellationr.com/insights/news/servicenow-launches-ai-passport-ride-along-nvidias-open-agent-safety-platform
+      - https://www.helpnetsecurity.com/?p=388116
+      - https://www.techzine.eu/news/applications/145011/servicenow-provides-ai-agents-with-a-passport-for-runtime-control/
+  - fingerprint: opsin-21m-ai-agent-visibility-over-permissioned-oct2026
+    title: "Opsin raises $21M to map what enterprise AI agents can reach and do"
+    first_seen: 2026-10-18
+    digest: using-ai-for-business-productivity-2026-Oct-18.html
+    urls:
+      - https://pulse2.com/opsin-raises-21-million-led-by-syn-ventures-and-race-capital-for-ai-agent-security/
+      - https://dealroom.co/news/162933-opsin-raises-21m-to-rein-in-rogue-enterprise-ai-agents/
+      - https://runtimewire.com/article/opsin-21-million-ai-agent-security
+      - https://www.01net.it/opsin-labs-report-60-of-enterprise-ai-agents-are-over-permissioned-as-adoption-accelerates-14x
+  - fingerprint: vesta-30m-series-b-ai-agents-mortgage-lenders-oct2026
+    title: "Vesta's mortgage agents now handle about 40% of platform tasks after a $30M Series B"
+    first_seen: 2026-10-18
+    digest: using-ai-for-business-productivity-2026-Oct-18.html
+    urls:
+      - https://housingwire.com/articles/vesta-raises-30-million-series-b-ai-loan-origination-system
+      - https://aiweekly.co/alerts/vesta-raises-30m-series-b-led-by-conversion-capital-to-scale-ai-mortgage-agents
+      - https://www.fintechfutures.com/venture-capital-funding/vesta-lands-30m-series-b
+      - https://cryptobriefing.com/vesta-raises-30m-ai-agents-mortgage-lenders/
+  - fingerprint: insurers-carving-ai-out-of-liability-cover-renewals-oct2026
+    title: "Insurers are quietly writing AI out of corporate liability cover at 2026 renewals"
+    first_seen: 2026-10-18
+    digest: using-ai-for-business-productivity-2026-Oct-18.html
+    urls:
+      - https://letsdatascience.com/news/insurers-exclude-ai-liability-new-market-emerges-48e65009
+      - https://fenwick.com/insights/publications/end-silent-ai-emerging-ai-exclusions-coverage-fragmentation-and-practical-implications
+      - https://insurancenewsnet.com/innarticle/whos-left-holding-the-risk-when-insurers-drop-ai-liability-coverage
+      - https://natlawreview.com/article/client-alert-new-ai-coverage-fight-exclusions-endorsements-and-denied-claims
+      - https://uphelp.org/policyholders-should-negotiate-to-limit-ai-exclusions-at-renewal/?print=pdf
+  - fingerprint: cert-in-ai-agents-accessed-indian-org-data-oct2026
+    title: "India's CERT-In says AI agents slipped into live systems of Indian organisations"
+    first_seen: 2026-10-18
+    digest: using-ai-for-business-productivity-2026-Oct-18.html
+    urls:
+      - https://www.newsbytesapp.com/news/science/cert-in-ai-agents-accessed-indian-organizations-business-and-personal-data/tldr
+      - https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/
+      - https://axios.com/2026/07/29/openai-hugging-face-modal-cyber-benchmark
+      - https://ianslive.in/82-pc-indian-firms-feel-ai-agents-will-outpace-security-controls-by-2027-report--20260421170950
   - fingerprint: accenture-caps-central-claude-funding-29-per-employee-oct2026
     title: "Accenture caps central Claude funding at $29 per employee a month, pushing overages onto project budgets"
     first_seen: 2026-10-17
@@ -3279,6 +3326,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-18
+- **ServiceNow gives AI agents a 'passport' that limits what they can do at runtime** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-18.html)
+- **Opsin raises $21M to map what enterprise AI agents can reach and do** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-18.html)
+- **Vesta's mortgage agents now handle about 40% of platform tasks after a $30M Series B** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-18.html)
+- **Insurers are quietly writing AI out of corporate liability cover at 2026 renewals** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-18.html)
+- **India's CERT-In says AI agents slipped into live systems of Indian organisations** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-18.html)
 
 ## 2026-Oct-17
 - **Accenture caps central Claude funding at $29 per employee a month, pushing overages onto project budgets** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-17.html)
