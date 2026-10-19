@@ -2,10 +2,45 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-18
-run_count: 69
-digest_count: 66
+last_run: 2026-10-19
+run_count: 70
+digest_count: 67
 entries:
+  - fingerprint: ixl-acquires-noredink-ai-feedback-teacher-control-oct2026
+    title: "IXL buys NoRedInk, putting a widely used AI writing-feedback platform under a bigger edtech roof"
+    first_seen: 2026-10-19
+    digest: ai-impact-on-education-2026-Oct-19.html
+    urls:
+      - https://www.techi.com/ixl-noredink-ai-feedback-teacher-control/
+      - https://www.prnewswire.com/news-releases/ixl-learning-acquires-noredink-302912835.html
+  - fingerprint: maryland-colleges-instructor-set-ai-policies-baltimore-sun-oct2026
+    title: "Maryland colleges leave AI rules to individual instructors as K-12 districts scramble for an Oct. 22 deadline"
+    first_seen: 2026-10-19
+    digest: ai-impact-on-education-2026-Oct-19.html
+    urls:
+      - https://www.govtech.com/education/higher-ed/maryland-colleges-let-educators-set-their-own-ai-policies
+      - https://www.capitalgazette.com/2026/10/18/maryland-colleges-ai-guardrails/
+  - fingerprint: maryland-four-districts-miss-oct22-ai-policy-deadline-oct2026
+    title: "Update: four Maryland districts, including Baltimore City and Anne Arundel, will miss the state's AI-policy deadline"
+    first_seen: 2026-10-19
+    digest: ai-impact-on-education-2026-Oct-19.html
+    urls:
+      - https://www.capitalgazette.com/2026/10/19/ai-policy-maryland-school-districts-deadline/
+  - fingerprint: long-beach-students-ai-moratorium-skits-iowa-student-voice-oct2026
+    title: "Long Beach high schoolers use satire and a survey to demand a district AI moratorium"
+    first_seen: 2026-10-19
+    digest: ai-impact-on-education-2026-Oct-19.html
+    urls:
+      - https://lbpost.com/news/education/students-ban-ai-rapant-classroom-performance-art
+      - https://www.desmoinesregister.com/story/news/education/2026/10/19/ai-in-school-iowa-schools-students-concern-want-say/92153749007/
+  - fingerprint: nigeria-ai-microcredential-enrolment-93pct-coursera-oct2026
+    title: "Nigeria's AI micro-credential enrolment jumps 93%, Coursera's 2026 skills report says"
+    first_seen: 2026-10-19
+    digest: ai-impact-on-education-2026-Oct-19.html
+    urls:
+      - https://businessday.ng/education/article/nigerias-ai-micro-credential-enrollment-surges-93-coursera-says/
+      - https://smbtech.au/news/nigerias-ai-learning-enrolments-jump-93-per-cent-as-digital-skills-push-accelerates/
+      - https://myschoolgist.com/news/unilag-birmingham-joint-postgraduate-programmes-193858/
   - fingerprint: springfield-union-petition-ai-moratorium-alpha-pilot-halted-oct2026
     title: "Springfield teachers’ union launches a petition for an AI moratorium after the Alpha School pilot is shelved"
     first_seen: 2026-10-18
@@ -2491,6 +2526,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-19
+- **IXL buys NoRedInk, putting a widely used AI writing-feedback platform under a bigger edtech roof** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-19.html)
+- **Maryland colleges leave AI rules to individual instructors as K-12 districts scramble for an Oct. 22 deadline** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-19.html)
+- **Update: four Maryland districts, including Baltimore City and Anne Arundel, will miss the state's AI-policy deadline** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-19.html)
+- **Long Beach high schoolers use satire and a survey to demand a district AI moratorium** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-19.html)
+- **Nigeria's AI micro-credential enrolment jumps 93%, Coursera's 2026 skills report says** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-19.html)
 
 ## 2026-Oct-18
 - **Springfield teachers’ union launches a petition for an AI moratorium after the Alpha School pilot is shelved** — The Springfield Education Association, joined by parents and community members, is circulating a petition asking the School Committee to freeze any new student-facing or labor-facing AI technology until research shows its short- and long-term effects. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-18.html)
