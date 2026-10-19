@@ -2,10 +2,42 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-18
-run_count: 74
-digest_count: 74
+last_run: 2026-10-19
+run_count: 75
+digest_count: 75
 entries:
+  - fingerprint: ctech-skills-explained-skills-il-guide
+    title: "CTech explainer: a practical guide to building, porting and vetting your own skills"
+    first_seen: 2026-10-19
+    digest: essential-skill-md-for-productivity-2026-Oct-19.html
+    urls:
+      - https://www.calcalistech.com/ctechnews/article/rjx00mzz3gg
+  - fingerprint: adobe-skills-repo-15-plugins-multi-agent
+    title: "Adobe's skills repo now spans 15 plugins, installable into Claude Code, Copilot CLI, Cursor and npx skills"
+    first_seen: 2026-10-19
+    digest: essential-skill-md-for-productivity-2026-Oct-19.html
+    urls:
+      - https://github.com/adobe/skills
+  - fingerprint: rote-compile-skills-to-deterministic-pipelines
+    title: "rote compiles a proven SKILL.md into a deterministic pipeline that runs without an LLM"
+    first_seen: 2026-10-19
+    digest: essential-skill-md-for-productivity-2026-Oct-19.html
+    urls:
+      - https://github.com/trevhud/rote
+  - fingerprint: codearbiter-governance-gates-claude-codex-pi
+    title: "codeArbiter adds repo-owned hard gates for Claude Code, Codex CLI and Pi"
+    first_seen: 2026-10-19
+    digest: essential-skill-md-for-productivity-2026-Oct-19.html
+    urls:
+      - https://github.com/arbiterForge/codeArbiter
+      - https://github.com/linny006/trending-claude-skills
+  - fingerprint: linkly-best-skills-daily-rankings-oct19
+    title: "Linkly's daily Best Skills rankings: find-skills past 3.9M installs, grill-me at 1.4M"
+    first_seen: 2026-10-19
+    digest: essential-skill-md-for-productivity-2026-Oct-19.html
+    urls:
+      - https://github.com/LinklyAI/best-skills
+      - https://linkly.ai/skills
   - fingerprint: openai-render-skill-hallucinated-domain
     title: "A hallucinated domain in an official OpenAI skill siphoned real production tokens"
     first_seen: 2026-10-18
@@ -2433,6 +2465,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-19
+- **CTech explainer: a practical guide to building, porting and vetting your own skills** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-19.html)
+- **Adobe's skills repo now spans 15 plugins, installable into Claude Code, Copilot CLI, Cursor and npx skills** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-19.html)
+- **rote compiles a proven SKILL.md into a deterministic pipeline that runs without an LLM** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-19.html)
+- **codeArbiter adds repo-owned hard gates for Claude Code, Codex CLI and Pi** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-19.html)
+- **Linkly's daily Best Skills rankings: find-skills past 3.9M installs, grill-me at 1.4M** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-19.html)
 
 ## 2026-Oct-18
 - **A hallucinated domain in an official OpenAI skill siphoned real production tokens** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-18.html)
