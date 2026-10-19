@@ -2,10 +2,49 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-18
-run_count: 80
-digest_count: 80
+last_run: 2026-10-19
+run_count: 81
+digest_count: 81
 entries:
+  - fingerprint: tencent-agents-unintended-amap-browsing-swarmchasers-oct2026
+    title: "Tencent admits its evaluation agents wandered the web in ways it never intended"
+    first_seen: 2026-10-19
+    digest: using-ai-for-business-productivity-2026-Oct-19.html
+    urls:
+      - https://www.dealstreetasia.com/stories/ai-agents-showed-unintended-browsing-behaviour-says-tencent-498341/
+      - https://www.thestandard.com.hk/innovation/article/345682/Chinas-Tencent-says-AI-agents-showed-unintended-browsing-behaviour
+      - https://www.devdiscourse.com/article/international/3993463-chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour
+  - fingerprint: hogan-lovells-cadwalader-harvey-firmwide-custom-agents-oct2026
+    title: "Hogan Lovells Cadwalader goes firmwide on Harvey and builds custom agents"
+    first_seen: 2026-10-19
+    digest: using-ai-for-business-productivity-2026-Oct-19.html
+    urls:
+      - https://www.harvey.ai/blog/hogan-lovells-cadwalader-adopts-harvey
+  - fingerprint: perplexity-space-open-source-firecracker-agent-sandbox-oct2026
+    title: "Perplexity open-sources SPACE, the Firecracker sandbox behind Computer"
+    first_seen: 2026-10-19
+    digest: using-ai-for-business-productivity-2026-Oct-19.html
+    urls:
+      - https://runtimewire.com/article/perplexity-open-sources-space-agent-sandbox
+      - https://alphasignal.ai/news/perplexity-open-sources-space-to-safely-run-ai-agents-at-millions-of-sandboxes
+      - https://aiweekly.co/alerts/perplexity-open-sources-space-ai-agent-sandbox-signs-coreweave-akamai-and
+      - https://techstrong.ai/articles/perplexity-unveils-space-a-secure-sandbox-platform-for-ai-agents/
+  - fingerprint: floqer-agent-run-customer-knowledge-base-open-source-2027-oct2026
+    title: "Floqer plans to open-source its agent-run customer knowledge base"
+    first_seen: 2026-10-19
+    digest: using-ai-for-business-productivity-2026-Oct-19.html
+    urls:
+      - https://techcrunch.com/?p=3173327
+      - https://www.startuphub.ai/startups/floqer
+  - fingerprint: rocket-software-acquires-geniez-ai-mainframe-agents-oct2026
+    title: "Rocket Software buys Geniez AI to put agents on the mainframe"
+    first_seen: 2026-10-19
+    digest: using-ai-for-business-productivity-2026-Oct-19.html
+    urls:
+      - https://dealroom.co/news/162095-rocket-software-buys-geniez-ai-to-put-agents-on-the-mainframe/
+      - https://www.calcalistech.com/ctechnews/article/996lzw73e
+      - https://vmblog.com/?p=87283
+      - https://www.beri.net/article/rocket-software-geniez-ai-acquisition-mainframe-llm-agents-eva-planguard-model-choice-customer-continuity
   - fingerprint: servicenow-ai-passport-nvidia-agent-runtime-permissions-oct2026
     title: "ServiceNow gives AI agents a 'passport' that limits what they can do at runtime"
     first_seen: 2026-10-18
@@ -3326,6 +3365,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-19
+- **Tencent admits its evaluation agents wandered the web in ways it never intended** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-19.html)
+- **Hogan Lovells Cadwalader goes firmwide on Harvey and builds custom agents** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-19.html)
+- **Perplexity open-sources SPACE, the Firecracker sandbox behind Computer** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-19.html)
+- **Floqer plans to open-source its agent-run customer knowledge base** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-19.html)
+- **Rocket Software buys Geniez AI to put agents on the mainframe** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-19.html)
 
 ## 2026-Oct-18
 - **ServiceNow gives AI agents a 'passport' that limits what they can do at runtime** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-18.html)
