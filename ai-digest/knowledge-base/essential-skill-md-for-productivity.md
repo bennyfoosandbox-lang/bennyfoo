@@ -2,10 +2,41 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-19
-run_count: 75
-digest_count: 75
+last_run: 2026-10-20
+run_count: 76
+digest_count: 76
 entries:
+  - fingerprint: claude-code-v2-1-302-304-skill-hook-caps-managed-agents-secure-once-fix
+    title: "Claude Code 2.1.302–2.1.304 caps skill hooks, adds a Managed Agents security check, and fixes a cross-skill hook bug"
+    first_seen: 2026-10-20
+    digest: essential-skill-md-for-productivity-2026-Oct-20.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases
+  - fingerprint: github-copilot-cli-1-0-100-stable-browser-use-plugin-path-instructions
+    title: "Copilot CLI 1.0.100 goes stable: install skills from GitHub links, auto-update trusted plugins, scope instructions by path"
+    first_seen: 2026-10-20
+    digest: essential-skill-md-for-productivity-2026-Oct-20.html
+    urls:
+      - https://github.com/github/copilot-cli/releases
+  - fingerprint: addyosmani-agent-skills-0-6-13-main-session-review-test-hook-fixes
+    title: "Addy Osmani's agent-skills 0.6.13 fixes two simplify-ignore hook bugs and makes TDD trigger on pasted code"
+    first_seen: 2026-10-20
+    digest: essential-skill-md-for-productivity-2026-Oct-20.html
+    urls:
+      - https://github.com/addyosmani/agent-skills/releases
+  - fingerprint: claude-plugins-official-security-guidance-plugin-oct19-updates
+    title: "Anthropic's official security-guidance plugin gets a run of fixes: nested repos, notebook cells, silent review failures"
+    first_seen: 2026-10-20
+    digest: essential-skill-md-for-productivity-2026-Oct-20.html
+    urls:
+      - https://github.com/anthropics/claude-plugins-official/commits/main
+  - fingerprint: openclaw-2026-10-5-stable-10-10-beta-2-plugin-tool-guards
+    title: "OpenClaw ships 2026.10.5 stable and a 2026.10.10 beta that extends plugin tool guards to standalone agent runs"
+    first_seen: 2026-10-20
+    digest: essential-skill-md-for-productivity-2026-Oct-20.html
+    urls:
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.10.10-beta.2
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.10.5
   - fingerprint: ctech-skills-explained-skills-il-guide
     title: "CTech explainer: a practical guide to building, porting and vetting your own skills"
     first_seen: 2026-10-19
@@ -2465,6 +2496,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-20
+- **Claude Code 2.1.302–2.1.304 caps skill hooks, adds a Managed Agents security check, and fixes a cross-skill hook bug** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-20.html)
+- **Copilot CLI 1.0.100 goes stable: install skills from GitHub links, auto-update trusted plugins, scope instructions by path** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-20.html)
+- **Addy Osmani's agent-skills 0.6.13 fixes two simplify-ignore hook bugs and makes TDD trigger on pasted code** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-20.html)
+- **Anthropic's official security-guidance plugin gets a run of fixes: nested repos, notebook cells, silent review failures** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-20.html)
+- **OpenClaw ships 2026.10.5 stable and a 2026.10.10 beta that extends plugin tool guards to standalone agent runs** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-20.html)
 
 ## 2026-Oct-19
 - **CTech explainer: a practical guide to building, porting and vetting your own skills** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-19.html)
