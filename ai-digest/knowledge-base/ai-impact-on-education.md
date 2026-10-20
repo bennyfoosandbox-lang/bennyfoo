@@ -2,9 +2,9 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-19
-run_count: 70
-digest_count: 67
+last_run: 2026-10-20
+run_count: 71
+digest_count: 68
 entries:
   - fingerprint: ixl-acquires-noredink-ai-feedback-teacher-control-oct2026
     title: "IXL buys NoRedInk, putting a widely used AI writing-feedback platform under a bigger edtech roof"
@@ -2521,11 +2521,50 @@ entries:
       - https://aiweekly.co/issues/universities-cannot-grade-their-way-out-of-ai
       - https://www.eschoolnews.com/digital-learning/2026/10/05/learner-agency-comes-first-in-ai-driven-digital-literacy/
       - https://etcjournal.com/2026/10/05/the-case-for-teaching-young-children-about-ai
+  - fingerprint: cupahr-higher-ed-staff-cuts-ai-washtimes-oct2026
+    title: "Colleges report 6.6% fewer full-time staff in 2025, and analysts point to AI, though the causal link is contested"
+    first_seen: 2026-10-20
+    digest: ai-impact-on-education-2026-Oct-20.html
+    urls:
+      - https://www.washingtontimes.com/news/2026/oct/20/ai-reversing-increases-higher-education-administration-first-time/
+      - https://www.cupahr.org/resource/changes-in-workforce-size/
+  - fingerprint: aero-australia-ai-in-schools-guidance-oct2026
+    title: "Australia's AERO publishes AI-in-schools guidance and admits the evidence on learning outcomes is thin"
+    first_seen: 2026-10-20
+    digest: ai-impact-on-education-2026-Oct-20.html
+    urls:
+      - https://educationmattersmag.com.au/new-aero-guidance-tackles-ai-use-in-australian-schools/
+      - https://www.edresearch.edu.au/resource-collections/ai-schools
+  - fingerprint: concord-ma-kindergarten-teacher-ai-evaluation-lawsuit-gptzero-oct2026
+    title: "Fired Massachusetts kindergarten teacher sues, saying her principal used AI on her evaluation and the arbitrator consulted chatbots"
+    first_seen: 2026-10-20
+    digest: ai-impact-on-education-2026-Oct-20.html
+    urls:
+      - https://www.boston.com/news/local-news/2026/10/18/artificial-intelligence-concord-kindergarten-teacher/
+  - fingerprint: berkeley-unified-screen-ai-survey-moratorium-pressure-oct2026
+    title: "Berkeley parents press for an AI moratorium after a district survey shows teachers split and the AI policy still unwritten"
+    first_seen: 2026-10-20
+    digest: ai-impact-on-education-2026-Oct-20.html
+    urls:
+      - https://www.berkeleyside.org/2026/10/20/berkeley-unified-school-district-screen-and-phone-survey
+  - fingerprint: university-of-montana-human-centered-ai-career-certificate-oct2026
+    title: "University of Montana runs a nine-credit 'Human-Centered AI' certificate built around skepticism, not tool mastery"
+    first_seen: 2026-10-20
+    digest: ai-impact-on-education-2026-Oct-20.html
+    urls:
+      - https://www.umt.edu/news/2026/10/102026cert.php
 ---
 
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-20
+- **Colleges report 6.6% fewer full-time staff in 2025, and analysts point to AI, though the causal link is contested** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-20.html)
+- **Australia's AERO publishes AI-in-schools guidance and admits the evidence on learning outcomes is thin** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-20.html)
+- **Fired Massachusetts kindergarten teacher sues, saying her principal used AI on her evaluation and the arbitrator consulted chatbots** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-20.html)
+- **Berkeley parents press for an AI moratorium after a district survey shows teachers split and the AI policy still unwritten** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-20.html)
+- **University of Montana runs a nine-credit 'Human-Centered AI' certificate built around skepticism, not tool mastery** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-20.html)
 
 ## 2026-Oct-19
 - **IXL buys NoRedInk, putting a widely used AI writing-feedback platform under a bigger edtech roof** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-19.html)
