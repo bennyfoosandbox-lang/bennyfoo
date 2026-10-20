@@ -2,10 +2,51 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-19
-run_count: 81
-digest_count: 81
+last_run: 2026-10-20
+run_count: 82
+digest_count: 82
 entries:
+  - fingerprint: anthropic-ai-expectations-gap-staff-vs-us-workers-productivity-oct2026
+    title: "Anthropic finds a wide gap between how its own staff and US workers see AI productivity"
+    first_seen: 2026-10-20
+    digest: using-ai-for-business-productivity-2026-Oct-20.html
+    urls:
+      - https://anthropic.com/research/ai-expectations-gap
+      - https://www-cdn.anthropic.com/a28f24814c56e2834a3eae7b13946f19d3e97ec4/The%20AI%20Expectations%20Gap.pdf
+  - fingerprint: netsuite-quickstart-free-ai-first-finance-startups-mcp-oct2026
+    title: "NetSuite QuickStart gives early-stage startups a free AI-first finance stack"
+    first_seen: 2026-10-20
+    digest: using-ai-for-business-productivity-2026-Oct-20.html
+    urls:
+      - https://www.cpapracticeadvisor.com/2026/10/14/netsuite-launches-free-ai-first-financial-platform-that-helps-startups-go-from-idea-to-ipo/191624/
+      - https://futurumgroup.com/?p=96813
+      - https://erp.today/netsuite-quickstart-gives-us-tech-startups-a-free-route-into-its-erp/
+      - https://smallbiztrends.com/netsuite-launches-free-ai-powered-financial-platform-for-startups/
+  - fingerprint: proofpoint-varonis-6-3b-data-ai-access-security-oct2026
+    title: "Proofpoint to buy Varonis for $6.3 billion to control what people and AI can reach"
+    first_seen: 2026-10-20
+    digest: using-ai-for-business-productivity-2026-Oct-20.html
+    urls:
+      - https://siliconangle.com/2026/10/15/proofpoint-agrees-to-buy-data-security-company-varonis-for-6-3b-in-cash/
+      - https://itwire.com/it-industry-news/deals/proofpoint-to-acquire-varonis-in-a-6-3-billion-transaction
+      - https://www.ynetnews.com/business/article/hyyltkk3fl
+      - https://www.sec.gov/Archives/edgar/data/0001361113/000121390026109901/ea030861001ex99-1.htm
+  - fingerprint: chatgpt-enterprise-connector-controls-sites-admin-preview-oct2026
+    title: "ChatGPT Enterprise tightens connector and Sites controls for admins"
+    first_seen: 2026-10-20
+    digest: using-ai-for-business-productivity-2026-Oct-20.html
+    urls:
+      - https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes
+      - https://superpowerdaily.com/posts/openai-starts-enterprise-preview-of-chatgpt-sites-controls-and-private-network-access
+      - https://alphasignal.ai/news/openai-brings-chatgpt-sites-to-enterprise-with-eu-data-residency
+  - fingerprint: workday-chief-ai-officer-agents-labor-services-budget-oct2026
+    title: "Workday says its agents can chase labor and services budgets, not just software spend"
+    first_seen: 2026-10-20
+    digest: using-ai-for-business-productivity-2026-Oct-20.html
+    urls:
+      - https://theregister.com/saas/2026/10/15/workday-wants-a-slice-of-customers-labour-budget-that-its-ai-agents-could-replace/5303281
+      - https://siliconangle.com/2026/10/15/servicenow-adds-ai-agent-controls-and-employee-automation-tools
+      - https://www.pymnts.com/artificial-intelligence-2/2026/servicenow-sap-and-workday-make-ai-agents-pay-to-play/
   - fingerprint: tencent-agents-unintended-amap-browsing-swarmchasers-oct2026
     title: "Tencent admits its evaluation agents wandered the web in ways it never intended"
     first_seen: 2026-10-19
@@ -3365,6 +3406,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-20
+- **Anthropic finds a wide gap between how its own staff and US workers see AI productivity** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-20.html)
+- **NetSuite QuickStart gives early-stage startups a free AI-first finance stack** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-20.html)
+- **Proofpoint to buy Varonis for $6.3 billion to control what people and AI can reach** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-20.html)
+- **ChatGPT Enterprise tightens connector and Sites controls for admins** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-20.html)
+- **Workday says its agents can chase labor and services budgets, not just software spend** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-20.html)
 
 ## 2026-Oct-19
 - **Tencent admits its evaluation agents wandered the web in ways it never intended** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-19.html)
