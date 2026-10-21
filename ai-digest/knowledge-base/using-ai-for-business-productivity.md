@@ -2,10 +2,43 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-20
-run_count: 82
-digest_count: 82
+last_run: 2026-10-21
+run_count: 83
+digest_count: 83
 entries:
+  - fingerprint: notion-agents-sixth-gen-harness-24h-auto-router-credits-oct2026
+    title: "Notion rebuilds its agents to run 24 hours on one task, at a fraction of the cost"
+    first_seen: 2026-10-21
+    digest: using-ai-for-business-productivity-2026-Oct-21.html
+    urls:
+      - https://www.notion.com/blog/notion-ai-more-for-less
+      - https://aiagentstore.ai/ai-agent-news/today
+      - https://aiweekly.co/ai-news-today
+  - fingerprint: anthropic-employment-report-junior-share-bot-sitting-inc-oct2026
+    title: "Anthropic's own workforce data: Claude does six hours of work per hour, but 'bot-sitting' is the new job"
+    first_seen: 2026-10-21
+    digest: using-ai-for-business-productivity-2026-Oct-21.html
+    urls:
+      - https://www.inc.com/bruce-crumley/claude-freed-employees-from-routine-work-it-didnt-free-them-from-meetings/91422604
+      - https://www.anthropic.com/research/employment-at-anthropic
+  - fingerprint: google-gemini-spark-still-no-enterprise-date-guardrails-first-datafloq-oct2026
+    title: "Five months on, Google's 'coming soon' enterprise agent Gemini Spark still has no business release date"
+    first_seen: 2026-10-21
+    digest: using-ai-for-business-productivity-2026-Oct-21.html
+    urls:
+      - https://datafloq.com/google-said-its-enterprise-ai-agent-was-coming-soon-five-months-on-the-guardrails-shipped-first/
+  - fingerprint: smarsh-fti-55pct-deploying-26pct-governance-aligned-shadow-ai-oct2026
+    title: "Smarsh and FTI: 55% of enterprises are deploying AI, only 26% say governance keeps pace"
+    first_seen: 2026-10-21
+    digest: using-ai-for-business-productivity-2026-Oct-21.html
+    urls:
+      - https://blog.bonfy.ai/shadow-ai-adoption-outpacing-governance
+  - fingerprint: reveal-onna-claude-compliance-api-ediscovery-ai-conversations-oct2026
+    title: "eDiscovery vendor Reveal makes employees' Claude conversations collectable as legal evidence"
+    first_seen: 2026-10-21
+    digest: using-ai-for-business-productivity-2026-Oct-21.html
+    urls:
+      - https://www.revealdata.com/news/reveal-adds-claude-connector-to-onna-giving-legal-teams-a-way-to-collect-and-search-employees-ai-conversations
   - fingerprint: anthropic-ai-expectations-gap-staff-vs-us-workers-productivity-oct2026
     title: "Anthropic finds a wide gap between how its own staff and US workers see AI productivity"
     first_seen: 2026-10-20
@@ -3406,6 +3439,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-21
+- **Notion rebuilds its agents to run 24 hours on one task, at a fraction of the cost** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-21.html)
+- **Anthropic's own workforce data: Claude does six hours of work per hour, but "bot-sitting" is the new job** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-21.html)
+- **Five months on, Google's "coming soon" enterprise agent Gemini Spark still has no business release date** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-21.html)
+- **Smarsh and FTI: 55% of enterprises are deploying AI, only 26% say governance keeps pace** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-21.html)
+- **eDiscovery vendor Reveal makes employees' Claude conversations collectable as legal evidence** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-21.html)
 
 ## 2026-Oct-20
 - **Anthropic finds a wide gap between how its own staff and US workers see AI productivity** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-20.html)
