@@ -2,10 +2,43 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-20
-run_count: 71
-digest_count: 68
+last_run: 2026-10-21
+run_count: 72
+digest_count: 69
 entries:
+  - fingerprint: nj-districts-tiered-ai-rules-haddonfield-cherry-hill-inquirer-oct2026
+    title: "New Jersey districts write age-tiered AI rules instead of bans, and a bill would bar AI from replacing teachers"
+    first_seen: 2026-10-21
+    digest: ai-impact-on-education-2026-Oct-21.html
+    urls:
+      - https://www.inquirer.com/south-jersey/artificial-intelligence-nj-schools-students-teachers-learning-20261021.html
+  - fingerprint: mta-bach-schools-not-feeding-troughs-ai-freeze-walkouts-oct2026
+    title: "Students walk out in 31 states for an AI freeze, and the Massachusetts teachers' union president joins them"
+    first_seen: 2026-10-21
+    digest: ai-impact-on-education-2026-Oct-21.html
+    urls:
+      - https://gazettenet.com/2026/10/21/ralliers-demand-frontier-ai-freeze-at-beacon-hill-rally/
+      - https://bostonuncut.site/boston-area-students-walk-out-ai-freeze-state-house/
+      - https://techstrong.ai/articles/gen-z-takes-on-openai-in-nationwide-wave-of-student-walkouts/
+  - fingerprint: umich-six-guiding-principles-ai-education-oct2026
+    title: "University of Michigan finalizes six principles for AI in education, centered on human judgment"
+    first_seen: 2026-10-21
+    digest: ai-impact-on-education-2026-Oct-21.html
+    urls:
+      - https://www.mlive.com/news/ann-arbor/2026/10/university-of-michigan-finalizes-principles-for-artificial-intelligence-use-in-education.html
+      - https://www.govtech.com/education/higher-ed/university-of-michigan-outlines-6-guidelines-for-using-ai
+  - fingerprint: sf-standard-ai-writing-thinking-china-27000-student-study-oct2026
+    title: "San Francisco Standard: AI lands on a writing curriculum already in retreat, and teachers move essays back into class"
+    first_seen: 2026-10-21
+    digest: ai-impact-on-education-2026-Oct-21.html
+    urls:
+      - https://sfstandard.com/2026/10/21/ai-changing-students-learn-write-think/
+  - fingerprint: riverhead-ny-board-adopts-ai-policy-detector-bias-warning-oct2026
+    title: "Riverhead, N.Y., adopts an AI policy that warns detectors may be biased against English learners"
+    first_seen: 2026-10-21
+    digest: ai-impact-on-education-2026-Oct-21.html
+    urls:
+      - https://riverheadlocal.com/2026/10/21/riverhead-schools-adopt-ai-policy-accept-clean-audit-at-oct-14-meeting/
   - fingerprint: ixl-acquires-noredink-ai-feedback-teacher-control-oct2026
     title: "IXL buys NoRedInk, putting a widely used AI writing-feedback platform under a bigger edtech roof"
     first_seen: 2026-10-19
@@ -2558,6 +2591,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-21
+- **New Jersey districts write age-tiered AI rules instead of bans, and a bill would bar AI from replacing teachers** — Rules by grade instead of bans: Haddonfield, Cherry Hill (0–4 scale), Glassboro and Deptford; a bill would bar AI replacing teachers. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-21.html)
+- **Students walk out in 31 states for an AI freeze, and the Massachusetts teachers' union president joins them** — 45+ walkouts in 31 states; MTA president Matt Bach: ‘schools are not feeding troughs for AI investors.’ [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-21.html)
+- **University of Michigan finalizes six principles for AI in education, centered on human judgment** — Principles stress human judgment, critical thinking with AI literacy, ethics and privacy. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-21.html)
+- **San Francisco Standard: AI lands on a writing curriculum already in retreat, and teachers move essays back into class** — Writing tests have faded since 2011; Berkeley freshmen short of the writing bar up 5x since 2016; 27,000-student China study shows homework up 18%, exams down 20%. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-21.html)
+- **Riverhead, N.Y., adopts an AI policy that warns detectors may be biased against English learners** — Oct. 14 policy: teacher-set expectations, no confidential data in AI tools, warning that detectors may be biased against English learners. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-21.html)
 
 ## 2026-Oct-20
 - **Colleges report 6.6% fewer full-time staff in 2025, and analysts point to AI, though the causal link is contested** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-20.html)
