@@ -2,10 +2,39 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-20
-run_count: 76
-digest_count: 76
+last_run: 2026-10-21
+run_count: 77
+digest_count: 77
 entries:
+  - fingerprint: devexpress-agent-skills-1-6-0-dashboard-wpf-reports-devextreme-oct
+    title: "DevExpress Agent Skills 1.6.0 adds BI Dashboard, WPF and Reports skills that run the app and verify before reporting success"
+    first_seen: 2026-10-21
+    digest: essential-skill-md-for-productivity-2026-Oct-21.html
+    urls:
+      - https://community.devexpress.com/Blogs/news/archive/2026/10/20/devexpress-agent-skills-october-update.aspx
+      - https://github.com/DevExpress/agent-skills
+  - fingerprint: evoskill-v2-stateful-evolver-skill-optimization-arxiv-2610-25931
+    title: "EvoSkill v2 uses one stateful agent to rewrite skills, beating SkillOpt and SkillBoost by up to 7.7 points"
+    first_seen: 2026-10-21
+    digest: essential-skill-md-for-productivity-2026-Oct-21.html
+    urls:
+      - https://arxiv.org/abs/2610.25931
+      - https://arxiv.org/html/2610.25931v1
+  - fingerprint: devto-impeccable-diagram-design-frontend-skills-oct20
+    title: "Two frontend skills worth installing first: Impeccable redesigns a vibe-coded site, Diagram Design explains a codebase"
+    first_seen: 2026-10-21
+    digest: essential-skill-md-for-productivity-2026-Oct-21.html
+    urls:
+      - https://dev.to/erikch/2-agent-skills-every-frontend-developer-should-try-16pl
+      - https://github.com/pbakaus/impeccable
+      - https://github.com/cathrynlavery/diagram-design
+  - fingerprint: danepps-legal-research-skills-claude-code-codex-quote-check-hook
+    title: "A legal-research skill pack shows what a verification-first plugin looks like, down to a quotation-check hook"
+    first_seen: 2026-10-21
+    digest: essential-skill-md-for-productivity-2026-Oct-21.html
+    urls:
+      - https://danepps.github.io/legal-research-skills/TECHNICAL.html
+      - https://github.com/danepps/legal-research-skills
   - fingerprint: claude-code-v2-1-302-304-skill-hook-caps-managed-agents-secure-once-fix
     title: "Claude Code 2.1.302–2.1.304 caps skill hooks, adds a Managed Agents security check, and fixes a cross-skill hook bug"
     first_seen: 2026-10-20
@@ -2496,6 +2525,12 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-21
+- **DevExpress Agent Skills 1.6.0 adds BI Dashboard, WPF and Reports skills that run the app and verify before reporting success** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-21.html)
+- **EvoSkill v2 uses one stateful agent to rewrite skills, beating SkillOpt and SkillBoost by up to 7.7 points** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-21.html)
+- **Two frontend skills worth installing first: Impeccable redesigns a vibe-coded site, Diagram Design explains a codebase** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-21.html)
+- **A legal-research skill pack shows what a verification-first plugin looks like, down to a quotation-check hook** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-21.html)
 
 ## 2026-Oct-20
 - **Claude Code 2.1.302–2.1.304 caps skill hooks, adds a Managed Agents security check, and fixes a cross-skill hook bug** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-20.html)
