@@ -2,10 +2,40 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-21
-run_count: 72
-digest_count: 69
+last_run: 2026-10-22
+run_count: 73
+digest_count: 70
 entries:
+  - fingerprint: hawley-blumenthal-google-ai-schools-letter-oct2026
+    title: "Hawley and Blumenthal press Google over its AI push into schools"
+    first_seen: 2026-10-22
+    digest: ai-impact-on-education-2026-Oct-22.html
+    urls:
+      - https://www.kttn.com/google-faces-senate-questions-on-ai-and-student-well-being/
+  - fingerprint: circlein-suny-geneseo-ai-tutor-email-professors-rules-oct2026
+    title: "An AI tutoring vendor tells SUNY Geneseo students not to worry about professors' AI rules"
+    first_seen: 2026-10-22
+    digest: ai-impact-on-education-2026-Oct-22.html
+    urls:
+      - https://www.chronicle.com/article/ceo-of-ai-tutoring-company-tells-students-not-to-worry-about-professors-rules
+  - fingerprint: andrew-ng-chatbots-terrible-for-learning-ndtv-oct2026
+    title: "Andrew Ng: today's chatbots are 'terrible for learning', and universities are slow to adapt"
+    first_seen: 2026-10-22
+    digest: ai-impact-on-education-2026-Oct-22.html
+    urls:
+      - https://www.ndtv.com/world-news/ai-chatbots-horrible-for-learning-andrew-ng-at-ndtv-world-summit-12220420
+  - fingerprint: colorado-safe2tell-ai-explicit-images-classmates-oct2026
+    title: "Colorado's Safe2Tell data shows students making explicit AI images of classmates"
+    first_seen: 2026-10-22
+    digest: ai-impact-on-education-2026-Oct-22.html
+    urls:
+      - https://www.denvergazette.com/2026/10/21/colorado-kids-share-explicit-ai-images-classmates/
+  - fingerprint: luxembourg-apess-ai-moratorium-secondary-oct2026
+    title: "Luxembourg's secondary-teacher union calls for an AI moratorium up to age 16"
+    first_seen: 2026-10-22
+    digest: ai-impact-on-education-2026-Oct-22.html
+    urls:
+      - https://today.rtl.lu/news/luxembourg/teachers-union-apess-calls-for-moratorium-on-ai-in-secondary-schools-1857464520
   - fingerprint: nj-districts-tiered-ai-rules-haddonfield-cherry-hill-inquirer-oct2026
     title: "New Jersey districts write age-tiered AI rules instead of bans, and a bill would bar AI from replacing teachers"
     first_seen: 2026-10-21
@@ -2591,6 +2621,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-22
+- **Hawley and Blumenthal press Google over its AI push into schools** — Hawley and Blumenthal letter to Pichai: WSJ probe, 60+ interviews, students' grades up but exam scores 20% lower. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-22.html)
+- **An AI tutoring vendor tells SUNY Geneseo students not to worry about professors' AI rules** — CircleIn email to 224 students; provost orders correction; SUNY pilot with per-semester faculty opt-out. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-22.html)
+- **Andrew Ng: today's chatbots are "terrible for learning", and universities are slow to adapt** — Ng at NDTV World Summit: 17% lower assessment scores for AI users; CS degrees without AI tools. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-22.html)
+- **Colorado's Safe2Tell data shows students making explicit AI images of classmates** — Safe2Tell Jan/Aug reports; no AI category; NCMEC reports 4,700 to 440,000; only 13% of teens would tell a teacher. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-22.html)
+- **Luxembourg's secondary-teacher union calls for an AI moratorium up to age 16** — APESS asks for moratorium to age 16 and legal protection for teachers who refuse AI. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-22.html)
 
 ## 2026-Oct-21
 - **New Jersey districts write age-tiered AI rules instead of bans, and a bill would bar AI from replacing teachers** — Rules by grade instead of bans: Haddonfield, Cherry Hill (0–4 scale), Glassboro and Deptford; a bill would bar AI replacing teachers. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-21.html)
