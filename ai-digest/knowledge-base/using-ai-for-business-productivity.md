@@ -2,10 +2,50 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-21
-run_count: 83
-digest_count: 83
+last_run: 2026-10-22
+run_count: 84
+digest_count: 84
 entries:
+  - fingerprint: anthropic-claude-duet-proactive-agent-waitlist-opus55-oct2026
+    title: "Anthropic launches Claude Duet, a proactive agent that works your inbox before you ask"
+    first_seen: 2026-10-22
+    digest: using-ai-for-business-productivity-2026-Oct-22.html
+    urls:
+      - https://www.macrumors.com/2026/10/21/anthropic-claude-duet/
+      - https://9to5google.com/2026/10/21/claude-duet-anthropic-ai-agent-waitlist/
+  - fingerprint: openai-models-codex-google-cloud-model-garden-marketplace-oct2026
+    title: "OpenAI's frontier models and Codex come to Google Cloud, billable against existing cloud commitments"
+    first_seen: 2026-10-22
+    digest: using-ai-for-business-productivity-2026-Oct-22.html
+    urls:
+      - https://openai.com/index/openai-models-google-cloud/
+      - https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers
+      - https://www.reuters.com/business/retail-consumer/openai-sell-its-top-models-google-cloud-latest-enterprise-push-2026-10-21/
+      - https://www.axios.com/2026/10/21/openai-google-cloud-ai-models
+  - fingerprint: monday-nielsen-managers-harder-to-evaluate-work-ai-agents-oversight-oct2026
+    title: "Survey: AI makes managers' jobs harder, with over half struggling to judge employees' work"
+    first_seen: 2026-10-22
+    digest: using-ai-for-business-productivity-2026-Oct-22.html
+    urls:
+      - https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/
+      - https://monday.com/gp/ai-report-2026
+  - fingerprint: oracle-ai-agent-studio-industry-applications-no-code-mcp-oct2026
+    title: "Oracle extends AI Agent Studio to industry applications with no-code agent building and MCP support"
+    first_seen: 2026-10-22
+    digest: using-ai-for-business-productivity-2026-Oct-22.html
+    urls:
+      - https://www.oracle.com/news/announcement/oracle-ai-agent-studio-for-industry-applications-helps-accelerate-business-outcomes-2026-10-21/
+      - https://www.investing.com/news/company-news/oracle-launches-ai-agent-studio-for-industry-applications-93CH-4962485
+      - https://cryptobriefing.com/oracle-ai-agent-studio-industry-applications/
+  - fingerprint: pigment-250m-series-e-graphite-agents-85pct-metrics-oct2026
+    title: "Pigment raises $250M at a $2.3B valuation as agents write most new planning metrics"
+    first_seen: 2026-10-22
+    digest: using-ai-for-business-productivity-2026-Oct-22.html
+    urls:
+      - https://www.prnewswire.com/news-releases/pigment-raises-250m-at-2-3b-valuation-302914892.html
+      - https://qz.com/pigment-250-million-series-e-funding-valuation-102126
+      - https://www.siliconrepublic.com/business/ai-platform-pigment-raises-series-e-funding-round-france-paris
+      - https://www.pymnts.com/news/artificial-intelligence/2026/pigment-raises-250-million-dollars-agentic-ai-platform/
   - fingerprint: notion-agents-sixth-gen-harness-24h-auto-router-credits-oct2026
     title: "Notion rebuilds its agents to run 24 hours on one task, at a fraction of the cost"
     first_seen: 2026-10-21
@@ -3439,6 +3479,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-22
+- **Anthropic launches Claude Duet, a proactive agent that works your inbox before you ask** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-22.html)
+- **OpenAI's frontier models and Codex come to Google Cloud, billable against existing cloud commitments** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-22.html)
+- **Survey: AI makes managers' jobs harder, with over half struggling to judge employees' work** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-22.html)
+- **Oracle extends AI Agent Studio to industry applications with no-code agent building and MCP support** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-22.html)
+- **Pigment raises $250M at a $2.3B valuation as agents write most new planning metrics** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-22.html)
 
 ## 2026-Oct-21
 - **Notion rebuilds its agents to run 24 hours on one task, at a fraction of the cost** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-21.html)
