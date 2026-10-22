@@ -2,10 +2,45 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-21
-run_count: 77
-digest_count: 77
+last_run: 2026-10-22
+run_count: 78
+digest_count: 78
 entries:
+  - fingerprint: bloomberg-skills-over-mcp-sep-2640-final-oct22
+    title: "Skills over MCP is now an official extension, and Bloomberg explains how its Terminal assistant shaped it"
+    first_seen: 2026-10-22
+    digest: essential-skill-md-for-productivity-2026-Oct-22.html
+    urls:
+      - https://www.bloomberg.com/company/stories/skills-over-mcp-how-bloomberg-helped-standardize-agent-skills-at-scale/
+      - https://modelcontextprotocol.io/seps/2640-skills-extension
+  - fingerprint: apievangelist-skills-over-mcp-adoption-census-oct21
+    title: "Five weeks after the spec, only four public MCP servers serve skills the standard way, while seventeen use home-made tools"
+    first_seen: 2026-10-22
+    digest: essential-skill-md-for-productivity-2026-Oct-22.html
+    urls:
+      - https://apievangelist.com/2026/10/21/four-companies-serve-skills-over-mcp-the-way-the-spec-says/
+      - https://skills.extensions.modelcontextprotocol.io/
+  - fingerprint: jfrog-ai-sec-skill-scanning-969-malicious-skills-oct21
+    title: "JFrog extends AI-SEC to scan skills for malicious intent and cites 969 malicious agent skills in the wild"
+    first_seen: 2026-10-22
+    digest: essential-skill-md-for-productivity-2026-Oct-22.html
+    urls:
+      - https://jfrog.com/press-room/jfrog-closes-the-shadow-ai-blind-spot-unveils-ai-sec-to-control-every-ai-agent-skill-and-model-from-the-developer-to-production/
+      - https://jfrog.com/blog/scanning-ai-assets/
+      - https://www.streetinsider.com/Corporate+News/JFrog+adds+AI+agent+scanning+and+local+shadow+AI+detection+tools/27212557.html
+  - fingerprint: vlt-1-5-0-vlt-skills-link-dependency-skills-oct21
+    title: "vlt 1.5.0 adds a vlt skills command that links skills shipped in npm dependencies into your agent's folders"
+    first_seen: 2026-10-22
+    digest: essential-skill-md-for-productivity-2026-Oct-22.html
+    urls:
+      - https://socket.dev/blog/vlt-skills
+      - https://docs.vlt.io/client/commands/skills
+  - fingerprint: xda-claude-code-productivity-claude-md-management-plugins-oct21
+    title: "Two Claude Code plugins keep your task list and CLAUDE.md current between sessions"
+    first_seen: 2026-10-22
+    digest: essential-skill-md-for-productivity-2026-Oct-22.html
+    urls:
+      - https://daily.dev/posts/i-gave-claude-code-two-simple-plugins-and-now-it-picks-up-where-i-left-off-every-session-2vugfw4yc
   - fingerprint: devexpress-agent-skills-1-6-0-dashboard-wpf-reports-devextreme-oct
     title: "DevExpress Agent Skills 1.6.0 adds BI Dashboard, WPF and Reports skills that run the app and verify before reporting success"
     first_seen: 2026-10-21
@@ -2525,6 +2560,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-22
+- **Skills over MCP is now an official extension, and Bloomberg explains how its Terminal assistant shaped it** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-22.html)
+- **Five weeks after the spec, only four public MCP servers serve skills the standard way, while seventeen use home-made tools** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-22.html)
+- **JFrog extends AI-SEC to scan skills for malicious intent and cites 969 malicious agent skills in the wild** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-22.html)
+- **vlt 1.5.0 adds a vlt skills command that links skills shipped in npm dependencies into your agent's folders** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-22.html)
+- **Two Claude Code plugins keep your task list and CLAUDE.md current between sessions** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-22.html)
 
 ## 2026-Oct-21
 - **DevExpress Agent Skills 1.6.0 adds BI Dashboard, WPF and Reports skills that run the app and verify before reporting success** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-21.html)
