@@ -2,10 +2,40 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-22
-run_count: 73
-digest_count: 70
+last_run: 2026-10-23
+run_count: 74
+digest_count: 71
 entries:
+  - fingerprint: nyc-doe-38-flagged-ai-tools-list-chalkbeat-oct2026
+    title: "NYC publishes the 38 ed-tech tools barred under its AI restrictions; vendors dispute flags"
+    first_seen: 2026-10-23
+    digest: ai-impact-on-education-2026-Oct-23.html
+    urls:
+      - https://www.chalkbeat.org/newyork/2026/10/23/nyc-schools-ai-ban-list-38-education-technology-products/
+  - fingerprint: georgetown-claude-license-third-ai-vendor-oct2026
+    title: "Georgetown finalizing Anthropic Claude license alongside Gemini and ChatGPT pilot"
+    first_seen: 2026-10-23
+    digest: ai-impact-on-education-2026-Oct-23.html
+    urls:
+      - https://thehoya.com/news/gu-finalizing-claude-partnership/
+  - fingerprint: anne-arundel-ai-policy-ban-push-maryland-deadline-oct2026
+    title: "Anne Arundel parents and teachers urge AI ban as Maryland deadline passes"
+    first_seen: 2026-10-23
+    digest: ai-impact-on-education-2026-Oct-23.html
+    urls:
+      - https://www.thebanner.com/education/k-12-schools/anne-arundel-county-public-schools-ai-4MEEB5TS4NH3ZHFUNBWSV7NENY/
+  - fingerprint: australia-clare-reckoning-ai-schools-nine-poll-oct2026
+    title: "Australia's Clare warns of AI 'reckoning'; Nine poll of 1,209 readers; NSW HSC limits"
+    first_seen: 2026-10-23
+    digest: ai-impact-on-education-2026-Oct-23.html
+    urls:
+      - https://www.nine.com.au/lifestyle/family-relationships/ai-in-schools-australia-classrooms-homework-essays-parent-concerns-exclusive-poll-20261023-p6174t.html
+  - fingerprint: charleston-ccsd-ai-generated-student-photo-consent-oct2026
+    title: "Charleston first-grader's AI-aged photo prompts consent backlash and district training"
+    first_seen: 2026-10-23
+    digest: ai-impact-on-education-2026-Oct-23.html
+    urls:
+      - https://www.usatoday.com/story/life/health-wellness/2026/10/23/schools-embracing-ai-parents-worried/92359840007/
   - fingerprint: hawley-blumenthal-google-ai-schools-letter-oct2026
     title: "Hawley and Blumenthal press Google over its AI push into schools"
     first_seen: 2026-10-22
@@ -2621,6 +2651,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-23
+- **NYC publishes the 38 ed-tech tools barred under its AI restrictions; vendors dispute flags** — Chalkbeat obtained the Education Department's list of 38 products flagged under Mayor Mamdani's student-facing AI restrictions after more than a month of requests. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-23.html)
+- **Georgetown finalizing Anthropic Claude license alongside Gemini and ChatGPT pilot** — Georgetown told its Faculty Senate on Oct. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-23.html)
+- **Anne Arundel parents and teachers urge AI ban as Maryland deadline passes** — Anne Arundel County Public Schools was among several Baltimore-area districts that missed this week's state-mandated deadline to adopt an AI policy. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-23.html)
+- **Australia's Clare warns of AI 'reckoning'; Nine poll of 1,209 readers; NSW HSC limits** — Federal Education Minister Jason Clare said this month that a reckoning is coming for schooling in the age of AI, warning of "cognitive stunting" and comparing it to not giving kindergartners calculators; education ministers meet shortly to discuss screen-time limits. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-23.html)
+- **Charleston first-grader's AI-aged photo prompts consent backlash and district training** — A Charleston mother's Instagram post, now past 600,000 likes, showed an AI-generated image of her 6-year-old as a 25-year-old nurse that a specials teacher made and sent home on Oct. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-23.html)
 
 ## 2026-Oct-22
 - **Hawley and Blumenthal press Google over its AI push into schools** — Hawley and Blumenthal letter to Pichai: WSJ probe, 60+ interviews, students' grades up but exam scores 20% lower. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-22.html)
