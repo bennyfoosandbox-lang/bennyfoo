@@ -1,0 +1,303 @@
+<!--
+  DIGEST TEMPLATE — fill these placeholders, then write the result to
+  {slug}/{slug}-YYYY-MMM-DD.html . Designed to be published inside the
+  bennyfoo profile site under ai-digest/, so it links to the site's real
+  assets/css/main.css and Satoshi fonts rather than being fully
+  self-contained. REPO_DIR for this skill is the ai-digest/ subfolder of
+  the bennyfoo repo (never the repo root — that's the profile homepage).
+
+  Placeholders:
+    Using AI for Business Productivity — 23 Oct 2026        e.g. "Using AI for Business Productivity — 20 Jul 2026"
+    Using AI for Business Productivity        e.g. "Using AI for Business Productivity"
+    using-ai-for-business-productivity         e.g. "using-ai-for-business-productivity"
+    2026-Oct-23    the date part of the output filename, e.g. "2026-Jul-20"
+    Friday, 23 October 2026   e.g. "Monday, 20 July 2026"
+    2026-10-23T06:00:00Z ISO timestamp, e.g. "2026-07-20T06:00:00Z"
+    5 new items · 0 already-known skipped · run #85    e.g. "5 new items · 12 already-known skipped · run #6"
+    Scanned roughly 60 candidates via web search only (Firecrawl skipped by configuration); the search index returned mostly stale results for the 24h window, so one item is from 15 Oct and several vendor claims are unverified. Deduplicated against the knowledge base.  e.g. "Scanned ~100 candidates (75 web search, 25 Firecrawl)."
+    ../knowledge-base/using-ai-for-business-productivity.md      relative link to this topic's KB file, e.g. "../knowledge-base/{slug}.md"
+    ./index.html   relative link to the topic index, e.g. "./index.html"
+    <article class="digest-item">
+      <h2>1. Major US banks block outside AI agents from logging in to customer accounts</h2>
+      <p>JPMorgan Chase, Charles Schwab, Citi and Bank of America are tightening rules on third-party AI agents that act on customers&#x27; behalf. JPMorgan says it does not permit third parties to log in with customers&#x27; banking credentials, so agents can read data but cannot send money or pay bills; Schwab says it blocks such login attempts, which it puts at tens per week, and Bank of America is still working out who is liable for payments an AI authorizes. For businesses building agents that touch finance workflows, the lesson is that access to systems of record will be granted through sanctioned APIs and permissions, not through borrowed passwords. Treat credential-sharing shortcuts as a dead end when designing automation.</p>
+      <p class="digest-sources">Sources:
+        <a class="cite" href="https://cybernews.com/security/jpmorgan-chase-blocks-outside-ai-agents/" target="_blank" rel="noopener">Cybernews</a><span class="link-status" data-url="https://cybernews.com/security/jpmorgan-chase-blocks-outside-ai-agents/"></span>,
+        <a class="cite" href="https://www.crowdfundinsider.com/?p=318538" target="_blank" rel="noopener">Crowdfund Insider</a><span class="link-status" data-url="https://www.crowdfundinsider.com/?p=318538"></span>,
+        <a class="cite" href="https://www.analyticsinsight.net/news/can-ai-move-your-money-without-permission-us-banks-are-raising-the-alarm" target="_blank" rel="noopener">Analytics Insight</a><span class="link-status" data-url="https://www.analyticsinsight.net/news/can-ai-move-your-money-without-permission-us-banks-are-raising-the-alarm"></span>,
+        <a class="cite" href="https://letsdatascience.com/news/banks-restrict-third-party-ai-agents-cdaaa424" target="_blank" rel="noopener">Let&#x27;s Data Science</a><span class="link-status" data-url="https://letsdatascience.com/news/banks-restrict-third-party-ai-agents-cdaaa424"></span>
+      </p>
+    </article>
+
+        <article class="digest-item">
+      <h2>2. Microsoft: treat AI agents as insider threats, and add Guardian Agents to watch them</h2>
+      <p>Microsoft security executive Hayete Gallot argued that frontier models cannot be trusted by default because they are trained to reach results rather than follow organizational norms, which can produce reward hacking, overprivileged access and agents colluding with each other. Microsoft&#x27;s answer is Guardian Agents, which monitor the agents a company runs and check actions before they execute, alongside the Project Perception security line. Satya Nadella&#x27;s framing is to separate intelligence from authority, keeping controls outside the model where it cannot tamper with them. The practical takeaway for any team scaling agents is to budget for supervision, least-privilege access and audit trails as part of the productivity case, not as an afterthought.</p>
+      <p class="digest-sources">Sources:
+        <a class="cite" href="https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/" target="_blank" rel="noopener">TechCrunch</a><span class="link-status" data-url="https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"></span>,
+        <a class="cite" href="https://www.techradar.com/pro/security/microsoft-admits-frontier-models-cant-be-trusted-unveils-new-security-tools-to-treat-ai-agents-as-insider-threats" target="_blank" rel="noopener">TechRadar</a><span class="link-status" data-url="https://www.techradar.com/pro/security/microsoft-admits-frontier-models-cant-be-trusted-unveils-new-security-tools-to-treat-ai-agents-as-insider-threats"></span>,
+        <a class="cite" href="https://t2online.in/tech/tech-news/microsoft-security-chief-says-frontier-ai-models-cannot-be-trusted/2008754" target="_blank" rel="noopener">T2 Online</a><span class="link-status" data-url="https://t2online.in/tech/tech-news/microsoft-security-chief-says-frontier-ai-models-cannot-be-trusted/2008754"></span>
+      </p>
+    </article>
+
+        <article class="digest-item">
+      <h2>3. Kognitos pitches 61 role-based &quot;AI Employees&quot; for finance and banking</h2>
+      <p>Kognitos is marketing a library of 61 finance and banking roles, such as AP specialist, reconciliation accountant and KYC analyst, backed by 515 written standard operating procedures. Each AI employee has a job description and approval limits, runs the same SOP steps every time, shows what it did, and asks a person when unsure. A builder agent called Quill writes SOPs in plain English from how work is done in a company&#x27;s systems, and the platform includes role-based access and audit trails. These counts come from the vendor&#x27;s own materials, and I found no independent customer verification, so treat the claims as positioning for now. The design choice is the interesting part: deterministic, auditable procedures instead of agents improvising each step.</p>
+      <p class="digest-sources">Sources:
+        <a class="cite" href="https://www.kognitos.com/ai-employees/" target="_blank" rel="noopener">Kognitos: AI Employees</a><span class="link-status" data-url="https://www.kognitos.com/ai-employees/"></span>,
+        <a class="cite" href="https://www.kognitos.com/news/kognitos-launches-context-graph-for-finance/index.html.md" target="_blank" rel="noopener">Kognitos: Context Graph for Finance</a><span class="link-status" data-url="https://www.kognitos.com/news/kognitos-launches-context-graph-for-finance/index.html.md"></span>,
+        <a class="cite" href="https://aiagentstore.ai/ai-agent-news/daily/2026-10-22" target="_blank" rel="noopener">AI Agent News, 22 Oct</a><span class="link-status" data-url="https://aiagentstore.ai/ai-agent-news/daily/2026-10-22"></span>
+      </p>
+    </article>
+
+        <article class="digest-item">
+      <h2>4. IBM beats Q3 expectations on software and infrastructure, then the stock slips</h2>
+      <p>IBM reported third-quarter results on 21 October with accelerating revenue growth led by Software and Infrastructure, and raised its free cash flow outlook to growth of more than $1 billion year over year. Full-year constant-currency revenue growth is still expected at four to five percent. The shares initially rose, then fell more than 3 percent as investors weighed AI-driven shifts in buying behavior; IBM&#x27;s stock had dropped about 25 percent in July after it warned that AI-related purchasing changes were hurting mainframe and related software demand. It is a useful reminder that AI spending is reshuffling enterprise budgets between vendors, not simply adding to them. IBM&#x27;s explicit generative AI book-of-business figure also no longer appears in its headline reporting.</p>
+      <p class="digest-sources">Sources:
+        <a class="cite" href="https://www.sec.gov/Archives/edgar/data/0000051143/000005114326000093/ibm-20261021xex991.htm" target="_blank" rel="noopener">IBM Q3 2026 earnings release (SEC 8-K)</a><span class="link-status" data-url="https://www.sec.gov/Archives/edgar/data/0000051143/000005114326000093/ibm-20261021xex991.htm"></span>,
+        <a class="cite" href="https://newsable.asianetnews.com/markets/ibm-stock-plunges-after-hours-despite-q3-revenue-beat-guidance-hike-analyst-says-buy-any-knee-jerk-weakness-articleshow-sq2r4wk" target="_blank" rel="noopener">Asianet Newsable</a><span class="link-status" data-url="https://newsable.asianetnews.com/markets/ibm-stock-plunges-after-hours-despite-q3-revenue-beat-guidance-hike-analyst-says-buy-any-knee-jerk-weakness-articleshow-sq2r4wk"></span>,
+        <a class="cite" href="https://www.trefis.com/articles/614396/should-you-worry-that-ibm-has-gone-quiet-on-its-ai-total/2026-09-04" target="_blank" rel="noopener">Trefis</a><span class="link-status" data-url="https://www.trefis.com/articles/614396/should-you-worry-that-ibm-has-gone-quiet-on-its-ai-total/2026-09-04"></span>
+      </p>
+    </article>
+
+        <article class="digest-item">
+      <h2>5. Nvidia releases Nemotron 3.5 Super VL, an open 120B model built for enterprise agents (from 15 Oct)</h2>
+      <p>Nvidia published Nemotron 3.5 Super VL, a 120-billion-parameter open-weight model aimed at enterprise agents that read documents, charts and web pages. Nvidia says it matches its largest reasoning model on instruction following and tool use with about a fifth of the parameters, and it ships with datasets and training recipes so companies can post-train on their own data. Two smaller Bolt models target workstations and edge devices, with the 74B Bolt fitting in 24GB of memory via 2-bit quantization. The benchmark figures are Nvidia&#x27;s own, with an independent Artificial Analysis score of 26.5 on its Intelligence Index. This item is from earlier in the week, included because fresher dedup-passing stories were thin. It matters because open models make it feasible to run agents on a company&#x27;s own hardware and data.</p>
+      <p class="digest-sources">Sources:
+        <a class="cite" href="https://www.hpcwire.com/aiwire/2026/10/15/nvidia-expands-nemotron-family-with-highest-efficiency-super-vl-and-bolt-models/" target="_blank" rel="noopener">HPCwire</a><span class="link-status" data-url="https://www.hpcwire.com/aiwire/2026/10/15/nvidia-expands-nemotron-family-with-highest-efficiency-super-vl-and-bolt-models/"></span>,
+        <a class="cite" href="https://www.techzine.eu/news/analytics/145037/nvidia-launches-nemotron-3-5-super-vl-and-bolt-for-ai-agents/" target="_blank" rel="noopener">Techzine</a><span class="link-status" data-url="https://www.techzine.eu/news/analytics/145037/nvidia-launches-nemotron-3-5-super-vl-and-bolt-for-ai-agents/"></span>,
+        <a class="cite" href="https://itbrief.co.uk/story/nvidia-launches-nemotron-3-5-open-models-for-agents" target="_blank" rel="noopener">IT Brief UK</a><span class="link-status" data-url="https://itbrief.co.uk/story/nvidia-launches-nemotron-3-5-open-models-for-agents"></span>,
+        <a class="cite" href="https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/" target="_blank" rel="noopener">TechCrunch</a><span class="link-status" data-url="https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"></span>
+      </p>
+    </article>        the top-5 items block — see ITEM MARKUP below
+
+  ITEM MARKUP — repeat this <article> per item. Render content as STATIC HTML so
+  it is fully readable even where JS is stripped (e.g. GitHub's file viewer).
+  Each citation MUST be an <a class="cite"> immediately followed by a
+  <span class="link-status" data-url="SAME_URL">; the runtime checker keys off
+  data-url. Always use https:// citation URLs (an http link would be blocked as
+  mixed content on an https page and wrongly show as unreachable).
+
+    <article class="digest-item">
+      <h2>1. Headline goes here</h2>
+      <p>Three to five sentence synthesis in your own words: what happened, why
+         it matters to the topic, the key numbers and context.</p>
+      <p class="digest-sources">Sources:
+        <a class="cite" href="https://example.com/a" target="_blank" rel="noopener">Publication A</a><span class="link-status" data-url="https://example.com/a"></span>,
+        <a class="cite" href="https://example.com/b" target="_blank" rel="noopener">Publication B</a><span class="link-status" data-url="https://example.com/b"></span>
+      </p>
+    </article>
+-->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Using AI for Business Productivity — 23 Oct 2026</title>
+  <meta name="description" content="Using AI for Business Productivity — daily research digest, Friday, 23 October 2026.">
+  <meta name="author" content="Benny Foo">
+  <meta name="theme-color" content="#d5d5d5">
+
+  <link rel="canonical" href="https://bennyfoo.vercel.app/ai-digest/using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-23.html">
+
+  <meta property="og:site_name" content="Benny Foo">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://bennyfoo.vercel.app/ai-digest/using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-23.html">
+  <meta property="og:title" content="Using AI for Business Productivity — 23 Oct 2026">
+  <meta property="og:description" content="Using AI for Business Productivity — daily research digest, Friday, 23 October 2026.">
+  <meta property="og:image" content="https://bennyfoo.vercel.app/assets/images/profile.jpg">
+  <meta property="og:image:width" content="900">
+  <meta property="og:image:height" content="900">
+  <meta property="og:locale" content="en_US">
+  <meta property="article:published_time" content="2026-10-23T06:00:00Z">
+  <meta property="article:author" content="Benny Foo">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Using AI for Business Productivity — 23 Oct 2026">
+  <meta name="twitter:description" content="Using AI for Business Productivity — daily research digest, Friday, 23 October 2026.">
+  <meta name="twitter:image" content="https://bennyfoo.vercel.app/assets/images/profile.jpg">
+
+  <link rel="preload" href="../../assets/fonts/satoshi-900.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="../../assets/fonts/satoshi-400.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="../../assets/css/main.css">
+  <noscript><style>.reveal { opacity: 1 !important; transform: none !important; } .reveal-mask > span { transform: none !important; }</style></noscript>
+
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/ico/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/ico/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/ico/favicon-16x16.png">
+  <link rel="icon" type="image/x-icon" href="../../assets/ico/favicon.ico">
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EQJYYLZPP6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-EQJYYLZPP6');
+  </script>
+</head>
+<body class="util">
+
+  <div class="util-hero">
+    <header class="nav">
+      <a class="nav-name" href="../../">Benny Foo</a>
+      <nav class="nav-links" aria-label="Sections">
+        <a href="../../#work">The AI work</a>
+        <a href="../../#journey">Journey</a>
+        <a href="../../#lead">Leadership</a>
+        <a href="../" aria-current="page">AI Digest</a>
+        <a href="../../utilities/index.html">Utilities</a>
+      </nav>
+      <div class="nav-actions">
+        <a class="nav-linkedin" href="https://www.linkedin.com/in/bennyfoo/" target="_blank" rel="noopener" aria-label="LinkedIn profile">
+          <svg role="img" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.225 0z"/></svg>
+        </a>
+        <a class="btn btn-primary btn-small" href="mailto:bennyfoocy@gmail.com">Get in touch</a>
+      </div>
+    </header>
+
+    <div class="util-hero-inner">
+      <p class="eyebrow">AI Digest · Using AI for Business Productivity</p>
+      <h1>Using AI for Business Productivity</h1>
+      <p class="util-hero-sub">Friday, 23 October 2026</p>
+      <span class="digest-tally">5 new items · 0 already-known skipped · run #85</span>
+    </div>
+  </div>
+
+  <main>
+    <section class="section util-section">
+      <div class="digest-body">
+        <nav class="digest-nav-links">
+          <a href="./index.html">← All Using AI for Business Productivity digests</a>
+          <a href="../index.html">AI Digest home</a>
+          <a href="../knowledge-base/using-ai-for-business-productivity.md">Knowledge base</a>
+        </nav>
+
+        <div class="digest-legend">
+          Citation status <span class="digest-dot ok"></span> reachable ·
+          <span class="digest-dot bad"></span> could not reach ·
+          <span class="digest-dot warn"></span> slow / timed out ·
+          <span class="digest-dot"></span> unknown.
+          <b>Best-effort only:</b> browsers can't read a cross-origin link's exact HTTP status, so
+          this detects dead domains and network failures, not every dead page. Always click through to confirm.
+          <button class="digest-recheck" id="recheck">Re-check all</button>
+        </div>
+
+        <article class="digest-item">
+      <h2>1. Major US banks block outside AI agents from logging in to customer accounts</h2>
+      <p>JPMorgan Chase, Charles Schwab, Citi and Bank of America are tightening rules on third-party AI agents that act on customers&#x27; behalf. JPMorgan says it does not permit third parties to log in with customers&#x27; banking credentials, so agents can read data but cannot send money or pay bills; Schwab says it blocks such login attempts, which it puts at tens per week, and Bank of America is still working out who is liable for payments an AI authorizes. For businesses building agents that touch finance workflows, the lesson is that access to systems of record will be granted through sanctioned APIs and permissions, not through borrowed passwords. Treat credential-sharing shortcuts as a dead end when designing automation.</p>
+      <p class="digest-sources">Sources:
+        <a class="cite" href="https://cybernews.com/security/jpmorgan-chase-blocks-outside-ai-agents/" target="_blank" rel="noopener">Cybernews</a><span class="link-status" data-url="https://cybernews.com/security/jpmorgan-chase-blocks-outside-ai-agents/"></span>,
+        <a class="cite" href="https://www.crowdfundinsider.com/?p=318538" target="_blank" rel="noopener">Crowdfund Insider</a><span class="link-status" data-url="https://www.crowdfundinsider.com/?p=318538"></span>,
+        <a class="cite" href="https://www.analyticsinsight.net/news/can-ai-move-your-money-without-permission-us-banks-are-raising-the-alarm" target="_blank" rel="noopener">Analytics Insight</a><span class="link-status" data-url="https://www.analyticsinsight.net/news/can-ai-move-your-money-without-permission-us-banks-are-raising-the-alarm"></span>,
+        <a class="cite" href="https://letsdatascience.com/news/banks-restrict-third-party-ai-agents-cdaaa424" target="_blank" rel="noopener">Let&#x27;s Data Science</a><span class="link-status" data-url="https://letsdatascience.com/news/banks-restrict-third-party-ai-agents-cdaaa424"></span>
+      </p>
+    </article>
+
+        <article class="digest-item">
+      <h2>2. Microsoft: treat AI agents as insider threats, and add Guardian Agents to watch them</h2>
+      <p>Microsoft security executive Hayete Gallot argued that frontier models cannot be trusted by default because they are trained to reach results rather than follow organizational norms, which can produce reward hacking, overprivileged access and agents colluding with each other. Microsoft&#x27;s answer is Guardian Agents, which monitor the agents a company runs and check actions before they execute, alongside the Project Perception security line. Satya Nadella&#x27;s framing is to separate intelligence from authority, keeping controls outside the model where it cannot tamper with them. The practical takeaway for any team scaling agents is to budget for supervision, least-privilege access and audit trails as part of the productivity case, not as an afterthought.</p>
+      <p class="digest-sources">Sources:
+        <a class="cite" href="https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/" target="_blank" rel="noopener">TechCrunch</a><span class="link-status" data-url="https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"></span>,
+        <a class="cite" href="https://www.techradar.com/pro/security/microsoft-admits-frontier-models-cant-be-trusted-unveils-new-security-tools-to-treat-ai-agents-as-insider-threats" target="_blank" rel="noopener">TechRadar</a><span class="link-status" data-url="https://www.techradar.com/pro/security/microsoft-admits-frontier-models-cant-be-trusted-unveils-new-security-tools-to-treat-ai-agents-as-insider-threats"></span>,
+        <a class="cite" href="https://t2online.in/tech/tech-news/microsoft-security-chief-says-frontier-ai-models-cannot-be-trusted/2008754" target="_blank" rel="noopener">T2 Online</a><span class="link-status" data-url="https://t2online.in/tech/tech-news/microsoft-security-chief-says-frontier-ai-models-cannot-be-trusted/2008754"></span>
+      </p>
+    </article>
+
+        <article class="digest-item">
+      <h2>3. Kognitos pitches 61 role-based &quot;AI Employees&quot; for finance and banking</h2>
+      <p>Kognitos is marketing a library of 61 finance and banking roles, such as AP specialist, reconciliation accountant and KYC analyst, backed by 515 written standard operating procedures. Each AI employee has a job description and approval limits, runs the same SOP steps every time, shows what it did, and asks a person when unsure. A builder agent called Quill writes SOPs in plain English from how work is done in a company&#x27;s systems, and the platform includes role-based access and audit trails. These counts come from the vendor&#x27;s own materials, and I found no independent customer verification, so treat the claims as positioning for now. The design choice is the interesting part: deterministic, auditable procedures instead of agents improvising each step.</p>
+      <p class="digest-sources">Sources:
+        <a class="cite" href="https://www.kognitos.com/ai-employees/" target="_blank" rel="noopener">Kognitos: AI Employees</a><span class="link-status" data-url="https://www.kognitos.com/ai-employees/"></span>,
+        <a class="cite" href="https://www.kognitos.com/news/kognitos-launches-context-graph-for-finance/index.html.md" target="_blank" rel="noopener">Kognitos: Context Graph for Finance</a><span class="link-status" data-url="https://www.kognitos.com/news/kognitos-launches-context-graph-for-finance/index.html.md"></span>,
+        <a class="cite" href="https://aiagentstore.ai/ai-agent-news/daily/2026-10-22" target="_blank" rel="noopener">AI Agent News, 22 Oct</a><span class="link-status" data-url="https://aiagentstore.ai/ai-agent-news/daily/2026-10-22"></span>
+      </p>
+    </article>
+
+        <article class="digest-item">
+      <h2>4. IBM beats Q3 expectations on software and infrastructure, then the stock slips</h2>
+      <p>IBM reported third-quarter results on 21 October with accelerating revenue growth led by Software and Infrastructure, and raised its free cash flow outlook to growth of more than $1 billion year over year. Full-year constant-currency revenue growth is still expected at four to five percent. The shares initially rose, then fell more than 3 percent as investors weighed AI-driven shifts in buying behavior; IBM&#x27;s stock had dropped about 25 percent in July after it warned that AI-related purchasing changes were hurting mainframe and related software demand. It is a useful reminder that AI spending is reshuffling enterprise budgets between vendors, not simply adding to them. IBM&#x27;s explicit generative AI book-of-business figure also no longer appears in its headline reporting.</p>
+      <p class="digest-sources">Sources:
+        <a class="cite" href="https://www.sec.gov/Archives/edgar/data/0000051143/000005114326000093/ibm-20261021xex991.htm" target="_blank" rel="noopener">IBM Q3 2026 earnings release (SEC 8-K)</a><span class="link-status" data-url="https://www.sec.gov/Archives/edgar/data/0000051143/000005114326000093/ibm-20261021xex991.htm"></span>,
+        <a class="cite" href="https://newsable.asianetnews.com/markets/ibm-stock-plunges-after-hours-despite-q3-revenue-beat-guidance-hike-analyst-says-buy-any-knee-jerk-weakness-articleshow-sq2r4wk" target="_blank" rel="noopener">Asianet Newsable</a><span class="link-status" data-url="https://newsable.asianetnews.com/markets/ibm-stock-plunges-after-hours-despite-q3-revenue-beat-guidance-hike-analyst-says-buy-any-knee-jerk-weakness-articleshow-sq2r4wk"></span>,
+        <a class="cite" href="https://www.trefis.com/articles/614396/should-you-worry-that-ibm-has-gone-quiet-on-its-ai-total/2026-09-04" target="_blank" rel="noopener">Trefis</a><span class="link-status" data-url="https://www.trefis.com/articles/614396/should-you-worry-that-ibm-has-gone-quiet-on-its-ai-total/2026-09-04"></span>
+      </p>
+    </article>
+
+        <article class="digest-item">
+      <h2>5. Nvidia releases Nemotron 3.5 Super VL, an open 120B model built for enterprise agents (from 15 Oct)</h2>
+      <p>Nvidia published Nemotron 3.5 Super VL, a 120-billion-parameter open-weight model aimed at enterprise agents that read documents, charts and web pages. Nvidia says it matches its largest reasoning model on instruction following and tool use with about a fifth of the parameters, and it ships with datasets and training recipes so companies can post-train on their own data. Two smaller Bolt models target workstations and edge devices, with the 74B Bolt fitting in 24GB of memory via 2-bit quantization. The benchmark figures are Nvidia&#x27;s own, with an independent Artificial Analysis score of 26.5 on its Intelligence Index. This item is from earlier in the week, included because fresher dedup-passing stories were thin. It matters because open models make it feasible to run agents on a company&#x27;s own hardware and data.</p>
+      <p class="digest-sources">Sources:
+        <a class="cite" href="https://www.hpcwire.com/aiwire/2026/10/15/nvidia-expands-nemotron-family-with-highest-efficiency-super-vl-and-bolt-models/" target="_blank" rel="noopener">HPCwire</a><span class="link-status" data-url="https://www.hpcwire.com/aiwire/2026/10/15/nvidia-expands-nemotron-family-with-highest-efficiency-super-vl-and-bolt-models/"></span>,
+        <a class="cite" href="https://www.techzine.eu/news/analytics/145037/nvidia-launches-nemotron-3-5-super-vl-and-bolt-for-ai-agents/" target="_blank" rel="noopener">Techzine</a><span class="link-status" data-url="https://www.techzine.eu/news/analytics/145037/nvidia-launches-nemotron-3-5-super-vl-and-bolt-for-ai-agents/"></span>,
+        <a class="cite" href="https://itbrief.co.uk/story/nvidia-launches-nemotron-3-5-open-models-for-agents" target="_blank" rel="noopener">IT Brief UK</a><span class="link-status" data-url="https://itbrief.co.uk/story/nvidia-launches-nemotron-3-5-open-models-for-agents"></span>,
+        <a class="cite" href="https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/" target="_blank" rel="noopener">TechCrunch</a><span class="link-status" data-url="https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"></span>
+      </p>
+    </article>
+
+        <p class="digest-footnote">Scanned roughly 60 candidates via web search only (Firecrawl skipped by configuration); the search index returned mostly stale results for the 24h window, so one item is from 15 Oct and several vendor claims are unverified. Deduplicated against the knowledge base.<br>
+          Generated <time datetime="2026-10-23T06:00:00Z">2026-10-23T06:00:00Z</time> ·
+          Knowledge base: <a href="../knowledge-base/using-ai-for-business-productivity.md">Using AI for Business Productivity</a></p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <span>&copy; 2026 Benny Foo</span>
+      <div class="footer-links">
+        <a href="../../">Home</a>
+        <a href="../">AI Digest</a>
+        <a href="mailto:bennyfoocy@gmail.com">bennyfoocy@gmail.com</a>
+        <a href="https://www.linkedin.com/in/bennyfoo/" target="_blank" rel="noopener">LinkedIn</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../../assets/js/main.js"></script>
+  <script>
+  (function(){
+    // Progressive enhancement only: content above is fully readable without this.
+    var TIMEOUT_MS = 8000;
+
+    function makeDot(statusEl){
+      var dot = document.createElement("span");
+      dot.className = "digest-dot checking";
+      dot.title = "Checking link…";
+      statusEl.replaceWith(dot);         // swap the placeholder span for a live dot
+      dot.dataset.url = statusEl.dataset.url;
+      return dot;
+    }
+
+    function setDot(dot, cls, title){ dot.className = "digest-dot " + cls; dot.title = title; }
+
+    function checkOne(dot){
+      var url = dot.dataset.url;
+      setDot(dot, "checking", "Checking link…");
+      var ctrl = new AbortController();
+      var timer = setTimeout(function(){ ctrl.abort(); }, TIMEOUT_MS);
+      // no-cors: we can't read the status (that's the browser security boundary),
+      // but a resolved promise means the host responded; a rejection means the
+      // domain is dead / unreachable / blocked. That's the honest signal we surface.
+      fetch(url, { mode: "no-cors", method: "GET", signal: ctrl.signal, redirect: "follow" })
+        .then(function(){ clearTimeout(timer);
+          setDot(dot, "ok", "Domain responded (exact page not verifiable cross-origin). Click through to confirm."); })
+        .catch(function(err){ clearTimeout(timer);
+          if(err && err.name === "AbortError"){
+            setDot(dot, "warn", "No response within " + (TIMEOUT_MS/1000) + "s — may be slow or blocking checks.");
+          } else {
+            setDot(dot, "bad", "Could not reach this domain (dead, offline, or blocking the check). Click through to confirm.");
+          }
+        });
+    }
+
+    function checkAll(){
+      document.querySelectorAll(".digest-dot[data-url]").forEach(checkOne);
+    }
+
+    // Initial pass: convert placeholder spans into dots and probe each.
+    document.querySelectorAll(".link-status[data-url]").forEach(function(s){ checkOne(makeDot(s)); });
+    var btn = document.getElementById("recheck");
+    if(btn) btn.addEventListener("click", checkAll);
+  })();
+  </script>
+</body>
+</html>

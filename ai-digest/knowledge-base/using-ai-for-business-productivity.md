@@ -2,10 +2,52 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-22
-run_count: 84
-digest_count: 84
+last_run: 2026-10-23
+run_count: 85
+digest_count: 85
 entries:
+  - fingerprint: us-banks-block-third-party-ai-agents-account-login-jpmorgan-schwab-oct2026
+    title: "Major US banks block outside AI agents from logging in to customer accounts"
+    first_seen: 2026-10-23
+    digest: using-ai-for-business-productivity-2026-Oct-23.html
+    urls:
+      - https://cybernews.com/security/jpmorgan-chase-blocks-outside-ai-agents/
+      - https://www.crowdfundinsider.com/?p=318538
+      - https://www.analyticsinsight.net/news/can-ai-move-your-money-without-permission-us-banks-are-raising-the-alarm
+      - https://letsdatascience.com/news/banks-restrict-third-party-ai-agents-cdaaa424
+  - fingerprint: microsoft-guardian-agents-ai-agents-insider-threats-oct2026
+    title: "Microsoft: treat AI agents as insider threats, and add Guardian Agents to watch them"
+    first_seen: 2026-10-23
+    digest: using-ai-for-business-productivity-2026-Oct-23.html
+    urls:
+      - https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/
+      - https://www.techradar.com/pro/security/microsoft-admits-frontier-models-cant-be-trusted-unveils-new-security-tools-to-treat-ai-agents-as-insider-threats
+      - https://t2online.in/tech/tech-news/microsoft-security-chief-says-frontier-ai-models-cannot-be-trusted/2008754
+  - fingerprint: kognitos-ai-employees-61-roles-finance-banking-oct2026
+    title: "Kognitos pitches 61 role-based 'AI Employees' for finance and banking"
+    first_seen: 2026-10-23
+    digest: using-ai-for-business-productivity-2026-Oct-23.html
+    urls:
+      - https://www.kognitos.com/ai-employees/
+      - https://www.kognitos.com/news/kognitos-launches-context-graph-for-finance/index.html.md
+      - https://aiagentstore.ai/ai-agent-news/daily/2026-10-22
+  - fingerprint: ibm-q3-2026-earnings-software-infrastructure-fcf-guidance-oct2026
+    title: "IBM beats Q3 expectations on software and infrastructure, then the stock slips"
+    first_seen: 2026-10-23
+    digest: using-ai-for-business-productivity-2026-Oct-23.html
+    urls:
+      - https://www.sec.gov/Archives/edgar/data/0000051143/000005114326000093/ibm-20261021xex991.htm
+      - https://newsable.asianetnews.com/markets/ibm-stock-plunges-after-hours-despite-q3-revenue-beat-guidance-hike-analyst-says-buy-any-knee-jerk-weakness-articleshow-sq2r4wk
+      - https://www.trefis.com/articles/614396/should-you-worry-that-ibm-has-gone-quiet-on-its-ai-total/2026-09-04
+  - fingerprint: nvidia-nemotron-3-5-super-vl-bolt-open-models-enterprise-agents-oct2026
+    title: "Nvidia releases Nemotron 3.5 Super VL, an open 120B model built for enterprise agents (from 15 Oct)"
+    first_seen: 2026-10-23
+    digest: using-ai-for-business-productivity-2026-Oct-23.html
+    urls:
+      - https://www.hpcwire.com/aiwire/2026/10/15/nvidia-expands-nemotron-family-with-highest-efficiency-super-vl-and-bolt-models/
+      - https://www.techzine.eu/news/analytics/145037/nvidia-launches-nemotron-3-5-super-vl-and-bolt-for-ai-agents/
+      - https://itbrief.co.uk/story/nvidia-launches-nemotron-3-5-open-models-for-agents
+      - https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/
   - fingerprint: anthropic-claude-duet-proactive-agent-waitlist-opus55-oct2026
     title: "Anthropic launches Claude Duet, a proactive agent that works your inbox before you ask"
     first_seen: 2026-10-22
@@ -3479,6 +3521,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-23
+- **Major US banks block outside AI agents from logging in to customer accounts** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-23.html)
+- **Microsoft: treat AI agents as insider threats, and add Guardian Agents to watch them** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-23.html)
+- **Kognitos pitches 61 role-based "AI Employees" for finance and banking** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-23.html)
+- **IBM beats Q3 expectations on software and infrastructure, then the stock slips** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-23.html)
+- **Nvidia releases Nemotron 3.5 Super VL, an open 120B model built for enterprise agents (from 15 Oct)** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-23.html)
 
 ## 2026-Oct-22
 - **Anthropic launches Claude Duet, a proactive agent that works your inbox before you ask** — see digest. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-22.html)
