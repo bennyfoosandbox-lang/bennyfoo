@@ -2,10 +2,45 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-22
-run_count: 78
-digest_count: 78
+last_run: 2026-10-23
+run_count: 79
+digest_count: 79
 entries:
+  - fingerprint: aaif-agent-skills-donation-280m-installs-oct22
+    title: "Anthropic donates Agent Skills to the Agentic AI Foundation, citing 1 million skills and nearly 280 million installs"
+    first_seen: 2026-10-23
+    digest: essential-skill-md-for-productivity-2026-Oct-23.html
+    urls:
+      - https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation
+      - https://mixed-news.com/en/anthropic-agent-skills-agentic-ai-foundation/
+      - https://fourweekmba.com/ai-anthropic-donates-agent-skills-after-nearly-280m-installs/
+      - https://blockchain.news/news/anthropic-donates-agent-skills-standard-to-aaif
+      - https://simonwillison.net/2026/Oct/22/donating-agent-skills/
+  - fingerprint: virustotal-malicious-skills-part3-62pct-no-code-oct22
+    title: "VirusTotal: 62% of the malicious skills it found contain no malicious code, only plain-language instructions"
+    first_seen: 2026-10-23
+    digest: essential-skill-md-for-productivity-2026-Oct-23.html
+    urls:
+      - https://blog.virustotal.com/2026/10/how-some-malicious-ai-skills-hide.html
+      - https://fourweekmba.com/ai-anthropic-donates-agent-skills-after-nearly-280m-installs/
+  - fingerprint: itential-builder-skills-2-0-five-harnesses-oct22
+    title: "Itential Builder Skills 2.0 ships 17 skills that run unchanged in five coding agents"
+    first_seen: 2026-10-23
+    digest: essential-skill-md-for-productivity-2026-Oct-23.html
+    urls:
+      - https://www.itential.com/resource/blog/itential-builder-skills-claude-code-codex-copilot-cursor/
+  - fingerprint: adyen-agent-marketplace-open-source-cli-oct22
+    title: "Adyen open-sources Agent Marketplace, a single-binary CLI for sharing skills, commands, hooks and MCP servers across agents"
+    first_seen: 2026-10-23
+    digest: essential-skill-md-for-productivity-2026-Oct-23.html
+    urls:
+      - https://www.adyen.com/knowledge-hub/agent-marketplace
+  - fingerprint: aws-agent-toolkit-for-aws-skills-mcp-oct22
+    title: "AWS publishes an official Agent Toolkit bundling MCP servers and skills for six coding agents"
+    first_seen: 2026-10-23
+    digest: essential-skill-md-for-productivity-2026-Oct-23.html
+    urls:
+      - https://github.com/aws/agent-toolkit-for-aws
   - fingerprint: bloomberg-skills-over-mcp-sep-2640-final-oct22
     title: "Skills over MCP is now an official extension, and Bloomberg explains how its Terminal assistant shaped it"
     first_seen: 2026-10-22
@@ -2560,6 +2595,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-23
+- **Anthropic donates Agent Skills to the Agentic AI Foundation, citing 1 million skills and nearly 280 million installs** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-23.html)
+- **VirusTotal: 62% of the malicious skills it found contain no malicious code, only plain-language instructions** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-23.html)
+- **Itential Builder Skills 2.0 ships 17 skills that run unchanged in five coding agents** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-23.html)
+- **Adyen open-sources Agent Marketplace, a single-binary CLI for sharing skills, commands, hooks and MCP servers across agents** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-23.html)
+- **AWS publishes an official Agent Toolkit bundling MCP servers and skills for six coding agents** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-23.html)
 
 ## 2026-Oct-22
 - **Skills over MCP is now an official extension, and Bloomberg explains how its Terminal assistant shaped it** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-22.html)
