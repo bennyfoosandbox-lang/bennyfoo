@@ -2,10 +2,44 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-23
-run_count: 85
-digest_count: 85
+last_run: 2026-10-24
+run_count: 86
+digest_count: 86
 entries:
+  - fingerprint: uber-chatgpt-work-30000-employees-rollout-oct2026
+    title: "Uber puts OpenAI's ChatGPT Work in front of all 30,000 employees"
+    first_seen: 2026-10-24
+    digest: using-ai-for-business-productivity-2026-Oct-24.html
+    urls:
+      - https://www.techtimes.co.uk/uber-chatgpt-work-30000-employees-job-cuts-1809350
+      - https://www.adgully.com/post/22691/uber-rolls-out-openais-chatgpt-work-to-all-30000-global-employees
+      - https://www.storyboard18.com/brand-marketing/uber-expands-openai-partnership-to-bring-chatgpt-work-to-30000-employees-globally-113213.htm
+      - https://forkast.news/uber-rolls-chatgpt-work-to-all-30000-employees-the-unpriced-labor-benchmark/
+      - https://www.tekedia.com/uber-expands-openai-partnership-to-give-30000-employees-access-to-chatgpt-work/
+  - fingerprint: volkswagen-copilot-330k-employees-26k-agents-oct2026
+    title: "Volkswagen rolls Microsoft Copilot out to 330,000 employees, with 26,000 active agents"
+    first_seen: 2026-10-24
+    digest: using-ai-for-business-productivity-2026-Oct-24.html
+    urls:
+      - https://www.konsulteer.com/article/volkswagen-group-deploys-microsoft-copilot-to-more-than-330-000-employees
+  - fingerprint: cognizant-ai-nexus-launch-meter-govern-ai-spend-oct2026
+    title: "Cognizant launches AI Nexus to meter, govern and prove the return on AI spend"
+    first_seen: 2026-10-24
+    digest: using-ai-for-business-productivity-2026-Oct-24.html
+    urls:
+      - https://smestreet.in/technology/cognizant-ai-nexus-aims-to-improve-enterprise-ai-returns-12741066
+  - fingerprint: zoom-unified-context-layer-zoomtopia-oct2026
+    title: "Zoom bets on a Unified Context Layer to turn conversations into completed work"
+    first_seen: 2026-10-24
+    digest: using-ai-for-business-productivity-2026-Oct-24.html
+    urls:
+      - https://www.expresscomputer.in/amp/news/zoom-unveils-unified-ai-context-layer-expands-enterprise-tools-and-governance-capabilities/140330/
+  - fingerprint: infosys-q2-fy27-ai-10pct-revenue-guidance-cut-oct2026
+    title: "Infosys: AI is 10.5% of revenue, yet growth guidance is cut as clients demand AI-driven productivity"
+    first_seen: 2026-10-24
+    digest: using-ai-for-business-productivity-2026-Oct-24.html
+    urls:
+      - https://www.dqindia.com/news/infosys-q2-fy27-results-ai-revenue-surges-as-growth-outlook-weakens-12742451
   - fingerprint: us-banks-block-third-party-ai-agents-account-login-jpmorgan-schwab-oct2026
     title: "Major US banks block outside AI agents from logging in to customer accounts"
     first_seen: 2026-10-23
@@ -3521,6 +3555,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-24
+- **Uber puts OpenAI's ChatGPT Work in front of all 30,000 employees** — Uber and OpenAI announced on 22 October that ChatGPT Work, the agent inside ChatGPT Enterprise, will go to Uber's entire global workforce of more than 30,000 people after a pilot of 1,000. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-24.html)
+- **Volkswagen rolls Microsoft Copilot out to 330,000 employees, with 26,000 active agents** — Volkswagen Group says Microsoft Copilot is now deployed to more than 330,000 employees, with over 300,000 using Copilot Chat each month and more than 26,000 agents active in the preceding month. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-24.html)
+- **Cognizant launches AI Nexus to meter, govern and prove the return on AI spend** — Cognizant introduced AI Nexus, a modular multi-model layer with five parts: Engage and Orchestrate for where work happens, and Reveal, Coach and Route for governing it. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-24.html)
+- **Zoom bets on a Unified Context Layer to turn conversations into completed work** — At Zoomtopia, Zoom unveiled a Unified Context Layer that combines meetings, calls, chats, contact-centre data, documents and connected apps so employees and AI agents can act on shared context. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-24.html)
+- **Infosys: AI is 10.5% of revenue, yet growth guidance is cut as clients demand AI-driven productivity** — In its Q2 FY27 results on 23 October, Infosys said AI accounted for 10.5% of revenue, up from 8.2% in the prior quarter, with AI revenue up 29% sequentially. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-24.html)
 
 ## 2026-Oct-23
 - **Major US banks block outside AI agents from logging in to customer accounts** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-23.html)
