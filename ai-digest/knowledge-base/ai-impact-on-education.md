@@ -2,10 +2,44 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-23
-run_count: 74
-digest_count: 71
+last_run: 2026-10-24
+run_count: 75
+digest_count: 72
 entries:
+  - fingerprint: ncert-ai-computational-thinking-module-classes-9-12-oct2026
+    title: "NCERT releases a 20-hour AI module for Classes 9 to 12, built around deepfakes, privacy and a 'helper' stance"
+    first_seen: 2026-10-24
+    digest: ai-impact-on-education-2026-Oct-24.html
+    urls:
+      - https://www.freepressjournal.in/education/ncert-introduces-20-hour-ai-module-for-classes-9-to-12-deepfakes-data-privacy-and-ethical-use-in-focus
+      - https://timesofindia.indiatimes.com/education/news/ncert-develops-ai-and-computational-thinking-module-for-classes-9-to-12-focuses-on-ethical-use-and-data-privacy/articleshow/135166694.cms
+      - https://www.indiatoday.in/education-today/news/story/ncert-introduces-ai-computational-thinking-module-classes-9-12-nep-3023996-2026-10-24
+      - https://www.bweducation.com/article/ncert-introduces-ai-and-computational-thinking-module-for-classes-9-to-12-630305
+  - fingerprint: umich-instructor-berkley-bans-ai-mlive-oct2026
+    title: "A University of Michigan English instructor tried AI, then banned it from her courses"
+    first_seen: 2026-10-24
+    digest: ai-impact-on-education-2026-Oct-24.html
+    urls:
+      - https://www.mlive.com/news/ann-arbor/2026/10/this-university-of-michigan-instructor-experimented-with-ai-now-she-bans-it.html
+  - fingerprint: aeu-senate-committee-ai-teacher-workload-nine-oct2026
+    title: "Australian teachers' union tells a Senate committee AI has shifted workload rather than cut it"
+    first_seen: 2026-10-24
+    digest: ai-impact-on-education-2026-Oct-24.html
+    urls:
+      - https://www.nine.com.au/australia-news/ai-in-schools-one-in-four-australians-say-children-should-never-be-taught-ai-chatbots-20261025-p6181j.html
+  - fingerprint: baltimore-county-school-board-candidates-ai-split-oct2026
+    title: "Baltimore County school board hopefuls split over AI, from an outright ban to 'learn about AI, not from it'"
+    first_seen: 2026-10-24
+    digest: ai-impact-on-education-2026-Oct-24.html
+    urls:
+      - https://hoodline.com/2026/10/baltimore-county-school-board-hopefuls-split-hard-over-ai-in-classrooms/
+      - https://www.thebanner.com/education/k-12-schools/baltimore-county-schools-ai-policy-ZYYHIBAOLFHZRIA6Q3NJZ4I3YA/
+  - fingerprint: metametrics-llm-lexile-3-percent-accuracy-oct2026
+    title: "Study: ChatGPT, Gemini, Claude and Copilot match official Lexile scores only 3% of the time"
+    first_seen: 2026-10-24
+    digest: ai-impact-on-education-2026-Oct-24.html
+    urls:
+      - https://goodmenproject.com/featured-content/ai-powered-education-instruction-needs-precision-right-now-its-not-even-close/
   - fingerprint: nyc-doe-38-flagged-ai-tools-list-chalkbeat-oct2026
     title: "NYC publishes the 38 ed-tech tools barred under its AI restrictions; vendors dispute flags"
     first_seen: 2026-10-23
@@ -2651,6 +2685,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-24
+- **NCERT releases a 20-hour AI module for Classes 9 to 12, built around deepfakes, privacy and a 'helper' stance** — India's National Council of Educational Research and Training released a 20-hour introductory module on computational thinking and AI for Classes 9 to 12, developed with IIT Madras and IIT Jodhpur and aligned to NEP 2020. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-24.html)
+- **A University of Michigan English instructor tried AI, then banned it from her courses** — Angela Berkley, an English instructor at the University of Michigan, experimented cautiously with large language models in a few assignments, then concluded there was no good way to use them in teaching writing. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-24.html)
+- **Australian teachers' union tells a Senate committee AI has shifted workload rather than cut it** — Australian Education Union federal secretary Nicole Calnan told the Joint Senate Committee on Artificial Intelligence this week that governments promoted AI as a way to reduce teacher workload, but members report it moves their time into checking and reworking outputs. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-24.html)
+- **Baltimore County school board hopefuls split over AI, from an outright ban to 'learn about AI, not from it'** — With early voting near and four of seven Baltimore County school board seats open, candidates for the 108,000-student district disagree on whether AI belongs in classrooms at all. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-24.html)
+- **Study: ChatGPT, Gemini, Claude and Copilot match official Lexile scores only 3% of the time** — MetaMetrics, the maker of the Lexile reading framework, ran more than 20,000 analyses asking four mainstream chatbots to estimate the difficulty of 1,807 passages. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-24.html)
 
 ## 2026-Oct-23
 - **NYC publishes the 38 ed-tech tools barred under its AI restrictions; vendors dispute flags** — Chalkbeat obtained the Education Department's list of 38 products flagged under Mayor Mamdani's student-facing AI restrictions after more than a month of requests. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-23.html)
