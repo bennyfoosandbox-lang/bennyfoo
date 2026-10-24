@@ -2,10 +2,29 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-23
-run_count: 79
-digest_count: 79
+last_run: 2026-10-24
+run_count: 80
+digest_count: 80
 entries:
+  - fingerprint: claude-code-v2-1-308-310-skill-fixes-oct22-23
+    title: "Claude Code 2.1.308 to 2.1.310 fixes how skills are found, synced and namespaced"
+    first_seen: 2026-10-24
+    digest: essential-skill-md-for-productivity-2026-Oct-24.html
+    urls:
+      - https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+      - https://github.com/anthropics/claude-code/releases
+  - fingerprint: expo-entrypoint-skill-discovery-9-to-55-pct-oct8
+    title: "Expo finds an entrypoint skill raised agent skill usage from 9% to 55%"
+    first_seen: 2026-10-24
+    digest: essential-skill-md-for-productivity-2026-Oct-24.html
+    urls:
+      - https://expo.dev/blog/your-skills-need-an-evaluation-mechanism
+  - fingerprint: gemini-skills-rollout-timeline-mid-nov-oct13
+    title: "Google gives a rollout timeline for Gemini skills: Gemini app by mid-November, Workspace slightly delayed"
+    first_seen: 2026-10-24
+    digest: essential-skill-md-for-productivity-2026-Oct-24.html
+    urls:
+      - https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html
   - fingerprint: aaif-agent-skills-donation-280m-installs-oct22
     title: "Anthropic donates Agent Skills to the Agentic AI Foundation, citing 1 million skills and nearly 280 million installs"
     first_seen: 2026-10-23
@@ -2595,6 +2614,11 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-24
+- **Claude Code 2.1.308 to 2.1.310 fixes how skills are found, synced and namespaced** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-24.html)
+- **Expo finds an entrypoint skill raised agent skill usage from 9% to 55%** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-24.html)
+- **Google gives a rollout timeline for Gemini skills: Gemini app by mid-November, Workspace slightly delayed** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-24.html)
 
 ## 2026-Oct-23
 - **Anthropic donates Agent Skills to the Agentic AI Foundation, citing 1 million skills and nearly 280 million installs** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-23.html)
