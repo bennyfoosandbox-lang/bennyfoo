@@ -2,10 +2,51 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-24
-run_count: 86
-digest_count: 86
+last_run: 2026-10-25
+run_count: 87
+digest_count: 87
 entries:
+  - fingerprint: walmart-agent-profiles-agent-gateway-spending-limits-oct2026
+    title: "Walmart gives AI agents their own profiles, spending limits and an MCP gateway"
+    first_seen: 2026-10-25
+    digest: using-ai-for-business-productivity-2026-Oct-25.html
+    urls:
+      - https://www.digitalcommerce360.com/2026/10/23/walmart-unveils-ai-agent-shopping-controls-spending-limits/
+      - https://thenextweb.com/news/walmart-ai-agents-shop-agent-profiles
+      - https://ppc.land/walmart-lets-ai-agents-buy-within-customer-set-limits-such-as-50-or-100/
+      - https://theshelbyreport.com/2026/10/22/walmart-builds-guardrails-for-ai-agents-shopping-on-customers-behalf/
+  - fingerprint: fortune-ai-productivity-boom-whats-in-it-for-employees-oct2026
+    title: "Fortune: as AI productivity gains arrive, bosses ask what employees get back"
+    first_seen: 2026-10-25
+    digest: using-ai-for-business-productivity-2026-Oct-25.html
+    urls:
+      - https://fortune.com/2026/10/19/ai-productivity-boom-has-bosses-asking-whats-in-it-for-employees/
+      - https://dnyuz.com/2026/10/19/the-ai-productivity-boom-has-bosses-asking-whats-in-it-for-employees/
+  - fingerprint: grant-thornton-q3-2026-cfo-survey-80pct-profit-84pct-ai-expectations-sep2026
+    title: "Grant Thornton: CFO profit optimism hits a record, and 84% say AI is meeting expectations"
+    first_seen: 2026-10-25
+    digest: using-ai-for-business-productivity-2026-Oct-25.html
+    urls:
+      - https://www.grantthornton.com/insights/press-releases/2026/september/grant-thornton-survey-cfo-profit-optimism-reaches-record-high
+      - https://www.grantthornton.com/insights/survey-reports/cfo-survey/2026/cfos-are-bullish-on-profits-amid-ai-enthusiasm
+      - https://www.cpapracticeadvisor.com/2026/09/25/cfo-profit-optimism-reaches-record-high-despite-economic-issues/190553/
+      - https://www.accountingtoday.com/news/cfos-feeling-more-optimistic-about-business
+  - fingerprint: microsoft-copilot-button-prompt-box-word-excel-powerpoint-mc1470885-sep2026
+    title: "Microsoft puts a prompt box on the Copilot button in Word, Excel and PowerPoint"
+    first_seen: 2026-10-25
+    digest: using-ai-for-business-productivity-2026-Oct-25.html
+    urls:
+      - https://mc.merill.net/message/MC1470885
+      - https://m365admin.handsontek.net/?p=23856
+      - https://support.microsoft.com/topic/40db4cef-3d59-474d-9dec-f649b5bfab8e
+  - fingerprint: thryv-2026-small-business-ai-adoption-66pct-70pct-need-training-jun2026
+    title: "Small businesses are adopting AI fast, but 70% say they need more training"
+    first_seen: 2026-10-25
+    digest: using-ai-for-business-productivity-2026-Oct-25.html
+    urls:
+      - https://businesswire.com/news/home/20260625243838/en/AI-Adoption-Continues-to-Rise-but-70-Say-They-Need-More-Training-to-Use-It-Effectively
+      - https://www.cpapracticeadvisor.com/2026/07/14/ai-adoption-continues-to-rise-but-70-say-they-need-more-training/186565/
+      - https://chainstoreage.com/survey-small-businesses-cite-cost-and-time-savings-top-ai-benefits
   - fingerprint: uber-chatgpt-work-30000-employees-rollout-oct2026
     title: "Uber puts OpenAI's ChatGPT Work in front of all 30,000 employees"
     first_seen: 2026-10-24
@@ -3555,6 +3596,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-25
+- **Walmart gives AI agents their own profiles, spending limits and an MCP gateway** — Walmart announced Agent Profiles and an Agent Gateway on 21 October, giving outside AI assistants a governed way to shop its catalogue on a customer's behalf. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-25.html)
+- **Fortune: as AI productivity gains arrive, bosses ask what employees get back** — A 19 October Fortune report (from earlier this week) finds leaders at PepsiCo, Indeed, Dropbox and Bristol Myers Squibb rethinking who should benefit from AI-driven time savings. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-25.html)
+- **Grant Thornton: CFO profit optimism hits a record, and 84% say AI is meeting expectations** — Grant Thornton's Q3 2026 CFO Survey (from late September, so older than the 24-hour window) polled 229 US finance leaders between 7 and 21 August. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-25.html)
+- **Microsoft puts a prompt box on the Copilot button in Word, Excel and PowerPoint** — Microsoft Message Center item MC1470885 (published 11 September, so older than the 24-hour window) says users will be able to type or dictate requests straight from the Copilot button in Word, Excel and PowerPoint, without opening the Copilot pane. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-25.html)
+- **Small businesses are adopting AI fast, but 70% say they need more training** — Thryv's 2026 AI and Small Business Adoption Survey (published in late June, so the oldest item here and a vendor-sponsored study) reports US small-business AI adoption at 66%, up from 55% a year earlier. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-25.html)
 
 ## 2026-Oct-24
 - **Uber puts OpenAI's ChatGPT Work in front of all 30,000 employees** — Uber and OpenAI announced on 22 October that ChatGPT Work, the agent inside ChatGPT Enterprise, will go to Uber's entire global workforce of more than 30,000 people after a pilot of 1,000. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-24.html)
