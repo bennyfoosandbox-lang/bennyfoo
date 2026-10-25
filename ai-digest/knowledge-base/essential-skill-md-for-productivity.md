@@ -2,10 +2,44 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-24
-run_count: 80
-digest_count: 80
+last_run: 2026-10-25
+run_count: 81
+digest_count: 81
 entries:
+  - fingerprint: google-data-agent-kit-ga-37-skills-iam-guardrails-oct24
+    title: "Google's Data Agent Kit reaches GA with 37 open-source skills"
+    first_seen: 2026-10-25
+    digest: essential-skill-md-for-productivity-2026-Oct-25.html
+    urls:
+      - https://www.infoq.com/news/2026/10/data-agent-kit-ga/
+      - https://github.com/GoogleCloudPlatform/data-agent-kit-plugin
+  - fingerprint: cloudflare-security-audit-skill-guide-six-phases-oct24
+    title: "Cloudflare's security-audit skill gets a hands-on guide"
+    first_seen: 2026-10-25
+    digest: essential-skill-md-for-productivity-2026-Oct-25.html
+    urls:
+      - https://pasqualepillitteri.it/en/news/26916/cloudflare-security-audit-skill-how-to-use
+      - https://github.com/cloudflare/security-audit-skill
+      - https://blog.cloudflare.com/build-your-own-vulnerability-harness
+  - fingerprint: skillme-emnlp-2026-evolving-skills-plus-25-7-oct
+    title: "SkillMe (EMNLP 2026) evolves skills through repeated use, +25.7 points"
+    first_seen: 2026-10-25
+    digest: essential-skill-md-for-productivity-2026-Oct-25.html
+    urls:
+      - https://aclanthology.org/2026.emnlp-main.564/
+  - fingerprint: awesome-agent-skills-khasky-49-skills-oct21
+    title: "Awesome Agent Skills packages 49 maintenance and audit procedures"
+    first_seen: 2026-10-25
+    digest: essential-skill-md-for-productivity-2026-Oct-25.html
+    urls:
+      - https://hackernoon.com/awesome-agent-skills-49-skills-for-better-ai-assisted-coding
+      - https://github.com/khasky/awesome-agent-skills
+  - fingerprint: laravel-ai-sdk-1-1-agent-skills-oct5
+    title: "Laravel AI SDK 1.1 brings SKILL.md-style skills to PHP agents"
+    first_seen: 2026-10-25
+    digest: essential-skill-md-for-productivity-2026-Oct-25.html
+    urls:
+      - https://medium.com/@devtalk94/laravel-ai-sdk-1-1-agent-skills-setup-guide-and-gotchas-a9e79d6d7a61
   - fingerprint: claude-code-v2-1-308-310-skill-fixes-oct22-23
     title: "Claude Code 2.1.308 to 2.1.310 fixes how skills are found, synced and namespaced"
     first_seen: 2026-10-24
@@ -2614,6 +2648,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-25
+- **Google's Data Agent Kit reaches GA with 37 open-source skills** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-25.html)
+- **Cloudflare's security-audit skill gets a hands-on guide** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-25.html)
+- **SkillMe (EMNLP 2026) evolves skills through repeated use, +25.7 points** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-25.html)
+- **Awesome Agent Skills packages 49 maintenance and audit procedures** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-25.html)
+- **Laravel AI SDK 1.1 brings SKILL.md-style skills to PHP agents** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-25.html)
 
 ## 2026-Oct-24
 - **Claude Code 2.1.308 to 2.1.310 fixes how skills are found, synced and namespaced** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-24.html)
