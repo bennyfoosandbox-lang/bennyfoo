@@ -2,10 +2,43 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-24
-run_count: 75
-digest_count: 72
+last_run: 2026-10-25
+run_count: 76
+digest_count: 73
 entries:
+  - fingerprint: uwa-rejects-ai-detection-tools-futile-cheating-oct2026
+    title: "The University of Western Australia says it will not use AI detectors to catch cheaters"
+    first_seen: 2026-10-25
+    digest: ai-impact-on-education-2026-Oct-25.html
+    urls:
+      - https://www.universityworldnews.com/post.php?story=20261024151315988
+      - https://www.afr.com/policy/health-and-education/unis-reject-ai-detection-tools-amid-futile-fight-against-cheating-20261021-p616tg
+  - fingerprint: campion-edtech-2026-61pct-schools-ai-policies-teachers-unsure-oct2026
+    title: "61% of Australian schools now have AI policies, yet many teachers still don't know what they may do"
+    first_seen: 2026-10-25
+    digest: ai-impact-on-education-2026-Oct-25.html
+    urls:
+      - https://www.theeducatoronline.com/k12/news/the-missing-link-in-schools-ai-strategies/289297
+  - fingerprint: acu-year12-exams-ai-explain-without-it-pnas-17pct-oct2026
+    title: "As Year 12 exams start, Australian Catholic University experts warn that leaning on AI can cost marks"
+    first_seen: 2026-10-25
+    digest: ai-impact-on-education-2026-Oct-25.html
+    urls:
+      - https://www.theeducatoronline.com/k12/news/why-ai-could-be-costing-students-exam-marks/289301
+      - https://pubmed.ncbi.nlm.nih.gov/40560616/
+  - fingerprint: mashable-teachers-venting-tiktok-reddit-chatbots-pew-54pct-oct2026
+    title: "Teachers vent on TikTok and Reddit that chatbots are making a hard job harder"
+    first_seen: 2026-10-25
+    digest: ai-impact-on-education-2026-Oct-25.html
+    urls:
+      - https://www.yahoo.com/news/us/articles/teachers-reaching-breaking-point-chatgpt-200813040.html
+      - https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/
+  - fingerprint: singapore-teachers-union-act-plus-1-vietnam-human-centred-ai-oct2026
+    title: "ASEAN teacher unions meet in Singapore and put teachers, not technology, at the centre of AI in schools"
+    first_seen: 2026-10-25
+    digest: ai-impact-on-education-2026-Oct-25.html
+    urls:
+      - https://vietnamnet.vn/en/vietnam-calls-for-human-centred-ai-integration-in-education-at-act-1-convention-2568360.html
   - fingerprint: ncert-ai-computational-thinking-module-classes-9-12-oct2026
     title: "NCERT releases a 20-hour AI module for Classes 9 to 12, built around deepfakes, privacy and a 'helper' stance"
     first_seen: 2026-10-24
@@ -2685,6 +2718,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-25
+- **The University of Western Australia says it will not use AI detectors to catch cheaters** — UWA Chancellor Diane Smith-Gander said in an Australian Financial Review opinion piece that the university has decided against AI detection tools. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-25.html)
+- **61% of Australian schools now have AI policies, yet many teachers still don't know what they may do** — Campion Education's EdTech Adoption in Australian Schools 2026 report finds that 61% of schools have formal policies governing student use of generative AI. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-25.html)
+- **As Year 12 exams start, Australian Catholic University experts warn that leaning on AI can cost marks** — With NSW HSC written exams running from 13 October to 5 November and Victorian VCE exams starting on 27 October, ACU experts are urging students to use AI carefully in revision. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-25.html)
+- **Teachers vent on TikTok and Reddit that chatbots are making a hard job harder** — Mashable's roundup of teacher posts describes a first-grade teacher in tears over a class where one of 34 students passed an exam, and r/Teachers threads about high schoolers who cannot write words and students who 'finish' work in seconds with ChatGPT and then cannot explain it. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-25.html)
+- **ASEAN teacher unions meet in Singapore and put teachers, not technology, at the centre of AI in schools** — The Singapore Teachers' Union hosted the ACT +1 convention from 22 to 25 October under the theme 'Steered by Teachers; Anchored in Relationships; Propelled by AI', drawing educators from across ASEAN and South Korea. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-25.html)
 
 ## 2026-Oct-24
 - **NCERT releases a 20-hour AI module for Classes 9 to 12, built around deepfakes, privacy and a 'helper' stance** — India's National Council of Educational Research and Training released a 20-hour introductory module on computational thinking and AI for Classes 9 to 12, developed with IIT Madras and IIT Jodhpur and aligned to NEP 2020. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-24.html)
