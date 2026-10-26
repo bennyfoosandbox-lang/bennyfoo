@@ -2,10 +2,54 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-25
-run_count: 87
-digest_count: 87
+last_run: 2026-10-26
+run_count: 88
+digest_count: 88
 entries:
+  - fingerprint: creatio-state-of-enterprise-ai-2026-31pct-selected-functions-9pct-headcount-oct2026
+    title: "Creatio: 70% of enterprises are past AI pilots, but only 29% have full governance"
+    first_seen: 2026-10-26
+    digest: using-ai-for-business-productivity-2026-Oct-26.html
+    urls:
+      - https://www.creatio.com/page/the-state-of-enterprise-ai-adoption
+      - https://techintelpro.com/news/AI/Enterprise-AI/creatio-releases-state-of-enterprise-ai-adoption-report-key-trends
+      - https://finance.yahoo.com/technology/ai/articles/creatio-releases-state-enterprise-ai-124200640.html
+      - https://vmblog.com/news/creatio-releases-the-state-of-enterprise-ai-adoption-report-an-in-depth-look-at-where-enterprise-ai-stands/
+  - fingerprint: daytona-60m-series-b-1b-valuation-agent-cloud-oct2026
+    title: "Daytona raises $60M at a $1B valuation to build a cloud for AI agents"
+    first_seen: 2026-10-26
+    digest: using-ai-for-business-productivity-2026-Oct-26.html
+    urls:
+      - https://tech.eu/2026/10/20/daytona-hits-1b-valuation-with-60m-series-b-for-ai-agent-cloud//
+      - https://dealroom.co/news/164304-daytona-raises-60m-series-b-at-1b-valuation-to-build-the-agentic-cloud/
+      - https://therecursive.com/daytona-series-b-valuation-croatias-third-unicorn
+      - https://aiweekly.co/alerts/daytona-raises-60m-series-b-at-1b-for-ai-agent-cpu-cloud-25x-revenue-jump-since
+  - fingerprint: motive-agents-fleet-alerts-calls-drivers-work-orders-oct2026
+    title: "Motive launches Agents that act on fleet alerts, from calling drivers to opening work orders"
+    first_seen: 2026-10-26
+    digest: using-ai-for-business-productivity-2026-Oct-26.html
+    urls:
+      - https://gomotive.com/motive-launches-agents-ai-that-acts-before-problems-start/
+      - https://www.truckinginfo.com/news/motive-adds-ai-agents-for-fleet-operations
+      - https://www.ccjdigital.com/technology/artificial-intelligence/article/15837763/how-motives-new-ai-platform-cuts-fleet-costs-downtime
+      - https://www.fleetowner.com/technology/autonomous-vehicles/news/55412429/motive-launches-ai-agents-to-reduce-truck-collisions-breakdowns-and-operating-costs
+  - fingerprint: demandbase-three-agents-aeo-agent-b2a-marketing-oct2026
+    title: "Demandbase launches three agents, including one that tracks how AI assistants describe your brand"
+    first_seen: 2026-10-26
+    digest: using-ai-for-business-productivity-2026-Oct-26.html
+    urls:
+      - https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=177126
+      - https://martechedge.com/news/demandbase-launches-three-ai-agents-to-expand-b2a-marketing
+      - https://www.demandgenreport.com/industry-news/demandbase-launches-connected-ai-agents-to-support-gtm-execution/48929/
+  - fingerprint: azoma-11m-series-a-agentic-commerce-optimization-oct2026
+    title: "Azoma raises $11.2M to help brands get recommended by AI shopping agents"
+    first_seen: 2026-10-26
+    digest: using-ai-for-business-productivity-2026-Oct-26.html
+    urls:
+      - https://www.saasrise.com/news/azoma-secures-112m-series-a-to-power-ai-shopping-agents-for-consumer-brands-893944cb-aecd-4de2-8b59-e8fbc1e9cc2c
+      - https://www.startupresearcher.com/news/azoma-raises-usd11-2-million-series-a-to-expand-agentic-commerce-optimization-platform
+      - https://techstartups.com/?p=139702
+      - https://runtimewire.com/article/azoma-series-a-ai-shopping-agents
   - fingerprint: walmart-agent-profiles-agent-gateway-spending-limits-oct2026
     title: "Walmart gives AI agents their own profiles, spending limits and an MCP gateway"
     first_seen: 2026-10-25
@@ -3596,6 +3640,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-26
+- **Creatio: 70% of enterprises are past AI pilots, but only 29% have full governance** — Creatio's second annual report (20 October, 600+ decision-makers) finds about 70% of enterprises beyond experimentation, 89% expecting agents to add capacity rather than cut jobs, and just 29% with fully established AI governance. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-26.html)
+- **Daytona raises $60M at a $1B valuation to build a cloud for AI agents** — FirstMark led the 20 October round for Daytona's sandboxes where agents run code and tools; total funding reaches $91M. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-26.html)
+- **Motive launches Agents that act on fleet alerts, from calling drivers to opening work orders** — Announced 19 October, Motive Agents turn fleet alerts into actions: explaining faults, calling drivers via Atlas and opening maintenance work orders. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-26.html)
+- **Demandbase launches three agents, including one that tracks how AI assistants describe your brand** — Announced 21 October, the AEO Agent monitors how AI assistants describe a brand to buying groups. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-26.html)
+- **Azoma raises $11.2M to help brands get recommended by AI shopping agents** — Led by Puma Growth Partners on 21 October, Azoma helps brands such as L'Oréal and Unilever get recommended by AI shopping agents. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-26.html)
 
 ## 2026-Oct-25
 - **Walmart gives AI agents their own profiles, spending limits and an MCP gateway** — Walmart announced Agent Profiles and an Agent Gateway on 21 October, giving outside AI assistants a governed way to shop its catalogue on a customer's behalf. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-25.html)
