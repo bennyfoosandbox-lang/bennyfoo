@@ -2,10 +2,43 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-25
-run_count: 76
-digest_count: 73
+last_run: 2026-10-26
+run_count: 77
+digest_count: 74
 entries:
+  - fingerprint: berkeley-borcherds-stops-grading-homework-ai-completion-oct2026
+    title: "UC Berkeley's Fields Medalist stops grading homework for correctness because AI keeps earning top scores"
+    first_seen: 2026-10-26
+    digest: ai-impact-on-education-2026-Oct-26.html
+    urls:
+      - https://hoodline.com/2026/10/berkeley-math-professor-stops-grading-homework-amid-student-ai-use/
+      - https://www.unilad.com/news/us-news/college-professor-grades-ai-510695-20261026
+  - fingerprint: korea-moe-nationwide-ai-glasses-cheating-inspection-oct2026
+    title: "South Korea launches a nationwide check of schools for 'AI glasses' cheating"
+    first_seen: 2026-10-26
+    digest: ai-impact-on-education-2026-Oct-26.html
+    urls:
+      - https://news.sbs.co.kr/english/article.do?news_id=N1008816101
+  - fingerprint: bihar-11-it-firms-google-education-teacher-ai-training-oct2026
+    title: "Bihar enlists 11 IT firms, including Google Education, to train government school teachers in AI"
+    first_seen: 2026-10-26
+    digest: ai-impact-on-education-2026-Oct-26.html
+    urls:
+      - https://www.ndtv.com/education/bihar-partners-with-11-it-firms-to-train-government-school-teachers-in-artificial-intelligence-12235360
+      - https://www.dqindia.com/upskilling/bihar-taps-11-it-companies-to-train-teachers-in-ai-12754822
+      - https://analyticsindiamag.com/ai-news/bihar-partners-with-it-cos-to-train-government-school-teachers-in-ai
+  - fingerprint: oup-digital-learning-report-66pct-students-ai-exam-prep-south-africa-oct2026
+    title: "Oxford University Press: 66% of surveyed students use AI chatbots to prepare for exams, and only 3% of teachers use none"
+    first_seen: 2026-10-26
+    digest: ai-impact-on-education-2026-Oct-26.html
+    urls:
+      - https://mybroadband.co.za/news/ai/673897-school-students-using-chatgpt-gemini-and-meta-ai-to-survive-matric-exams-in-south-africa.html
+  - fingerprint: epfl-student-survey-90pct-use-ai-coursework-learning-tool-oct2026
+    title: "EPFL survey: over 90% of students use AI for coursework, but mostly as a learning aid"
+    first_seen: 2026-10-26
+    digest: ai-impact-on-education-2026-Oct-26.html
+    urls:
+      - https://www.miragenews.com/students-love-hate-relationship-with-ai-1766440/
   - fingerprint: uwa-rejects-ai-detection-tools-futile-cheating-oct2026
     title: "The University of Western Australia says it will not use AI detectors to catch cheaters"
     first_seen: 2026-10-25
@@ -2718,6 +2751,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-26
+- **UC Berkeley's Fields Medalist stops grading homework for correctness because AI keeps earning top scores** — Richard Borcherds (MATH 250A) now grades homework for completion only after students used AI to earn top scores; Berkeley leaves AI policy to faculty and judged Turnitin and Rumi detectors inadequate. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-26.html)
+- **South Korea launches a nationwide check of schools for "AI glasses" cheating** — The Ministry of Education is inspecting all elementary, middle and high schools through the end of October; one middle school and one high school case confirmed, both students scored zero. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-26.html)
+- **Bihar enlists 11 IT firms, including Google Education, to train government school teachers in AI** — Training centralised at SCERT, compulsory computer education from class 6, smart classrooms in 700 model schools. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-26.html)
+- **Oxford University Press: 66% of surveyed students use AI chatbots to prepare for exams, and only 3% of teachers use none** — Four-country survey (South Africa, Brazil, UK, Hong Kong); 82% of teachers use chatbots for research, 56% for marking; 18% of South African students lack a device in at least one setting. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-26.html)
+- **EPFL survey: over 90% of students use AI for coursework, but mostly as a learning aid** — 359 respondents; 85% feel little or no pressure to use AI; CAPE published two handbooks warning about cognitive outsourcing. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-26.html)
 
 ## 2026-Oct-25
 - **The University of Western Australia says it will not use AI detectors to catch cheaters** — UWA Chancellor Diane Smith-Gander said in an Australian Financial Review opinion piece that the university has decided against AI detection tools. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-25.html)
