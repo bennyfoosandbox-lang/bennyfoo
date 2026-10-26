@@ -2,10 +2,40 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-25
-run_count: 81
-digest_count: 81
+last_run: 2026-10-26
+run_count: 82
+digest_count: 82
 entries:
+  - fingerprint: claude-code-weekly-oct19-25-reload-skills-auto-mode-setup-v2-1-304-310
+    title: "Claude Code's week of seven releases: skills now re-sent after compaction, /reload-skills trimmed"
+    first_seen: 2026-10-26
+    digest: essential-skill-md-for-productivity-2026-Oct-26.html
+    urls:
+      - https://aiparabellum.com/claude-code-weekly-oct-19-25/
+  - fingerprint: plane-workspace-skills-five-agents-personal-vs-workspace-oct25
+    title: "Plane ships five workspace skills, with a personal-vs-workspace split for scheduled agents"
+    first_seen: 2026-10-26
+    digest: essential-skill-md-for-productivity-2026-Oct-26.html
+    urls:
+      - https://plane.so/blog/essential-agents-and-skills-for-your-plane-workspace
+  - fingerprint: academic-research-skills-v3-23-2-integrity-checks-oct24
+    title: "Academic Research Skills reaches v3.23.2 with stricter integrity checks"
+    first_seen: 2026-10-26
+    digest: essential-skill-md-for-productivity-2026-Oct-26.html
+    urls:
+      - https://github.com/imbad0202/academic-research-skills
+  - fingerprint: howtogeek-claude-84-6k-tokens-startup-context-oct25
+    title: "How-To Geek: 84.6K tokens burned before the first word of a chat"
+    first_seen: 2026-10-26
+    digest: essential-skill-md-for-productivity-2026-Oct-26.html
+    urls:
+      - https://www.howtogeek.com/claude-was-eating-85k-tokens-at-start-every-chat-until-made-one-change/
+  - fingerprint: blast-radius-analyzer-skill-medium-7-claude-code-skills-oct25
+    title: "A 'Blast Radius Analyzer' skill makes Claude trace dependencies before editing"
+    first_seen: 2026-10-26
+    digest: essential-skill-md-for-productivity-2026-Oct-26.html
+    urls:
+      - https://medium.com/@the_infinity/7-claude-code-skills-that-turned-my-agent-into-a-senior-developer-d91d25653c58
   - fingerprint: google-data-agent-kit-ga-37-skills-iam-guardrails-oct24
     title: "Google's Data Agent Kit reaches GA with 37 open-source skills"
     first_seen: 2026-10-25
@@ -2648,6 +2678,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-26
+- **Claude Code's week of seven releases: skills now re-sent after compaction, /reload-skills trimmed** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-26.html)
+- **Plane ships five workspace skills, with a personal-vs-workspace split for scheduled agents** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-26.html)
+- **Academic Research Skills reaches v3.23.2 with stricter integrity checks** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-26.html)
+- **How-To Geek: 84.6K tokens burned before the first word of a chat** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-26.html)
+- **A "Blast Radius Analyzer" skill makes Claude trace dependencies before editing** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-26.html)
 
 ## 2026-Oct-25
 - **Google's Data Agent Kit reaches GA with 37 open-source skills** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-25.html)
