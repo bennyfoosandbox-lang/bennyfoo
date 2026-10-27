@@ -2,10 +2,40 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-26
-run_count: 77
-digest_count: 74
+last_run: 2026-10-27
+run_count: 78
+digest_count: 75
 entries:
+  - fingerprint: ca-professors-pen-paper-usc-chatgpt-edu-stanford-pilot-oct2026
+    title: "California's top professors retreat to pen and paper as campus AI deals deepen"
+    first_seen: 2026-10-27
+    digest: ai-impact-on-education-2026-Oct-27.html
+    urls:
+      - https://nypost.com/2026/10/26/us-news/top-california-professors-expose-pitfalls-of-campus-ai-push/
+  - fingerprint: korea-teachers-union-82pct-cannot-detect-ai-glasses-csat-oct2026
+    title: "82% of Korean teachers say they cannot tell AI smart glasses from ordinary glasses ahead of exams"
+    first_seen: 2026-10-27
+    digest: ai-impact-on-education-2026-Oct-27.html
+    urls:
+      - https://news.sbs.co.kr/english/article.do?news_id=N1008817486
+  - fingerprint: holoniq-q3-2026-ai-university-partnerships-12pct-oct2026
+    title: "HolonIQ: AI now features in 12% of global university partnerships, up from 2.1% five years ago"
+    first_seen: 2026-10-27
+    digest: ai-impact-on-education-2026-Oct-27.html
+    urls:
+      - https://eu.36kr.com/en/p/4042761496417158
+  - fingerprint: maryland-school-board-candidates-ai-ready-schools-act-split-oct2026
+    title: "Maryland school board candidates range from K-5 AI bans to 'AI-free zones' after the state's October deadline"
+    first_seen: 2026-10-27
+    digest: ai-impact-on-education-2026-Oct-27.html
+    urls:
+      - https://thedailyrecord.com/2026/10/27/maryland-school-board-candidates-concerns-ai-education/
+  - fingerprint: bahrain-moe-bsera-ai-learning-platform-nears-launch-oct2026
+    title: "Bahrain's Ministry of Education nears launch of B~SERA, a curriculum-bound AI learning platform"
+    first_seen: 2026-10-27
+    digest: ai-impact-on-education-2026-Oct-27.html
+    urls:
+      - https://www.newsofbahrain.com/en/article/bahrains-ai-learning-platform-nears-launch
   - fingerprint: berkeley-borcherds-stops-grading-homework-ai-completion-oct2026
     title: "UC Berkeley's Fields Medalist stops grading homework for correctness because AI keeps earning top scores"
     first_seen: 2026-10-26
@@ -2751,6 +2781,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-27
+- **California's top professors retreat to pen and paper as campus AI deals deepen** — Professors at USC, UCLA, Berkeley and Stanford told the New York Post that AI has forced them to rebuild how they assess students. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-27.html)
+- **82% of Korean teachers say they cannot tell AI smart glasses from ordinary glasses ahead of exams** — A Korean Teachers and Education Workers Union survey of roughly 2,700 teachers found that 82.3% think the Ministry of Education's current supervision procedures make it difficult to identify smart glasses in the CSAT and mock exams, against 3.5% who think it is possible. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-27.html)
+- **HolonIQ: AI now features in 12% of global university partnerships, up from 2.1% five years ago** — A HolonIQ Q3 2026 education AI report, summarised by 36Kr, says AI and data now account for about 12 of every 100 higher-education cooperation initiatives, compared with roughly 2 five years ago. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-27.html)
+- **Maryland school board candidates range from K-5 AI bans to 'AI-free zones' after the state's October deadline** — Capital News Service surveyed candidates across Maryland, where the Artificial Intelligence Ready Schools Act required all 24 school systems to adopt AI integration plans by early October. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-27.html)
+- **Bahrain's Ministry of Education nears launch of B~SERA, a curriculum-bound AI learning platform** — Bahrain's education minister said on 25 October that the B~SERA platform is very close to its final launch, though no public date is confirmed. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-27.html)
 
 ## 2026-Oct-26
 - **UC Berkeley's Fields Medalist stops grading homework for correctness because AI keeps earning top scores** — Richard Borcherds (MATH 250A) now grades homework for completion only after students used AI to earn top scores; Berkeley leaves AI policy to faculty and judged Turnitin and Rumi detectors inadequate. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-26.html)
