@@ -2,10 +2,45 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-26
-run_count: 88
-digest_count: 88
+last_run: 2026-10-27
+run_count: 89
+digest_count: 89
 entries:
+  - fingerprint: oracle-fusion-companion-agentic-home-delegate-work-via-chatgpt-oct2026
+    title: "Oracle's Fusion Companion lets employees run ERP and HR work from ChatGPT"
+    first_seen: 2026-10-27
+    digest: using-ai-for-business-productivity-2026-Oct-27.html
+    urls:
+      - https://www.oracle.com/news/announcement/ai-world-oracle-introduces-new-ai-powered-ways-to-execute-work-across-oracle-fusion-applications-2026-10-26/
+      - https://forkast.news/oracle-introduces-fusion-companion-and-agentic-home-at-ai-world-with-no-price-attached/
+      - https://smallbiztrends.com/oracle-unveils-25-ai-agents-to-automate-business-operations/
+      - https://itbrief.asia/story/oracle-launches-agentic-ai-tools-deep-trust-architecture
+  - fingerprint: oracle-deep-trust-ai-architecture-database-enforced-agent-controls-oct2026
+    title: "Oracle's Deep Trust architecture enforces AI agent permissions inside the database"
+    first_seen: 2026-10-27
+    digest: using-ai-for-business-productivity-2026-Oct-27.html
+    urls:
+      - https://www.oracle.com/latam/news/announcement/ai-world-oracle-announces-deep-trust-ai-architecture-to-help-enterprises-innovate-with-confidence-2026-10-26/
+      - https://blogs.oracle.com/database/announcing-oracle-deep-trust-ai-architecture
+      - https://itbrief.asia/story/oracle-launches-agentic-ai-tools-deep-trust-architecture
+  - fingerprint: sap-q3-2026-ai-release-highlights-joule-work-45000-customers-novartis-oct2026
+    title: "SAP says 45,000 cloud customers now use its AI, with Novartis targeting 35% productivity uplift"
+    first_seen: 2026-10-27
+    digest: using-ai-for-business-productivity-2026-Oct-27.html
+    urls:
+      - https://news.sap.com/2026/10/ai-release-highlights-q3-2026/
+  - fingerprint: singapore-champions-of-ai-24-companies-agentic-sme-workshops-switch-oct2026
+    title: "Singapore launches 'Champions of AI' for 24 firms and agentic AI workshops for SMEs"
+    first_seen: 2026-10-27
+    digest: using-ai-for-business-productivity-2026-Oct-27.html
+    urls:
+      - https://www.straitstimes.com/business/economy/singapore-unveils-new-initiatives-to-help-companies-harness-ai-such-as-to-develop-new-products
+  - fingerprint: twilio-conversation-orchestrator-memory-agent-connect-signal-sydney-oct2026
+    title: "Twilio argues agents fail without a conversation layer, and ships four pieces to build it"
+    first_seen: 2026-10-27
+    digest: using-ai-for-business-productivity-2026-Oct-27.html
+    urls:
+      - https://ecommercenews.com.au/story/twilio-bets-on-conversation-infrastructure-for-the-agentic-ai-era
   - fingerprint: creatio-state-of-enterprise-ai-2026-31pct-selected-functions-9pct-headcount-oct2026
     title: "Creatio: 70% of enterprises are past AI pilots, but only 29% have full governance"
     first_seen: 2026-10-26
@@ -3640,6 +3675,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-27
+- **Oracle's Fusion Companion lets employees run ERP and HR work from ChatGPT** — Fusion Companion and Agentic Home let staff delegate ERP and HR work from ChatGPT or inside Fusion, within existing permissions. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-27.html)
+- **Oracle's Deep Trust architecture enforces AI agent permissions inside the database** — Deep Trust moves identity checks and business-rule enforcement into the database for agents and AI-built apps. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-27.html)
+- **SAP says 45,000 cloud customers now use its AI, with Novartis targeting 35% productivity uplift** — Joule Work and new assistants; PwC and Novartis cited, with Novartis expecting 25% faster cycles and a 35% FTE productivity uplift. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-27.html)
+- **Singapore launches 'Champions of AI' for 24 firms and agentic AI workshops for SMEs** — 24 firms in the flagship programme, plus agentic workshops after a pilot that supported 280+ small businesses. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-27.html)
+- **Twilio argues agents fail without a conversation layer, and ships four pieces to build it** — Conversation Orchestrator, Memory, Intelligence and open-source Agent Connect target the gap between smart models and usable customer experiences. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-27.html)
 
 ## 2026-Oct-26
 - **Creatio: 70% of enterprises are past AI pilots, but only 29% have full governance** — Creatio's second annual report (20 October, 600+ decision-makers) finds about 70% of enterprises beyond experimentation, 89% expecting agents to add capacity rather than cut jobs, and just 29% with fully established AI governance. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-26.html)
