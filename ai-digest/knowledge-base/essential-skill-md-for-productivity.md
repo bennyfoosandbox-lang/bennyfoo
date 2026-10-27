@@ -2,10 +2,45 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-26
-run_count: 82
-digest_count: 82
+last_run: 2026-10-27
+run_count: 83
+digest_count: 83
 entries:
+  - fingerprint: theo-browne-sole-loop-full-send-full-stop-skills-oct26
+    title: "Theo Browne's three skill files: 27 of 32 'Full Send' PRs merged without a second look"
+    first_seen: 2026-10-27
+    digest: essential-skill-md-for-productivity-2026-Oct-27.html
+    urls:
+      - https://finance.biggo.com/news/8e41e2f0b5a7a374
+      - https://finance.biggo.com/podcast/8e41e2f0b5a7a374
+  - fingerprint: google-iam-helper-agent-skills-mcp-oct26
+    title: "Google Cloud ships IAM Helper: agent skills that fix 403s without over-permissioning"
+    first_seen: 2026-10-27
+    digest: essential-skill-md-for-productivity-2026-Oct-27.html
+    urls:
+      - https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools
+      - https://github.com/google/skills
+  - fingerprint: box-four-agent-skills-cli-mcp-sdk-integration-oct22
+    title: "Box publishes four agent skills, and says installing one grants no account access"
+    first_seen: 2026-10-27
+    digest: essential-skill-md-for-productivity-2026-Oct-27.html
+    urls:
+      - https://opentools.ai/news/box-agent-skills-cli-mcp-sdk-integration-account-access
+      - https://blog.box.com/building-box-explore-four-new-box-agent-skills-and-help-shape-whats-next
+  - fingerprint: forever-security-downloads-folder-agents-md-claude-md-hijack-oct26
+    title: "Researchers hijack Codex and Claude Code with an instruction file dropped in ~/Downloads"
+    first_seen: 2026-10-27
+    digest: essential-skill-md-for-productivity-2026-Oct-27.html
+    urls:
+      - https://cybersecuritynews.com/codex-and-claude-code-hijack/
+      - https://forever.security/blog/hijacking-ai-agents-via-downloads-folder
+  - fingerprint: github-copilot-usage-metrics-name-custom-skills-oct22
+    title: "GitHub Copilot usage metrics now name your custom skills, agents and MCP servers"
+    first_seen: 2026-10-27
+    digest: essential-skill-md-for-productivity-2026-Oct-27.html
+    urls:
+      - https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api
+      - https://opentools.ai/news/github-copilot-customization-metrics-names-skills-agents-mcp-coverage
   - fingerprint: claude-code-weekly-oct19-25-reload-skills-auto-mode-setup-v2-1-304-310
     title: "Claude Code's week of seven releases: skills now re-sent after compaction, /reload-skills trimmed"
     first_seen: 2026-10-26
@@ -2678,6 +2713,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-27
+- **Theo Browne's three skill files: 27 of 32 "Full Send" PRs merged without a second look** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-27.html)
+- **Google Cloud ships IAM Helper: agent skills that fix 403s without over-permissioning** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-27.html)
+- **Box publishes four agent skills, and says installing one grants no account access** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-27.html)
+- **Researchers hijack Codex and Claude Code with an instruction file dropped in ~/Downloads** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-27.html)
+- **GitHub Copilot usage metrics now name your custom skills, agents and MCP servers** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-27.html)
 
 ## 2026-Oct-26
 - **Claude Code's week of seven releases: skills now re-sent after compaction, /reload-skills trimmed** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-26.html)
