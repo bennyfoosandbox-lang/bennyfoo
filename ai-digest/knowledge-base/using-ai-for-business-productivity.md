@@ -2,10 +2,45 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-27
-run_count: 89
-digest_count: 89
+last_run: 2026-10-28
+run_count: 90
+digest_count: 90
 entries:
+  - fingerprint: ibm-watsonx-orchestrate-ai-gateway-governed-catalog-techxchange-oct2026
+    title: "IBM's Orchestrate adds an AI Gateway to govern agents built on any platform"
+    first_seen: 2026-10-28
+    digest: using-ai-for-business-productivity-2026-Oct-28.html
+    urls:
+      - https://www.ibm.com/new/announcements/ibm-watsonx-orchestrate-advances-enterprise-ai-agent-management-with-new-capabilities-at-techxchange-2026
+      - https://aiagentsdirectory.com/news/ai-agents-news-brief-october-27-2026
+  - fingerprint: ibm-agent-identity-control-frontier-intelligence-oct2026
+    title: "IBM adds identity and access controls so agents are treated like accountable workers"
+    first_seen: 2026-10-28
+    digest: using-ai-for-business-productivity-2026-Oct-28.html
+    urls:
+      - https://newsroom.ibm.com/2026-10-27-ibm-introduces-identity-and-control-for-ai-agents,-securing-frontier-intelligence-for-the-enterprise
+      - https://www.ibm.com/new/announcements/ibm-watsonx-orchestrate-advances-enterprise-ai-agent-management-with-new-capabilities-at-techxchange-2026
+  - fingerprint: sap-teched-2026-joule-studio-enterprise-ai-gateway-context-layer-oct2026
+    title: "SAP TechEd: an Enterprise AI Gateway, a Joule Studio CLI and a business context layer"
+    first_seen: 2026-10-28
+    digest: using-ai-for-business-productivity-2026-Oct-28.html
+    urls:
+      - https://www.sap.com/blogs/top-sap-teched-2026-announcements
+      - https://www.cio.com/article/4240684/sap-wants-joule-to-run-business-workflows-not-just-answer-questions.html
+  - fingerprint: openai-gpt-6-1-terra-ga-half-price-computer-use-oct2026
+    title: "OpenAI's GPT-6.1 Terra goes generally available with half-price computer-use agents"
+    first_seen: 2026-10-28
+    digest: using-ai-for-business-productivity-2026-Oct-28.html
+    urls:
+      - https://www.pymnts.com/news/artificial-intelligence/2026/openai-unveils-half-price-ai-model-to-target-enterprise-automation
+      - https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/gpt-6-1-terra-now-generally-available-in-microsoft-foundry-build-agents-that-see/4567769
+      - https://ground.news/article/openai-launches-gpt-61-terra-sam-altman-says-we-are-especially-excited-for_dfe95f
+  - fingerprint: dataiku-headless-governed-ai-work-in-coding-agents-oct2026
+    title: "Dataiku Headless lets Claude Code and Codex build governed data and AI projects"
+    first_seen: 2026-10-28
+    digest: using-ai-for-business-productivity-2026-Oct-28.html
+    urls:
+      - https://www.dataiku.com/company/news/dataiku-introduces-headless
   - fingerprint: oracle-fusion-companion-agentic-home-delegate-work-via-chatgpt-oct2026
     title: "Oracle's Fusion Companion lets employees run ERP and HR work from ChatGPT"
     first_seen: 2026-10-27
@@ -3675,6 +3710,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-28
+- **IBM's Orchestrate adds an AI Gateway to govern agents built on any platform** — At TechXchange 2026, IBM introduced an AI Gateway for watsonx Orchestrate that discovers and governs third-party agents, models and MCP servers from platforms such as Amazon Bedrock, Microsoft and Google through one enforcement layer. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-28.html)
+- **IBM adds identity and access controls so agents are treated like accountable workers** — Alongside Orchestrate, IBM announced identity and control tooling for AI agents covering discovery, verified identities, access controls and performance evaluation across enterprise systems. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-28.html)
+- **SAP TechEd: an Enterprise AI Gateway, a Joule Studio CLI and a business context layer** — At TechEd in Berlin SAP followed last week's Joule Work news with the builder and governance pieces. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-28.html)
+- **OpenAI's GPT-6.1 Terra goes generally available with half-price computer-use agents** — OpenAI released GPT-6.1 Terra, a mid-tier model pitched at faster, cheaper everyday work, and cut API pricing for agentic computer-use workloads by 50%, according to trade coverage. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-28.html)
+- **Dataiku Headless lets Claude Code and Codex build governed data and AI projects** — Dataiku used its Succeed conference to launch Headless, a plugin that lets developers working in Claude Code, Codex, Cursor and similar coding agents hand building work to Dataiku Cobuild and get back an inspectable Dataiku project instead of a script only they can read. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-28.html)
 
 ## 2026-Oct-27
 - **Oracle's Fusion Companion lets employees run ERP and HR work from ChatGPT** — Fusion Companion and Agentic Home let staff delegate ERP and HR work from ChatGPT or inside Fusion, within existing permissions. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-27.html)
