@@ -2,10 +2,40 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-27
-run_count: 78
-digest_count: 75
+last_run: 2026-10-28
+run_count: 79
+digest_count: 76
 entries:
+  - fingerprint: reuters-teachers-remaking-classrooms-oral-exams-in-class-writing-oct2026
+    title: "Reuters: teachers retreat to oral exams, in-class writing and notebooks"
+    first_seen: 2026-10-28
+    digest: ai-impact-on-education-2026-Oct-28.html
+    urls:
+      - https://www.reuters.com/world/how-teachers-are-remaking-classrooms-ai-age-2026-10-28/
+  - fingerprint: project-tomorrow-speak-up-2026-ai-self-directed-learning-46pct-oct2026
+    title: "Speak Up 2026: 46% of high schoolers teach themselves AI tools outside school"
+    first_seen: 2026-10-28
+    digest: ai-impact-on-education-2026-Oct-28.html
+    urls:
+      - https://www.streetinsider.com/PRNewswire/Project+Tomorrow+Releases+23rd+Annual+Speak+Up+Report/27248347.html
+  - fingerprint: levis-quebec-10-students-suspended-ai-altered-staff-images-oct2026
+    title: "Ten Quebec students suspended over AI-altered images of teachers"
+    first_seen: 2026-10-28
+    digest: ai-impact-on-education-2026-Oct-28.html
+    urls:
+      - https://www.cbc.ca/news/canada/montreal/students-suspended-levis-high-school-ai-images-9.7398634
+  - fingerprint: stanford-ctl-teaching-with-ai-share-outs-socratic-tutors-oct2026
+    title: "Stanford instructors build Socratic AI tutors that withhold the answer"
+    first_seen: 2026-10-28
+    digest: ai-impact-on-education-2026-Oct-28.html
+    urls:
+      - https://news.stanford.edu/stories/2026/10/ctl-shareouts-ai-learning
+  - fingerprint: sarasota-county-students-parents-push-back-ai-policy-oct2026
+    title: "Sarasota students and parents push back as board advances AI policy"
+    first_seen: 2026-10-28
+    digest: ai-impact-on-education-2026-Oct-28.html
+    urls:
+      - https://www.mysuncoast.com/2026/10/27/sarasota-students-push-back-ai-schools/
   - fingerprint: ca-professors-pen-paper-usc-chatgpt-edu-stanford-pilot-oct2026
     title: "California's top professors retreat to pen and paper as campus AI deals deepen"
     first_seen: 2026-10-27
@@ -2781,6 +2811,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-28
+- **Reuters: teachers retreat to oral exams, in-class writing and notebooks** — Reuters interviews with a dozen US teachers and education experts find middle and high school teachers are assigning less take-home work and moving assessment back into the room. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-28.html)
+- **Speak Up 2026: 46% of high schoolers teach themselves AI tools outside school** — Project Tomorrow's 23rd annual Speak Up report, drawing on more than 95,000 K-12 students, educators and families, finds 46% of high schoolers now learn AI tools through self-directed experimentation outside school (up 16 points since 2023-24), versus 30% through in-school AI class activities. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-28.html)
+- **Ten Quebec students suspended over AI-altered images of teachers** — Ten students at Horizon high school in Lévis, Quebec, were suspended for three days after posting AI-altered images of teachers and staff to Snapchat, one reportedly depicting a gun held to a teacher's head. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-28.html)
+- **Stanford instructors build Socratic AI tutors that withhold the answer** — Stanford's Center for Teaching and Learning profiled 23 instructors who have presented AI course tools over two academic years, including STEPS, a chemistry tutor that asks guiding questions to protect students' productive struggle, and BungoBot, a Socratic tutor for classical Japanese that let a seminar spend freed-up time transcribing library manuscripts. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-28.html)
+- **Sarasota students and parents push back as board advances AI policy** — Nearly a dozen students and parents told the Sarasota County School Board last week that expanded AI use could erode creativity and critical thinking, with one Booker High School student calling for no AI in schools and criticising constant AI flyers at an arts school. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-28.html)
 
 ## 2026-Oct-27
 - **California's top professors retreat to pen and paper as campus AI deals deepen** — Professors at USC, UCLA, Berkeley and Stanford told the New York Post that AI has forced them to rebuild how they assess students. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-27.html)
