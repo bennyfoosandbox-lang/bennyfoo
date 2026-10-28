@@ -2,10 +2,32 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-27
-run_count: 83
-digest_count: 83
+last_run: 2026-10-28
+run_count: 84
+digest_count: 84
 entries:
+  - fingerprint: google-gemini-agent-picks-skills-gemini-at-work-oct8
+    title: "Google's Gemini agent chooses its own skills, but it is still early access"
+    first_seen: 2026-10-28
+    digest: essential-skill-md-for-productivity-2026-Oct-28.html
+    urls:
+      - https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026
+      - https://windowsreport.com/?p=1511834
+      - https://smartscope.blog/en/blog/gemini-agent-google-cloud-universal-work-agent-2026/
+  - fingerprint: microsoft-partner-center-sql-modernization-agent-skills-oct2026
+    title: "Microsoft's October partner update ships a SQL modernization agent as plain skills"
+    first_seen: 2026-10-28
+    digest: essential-skill-md-for-productivity-2026-Oct-28.html
+    urls:
+      - https://learn.microsoft.com/en-us/partner-center/announcements/2026-october
+      - https://learn.microsoft.com/en-us/azure/developer/github-copilot-app-modernization/overview
+  - fingerprint: promptarmor-copilot-cowork-skill-scan-misses-malicious-skills
+    title: "PromptArmor: a skill used to vet other skills caught about 11% of seeded malicious ones"
+    first_seen: 2026-10-28
+    digest: essential-skill-md-for-productivity-2026-Oct-28.html
+    urls:
+      - https://promptarmor.com/resources/microsoft-scan-misses-1-million-malicious-skills
+      - https://www.promptarmor.com/resources/anthropics-skill-scanner-defeated-by-backdoored-skills
   - fingerprint: theo-browne-sole-loop-full-send-full-stop-skills-oct26
     title: "Theo Browne's three skill files: 27 of 32 'Full Send' PRs merged without a second look"
     first_seen: 2026-10-27
@@ -2713,6 +2735,11 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-28
+- **Google's Gemini agent chooses its own skills, but it is still early access** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-28.html)
+- **Microsoft's October partner update ships a SQL modernization agent as plain skills** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-28.html)
+- **PromptArmor: a skill used to vet other skills caught about 11% of seeded malicious ones** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-28.html)
 
 ## 2026-Oct-27
 - **Theo Browne's three skill files: 27 of 32 "Full Send" PRs merged without a second look** — [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-27.html)
