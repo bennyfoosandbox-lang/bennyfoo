@@ -2,10 +2,45 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-28
-run_count: 84
-digest_count: 84
+last_run: 2026-10-29
+run_count: 85
+digest_count: 85
 entries:
+  - fingerprint: codex-0-164-0-0-165-0-skill-refresh-alias-source-frozen-snapshots-oct23-27
+    title: "Codex 0.164 and 0.165 rework how skills are refreshed and read"
+    first_seen: 2026-10-29
+    digest: essential-skill-md-for-productivity-2026-Oct-29.html
+    urls:
+      - https://developers.openai.com/codex/changelog
+      - https://releasebot.io/updates/openai/codex
+  - fingerprint: gemini-cli-0-66-0-skill-md-frontmatter-single-line-description-oct27
+    title: "Gemini CLI 0.66.0 hardens SKILL.md frontmatter parsing"
+    first_seen: 2026-10-29
+    digest: essential-skill-md-for-productivity-2026-Oct-29.html
+    urls:
+      - https://github.com/google-gemini/gemini-cli/releases
+      - https://releasebot.io/updates/google/gemini-cli
+  - fingerprint: claude-code-2-1-311-finished-subagent-skill-no-rerun-oct26
+    title: "Claude Code 2.1.311 stops finished sub-agent skills from running twice"
+    first_seen: 2026-10-29
+    digest: essential-skill-md-for-productivity-2026-Oct-29.html
+    urls:
+      - https://releasebot.io/updates/anthropic/claude-code
+      - https://releasebot.io/updates/anthropic
+  - fingerprint: cursor-cloud-agent-warns-on-broken-skill-md-oct19-week
+    title: "Cursor's Cloud Agent now warns when a SKILL.md is broken"
+    first_seen: 2026-10-29
+    digest: essential-skill-md-for-productivity-2026-Oct-29.html
+    urls:
+      - https://cursor.com/docs/release-notes
+      - https://cursor.com/docs/skills
+  - fingerprint: copilot-cli-1-0-103-skills-allowed-tools-git-subdir-marketplace-oct22
+    title: "Copilot CLI 1.0.103 tweaks skill install links, marketplace sources and allowed-tools"
+    first_seen: 2026-10-29
+    digest: essential-skill-md-for-productivity-2026-Oct-29.html
+    urls:
+      - https://github.com/github/copilot-cli/releases
+      - https://github.com/CowboyLogic/ai-dev/pull/126
   - fingerprint: google-gemini-agent-picks-skills-gemini-at-work-oct8
     title: "Google's Gemini agent chooses its own skills, but it is still early access"
     first_seen: 2026-10-28
@@ -2735,6 +2770,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-29
+- **Codex 0.164 and 0.165 rework how skills are refreshed and read** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-29.html)
+- **Gemini CLI 0.66.0 hardens SKILL.md frontmatter parsing** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-29.html)
+- **Claude Code 2.1.311 stops finished sub-agent skills from running twice** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-29.html)
+- **Cursor's Cloud Agent now warns when a SKILL.md is broken** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-29.html)
+- **Copilot CLI 1.0.103 tweaks skill install links, marketplace sources and allowed-tools** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-29.html)
 
 ## 2026-Oct-28
 - **Google's Gemini agent chooses its own skills, but it is still early access** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-28.html)
