@@ -2,10 +2,44 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-28
-run_count: 79
-digest_count: 76
+last_run: 2026-10-29
+run_count: 80
+digest_count: 77
 entries:
+  - fingerprint: fadhlina-malaysia-329414-teachers-ai-trained-primary-curriculum-2027-oct2026
+    title: "Malaysia has trained 329,414 teachers in AI ahead of a 2027 curriculum rollout"
+    first_seen: 2026-10-29
+    digest: ai-impact-on-education-2026-Oct-29.html
+    urls:
+      - https://www.thestar.com.my/news/nation/2026/10/29/over-329000-teachers-have-received-ai-training-says-fadhlina
+      - https://www.businesstoday.com.my/2026/10/29/moe-ai-to-be-introduced-in-primary-school-curriculum-in-2027/
+      - https://www.sinardaily.my/article/742737/focus/national/329414-teachers-trained-in-ai-ahead-of-school-curriculum-rollout
+  - fingerprint: princeton-free-chatgpt-plus-pro-all-students-pilot-divides-campus-oct2026
+    title: "Princeton's campus-wide ChatGPT pilot splits students and faculty"
+    first_seen: 2026-10-29
+    digest: ai-impact-on-education-2026-Oct-29.html
+    urls:
+      - https://www.dailyprincetonian.com/article/2026/10/princeton-news-students-faculty-divided-over-access-to-chatgpt-accounts
+      - https://www.dailyprincetonian.com/article/2026/10/princeton-opinion-reactions-free-chatgpt-subscriptions-all-students
+  - fingerprint: long-island-districts-magicschool-brisk-adoption-uneven-usage-oct2026
+    title: "Long Island districts buy AI platforms fast, but many teachers barely use them"
+    first_seen: 2026-10-29
+    digest: ai-impact-on-education-2026-Oct-29.html
+    urls:
+      - https://www.longislandpress.com/2026/10/29/ai-education-long-island/
+  - fingerprint: lcps-loudoun-eight-school-gemini-notebook-pilot-november-oct2026
+    title: "Loudoun County will pilot Gemini Notebook in eight schools in November"
+    first_seen: 2026-10-29
+    digest: ai-impact-on-education-2026-Oct-29.html
+    urls:
+      - https://opentools.ai/news/lcps-gemini-notebook-eight-school-november-pilot-school-accounts
+      - https://www.lcps.org/article/3217638
+  - fingerprint: gwu-ccas-professors-ai-short-circuits-learning-process-over-product-oct2026
+    title: "GW professors: AI can short-circuit learning, so teach the process rather than the product"
+    first_seen: 2026-10-29
+    digest: ai-impact-on-education-2026-Oct-29.html
+    urls:
+      - https://gwhatchet.com/2026/10/29/ccas-professors-discuss-ais-role-in-higher-education/
   - fingerprint: reuters-teachers-remaking-classrooms-oral-exams-in-class-writing-oct2026
     title: "Reuters: teachers retreat to oral exams, in-class writing and notebooks"
     first_seen: 2026-10-28
@@ -2811,6 +2845,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-29
+- **Malaysia has trained 329,414 teachers in AI ahead of a 2027 curriculum rollout** — Education Minister Fadhlina Sidek told the Dewan Rakyat on 29 October that 329,414 teachers have now received AI training and that about 1.5 million students have been exposed to AI through STEM, coding, robotics and digital-innovation programmes. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-29.html)
+- **Princeton's campus-wide ChatGPT pilot splits students and faculty** — Princeton will give every student, faculty member and staff member access to ChatGPT Plus or Pro under a one-year pilot, with student access starting in January before the spring semester. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-29.html)
+- **Long Island districts buy AI platforms fast, but many teachers barely use them** — Long Island Press reports that AI teaching platforms are spreading across the region's 125 districts: 38 have bought Magic School AI (about 41% of Nassau County), and Brisk is used in more than 1,000 districts nationally. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-29.html)
+- **Loudoun County will pilot Gemini Notebook in eight schools in November** — Loudoun County Public Schools in Virginia announced on 28 October that eight schools will trial Gemini Notebook, the tool formerly known as NotebookLM, starting in November. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-29.html)
+- **GW professors: AI can short-circuit learning, so teach the process rather than the product** — At a panel moderated by Dean Paul Wahlbeck, four George Washington University arts and sciences professors weighed AI's role in higher education. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-29.html)
 
 ## 2026-Oct-28
 - **Reuters: teachers retreat to oral exams, in-class writing and notebooks** — Reuters interviews with a dozen US teachers and education experts find middle and high school teachers are assigning less take-home work and moving assessment back into the room. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-28.html)
