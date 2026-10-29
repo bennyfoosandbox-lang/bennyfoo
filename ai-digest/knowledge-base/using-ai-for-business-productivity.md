@@ -2,10 +2,49 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-28
-run_count: 90
-digest_count: 90
+last_run: 2026-10-29
+run_count: 91
+digest_count: 91
 entries:
+  - fingerprint: microsoft-fy27-q1-earnings-azure-48-copilot-50k-seat-customers-8x-oct2026
+    title: "Microsoft's Copilot push shows up in the quarter: 50,000-seat customers up 8x"
+    first_seen: 2026-10-29
+    digest: using-ai-for-business-productivity-2026-Oct-29.html
+    urls:
+      - https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html
+      - https://siliconangle.com/2026/10/28/microsofts-stock-rises-on-solid-earnings-and-revenue-beat-with-azure-growing-48/
+      - https://www.benzinga.com/markets/earnings/26/10/62675569/microsoft-q1-highlights-double-beat-cloud-revenue-up-30-azure-growth-up-48
+      - https://finance.yahoo.com/markets/stocks/live/microsoft-earnings-live-microsoft-beats-q1-expectations-on-top-and-bottom-line-on-ai-growth-204510452.html
+  - fingerprint: alphabet-q3-2026-google-cloud-103pct-gemini-4-oct2026
+    title: "Google Cloud revenue doubles to $30.7B as enterprise AI demand outruns Alphabet's earnings"
+    first_seen: 2026-10-29
+    digest: using-ai-for-business-productivity-2026-Oct-29.html
+    urls:
+      - https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf
+      - https://www.constellationr.com/insights/news/google-cloud-q3-revenue-103-alphabet-results-light
+      - https://convergedigest.com/alphabet-q3-2026-google-cloud-ai-infrastructure-revenue/
+      - https://www.fxleaders.com/news/2026/10/28/google-stock-drops-after-alphabet-earnings-as-gemini-and-cloud-profitability-take-centre-stage/
+  - fingerprint: cnbc-tec-summit-agent-trust-smart-ai-costs-oct2026
+    title: "CNBC's tech-executive summit: agent trust and AI cost control are the new bottlenecks"
+    first_seen: 2026-10-29
+    digest: using-ai-for-business-productivity-2026-Oct-29.html
+    urls:
+      - https://www.cnbc.com/2026/10/28/cnbc-technology-summit-live-updates.html
+      - https://10bmnews.com/cnbc-tec-summit-live-updates-cisco-levis-executives-discuss-ai-risks-and-costs/
+  - fingerprint: axios-us-productivity-gains-less-about-ai-beige-book-slok-oct2026
+    title: "Axios: the US productivity rebound may owe less to AI than headlines suggest"
+    first_seen: 2026-10-29
+    digest: using-ai-for-business-productivity-2026-Oct-29.html
+    urls:
+      - https://www.axios.com/2026/10/28/ai-productivity-anthropic
+  - fingerprint: fed-beige-book-oct2026-ai-hiring-restraint-five-districts
+    title: "Fed Beige Book: AI is starting to hold back hiring in five of 12 districts (from 14 October)"
+    first_seen: 2026-10-29
+    digest: using-ai-for-business-productivity-2026-Oct-29.html
+    urls:
+      - https://247wallst.com/investing/2026/10/15/the-fed-just-found-ai-is-starting-to-cost-jobs-in-5-of-its-12-districts/
+      - https://247wallst.com/investing/2026/10/15/ai-isnt-coming-for-american-jobs-someday-the-fed-says-its-already-happening/
+      - https://completeaitraining.com/news/fed-finds-ai-starting-to-cost-jobs-in-five-of-its-twelve/
   - fingerprint: ibm-watsonx-orchestrate-ai-gateway-governed-catalog-techxchange-oct2026
     title: "IBM's Orchestrate adds an AI Gateway to govern agents built on any platform"
     first_seen: 2026-10-28
@@ -3710,6 +3749,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-29
+- **Microsoft's Copilot push shows up in the quarter: 50,000-seat customers up 8x** — Microsoft's fiscal Q1 2027 results (July–September, reported 28 October) beat on revenue of $92.28 billion, up 19%, with Azure growing 48% to about $33.2 billion and guidance pointing to 49–50% next quarter. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-29.html)
+- **Google Cloud revenue doubles to $30.7B as enterprise AI demand outruns Alphabet's earnings** — Alphabet's third-quarter results, also out on 28 October, put Google Cloud revenue at $30.7 billion, up 103%, with segment operating income of about $11.1 billion versus $3.6 billion a year earlier, helped by enterprise AI infrastructure, AI solutions and TPU system sales. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-29.html)
+- **CNBC's tech-executive summit: agent trust and AI cost control are the new bottlenecks** — At CNBC's Technology Executive Council Summit in New York (27–28 October), executives framed enterprise AI around risk and cost rather than capability. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-29.html)
+- **Axios: the US productivity rebound may owe less to AI than headlines suggest** — Axios reports that attribution for recent US productivity gains is murkier than the AI narrative implies. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-29.html)
+- **Fed Beige Book: AI is starting to hold back hiring in five of 12 districts (from 14 October)** — This item is from earlier in the fortnight but had not been covered here. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-29.html)
 
 ## 2026-Oct-28
 - **IBM's Orchestrate adds an AI Gateway to govern agents built on any platform** — At TechXchange 2026, IBM introduced an AI Gateway for watsonx Orchestrate that discovers and governs third-party agents, models and MCP servers from platforms such as Amazon Bedrock, Microsoft and Google through one enforcement layer. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-28.html)
