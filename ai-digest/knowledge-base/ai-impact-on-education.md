@@ -2,10 +2,48 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-29
-run_count: 80
-digest_count: 77
+last_run: 2026-10-30
+run_count: 81
+digest_count: 78
 entries:
+  - fingerprint: dartmouth-provost-schnell-resigns-committee-report-oct2026
+    title: "Dartmouth Provost Santiago Schnell resigns after a faculty committee found he used AI to meaningfully alter his writing and was not forthcoming about it"
+    first_seen: 2026-10-30
+    digest: ai-impact-on-education-2026-Oct-30.html
+    urls:
+      - https://www.ksl.com/article/51642396/dartmouth-provost-resigns-following-accusations-he-used-artificial-intelligence-for-writing
+      - https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/
+      - https://www.forbes.com/sites/annaesakismith/2026/10/30/dartmouth-provost-steps-down-amid-ai-controversy/
+      - https://www.wmur.com/article/dartmouth-forum-ai-provost-resignation-103026/74297002
+      - https://www.ndsmcobserver.com/article/schnell-resigns-from-dartmouth-after-ai-review-committee-finds-he-violated-guidelines-20261030
+      - https://president.dartmouth.edu/sites/president/files/2026-10/Advisory%20Committee%20Report%20to%20President%202026-10-27.pdf
+  - fingerprint: howard-county-ai-policy-teacher-permission-oct2026
+    title: "Howard County, Md., adopts an AI policy under which all assignments are AI-free unless a teacher allows it, a week after the state deadline"
+    first_seen: 2026-10-30
+    digest: ai-impact-on-education-2026-Oct-30.html
+    urls:
+      - https://www.govtech.com/education/k-12/howard-county-md-students-need-teacher-permission-to-use-ai
+      - https://www.baltimoresun.com/2026/10/30/howard-schools-artifical-intelligence-policy/
+  - fingerprint: scale-ai-umsl-lindbergh-teacher-ai-microcredential-oct2026
+    title: "Scale AI, the University of Missouri-St. Louis and Lindbergh Schools launch a free 12-hour Fundamentals of AI for Educators microcredential"
+    first_seen: 2026-10-30
+    digest: ai-impact-on-education-2026-Oct-30.html
+    urls:
+      - https://scale.com/blog/ai-literacy-microcredential-launch
+      - https://blogs.umsl.edu/news/2026/10/30/umsl-scale-ai-lindbergh-schools-fundamentals-of-ai-for-educators/
+      - https://www.bizjournals.com/stlouis/news/2026/10/30/umsl-partners-scale-ai-to-offer-free-ai-course.html
+  - fingerprint: edweek-leaders-ai-operations-survey-oct2026
+    title: "An EdWeek Research Center survey finds nearly one-third of district and school leaders do not use generative AI for any operational purpose"
+    first_seen: 2026-10-30
+    digest: ai-impact-on-education-2026-Oct-30.html
+    urls:
+      - https://www.edweek.org/technology/nearly-1-in-3-district-and-school-leaders-skip-ai-for-operations-heres-what-the-rest-do/2026/10
+  - fingerprint: ecnu-review-ai-human-capital-college-degree-value-oct2026
+    title: "A paper in the ECNU Review of Education argues AI undermines the human-capital logic behind college degrees and calls for lifelong learning"
+    first_seen: 2026-10-30
+    digest: ai-impact-on-education-2026-Oct-30.html
+    urls:
+      - https://www.earth.com/science/ai-is-changing-the-value-of-a-college-degree-and-the-implications-are-enormous/
   - fingerprint: fadhlina-malaysia-329414-teachers-ai-trained-primary-curriculum-2027-oct2026
     title: "Malaysia has trained 329,414 teachers in AI ahead of a 2027 curriculum rollout"
     first_seen: 2026-10-29
@@ -2845,6 +2883,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-30
+- **Dartmouth provost resigns after faculty committee finds he was not forthcoming about AI-written work** — Dartmouth Provost Santiago Schnell resigns after a faculty committee found he used AI to meaningfully alter his writing and was not forthcoming about it. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-30.html)
+- **Howard County, Md., makes every assignment AI-free unless a teacher says otherwise** — Howard County, Md., adopts an AI policy under which all assignments are AI-free unless a teacher allows it, a week after the state deadline. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-30.html)
+- **Scale AI, UMSL and Lindbergh Schools launch a free 12-hour AI course for K-12 teachers nationwide** — Scale AI, the University of Missouri-St. Louis and Lindbergh Schools launch a free 12-hour Fundamentals of AI for Educators microcredential. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-30.html)
+- **EdWeek survey: nearly a third of school and district leaders use AI for no operations at all** — An EdWeek Research Center survey finds nearly one-third of district and school leaders do not use generative AI for any operational purpose. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-30.html)
+- **ECNU Review paper: AI is shortening the shelf life of skills and weakening the case for front-loaded degrees** — A paper in the ECNU Review of Education argues AI undermines the human-capital logic behind college degrees and calls for lifelong learning. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-30.html)
 
 ## 2026-Oct-29
 - **Malaysia has trained 329,414 teachers in AI ahead of a 2027 curriculum rollout** — Education Minister Fadhlina Sidek told the Dewan Rakyat on 29 October that 329,414 teachers have now received AI training and that about 1.5 million students have been exposed to AI through STEM, coding, robotics and digital-innovation programmes. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-29.html)
