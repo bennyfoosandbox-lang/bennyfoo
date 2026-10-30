@@ -2,10 +2,44 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-29
-run_count: 91
-digest_count: 91
+last_run: 2026-10-30
+run_count: 92
+digest_count: 92
 entries:
+  - fingerprint: gartner-2027-ceo-survey-44pct-struggle-ai-returns-oct2026
+    title: "44% of CEOs can't show AI returns — and 63% say the fix is redesigning the business"
+    first_seen: 2026-10-30
+    digest: using-ai-for-business-productivity-2026-Oct-30.html
+    urls:
+      - https://techedgeai.com/gartner-44-of-ceos-struggle-to-prove-ai-returns/
+  - fingerprint: manchester-productivity-institute-bytes-ai-ambition-gap-oct2026
+    title: "Manchester study: businesses are buying AI faster than it pays off"
+    first_seen: 2026-10-30
+    digest: using-ai-for-business-productivity-2026-Oct-30.html
+    urls:
+      - https://www.productivity.ac.uk/news/businesses-are-investing-in-ai-faster-than-they-can-make-it-pay-new-tpi-research-finds/
+      - https://ca.finance.yahoo.com/news/businesses-buying-ai-faster-pay-082600406.html
+  - fingerprint: fragment-56m-autonomous-context-engine-procurement-oct2026
+    title: "Fragment launches with $56M to automate the exceptions enterprise software leaves behind"
+    first_seen: 2026-10-30
+    digest: using-ai-for-business-productivity-2026-Oct-30.html
+    urls:
+      - https://aithority.com/machine-learning/fragment-launches-with-56-million-to-automate-the-work-enterprise-software-leaves-behind/
+  - fingerprint: china-ai-office-race-workbuddy-doubao-work-monetisation-oct2026
+    title: "China's AI-office race: huge usage, no proven business model"
+    first_seen: 2026-10-30
+    digest: using-ai-for-business-productivity-2026-Oct-30.html
+    urls:
+      - https://eu.36kr.com/en/p/4046972364421635
+      - https://www2.yicaiglobal.com/news/tencent-launches-workbuddy-open-platform-with-access-to-underlying-agent-capabilities
+      - https://www.caixinglobal.com/2026-09-03/tencent-opens-workbuddy-platform-to-third-parties-in-enterprise-ai-push-102481248.html
+  - fingerprint: celigo-mcp-management-sentinelone-adr-agent-governance-oct2026
+    title: "Celigo and SentinelOne ship controls for the agents already inside the business"
+    first_seen: 2026-10-30
+    digest: using-ai-for-business-productivity-2026-Oct-30.html
+    urls:
+      - https://itbrief.asia/story/celigo-launches-mcp-management-to-govern-ai-access
+      - https://www.itvoice.in/sentinelone-launches-singularity-agentic-detection-and-response-to-stop-rogue-and-malicious-ai-agents-at-machine-speed
   - fingerprint: microsoft-fy27-q1-earnings-azure-48-copilot-50k-seat-customers-8x-oct2026
     title: "Microsoft's Copilot push shows up in the quarter: 50,000-seat customers up 8x"
     first_seen: 2026-10-29
@@ -3749,6 +3783,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-30
+- **44% of CEOs can't show AI returns — and 63% say the fix is redesigning the business** — Gartner's 2027 CEO Survey (203 CEOs and senior executives, polled April–May 2026) finds 44% struggle to demonstrate financial returns from AI, even though 75% still plan to raise technology spending. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-30.html)
+- **Manchester study: businesses are buying AI faster than it pays off** — A report from The Productivity Institute at the University of Manchester, commissioned by Bytes Technology Group and published 29 October, finds AI makes individual tasks dramatically quicker but the gains shrink at each step up from task to job, team, organisation and economy. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-30.html)
+- **Fragment launches with $56M to automate the exceptions enterprise software leaves behind** — Fragment emerged from stealth on 29 October with $56 million in total funding, including a Series A led by 8VC and a seed co-led by General Catalyst and A*. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-30.html)
+- **China's AI-office race: huge usage, no proven business model** — A 36Kr analysis published 29 October says AI office productivity has become a must-do for China's tech giants: Tencent's WorkBuddy logged about 20.97 million monthly PC visits three months after launch, Alibaba folded three agent products into "Qianwen Office", and ByteDance's Doubao Work drew more than 100,000 enterprise beta applications in a week. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-30.html)
+- **Celigo and SentinelOne ship controls for the agents already inside the business** — Celigo launched MCP Management on 29 October, a gateway and registry that ties every Model Context Protocol call to a real user through the company's identity provider and lets administrators approve access one tool at a time, with an audit trail. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-30.html)
 
 ## 2026-Oct-29
 - **Microsoft's Copilot push shows up in the quarter: 50,000-seat customers up 8x** — Microsoft's fiscal Q1 2027 results (July–September, reported 28 October) beat on revenue of $92.28 billion, up 19%, with Azure growing 48% to about $33.2 billion and guidance pointing to 49–50% next quarter. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-29.html)
