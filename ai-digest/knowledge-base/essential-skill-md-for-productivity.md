@@ -2,9 +2,9 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-29
-run_count: 85
-digest_count: 85
+last_run: 2026-10-30
+run_count: 86
+digest_count: 86
 entries:
   - fingerprint: codex-0-164-0-0-165-0-skill-refresh-alias-source-frozen-snapshots-oct23-27
     title: "Codex 0.164 and 0.165 rework how skills are refreshed and read"
@@ -2765,11 +2765,48 @@ entries:
     urls:
       - https://aibusiness.com/foundation-models/anthropic-launches-skills-open-standard-claude
       - https://www.nimbleway.com/blog/anthropic-claude-agent-skills
+  - fingerprint: claude-for-nonprofits-skills-plugin-oct26
+    title: "Claude for Nonprofits gets a plugin of ready-made skills"
+    first_seen: 2026-10-30
+    digest: essential-skill-md-for-productivity-2026-Oct-30.html
+    urls:
+      - https://claude.com/blog/expanding-claude-for-nonprofits
+      - https://www.anthropic.com/news/claude-for-nonprofits
+      - https://www.datastudios.org/post/anthropic-claude-for-nonprofits-plugin-fundraising-grant-skills-team-enterprise
+      - https://aicatchup.com/news/claude-for-nonprofits-plugin
+  - fingerprint: claude-for-financial-advisors-22-connectors-update-oct27
+    title: "Claude for Financial Advisors grows to 22 connectors and eight workflow skills"
+    first_seen: 2026-10-30
+    digest: essential-skill-md-for-productivity-2026-Oct-30.html
+    urls:
+      - https://claude.com/blog/claude-for-financial-advisors
+      - https://unite.ai/anthropic-launches-claude-for-financial-advisors-with-partner-connectors
+      - https://www.wealthmanagement.com/artificial-intelligence/anthropic-launches-claude-for-financial-advisors
+      - https://futurumgroup.com/?p=95682
+  - fingerprint: alirezarezvani-claude-skills-401-skills-12-productivity
+    title: "alirezarezvani/claude-skills: a 29k-star pack with a dedicated productivity domain"
+    first_seen: 2026-10-30
+    digest: essential-skill-md-for-productivity-2026-Oct-30.html
+    urls:
+      - https://github.com/alirezarezvani/claude-skills
+      - https://github.com/alirezarezvani/claude-skills/blob/main/CLAUDE.md
+  - fingerprint: skillmedev-skills-482-portable-skill-md-mit
+    title: "SkillMedev/skills publishes 482 MIT-licensed SKILL.md files, many aimed at productivity"
+    first_seen: 2026-10-30
+    digest: essential-skill-md-for-productivity-2026-Oct-30.html
+    urls:
+      - https://github.com/SkillMedev/skills
 ---
 
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-30
+- **Claude for Nonprofits gets a plugin of ready-made skills** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-30.html)
+- **Claude for Financial Advisors grows to 22 connectors and eight workflow skills** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-30.html)
+- **alirezarezvani/claude-skills: a 29k-star pack with a dedicated productivity domain** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-30.html)
+- **SkillMedev/skills publishes 482 MIT-licensed SKILL.md files, many aimed at productivity** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-30.html)
 
 ## 2026-Oct-29
 - **Codex 0.164 and 0.165 rework how skills are refreshed and read** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-29.html)
