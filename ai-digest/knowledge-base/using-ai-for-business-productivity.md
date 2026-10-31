@@ -2,10 +2,49 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-30
-run_count: 92
-digest_count: 92
+last_run: 2026-10-31
+run_count: 93
+digest_count: 93
 entries:
+  - fingerprint: anthropic-s1-customer-tiers-900-nrr-oct2026
+    title: "Anthropic's IPO filing puts numbers on enterprise stickiness"
+    first_seen: 2026-10-31
+    digest: using-ai-for-business-productivity-2026-Oct-31.html
+    urls:
+      - https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/
+      - https://saastr.com/5-interesting-learnings-from-anthropics-s-1-at-16-3-billion-in-half-year-revenue-900-nrr-6-6m-in-revenue-per-employee-and-a-10-adjusted-operating-margin
+      - https://morningstar.com/stocks/3-charts-anthropics-historic-ipo-filing
+  - fingerprint: replit-shifts-ai-spend-anthropic-to-openai-oct2026
+    title: "Replit moves most of its AI spend to OpenAI on a 30%-plus discount"
+    first_seen: 2026-10-31
+    digest: using-ai-for-business-productivity-2026-Oct-31.html
+    urls:
+      - https://techcrunch.com/2026/10/20/replit-is-no-longer-working-with-anthropic-ceo-says/
+      - https://runtimewire.com/article/replit-openai-model-spending-discount-contract
+      - https://www.techrepublic.com/article/news-replit-openai-preferred-ai-partner-anthropic/
+  - fingerprint: servicenow-flow-ai-service-desk-oct2026
+    title: "ServiceNow's Flow puts an AI service desk inside Slack and Teams"
+    first_seen: 2026-10-31
+    digest: using-ai-for-business-productivity-2026-Oct-31.html
+    urls:
+      - https://siliconangle.com/2026/10/01/servicenow-launches-conversational-interface-to-its-service-desk/
+      - https://www.cio.com/article/4229569/servicenow-launches-standalone-ai-service-desk-to-provide-support-in-teams-slack-and-email.html
+      - https://newsroom.servicenow.com/press-releases/details/2026/Introducing-Flow-by-ServiceNow-a-new-AI-service-desk-that-deploys-instantly/default.aspx
+  - fingerprint: island-enterprise-browser-for-agents-oct2026
+    title: "Island turns its enterprise browser into a control point for AI agents"
+    first_seen: 2026-10-31
+    digest: using-ai-for-business-productivity-2026-Oct-31.html
+    urls:
+      - https://www.island.io/ai/enterprise-browser-for-agents
+      - https://thenextweb.com/news/island-series-f-400m-6-4bn-valuation-ai-agents
+      - https://runtimewire.com/article/island-400m-series-f-ai-agent-security
+  - fingerprint: cresta-conductor-agent-development-oct2026
+    title: "Cresta's Conductor lets developers build and test customer-facing agents in plain language"
+    first_seen: 2026-10-31
+    digest: using-ai-for-business-productivity-2026-Oct-31.html
+    urls:
+      - https://techintelpro.com/news/ai/enterprise-ai/cresta-launches-conductor-to-accelerate-enterprise-ai-agent-development
+      - https://www.pulse.bot/ai/news/cresta-launches-conductor-the-agent-for-ai-agent-development-8d60cda4-18af-4161-ac58-1b7a364ce709/
   - fingerprint: gartner-2027-ceo-survey-44pct-struggle-ai-returns-oct2026
     title: "44% of CEOs can't show AI returns — and 63% say the fix is redesigning the business"
     first_seen: 2026-10-30
@@ -3783,6 +3822,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-31
+- **Anthropic's IPO filing puts numbers on enterprise stickiness** — Anthropic's public S-1, filed around 26 October, reports that as of 30 September it had more than 11,900 customers spending at least $100,000 a year, over 1,900 above $1 million and about 250 above $10 million. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-31.html)
+- **Replit moves most of its AI spend to OpenAI on a 30%-plus discount** — The Information reported that Replit shifted most of its model spend from Anthropic to OpenAI under a deal said to be worth more than $100 million a year, after OpenAI offered over 30% off and Anthropic reportedly would not extend an earlier discount without a larger commitment. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-31.html)
+- **ServiceNow's Flow puts an AI service desk inside Slack and Teams** — ServiceNow launched Flow, a standalone conversational service desk that employees reach through Slack, Microsoft Teams, email or a web app. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-31.html)
+- **Island turns its enterprise browser into a control point for AI agents** — Island, which raised $400 million at a $6.4 billion valuation in September, has released an Enterprise Browser for Agents: a headless version of its browser that exposes tools to AI agents through an MCP server running inside it. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-31.html)
+- **Cresta's Conductor lets developers build and test customer-facing agents in plain language** — Cresta has launched Conductor, a developer-focused engine for building and tuning customer-facing AI agents. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-31.html)
 
 ## 2026-Oct-30
 - **44% of CEOs can't show AI returns — and 63% say the fix is redesigning the business** — Gartner's 2027 CEO Survey (203 CEOs and senior executives, polled April–May 2026) finds 44% struggle to demonstrate financial returns from AI, even though 75% still plan to raise technology spending. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-30.html)
