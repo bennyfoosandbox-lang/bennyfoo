@@ -2,10 +2,41 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-30
-run_count: 81
-digest_count: 78
+last_run: 2026-10-31
+run_count: 82
+digest_count: 79
 entries:
+  - fingerprint: hong-kong-primary-ai-iit-subject-2028-classrooms-oct2026
+    title: "Hong Kong drafts a primary-school technology subject (from 2028-29) with 41 of 168 lessons on AI; separately, schools describe AI classroom use and an assessment problem"
+    first_seen: 2026-10-31
+    digest: ai-impact-on-education-2026-Oct-31.html
+    urls:
+      - https://www.scmp.com/news/hong-kong/education/article/3372790/hong-kong-primary-pupils-study-ai-under-new-technology-subject
+      - https://www.scmp.com/news/hong-kong/education/article/3372812/digital-pets-robot-pals-how-ai-changing-hong-kong-classrooms
+  - fingerprint: rsis-nyc-moratorium-vs-singapore-tiered-ai-schools-oct2026
+    title: "RSIS commentary compares NYC's one-year student-AI moratorium with Singapore's tiered approach and urges pilot-evaluate-expand"
+    first_seen: 2026-10-31
+    digest: ai-impact-on-education-2026-Oct-31.html
+    urls:
+      - https://rsis.edu.sg/rsis-publication/rsis/ai-in-schools-balancing-innovation-and-caution-in-new-york-and-singapore/
+  - fingerprint: eastasiaforum-japan-universities-first-wave-ai-policies-toho-oct2026
+    title: "East Asia Forum: Japanese university AI policies leave responsibility with teachers and students; Toho University's October revision adds university-managed AI access"
+    first_seen: 2026-10-31
+    digest: ai-impact-on-education-2026-Oct-31.html
+    urls:
+      - https://eastasiaforum.org/2026/10/31/japans-universities-must-move-beyond-first-wave-ai-policies/
+  - fingerprint: frontiers-psychology-505-english-teachers-ai-self-efficacy-anxiety-support-oct2026
+    title: "Frontiers in Psychology study of 505 university English teachers links AI self-efficacy to lower AI anxiety and more AI-assisted lesson content, moderated by school support"
+    first_seen: 2026-10-31
+    digest: ai-impact-on-education-2026-Oct-31.html
+    urls:
+      - https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1966651/full
+  - fingerprint: businesstoday-my-students-use-ai-who-deserves-to-fail-assessment-reform-oct2026
+    title: "Business Today Malaysia op-ed responds to Berkeley's Borcherds grading change, citing Bastani, Kestin and detector false-positive studies to argue for redesigned, verified assessment"
+    first_seen: 2026-10-31
+    digest: ai-impact-on-education-2026-Oct-31.html
+    urls:
+      - https://www.businesstoday.com.my/2026/10/31/students-use-ai-who-deserves-to-fail/
   - fingerprint: dartmouth-provost-schnell-resigns-committee-report-oct2026
     title: "Dartmouth Provost Santiago Schnell resigns after a faculty committee found he used AI to meaningfully alter his writing and was not forthcoming about it"
     first_seen: 2026-10-30
@@ -2883,6 +2914,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Oct-31
+- **Hong Kong drafts a compulsory primary-school technology subject with AI at its core** — Hong Kong drafts a primary-school technology subject (from 2028-29) with 41 of 168 lessons on AI; separately, schools describe AI classroom use and an assessment problem. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-31.html)
+- **Think-tank commentary: New York bans, Singapore tiers, and neither has proof it works** — RSIS commentary compares NYC's one-year student-AI moratorium with Singapore's tiered approach and urges pilot-evaluate-expand. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-31.html)
+- **Japan's universities face a second wave of AI policy: institutions, not just instructors, must own the risk** — East Asia Forum: Japanese university AI policies leave responsibility with teachers and students; Toho University's October revision adds university-managed AI access. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-31.html)
+- **Survey of 505 Chinese college English teachers: AI confidence cuts anxiety, and school support amplifies the effect** — Frontiers in Psychology study of 505 university English teachers links AI self-efficacy to lower AI anxiety and more AI-assisted lesson content, moderated by school support. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-31.html)
+- **Malaysian law professor: completion-only grading is not the answer to AI, assessment reform is** — Business Today Malaysia op-ed responds to Berkeley's Borcherds grading change, citing Bastani, Kestin and detector false-positive studies to argue for redesigned, verified assessment. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-31.html)
 
 ## 2026-Oct-30
 - **Dartmouth provost resigns after faculty committee finds he was not forthcoming about AI-written work** — Dartmouth Provost Santiago Schnell resigns after a faculty committee found he used AI to meaningfully alter his writing and was not forthcoming about it. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-30.html)
