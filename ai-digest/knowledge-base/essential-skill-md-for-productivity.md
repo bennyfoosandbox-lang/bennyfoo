@@ -2,10 +2,42 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-30
-run_count: 86
-digest_count: 86
+last_run: 2026-10-31
+run_count: 87
+digest_count: 87
 entries:
+  - fingerprint: claude-code-2-1-312-skills-found-after-bash-cd-oct27
+    title: "Claude Code 2.1.312 finds per-directory skills after you cd"
+    first_seen: 2026-10-31
+    digest: essential-skill-md-for-productivity-2026-Oct-31.html
+    urls:
+      - https://releasebot.io/updates/anthropic/claude-code
+  - fingerprint: codex-0-166-0-skill-attribution-in-traces-oct29
+    title: "Codex 0.166.0 starts attributing traces to skills"
+    first_seen: 2026-10-31
+    digest: essential-skill-md-for-productivity-2026-Oct-31.html
+    urls:
+      - https://releasebot.io/updates/openai/codex
+      - https://github.com/openai/codex/releases
+  - fingerprint: genkit-go-1-14-skills-middleware-fs-fs-oct20
+    title: "Genkit Go 1.14 loads Agent Skills from any filesystem"
+    first_seen: 2026-10-31
+    digest: essential-skill-md-for-productivity-2026-Oct-31.html
+    urls:
+      - https://genkit.dev/blog/genkit-go-1-14/
+      - https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/
+  - fingerprint: seb1n-awesome-ai-agent-skills-103-skills-productivity-workflow
+    title: "A 103-skill library with a productivity-and-workflow section"
+    first_seen: 2026-10-31
+    digest: essential-skill-md-for-productivity-2026-Oct-31.html
+    urls:
+      - https://github.com/seb1n/awesome-ai-agent-skills
+  - fingerprint: infisical-agent-vault-skills-access-bundles-250-limit
+    title: "Infisical Agent Vault installs skills through access bundles"
+    first_seen: 2026-10-31
+    digest: essential-skill-md-for-productivity-2026-Oct-31.html
+    urls:
+      - https://infisical.com/docs/documentation/platform/agent-vault/skills
   - fingerprint: codex-0-164-0-0-165-0-skill-refresh-alias-source-frozen-snapshots-oct23-27
     title: "Codex 0.164 and 0.165 rework how skills are refreshed and read"
     first_seen: 2026-10-29
@@ -2801,6 +2833,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Oct-31
+- **Claude Code 2.1.312 finds per-directory skills after you cd** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-31.html)
+- **Codex 0.166.0 starts attributing traces to skills** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-31.html)
+- **Genkit Go 1.14 loads Agent Skills from any filesystem** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-31.html)
+- **A 103-skill library with a productivity-and-workflow section** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-31.html)
+- **Infisical Agent Vault installs skills through access bundles** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-31.html)
 
 ## 2026-Oct-30
 - **Claude for Nonprofits gets a plugin of ready-made skills** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-30.html)
