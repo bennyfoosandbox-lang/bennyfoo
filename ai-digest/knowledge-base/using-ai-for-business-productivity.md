@@ -2,10 +2,45 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-10-31
-run_count: 93
-digest_count: 93
+last_run: 2026-11-01
+run_count: 94
+digest_count: 94
 entries:
+  - fingerprint: amazon-q3-2026-aws-39pct-bedrock-17x-agentcore-quick-oct2026
+    title: "Amazon's Q3: AWS growth hits 39% as Bedrock and agent tools become the enterprise on-ramp"
+    first_seen: 2026-11-01
+    digest: using-ai-for-business-productivity-2026-Nov-01.html
+    urls:
+      - https://www.aboutamazon.com/news/company-news/aws-growth-ai-demand-q3-2026-earnings
+      - https://www.crn.com/news/ai/2026/amazon-q3-earnings-ceo-jassy-says-bedrock-could-become-as-big-as-ec2
+      - https://www.datastudios.org/post/amazon-q3-2026-results-aws-39-percent-growth-46-billion-220-billion-capex
+      - https://s2.q4cdn.com/299287126/files/doc_earnings/2026/q3/earnings-result/AMZN-Q3-2026-Earnings-Release.pdf
+  - fingerprint: github-copilot-cloud-sandboxes-ga-shared-compute-pool-oct2026
+    title: "GitHub makes Copilot's cloud agent generally available, and starts billing it like CI"
+    first_seen: 2026-11-01
+    digest: using-ai-for-business-productivity-2026-Nov-01.html
+    urls:
+      - https://www.datastudios.org/post/github-copilot-cloud-sandboxes-generally-available-billing-november-shared-compute-pool
+  - fingerprint: collective-100m-ai-back-office-solo-owners-300-closes-oct2026
+    title: "Collective raises $100 million on an AI back office that cut staffing needs per client"
+    first_seen: 2026-11-01
+    digest: using-ai-for-business-productivity-2026-Nov-01.html
+    urls:
+      - https://www.pymnts.com/back-office/2026/collectives-ai-back-office-gives-solo-business-owners-time-back/
+  - fingerprint: customers-bancorp-ai-loan-closing-7-days-76k-hours-oct2026
+    title: "Customers Bancorp says AI closes some commercial loans in seven days, not 30 to 60"
+    first_seen: 2026-11-01
+    digest: using-ai-for-business-productivity-2026-Nov-01.html
+    urls:
+      - https://www.pymnts.com/news/artificial-intelligence/2026/customers-bank-uses-ai-to-close-commercial-loans-in-7-days/
+      - https://www.sec.gov/Archives/edgar/data/0001488813/000148881326000100/q326pressrelease.htm
+  - fingerprint: amazon-quick-pwc-agents-it-investment-sales-admin-oct2026
+    title: "PwC puts Amazon Quick agents to work on IT investment reviews and sales admin"
+    first_seen: 2026-11-01
+    digest: using-ai-for-business-productivity-2026-Nov-01.html
+    urls:
+      - https://press.aboutamazon.com/aws/2026/10/scaling-agentic-ai-across-the-enterprise-with-amazon-quick
+      - https://www.pymnts.com/news/retail/2026/walmart-and-amazon-expand-ai-agents-roles-in-shopping-and-work/
   - fingerprint: anthropic-s1-customer-tiers-900-nrr-oct2026
     title: "Anthropic's IPO filing puts numbers on enterprise stickiness"
     first_seen: 2026-10-31
@@ -3822,6 +3857,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-01
+- **Amazon's Q3: AWS growth hits 39% as Bedrock and agent tools become the enterprise on-ramp** — Amazon reported Q3 on 29 Oct: AWS up 39.3% to ~$46B, $578B backlog, Bedrock Fortune 500 spend ~7x and tokens ~17x, AgentCore agents deployed 2x the prior three quarters combined, Quick extended into Office apps, ~$220B 2026 capex. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-01.html)
+- **GitHub makes Copilot's cloud agent generally available, and starts billing it like CI** — GitHub made Copilot cloud sessions and sandboxes GA on paid plans at Universe (28 Oct); sandbox billing starts November and shares a dollar-based compute pool with Actions. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-01.html)
+- **Collective raises $100 million on an AI back office that cut staffing needs per client** — Collective raised $100M (29 Oct); says AI lifted monthly closes per bookkeeper from ~40 to 300, heading to 600; 16,000+ businesses served. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-01.html)
+- **Customers Bancorp says AI closes some commercial loans in seven days, not 30 to 60** — Customers Bancorp (22 Oct): multi-agent underwriting closed select commercial loans in 7 days vs 30-60; ~76,000 hours saved; $15M+ annualized capacity; AI agents doubled in Q3. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-01.html)
+- **PwC puts Amazon Quick agents to work on IT investment reviews and sales admin** — Amazon (21 Oct): PwC using Amazon Quick for IT-investment assessment (weeks to days) and reducing sales admin (sellers spent 60%+ of day on admin across 16+ systems). [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-01.html)
 
 ## 2026-Oct-31
 - **Anthropic's IPO filing puts numbers on enterprise stickiness** — Anthropic's public S-1, filed around 26 October, reports that as of 30 September it had more than 11,900 customers spending at least $100,000 a year, over 1,900 above $1 million and about 250 above $10 million. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Oct-31.html)
