@@ -2,10 +2,41 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-10-31
-run_count: 82
-digest_count: 79
+last_run: 2026-11-01
+run_count: 83
+digest_count: 80
 entries:
+  - fingerprint: nsw-pen-and-paper-naplan-writing-ai-screens-nov2026
+    title: "NSW pushes to bring back pen-and-paper NAPLAN writing tests, citing screens and AI"
+    first_seen: 2026-11-01
+    digest: ai-impact-on-education-2026-Nov-01.html
+    urls:
+      - https://www.miragenews.com/nsw-leads-push-to-restore-pen-and-paper-naplan-1770022/
+  - fingerprint: educator-jcal-primary-genai-writing-performance-paradox-nov2026
+    title: "New study: pupils write more creatively with GenAI but are the least absorbed in the task"
+    first_seen: 2026-11-01
+    digest: ai-impact-on-education-2026-Nov-01.html
+    urls:
+      - https://www.theeducatoronline.com/k12/news/is-genai-killing-or-complementing-the-craft-of-writing/289315
+  - fingerprint: europe-smart-glasses-schools-edpb-austria-nov2026
+    title: "European schools have no common rule on AI smart glasses as the EDPB and Austria weigh in"
+    first_seen: 2026-11-01
+    digest: ai-impact-on-education-2026-Nov-01.html
+    urls:
+      - https://www.thejournal.ie/smart-glasses-privacy-concerns-europe-7205956-Nov2026/
+  - fingerprint: metro-gcse-in-ai-microbit-digital-poverty-nov2026
+    title: "London teacher and Micro:bit foundation back a 'GCSE in AI'"
+    first_seen: 2026-11-01
+    digest: ai-impact-on-education-2026-Nov-01.html
+    urls:
+      - https://metro.co.uk/2026/11/01/there-a-gcse-ai-just-like-maths-english-29742462/
+  - fingerprint: hawley-blumenthal-google-nov2-deadline-update-nov2026
+    title: "Update: Google's deadline to answer Hawley and Blumenthal on classroom AI arrives, with new crisis-prompt figures"
+    first_seen: 2026-11-01
+    digest: ai-impact-on-education-2026-Nov-01.html
+    urls:
+      - https://shattered.io/senators-hawley-blumenthal-google-pichai-nine-questions-classroom-ai-2026/
+      - https://timesofindia.indiatimes.com/technology/tech-news/two-us-senators-write-letter-to-google-ceo-sundar-pichai-asking-9-questions-as-company-pushes-for-ai-in-classrooms/amp_articleshow/135415769.cms
   - fingerprint: hong-kong-primary-ai-iit-subject-2028-classrooms-oct2026
     title: "Hong Kong drafts a primary-school technology subject (from 2028-29) with 41 of 168 lessons on AI; separately, schools describe AI classroom use and an assessment problem"
     first_seen: 2026-10-31
@@ -2914,6 +2945,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-01
+- **NSW pushes to bring back pen-and-paper NAPLAN writing tests, citing screens and AI** — New South Wales will ask Australia's education ministers, meeting on 2 November, to return NAPLAN writing tests for Years 5, 7 and 9 to pen and paper from 2028; only Year 3 sits the test on paper today. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-01.html)
+- **New study: pupils write more creatively with GenAI but are the least absorbed in the task** — A study in the Journal of Computer Assisted Learning, reported by The Educator, found primary students writing with generative AI outscored peers writing alone or with classmates on creative writing, yet were the least absorbed in the work; students who believed in their own writing ability also did better. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-01.html)
+- **European schools have no common rule on AI smart glasses as the EDPB and Austria weigh in** — A collaborative European report finds the EU has no common ban or regulation on AI-enabled smart glasses in schools, even though recording students can fall under GDPR. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-01.html)
+- **London teacher and Micro:bit foundation back a 'GCSE in AI'** — Metro profiles a Highgate primary teacher who builds AI into lessons, from fact-checking chatbot answers to teaching how machine-learning models work, and reports that the Micro:bit Educational Foundation wants the government to introduce an AI GCSE. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-01.html)
+- **Update: Google's deadline to answer Hawley and Blumenthal on classroom AI arrives, with new crisis-prompt figures** — The Hawley-Blumenthal letter (covered on 22 October) reaches its 2 November response deadline, and newly reported detail sharpens it: nine questions covering default-on AI features schools cannot switch off, crisis and self-harm detection, complaints received and promotional spending. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-01.html)
 
 ## 2026-Oct-31
 - **Hong Kong drafts a compulsory primary-school technology subject with AI at its core** — Hong Kong drafts a primary-school technology subject (from 2028-29) with 41 of 168 lessons on AI; separately, schools describe AI classroom use and an assessment problem. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Oct-31.html)
