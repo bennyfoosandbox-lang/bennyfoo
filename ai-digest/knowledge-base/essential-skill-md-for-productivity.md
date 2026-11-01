@@ -2,10 +2,37 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-10-31
-run_count: 87
-digest_count: 87
+last_run: 2026-11-01
+run_count: 88
+digest_count: 88
 entries:
+  - fingerprint: claude-code-extension-trojanized-cursor-marketplace-ssh-backdoor-oct29
+    title: "Trojanized Claude Code extension in Cursor's marketplace planted an SSH backdoor"
+    first_seen: 2026-11-01
+    digest: essential-skill-md-for-productivity-2026-Nov-01.html
+    urls:
+      - https://threatdefence.com/article/claude-code-openvsx-extension-backdoor-advisory
+      - https://www.stepsecurity.io/blog/claude-code-extension-trojanized
+      - https://www.notebookcheck.net/Tampered-Claude-Code-extension-in-Cursor-planted-an-SSH-backdoor.1438690.0.html
+      - https://www.morphisec.com/blog/trusted-tool-malicious-build-what-the-trojanized-claude-code-extension-means-for-developer-endpoints/
+      - https://cybersecuritynews.com/malicious-claude-code-extension/
+  - fingerprint: claude-code-2-1-316-subagent-effort-variable-oct31
+    title: "Claude Code 2.1.316 lets sub-agent effort be set separately"
+    first_seen: 2026-11-01
+    digest: essential-skill-md-for-productivity-2026-Nov-01.html
+    urls:
+      - https://dev.to/piekwerk/claude-code-21316-subagent-effort-becomes-a-setting-ultrathink-gets-a-kill-switch-and-opus-16e
+      - https://dev.classmethod.jp/en/articles/20261031-cc-updates-v2-1-316/
+      - https://clauding.de/en/posts/claude-code-2-1-316-ultrathink-subagent-effort/
+      - https://creatorstoolbox.com/blog/claude-code-claude-code-2-1-316
+      - https://pasqualepillitteri.it/en/news/28714/claude-code-subagent-effort-variable-sub-agents
+  - fingerprint: agent-skill-doctor-014-code-v0-1-0-alpha
+    title: "Agent Skill Doctor ships a first alpha for linting SKILL.md files"
+    first_seen: 2026-11-01
+    digest: essential-skill-md-for-productivity-2026-Nov-01.html
+    urls:
+      - https://github.com/014-code/agent-skill-doctor/discussions/3
+      - https://raw.githubusercontent.com/014-code/agent-skill-doctor/main/skills/skill-doctor/SKILL.md
   - fingerprint: claude-code-2-1-312-skills-found-after-bash-cd-oct27
     title: "Claude Code 2.1.312 finds per-directory skills after you cd"
     first_seen: 2026-10-31
@@ -2833,6 +2860,11 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-01
+- **Trojanized Claude Code extension in Cursor's marketplace planted an SSH backdoor** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-01.html)
+- **Claude Code 2.1.316 lets sub-agent effort be set separately** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-01.html)
+- **Agent Skill Doctor ships a first alpha for linting SKILL.md files** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-01.html)
 
 ## 2026-Oct-31
 - **Claude Code 2.1.312 finds per-directory skills after you cd** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Oct-31.html)
