@@ -2,10 +2,53 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-01
-run_count: 94
-digest_count: 94
+last_run: 2026-11-02
+run_count: 95
+digest_count: 95
 entries:
+  - fingerprint: servicenow-q3-2026-shares-drop-18pct-guidance-employeeworks-100m-oct2026
+    title: "ServiceNow's AI numbers beat, but weak guidance sends the stock down 18%"
+    first_seen: 2026-11-02
+    digest: using-ai-for-business-productivity-2026-Nov-02.html
+    urls:
+      - https://siliconangle.com/?p=852347
+      - https://www.constellationr.com/insights/news/servicenow-q3-mixed-strong-control-tower-demand
+      - https://s205.q4cdn.com/916135447/files/content_files/ServiceNow-Reports-Third-Quarter-2026-Financial-Results.pdf
+      - https://www.sec.gov/Archives/edgar/data/0001373715/000137371526000092/erq3fy26.htm
+  - fingerprint: anthropic-claude-enterprise-spend-reporting-pooled-budgets-oct2026
+    title: "Anthropic ships tools to show what enterprise Claude spend is actually buying"
+    first_seen: 2026-11-02
+    digest: using-ai-for-business-productivity-2026-Nov-02.html
+    urls:
+      - https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/
+      - https://fourweekmba.com/ai-anthropic-launches-reports-to-show-what-claude-spending-buys/
+      - https://www.digitaltoday.co.kr/en/view/120909/anthropic-unveils-reporting-tool-showing-ai-spending-results
+  - fingerprint: anthropic-public-s1-250-customers-10m-plus-top5-25pct-revenue-oct2026
+    title: "Anthropic's IPO filing puts hard numbers on enterprise AI demand"
+    first_seen: 2026-11-02
+    digest: using-ai-for-business-productivity-2026-Nov-02.html
+    urls:
+      - https://builtin.com/articles/anthropic-ipo-filing-s1
+      - https://www.verdict.co.uk/newsletters/anthropic-files-for-ipo
+      - https://futurumgroup.com/insights/anthropic-files-for-ipo-looking-to-beat-openai-to-the-punch/
+      - https://www.advisorperspectives.com/articles/2026/10/27/anthropic-ipo-filing-calms-nerves-signs-healthy-growth
+  - fingerprint: meta-q3-2026-capex-35b-negative-fcf-headcount-down-15pct-oct2026
+    title: "Meta's Q3: capex outruns cash while headcount falls 15% and business agents head to SMBs"
+    first_seen: 2026-11-02
+    digest: using-ai-for-business-productivity-2026-Nov-02.html
+    urls:
+      - https://letsdatascience.com/news/meta-narrows-2026-capital-spending-range-to-135-billion-145-46f12e07
+      - https://fourweekmba.com/ai-meta-headcount-falls-15-to-66775-as-capex-hits-34-9b/
+      - https://fourweekmba.com/ai-metas-q3-explained-capex-outran-its-cash-by-2-1-billion/
+      - https://cryptobriefing.com/meta-negative-free-cash-flow-ai-spending/
+  - fingerprint: microsoft-365-copilot-october-2026-feature-roundup-excel-workbook-rules-workspaces
+    title: "Microsoft's October Copilot roundup: Excel cleanup tools, per-file rules and Office files inside Workspaces"
+    first_seen: 2026-11-02
+    digest: using-ai-for-business-productivity-2026-Nov-02.html
+    urls:
+      - https://windowsreport.com/?p=1514054
+      - https://www.aguidetocloud.com/blog/microsoft-365-copilot-october-2026-updates/
+      - https://www.hubsite365.com/en-ww/crm-pages/8-new-features-in-microsoft-copilot-you-should-know-about-october-2026.htm
   - fingerprint: amazon-q3-2026-aws-39pct-bedrock-17x-agentcore-quick-oct2026
     title: "Amazon's Q3: AWS growth hits 39% as Bedrock and agent tools become the enterprise on-ramp"
     first_seen: 2026-11-01
@@ -3857,6 +3900,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-02
+- **ServiceNow's AI numbers beat, but weak guidance sends the stock down 18%** — Oct 28 Q3: subscription revenue $3,988M (+21%), EmployeeWorks at $100M ACV in under three quarters, AI net new ACV target reported raised to $1.7B; Q4 revenue guide $4.25–4.26B vs ~$4.36B expected, shares fell ~18%. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-02.html)
+- **Anthropic ships tools to show what enterprise Claude spend is actually buying** — Oct 28: Claude Enterprise generally available smart reports, in-app surveys and pooled group budgets; admins see team activity, outcomes and cost, no training on report data by default; no pricing or savings examples published. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-02.html)
+- **Anthropic's IPO filing puts hard numbers on enterprise AI demand** — Oct 26 IPO filing: ~250 customers above $10M trailing revenue, 11,900+ above $100K, 1,900+ above $1M (as of Sep 30); top five customers ~25% of 9-month 2026 revenue; listing reportedly targeted for November. Sources disagree on filing mechanics (confidential draft June 1). [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-02.html)
+- **Meta's Q3: capex outruns cash while headcount falls 15% and business agents head to SMBs** — Oct 21 Q3: revenue $64.6B (+26%), capex $34.9B vs $19.4B a year ago, first negative FCF (-$2.1B) in over a decade, 2026 capex guide $135–145B; headcount 66,775 (-15%); business agents/model APIs pitched to ~500M small businesses. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-02.html)
+- **Microsoft's October Copilot roundup: Excel cleanup tools, per-file rules and Office files inside Workspaces** — October 2026 Copilot updates: Excel clean-data and accounting skills, Workbook Rules and interactive HTML dashboards (Frontier preview), Copilot Workspaces can create/edit Word, Excel and PowerPoint files; some features need Premium or arrive later. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-02.html)
 
 ## 2026-Nov-01
 - **Amazon's Q3: AWS growth hits 39% as Bedrock and agent tools become the enterprise on-ramp** — Amazon reported Q3 on 29 Oct: AWS up 39.3% to ~$46B, $578B backlog, Bedrock Fortune 500 spend ~7x and tokens ~17x, AgentCore agents deployed 2x the prior three quarters combined, Quick extended into Office apps, ~$220B 2026 capex. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-01.html)
