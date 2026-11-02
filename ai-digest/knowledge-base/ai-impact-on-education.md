@@ -2,10 +2,44 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-01
-run_count: 83
-digest_count: 80
+last_run: 2026-11-02
+run_count: 84
+digest_count: 81
 entries:
+  - fingerprint: edweek-audit-ai-education-meta-analyses-flawed-oneill-nov2026
+    title: "Audit: the meta-analyses behind 'AI improves learning' are too flawed to guide decisions"
+    first_seen: 2026-11-02
+    digest: ai-impact-on-education-2026-Nov-02.html
+    urls:
+      - https://www.edweek.org/technology/the-research-on-ai-in-education-is-a-mess/2026/11
+      - https://osf.io/preprints/edarxiv/n29zd_v3
+  - fingerprint: hechinger-goblins-ai-math-tutor-umd-ai-assistant-grades-nov2026
+    title: "Two October studies, one headline: an AI math tutor helped middle schoolers, a campus AI assistant lowered college grades"
+    first_seen: 2026-11-02
+    digest: ai-impact-on-education-2026-Nov-02.html
+    urls:
+      - https://www.kqed.org/mindshift/66738/why-ai-tools-work-differently-on-middle-schoolers-compared-to-college-students-according-to-a-researcher
+      - https://edworkingpapers.com/ai26-1611
+      - https://edworkingpapers.com/ai26-1598
+  - fingerprint: gostudent-future-of-education-2026-73-percent-unacknowledged-ai-uk-nov2026
+    title: "GoStudent report: 73% of UK pupils who use AI at school don't acknowledge it, and only 28% had a structured lesson"
+    first_seen: 2026-11-02
+    digest: ai-impact-on-education-2026-Nov-02.html
+    urls:
+      - https://www.kentlive.news/news/uk-world-news/73-per-cent-school-pupils-11223661
+      - https://www.gostudent.org/en-gb/education-report/2026/
+  - fingerprint: samsung-solve-for-tomorrow-2026-survey-95-percent-hs-ai-16-percent-formal-nov2026
+    title: "Samsung survey: 95% of US high schoolers use AI, only 16% say their school teaches it formally"
+    first_seen: 2026-11-02
+    digest: ai-impact-on-education-2026-Nov-02.html
+    urls:
+      - https://news.samsung.com/us/samsung-expands-solve-for-tomorrow-help-next-generation-stem-innovation-real-world-impact
+  - fingerprint: utah-state-board-student-ai-task-force-ksl-nov2026
+    title: "Utah's State Board creates a student AI task force so students have a say in classroom AI rules"
+    first_seen: 2026-11-02
+    digest: ai-impact-on-education-2026-Nov-02.html
+    urls:
+      - https://www.ksl.com/article/51632577/utah-students-wanted-a-say-in-classroom-ai-rules-now-theyre-getting-it
   - fingerprint: nsw-pen-and-paper-naplan-writing-ai-screens-nov2026
     title: "NSW pushes to bring back pen-and-paper NAPLAN writing tests, citing screens and AI"
     first_seen: 2026-11-01
@@ -2945,6 +2979,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-02
+- **Audit: the meta-analyses behind 'AI improves learning' are too flawed to guide decisions** — A new audit by Patrick O'Neill of Ivy Tech Community College examined 14 of nearly 40 meta-analyses that reported positive effects of AI on learning… [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-02.html)
+- **Two October studies, one headline: an AI math tutor helped middle schoolers, a campus AI assistant lowered college grades** — Hechinger's Jill Barshay, republished by KQED, contrasts two studies from Jing Liu's Maryland center. In Arizona's Deer Valley district, middle… [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-02.html)
+- **GoStudent report: 73% of UK pupils who use AI at school don't acknowledge it, and only 28% had a structured lesson** — GoStudent's Future of Education Report 2026, covered by Kent Live, says about 73% of children who use AI at school admit not acknowledging its role… [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-02.html)
+- **Samsung survey: 95% of US high schoolers use AI, only 16% say their school teaches it formally** — Samsung's expansion of its Solve for Tomorrow program came with new research finding that 95% of high schoolers use AI while only 16% report formal… [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-02.html)
+- **Utah's State Board creates a student AI task force so students have a say in classroom AI rules** — KSL reports that after student requests for a voice, the Utah State Board of Education created an Artificial Intelligence Student Task Force to give… [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-02.html)
 
 ## 2026-Nov-01
 - **NSW pushes to bring back pen-and-paper NAPLAN writing tests, citing screens and AI** — New South Wales will ask Australia's education ministers, meeting on 2 November, to return NAPLAN writing tests for Years 5, 7 and 9 to pen and paper from 2028; only Year 3 sits the test on paper today. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-01.html)
