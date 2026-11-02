@@ -2,10 +2,40 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-01
-run_count: 88
-digest_count: 88
+last_run: 2026-11-02
+run_count: 89
+digest_count: 89
 entries:
+  - fingerprint: backslash-agent-skills-workstation-governance-nov1
+    title: "Backslash urges inventories and allowlists for agent Skills on developer laptops"
+    first_seen: 2026-11-02
+    digest: essential-skill-md-for-productivity-2026-Nov-02.html
+    urls:
+      - https://www.backslash.security/blog/secure-ai-agents-developer-workstations
+  - fingerprint: copilot-cli-1-0-106-2-skills-sync-reload-nov1
+    title: "Copilot CLI 1.0.106 keeps /skills add, remove and reload in sync with the session"
+    first_seen: 2026-11-02
+    digest: essential-skill-md-for-productivity-2026-Nov-02.html
+    urls:
+      - https://github.com/github/copilot-cli/releases
+  - fingerprint: claude-code-2-1-314-skills-trash-cap-gateway-retry-oct30
+    title: "Claude Code 2.1.314 caps skill and plugin trash folders and retries gateway-rejected requests"
+    first_seen: 2026-11-02
+    digest: essential-skill-md-for-productivity-2026-Nov-02.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases
+  - fingerprint: doe-genesis-agent-skills-release-oct16
+    title: "US Department of Energy releases “Genesis Agent Skills” for the Genesis Mission"
+    first_seen: 2026-11-02
+    digest: essential-skill-md-for-productivity-2026-Nov-02.html
+    urls:
+      - https://www.pppl.gov/news/2026/%E2%80%98genesis-agent-skills%E2%80%99-release-support-innovation-across-genesis-mission
+  - fingerprint: oh-my-claudecode-v5-7-26-29-skill-paths-omc-cli-nov1
+    title: "oh-my-claudecode ships v5.7.26 to v5.7.29 in a day, with skill paths needing the omc CLI"
+    first_seen: 2026-11-02
+    digest: essential-skill-md-for-productivity-2026-Nov-02.html
+    urls:
+      - https://github.com/yeachan-heo/oh-my-claudecode/releases
   - fingerprint: claude-code-extension-trojanized-cursor-marketplace-ssh-backdoor-oct29
     title: "Trojanized Claude Code extension in Cursor's marketplace planted an SSH backdoor"
     first_seen: 2026-11-01
@@ -2860,6 +2890,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-02
+- **Backslash urges inventories and allowlists for agent Skills on developer laptops** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-02.html)
+- **Copilot CLI 1.0.106 keeps /skills add, remove and reload in sync with the session** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-02.html)
+- **Claude Code 2.1.314 caps skill and plugin trash folders and retries gateway-rejected requests** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-02.html)
+- **US Department of Energy releases “Genesis Agent Skills” for the Genesis Mission** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-02.html)
+- **oh-my-claudecode ships v5.7.26 to v5.7.29 in a day, with skill paths needing the omc CLI** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-02.html)
 
 ## 2026-Nov-01
 - **Trojanized Claude Code extension in Cursor's marketplace planted an SSH backdoor** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-01.html)
