@@ -2,10 +2,41 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-02
-run_count: 89
-digest_count: 89
+last_run: 2026-11-03
+run_count: 90
+digest_count: 90
 entries:
+  - fingerprint: claude-code-2-1-317-skills-sync-fix-schedule-connector-warning-nov3
+    title: "Claude Code 2.1.317 fixes skills synced from claude.ai that kept vanishing, and warns when scheduled tasks pick up extra connectors"
+    first_seen: 2026-11-03
+    digest: essential-skill-md-for-productivity-2026-Nov-03.html
+    urls:
+      - https://code.claude.com/docs/en/changelog
+      - https://github.com/anthropics/claude-code/releases
+  - fingerprint: copilot-cli-1-0-106-3-to-5-tilde-skill-dirs-control-chars-nov2-3
+    title: "Copilot CLI 1.0.106 pre-releases resolve ~ in skill directories and strip terminal control characters from skill metadata"
+    first_seen: 2026-11-03
+    digest: essential-skill-md-for-productivity-2026-Nov-03.html
+    urls:
+      - https://github.com/github/copilot-cli/releases
+  - fingerprint: codex-0-166-0-incremental-skill-catalogs-skill-catalog-deltas-oct29
+    title: "Codex 0.166.0 adds incremental skill catalogs behind a feature flag"
+    first_seen: 2026-11-03
+    digest: essential-skill-md-for-productivity-2026-Nov-03.html
+    urls:
+      - https://github.com/openai/codex/releases
+  - fingerprint: addyosmani-agent-skills-0-6-14-0-6-15-secret-check-user-invoked-oct29-31
+    title: "Agent Skills 0.6.14 and 0.6.15 stop leaking secrets to transcripts and make lifecycle commands user-only"
+    first_seen: 2026-11-03
+    digest: essential-skill-md-for-productivity-2026-Nov-03.html
+    urls:
+      - https://github.com/addyosmani/agent-skills/releases
+  - fingerprint: openclaw-2026-10-9-skill-metadata-9-36-workspace-only-10-10-beta-5-symlink-oct27-30
+    title: "OpenClaw 2026.10.9 and neighbouring builds tighten skill metadata and workspace boundaries"
+    first_seen: 2026-11-03
+    digest: essential-skill-md-for-productivity-2026-Nov-03.html
+    urls:
+      - https://github.com/openclaw/openclaw/releases
   - fingerprint: backslash-agent-skills-workstation-governance-nov1
     title: "Backslash urges inventories and allowlists for agent Skills on developer laptops"
     first_seen: 2026-11-02
@@ -2890,6 +2921,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-03
+- **Claude Code 2.1.317 fixes skills synced from claude.ai that kept vanishing, and warns when scheduled tasks pick up extra connectors** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-03.html)
+- **Copilot CLI 1.0.106 pre-releases resolve ~ in skill directories and strip terminal control characters from skill metadata** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-03.html)
+- **Codex 0.166.0 adds incremental skill catalogs behind a feature flag** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-03.html)
+- **Agent Skills 0.6.14 and 0.6.15 stop leaking secrets to transcripts and make lifecycle commands user-only** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-03.html)
+- **OpenClaw 2026.10.9 and neighbouring builds tighten skill metadata and workspace boundaries** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-03.html)
 
 ## 2026-Nov-02
 - **Backslash urges inventories and allowlists for agent Skills on developer laptops** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-02.html)
