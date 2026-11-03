@@ -2,10 +2,49 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-02
-run_count: 84
-digest_count: 81
+last_run: 2026-11-03
+run_count: 85
+digest_count: 82
 entries:
+  - fingerprint: google-k12-student-ai-search-off-by-default-opt-in-nov2026
+    title: "Google will switch off Gemini, Notebook and Search for K-12 student accounts unless schools opt in"
+    first_seen: 2026-11-03
+    digest: ai-impact-on-education-2026-Nov-03.html
+    urls:
+      - https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/
+      - https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html
+      - https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/
+      - https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features
+      - https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence
+      - https://www.wral.com/news/ap/7ba42-students-using-google-search-in-classroom-accounts-will-need-access-to-ai-tools-the-company-says/
+      - https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/
+      - https://www.cbsnews.com/news/google-search-access-schools-ai-tools/
+      - https://www.nbcnews.com/tech/tech-news/google-shut-search-schools-opt-ai-rcna607280
+  - fingerprint: google-guided-learning-classroom-search-pilot-nov2026
+    title: "Google brings Guided Learning to Classroom now and to Search in a pilot later in November"
+    first_seen: 2026-11-03
+    digest: ai-impact-on-education-2026-Nov-03.html
+    urls:
+      - https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/
+      - https://www.forbes.com/sites/danfitzpatrick/2026/11/03/schools-can-say-no-to-google-ai-but-theyll-lose-google-search-too/
+  - fingerprint: edsurge-parents-want-ai-safeguards-e4e-43pct-teachers-no-training-nov2026
+    title: "Parents want AI taught with safeguards, but 43% of teachers report no AI training (update to NPU poll)"
+    first_seen: 2026-11-03
+    digest: ai-impact-on-education-2026-Nov-03.html
+    urls:
+      - https://www.edsurge.com/news/survey-most-parents-want-students-to-use-ai-in-school-with-strong-safeguards
+  - fingerprint: san-antonio-northside-north-east-isd-teacher-ai-tools-optional-use-nov2026
+    title: "San Antonio districts approve AI tools for teachers but leave use optional"
+    first_seen: 2026-11-03
+    digest: ai-impact-on-education-2026-Nov-03.html
+    urls:
+      - https://www.expressnews.com/news/education/article/ai-san-antonio-schools-teachers-usage-22475477.php
+  - fingerprint: sydney-uni-3000-misconduct-cases-ai-wearables-blindspot-nov2026
+    title: "University of Sydney logged almost 3,000 alleged misconduct cases as AI wearables expose exam blind spot"
+    first_seen: 2026-11-03
+    digest: ai-impact-on-education-2026-Nov-03.html
+    urls:
+      - https://www.theaustralian.com.au/higher-education/smart-glasses-silent-cheating-universities-face-a-growing-ai-threat/news-story/6da3f836b07d236ac8e46e0a921661dc
   - fingerprint: edweek-audit-ai-education-meta-analyses-flawed-oneill-nov2026
     title: "Audit: the meta-analyses behind 'AI improves learning' are too flawed to guide decisions"
     first_seen: 2026-11-02
@@ -2979,6 +3018,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-03
+- **Google will switch off Gemini, Notebook and Search for K-12 student accounts unless schools opt in** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-03.html)
+- **Google brings Guided Learning to Classroom now and to Search in a pilot later in November** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-03.html)
+- **Parents want AI taught with safeguards, but 43% of teachers report no AI training (update to NPU poll)** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-03.html)
+- **San Antonio districts approve AI tools for teachers but leave use optional** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-03.html)
+- **University of Sydney logged almost 3,000 alleged misconduct cases as AI wearables expose exam blind spot** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-03.html)
 
 ## 2026-Nov-02
 - **Audit: the meta-analyses behind 'AI improves learning' are too flawed to guide decisions** — A new audit by Patrick O'Neill of Ivy Tech Community College examined 14 of nearly 40 meta-analyses that reported positive effects of AI on learning… [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-02.html)
