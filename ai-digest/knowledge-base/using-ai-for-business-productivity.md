@@ -2,10 +2,44 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-02
-run_count: 95
-digest_count: 95
+last_run: 2026-11-03
+run_count: 96
+digest_count: 96
 entries:
+  - fingerprint: larridin-30m-series-a-pelion-ai-value-measurement-nov2026
+    title: "Larridin raises $30 million to measure what enterprise AI is actually delivering"
+    first_seen: 2026-11-03
+    digest: using-ai-for-business-productivity-2026-Nov-03.html
+    urls:
+      - https://finance.yahoo.com/technology/ai/articles/larridin-raises-30-million-series-170000208.html
+      - https://ventureburn.com/larridin-raises-30-million-enterprise-ai-measurement/
+  - fingerprint: openai-servicenow-partnership-expansion-chatgpt-workflows-oct2026
+    title: "OpenAI and ServiceNow deepen their tie-up, putting ChatGPT inside IT workflows"
+    first_seen: 2026-11-03
+    digest: using-ai-for-business-productivity-2026-Nov-03.html
+    urls:
+      - https://openai.com/index/openai-servicenow-partnership-expansion/
+      - https://uctoday.com/this-week-enterprise-ai-starts-working-the-night-shift
+  - fingerprint: tencent-workbuddy-9b-task-requests-hy4-middle-east-nov2026
+    title: "Tencent says its WorkBuddy agent has handled more than 9 billion tasks since March"
+    first_seen: 2026-11-03
+    digest: using-ai-for-business-productivity-2026-Nov-03.html
+    urls:
+      - https://www.arabnews.com/eye-on-ai/tencent-cloud-expands-riyadh-infrastructure-amid-global-ai-growth-3008863
+      - https://www.itp.net/cloud-data/tencent-cloud-doubles-overseas-customer-base-adds-middle-east-ai-partnerships
+  - fingerprint: newsweek-dement-process-ownership-before-ai-automation-nov2026
+    title: "Newsweek opinion: redesign the process before you automate it"
+    first_seen: 2026-11-03
+    digest: using-ai-for-business-productivity-2026-Nov-03.html
+    urls:
+      - https://www.newsweek.com/ai-productivity-requires-process-ownership-before-automation-12649819
+  - fingerprint: google-workspace-october-drops-fill-with-gemini-cell-citations-oct2026
+    title: "Google Workspace's October drops add cell-level citations to Gemini in Sheets"
+    first_seen: 2026-11-03
+    digest: using-ai-for-business-productivity-2026-Nov-03.html
+    urls:
+      - https://workspace.google.com/blog/product-announcements/october-workspace-drops-edit-markdown-talk-to-gmail-and-docs-translate-meetings-and-more
+      - https://uctoday.com/this-week-enterprise-ai-starts-working-the-night-shift
   - fingerprint: servicenow-q3-2026-shares-drop-18pct-guidance-employeeworks-100m-oct2026
     title: "ServiceNow's AI numbers beat, but weak guidance sends the stock down 18%"
     first_seen: 2026-11-02
@@ -3900,6 +3934,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-03
+- **Larridin raises $30 million to measure what enterprise AI is actually delivering** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-03.html)
+- **OpenAI and ServiceNow deepen their tie-up, putting ChatGPT inside IT workflows** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-03.html)
+- **Tencent says its WorkBuddy agent has handled more than 9 billion tasks since March** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-03.html)
+- **Newsweek opinion: redesign the process before you automate it** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-03.html)
+- **Google Workspace's October drops add cell-level citations to Gemini in Sheets** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-03.html)
 
 ## 2026-Nov-02
 - **ServiceNow's AI numbers beat, but weak guidance sends the stock down 18%** — Oct 28 Q3: subscription revenue $3,988M (+21%), EmployeeWorks at $100M ACV in under three quarters, AI net new ACV target reported raised to $1.7B; Q4 revenue guide $4.25–4.26B vs ~$4.36B expected, shares fell ~18%. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-02.html)
