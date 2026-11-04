@@ -2,10 +2,42 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-03
-run_count: 96
-digest_count: 96
+last_run: 2026-11-04
+run_count: 97
+digest_count: 97
 entries:
+  - fingerprint: menlo-2026-state-of-enterprise-ai-177b-agents-69pct-frontier-labs-nov2026
+    title: "Menlo Ventures sizes enterprise AI at $177 billion as agents overtake humans"
+    first_seen: 2026-11-04
+    digest: using-ai-for-business-productivity-2026-Nov-04.html
+    urls:
+      - https://natlawreview.com/press-releases/menlo-ventures-2026-state-enterprise-ai-report-enterprise-ai-spending-hits
+      - https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/
+  - fingerprint: founder-reports-botsitting-ai-oversight-as-much-effort-as-new-hire-nov2026
+    title: "Survey: managing AI output takes as much effort as training a new hire"
+    first_seen: 2026-11-04
+    digest: using-ai-for-business-productivity-2026-Nov-04.html
+    urls:
+      - https://www.siliconvalley.com/2026/11/03/most-workers-say-getting-good-work-from-ai-takes-as-much-effort-as-training-a-new-hire/
+      - https://www.wftv.com/news/most-workers-say/E7RJ4S5HA42N7FP6LOSX7XUSOA/?outputType=amp
+  - fingerprint: larridin-fradin-10pct-surge-25pct-less-productive-nov2026
+    title: "Larridin's CEO says AI is splitting the workforce: a 10% surge and a 25% drag"
+    first_seen: 2026-11-04
+    digest: using-ai-for-business-productivity-2026-Nov-04.html
+    urls:
+      - https://finance.biggo.com/podcast/ca8130e482adb6f0
+  - fingerprint: bespin-global-helpnow-computer-execution-agent-nov2026
+    title: "Bespin Global launches an agent that operates ERP and groupware directly"
+    first_seen: 2026-11-04
+    digest: using-ai-for-business-productivity-2026-Nov-04.html
+    urls:
+      - https://finance.biggo.com/news/585f32fd-1985-43b8-98b0-e6c568a47a21
+  - fingerprint: mastech-autonomous-enterprise-67pct-productivity-nov2026
+    title: "Mastech claims 67% productivity gain from running itself AI-first"
+    first_seen: 2026-11-04
+    digest: using-ai-for-business-productivity-2026-Nov-04.html
+    urls:
+      - https://analyticsindiamag.com/ai-highlights/the-ai-first-employee-is-not-what-you-think
   - fingerprint: larridin-30m-series-a-pelion-ai-value-measurement-nov2026
     title: "Larridin raises $30 million to measure what enterprise AI is actually delivering"
     first_seen: 2026-11-03
@@ -3934,6 +3966,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-04
+- **Menlo Ventures sizes enterprise AI at $177 billion as agents overtake humans** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-04.html)
+- **Survey: managing AI output takes as much effort as training a new hire** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-04.html)
+- **Larridin's CEO says AI is splitting the workforce: a 10% surge and a 25% drag** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-04.html)
+- **Bespin Global launches an agent that operates ERP and groupware directly** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-04.html)
+- **Mastech claims 67% productivity gain from running itself AI-first** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-04.html)
 
 ## 2026-Nov-03
 - **Larridin raises $30 million to measure what enterprise AI is actually delivering** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-03.html)
