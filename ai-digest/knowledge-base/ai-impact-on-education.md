@@ -2,10 +2,44 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-03
-run_count: 85
-digest_count: 82
+last_run: 2026-11-04
+run_count: 86
+digest_count: 83
 entries:
+  - fingerprint: oecd-digital-education-outlook-2026-ai-tutor-rct-tutor-copilot-nov2026
+    title: "OECD outlook: a well-designed AI tutor beat in-class active learning, and a tutor co-pilot lifted pass rates"
+    first_seen: 2026-11-04
+    digest: ai-impact-on-education-2026-Nov-04.html
+    urls:
+      - https://www.indiatoday.in/education-today/latest-studies/story/students-learned-more-with-an-ai-tutor-than-in-class-a-new-report-reveals-3032061-2026-11-04
+  - fingerprint: australia-education-ministers-restrict-genai-primary-assessments-digital-detox-nov2026
+    title: "Australia's education ministers agree to restrict generative AI in primary schools and secondary assessments"
+    first_seen: 2026-11-04
+    digest: ai-impact-on-education-2026-Nov-04.html
+    urls:
+      - https://ministers.education.gov.au/clare/digital-detox-schools-curriculum-reform-and-establishment-teaching-and-learning-commission
+      - https://www.theaustralian.com.au/education/australian-schools-to-ban-generative-ai-in-major-classroom-screen-crackdown/news-story/a1b33c7ecd84f7fafb0bf3135684fb91
+      - https://cathnews.com/2026/11/05/schools-to-ban-generative-ai-in-classrooms/
+      - https://www.miragenews.com/schools-weigh-digital-detox-curriculum-reform-1772051/
+  - fingerprint: manchester-staff-overestimate-student-ai-use-frontiers-nov2026
+    title: "Manchester study: lecturers think students use AI far more than students say they do"
+    first_seen: 2026-11-04
+    digest: ai-impact-on-education-2026-Nov-04.html
+    urls:
+      - https://www.manchester.ac.uk/about/news/lecturers-and-students-see-ai-use-very-differently/
+      - https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1885253/full
+  - fingerprint: edweek-deepfake-survey-852-educators-policy-gap-nov2026
+    title: "EdWeek survey: one in three educators doesn't know if their school has a deepfake policy"
+    first_seen: 2026-11-04
+    digest: ai-impact-on-education-2026-Nov-04.html
+    urls:
+      - https://www.edweek.org/leadership/fake-ai-images-are-targeting-students-and-teachers-schools-arent-prepared/2026/11
+  - fingerprint: edtech-magazine-higher-ed-ai-task-forces-drexel-bu-missouri-nov2026
+    title: "Universities turn to standing AI committees: Drexel, Boston University and Missouri show three models"
+    first_seen: 2026-11-04
+    digest: ai-impact-on-education-2026-Nov-04.html
+    urls:
+      - https://edtechmagazine.com/higher/article/2026/11/ai-task-forces-drive-policy-adoption-and-innovation-higher-ed
   - fingerprint: google-k12-student-ai-search-off-by-default-opt-in-nov2026
     title: "Google will switch off Gemini, Notebook and Search for K-12 student accounts unless schools opt in"
     first_seen: 2026-11-03
@@ -3018,6 +3052,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-04
+- **OECD outlook: a well-designed AI tutor beat in-class active learning, and a tutor co-pilot lifted pass rates** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-04.html)
+- **Australia's education ministers agree to restrict generative AI in primary schools and secondary assessments** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-04.html)
+- **Manchester study: lecturers think students use AI far more than students say they do** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-04.html)
+- **EdWeek survey: one in three educators doesn't know if their school has a deepfake policy** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-04.html)
+- **Universities turn to standing AI committees: Drexel, Boston University and Missouri show three models** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-04.html)
 
 ## 2026-Nov-03
 - **Google will switch off Gemini, Notebook and Search for K-12 student accounts unless schools opt in** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-03.html)
