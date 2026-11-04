@@ -2,10 +2,42 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-03
-run_count: 90
-digest_count: 90
+last_run: 2026-11-04
+run_count: 91
+digest_count: 91
 entries:
+  - fingerprint: claude-code-2-1-318-managed-agents-onboard-auto-policy-slash-command-fix-nov4
+    title: "Claude Code 2.1.318 makes the claude-api onboarding skill default to auto-approval and hardens how commands and connectors behave"
+    first_seen: 2026-11-04
+    digest: essential-skill-md-for-productivity-2026-Nov-04.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.318
+      - https://github.com/anthropics/claude-code/releases
+  - fingerprint: obra-superpowers-v7-0-2-brainstorming-bootstrap-fixes-nov3
+    title: "Superpowers v7.0.2 makes brainstorming ask fewer questions and fixes skill bootstrapping on six harnesses"
+    first_seen: 2026-11-04
+    digest: essential-skill-md-for-productivity-2026-Nov-04.html
+    urls:
+      - https://github.com/obra/superpowers/releases/tag/v7.0.2
+      - https://github.com/obra/superpowers/releases
+  - fingerprint: hermes-agent-v0-22-6-per-skill-write-locks-nov2
+    title: "Hermes Agent v0.22.6 adds per-skill locks that stop the agent writing to a skill on its own"
+    first_seen: 2026-11-04
+    digest: essential-skill-md-for-productivity-2026-Nov-04.html
+    urls:
+      - https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.6
+  - fingerprint: opencode-2-2-3-managed-policy-skill-use-oct30
+    title: "OpenCode 2.2.3 splits managed policy so skills get their own skill.use permission"
+    first_seen: 2026-11-04
+    digest: essential-skill-md-for-productivity-2026-Nov-04.html
+    urls:
+      - https://github.com/anomalyco/opencode/releases/tag/v2.2.3
+  - fingerprint: copilot-cli-1-0-106-6-first-request-skills-escape-sequence-hardening-nov3
+    title: "Copilot CLI 1.0.106-6 keeps configured skills available on the first request and escapes control characters across the UI"
+    first_seen: 2026-11-04
+    digest: essential-skill-md-for-productivity-2026-Nov-04.html
+    urls:
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.106-6
   - fingerprint: claude-code-2-1-317-skills-sync-fix-schedule-connector-warning-nov3
     title: "Claude Code 2.1.317 fixes skills synced from claude.ai that kept vanishing, and warns when scheduled tasks pick up extra connectors"
     first_seen: 2026-11-03
@@ -2921,6 +2953,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-04
+- **Claude Code 2.1.318 makes the claude-api onboarding skill default to auto-approval and hardens how commands and connectors behave** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-04.html)
+- **Superpowers v7.0.2 makes brainstorming ask fewer questions and fixes skill bootstrapping on six harnesses** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-04.html)
+- **Hermes Agent v0.22.6 adds per-skill locks that stop the agent writing to a skill on its own** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-04.html)
+- **OpenCode 2.2.3 splits managed policy so skills get their own skill.use permission** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-04.html)
+- **Copilot CLI 1.0.106-6 keeps configured skills available on the first request and escapes control characters across the UI** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-04.html)
 
 ## 2026-Nov-03
 - **Claude Code 2.1.317 fixes skills synced from claude.ai that kept vanishing, and warns when scheduled tasks pick up extra connectors** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-03.html)
