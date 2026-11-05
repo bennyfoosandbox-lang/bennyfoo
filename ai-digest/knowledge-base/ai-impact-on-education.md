@@ -2,10 +2,49 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-04
-run_count: 86
-digest_count: 83
+last_run: 2026-11-05
+run_count: 87
+digest_count: 84
 entries:
+  - fingerprint: google-k12-search-ai-ultimatum-edsource-nov2026
+    title: "Update: Google's K-12 plan could leave schools choosing between AI search and no search at all"
+    first_seen: 2026-11-05
+    digest: ai-impact-on-education-2026-Nov-05.html
+    urls:
+      - https://edsource.org/2026/google-ai-school-search-restriction/769862
+      - https://www.universityherald.com/articles/80624/20261105/googles-new-school-ai-policy-could-cut-off-search-access-students.htm
+      - https://www.montanarightnow.com/bozeman/bozeman-school-district-reacts-to-google-ai-policy-as-access-rules-change/article_981d5107-3016-436d-8ed5-2a309eaf5f38.html
+      - https://shattered.io/google-school-ai-row-khan-golin-person-default-off-2026/
+  - fingerprint: seattle-sps-tightens-ai-youtube-minecraft-parents-pause-nov2026
+    title: "Seattle tightens student tech and closes a Gemini loophole while parents demand a full AI pause"
+    first_seen: 2026-11-05
+    digest: ai-impact-on-education-2026-Nov-05.html
+    urls:
+      - https://www.kuow.org/education/2026-11-05/seattle-public-schools-tightens-student-access-to-youtube-minecraft-and-ai
+      - https://www.king5.com/article/news/education/seattle-parents-press-district-to-pause-ai-classrooms/281-c326ea80-208f-46e1-a6ad-aa638b65bddb
+      - https://www.kiro7.com/news/local/parents-call-seattle-public-schools-pause-ai-use-classrooms/DLBDIL5KS5EPNMPKVAEFBIRYCY/
+  - fingerprint: korea-president-lee-smart-glasses-csat-crackdown-nov2026
+    title: "South Korea's president orders a smart-glasses crackdown two weeks before the college entrance exam"
+    first_seen: 2026-11-05
+    digest: ai-impact-on-education-2026-Nov-05.html
+    urls:
+      - https://en.sedaily.com/politics/2026/11/05/lee-orders-crackdown-on-smart-glasses-cheating-in-college
+      - https://www.timeshighereducation.com/news/south-korea-vows-prosecute-students-using-ai-glasses-exams
+      - https://biz.chosun.com/en/en-society/2026/11/05/QDIFJELSJRFGJEVPWDRYH3ADC4/?outputType=amp
+      - https://biz.chosun.com/en/en-society/2026/11/05/FPKT6LMRNNAF3LQGTPD5OYA2KQ/
+      - https://www.chosun.com/english/national-en/2026/11/05/DEF2YFBJIBEQVIS6E7MGE7YOBU/
+  - fingerprint: bangladesh-universities-no-ai-guidelines-ugc-january-nov2026
+    title: "Bangladesh's universities use generative AI widely but still have no national guideline"
+    first_seen: 2026-11-05
+    digest: ai-impact-on-education-2026-Nov-05.html
+    urls:
+      - https://www.thedailystar.net/news/bangladesh/news/no-ai-guidelines-universities-4316876
+  - fingerprint: west-africa-ai-exam-hall-assessment-reform-modernghana-nov2026
+    title: "Op-ed: West African exams must be redesigned before AI cheating outruns policy"
+    first_seen: 2026-11-05
+    digest: ai-impact-on-education-2026-Nov-05.html
+    urls:
+      - https://www.modernghana.com/news/1542151/ai-has-entered-the-exam-hall-west-african-schools.html
   - fingerprint: oecd-digital-education-outlook-2026-ai-tutor-rct-tutor-copilot-nov2026
     title: "OECD outlook: a well-designed AI tutor beat in-class active learning, and a tutor co-pilot lifted pass rates"
     first_seen: 2026-11-04
@@ -3052,6 +3091,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-05
+- **Update: Google's K-12 plan could leave schools choosing between AI search and no search at all** — A day after Google said it would switch Gemini off for student accounts by default, the fuller picture is drawing fire. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-05.html)
+- **Seattle tightens student tech and closes a Gemini loophole while parents demand a full AI pause** — At a board discussion this week Seattle Public Schools announced it will block YouTube for K-5 and Minecraft for all grades from Monday, and that officials fixed a loophole that let students chat with Gemini, which is now banned districtwide (previously K-2 only). [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-05.html)
+- **South Korea's president orders a smart-glasses crackdown two weeks before the college entrance exam** — President Lee Jae-myung told the government on 5 November to make a special effort to block cheating with high-tech devices such as AI smart glasses, to train proctors better, to tighten on-site response and to protect proctors from unreasonable complaints, with the 2027 College Scholastic Ability Test two weeks away. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-05.html)
+- **Bangladesh's universities use generative AI widely but still have no national guideline** — The Daily Star reports that Bangladeshi universities have made little progress on rules for generative AI, even as professors at Rajshahi, Jagannath and BRAC describe students submitting polished work they cannot explain or defend. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-05.html)
+- **Op-ed: West African exams must be redesigned before AI cheating outruns policy** — A Modern Ghana commentary argues that exam malpractice in West Africa, historically about smuggled notes, now includes devices that can write essays, solve maths and generate code in seconds. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-05.html)
 
 ## 2026-Nov-04
 - **OECD outlook: a well-designed AI tutor beat in-class active learning, and a tutor co-pilot lifted pass rates** [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-04.html)
