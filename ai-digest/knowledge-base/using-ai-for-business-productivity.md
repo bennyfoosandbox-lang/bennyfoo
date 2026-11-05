@@ -2,10 +2,49 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-04
-run_count: 97
-digest_count: 97
+last_run: 2026-11-05
+run_count: 98
+digest_count: 98
 entries:
+  - fingerprint: intuit-connect-2026-agentic-books-close-agent-studio-nov2026
+    title: "Intuit gives accounting firms an agent that runs the monthly close"
+    first_seen: 2026-11-05
+    digest: using-ai-for-business-productivity-2026-Nov-05.html
+    urls:
+      - https://www.cpapracticeadvisor.com/2026/11/03/intuit-connect-2026-ai-agents-a-new-partner-program-and-a-unified-platform-take-center-stage/193101/
+      - https://www.accountingtoday.com/news/intuit-plans-bigger-ai-rollout-with-accountants
+      - https://futurumgroup.com/?p=97190
+  - fingerprint: ironscales-2026-report-57pct-agent-incidents-52pct-policies-nov2026
+    title: "Survey: 57% of firms have confirmed an AI agent acting on malicious content"
+    first_seen: 2026-11-05
+    digest: using-ai-for-business-productivity-2026-Nov-05.html
+    urls:
+      - https://www.channelinsider.com/ai/ironscales-agentic-ai-security-report/
+      - https://securitybrief.news/story/most-firms-hit-by-ai-agent-security-incidents-report
+      - https://ironscales.com/news/new-report-from-ironscales-reveals-77-of-organizations-experienced-agentic-ai-related-security-incidents-in-the-past-year
+  - fingerprint: hyphenate-45m-series-a-finance-agents-month-end-close-oct2026
+    title: "Hyphenate raises $45M for finance agents that run month-end close (from 27 Oct)"
+    first_seen: 2026-11-05
+    digest: using-ai-for-business-productivity-2026-Nov-05.html
+    urls:
+      - https://www.fintechfutures.com/venture-capital-funding/newly-rebranded-hyphenate-lands-45m-series-a
+      - https://ventureburn.com/hyphenate-raises-45-million-to-build-ai-finance-agents/
+      - https://aiweekly.co/alerts/hyphenate-raises-45m-series-a-from-nexus-venture-partners-for-rl-driven
+  - fingerprint: apple-engineer-ai-spend-cap-200-day-bloomberg-nov2026
+    title: "Apple reportedly tightens engineers' daily AI spending caps"
+    first_seen: 2026-11-05
+    digest: using-ai-for-business-productivity-2026-Nov-05.html
+    urls:
+      - https://aiweekly.co/alerts/apple-cuts-engineer-ai-spend-caps-to-200day-plans-100-floor
+      - https://wccftech.com/apple-is-now-penalizing-its-internal-teams-that-dont-use-enough-ai-in-their-workflow/
+  - fingerprint: adobe-cx-enterprise-coworker-claude-chatgpt-copilot-genie-nov2026
+    title: "Adobe's marketing coworker agent goes where teams already work"
+    first_seen: 2026-11-05
+    digest: using-ai-for-business-productivity-2026-Nov-05.html
+    urls:
+      - https://www.pymnts.com/news/artificial-intelligence/2026/adobe-integrates-marketing-ai-agent-in-chatgpt-and-claude/
+      - https://experienceleague.adobe.com/en/docs/coworker/content/ai-platforms
+      - https://futurumgroup.com/insights/adobe-cx-enterprise-coworker-is-ready-is-the-enterprise/
   - fingerprint: menlo-2026-state-of-enterprise-ai-177b-agents-69pct-frontier-labs-nov2026
     title: "Menlo Ventures sizes enterprise AI at $177 billion as agents overtake humans"
     first_seen: 2026-11-04
@@ -3966,6 +4005,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-05
+- **Intuit gives accounting firms an agent that runs the monthly close** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-05.html)
+- **Survey: 57% of firms have confirmed an AI agent acting on malicious content** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-05.html)
+- **Hyphenate raises $45M for finance agents that run month-end close (from 27 Oct)** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-05.html)
+- **Apple reportedly tightens engineers' daily AI spending caps** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-05.html)
+- **Adobe's marketing coworker agent goes where teams already work** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-05.html)
 
 ## 2026-Nov-04
 - **Menlo Ventures sizes enterprise AI at $177 billion as agents overtake humans** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-04.html)
