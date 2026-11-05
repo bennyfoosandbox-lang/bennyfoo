@@ -2,10 +2,37 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-04
-run_count: 91
-digest_count: 91
+last_run: 2026-11-05
+run_count: 92
+digest_count: 92
 entries:
+  - fingerprint: mistral-agents-sdk-skills-skill-md-registry-docs-nov5
+    title: "Mistral's Agents SDK documents SKILL.md skills, with a versioned registry, still marked early and 'coming soon'"
+    first_seen: 2026-11-05
+    digest: essential-skill-md-for-productivity-2026-Nov-05.html
+    urls:
+      - https://docs.mistral.ai/studio/agents/capabilities/skills
+  - fingerprint: mlflow-skill-registry-experimental-versions-aliases-nov5
+    title: "MLflow adds an experimental Skill Registry that versions SKILL.md folders like models"
+    first_seen: 2026-11-05
+    digest: essential-skill-md-for-productivity-2026-Nov-05.html
+    urls:
+      - https://mlflow.org/docs/latest/genai/skill-registry/
+  - fingerprint: arxiv-2611-04456-how-agent-skills-evolve-84200-skills-nov3
+    title: "arXiv study of 84,200 GitHub skills finds most edits are incremental and security fixes barely cut risk"
+    first_seen: 2026-11-05
+    digest: essential-skill-md-for-productivity-2026-Nov-05.html
+    urls:
+      - https://arxiv.org/abs/2611.04456
+      - https://arxiv.org/html/2611.04456
+  - fingerprint: copilot-cli-1-0-106-7-to-9-skill-md-warning-invocation-disabled-nov3-4
+    title: "Copilot CLI 1.0.106-7 to -9 warn about a top-level SKILL.md and explain skills that block model invocation"
+    first_seen: 2026-11-05
+    digest: essential-skill-md-for-productivity-2026-Nov-05.html
+    urls:
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.106-9
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.106-8
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.106-7
   - fingerprint: claude-code-2-1-318-managed-agents-onboard-auto-policy-slash-command-fix-nov4
     title: "Claude Code 2.1.318 makes the claude-api onboarding skill default to auto-approval and hardens how commands and connectors behave"
     first_seen: 2026-11-04
@@ -2953,6 +2980,12 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-05
+- **Mistral's Agents SDK documents SKILL.md skills, with a versioned registry, still marked early and 'coming soon'** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-05.html)
+- **MLflow adds an experimental Skill Registry that versions SKILL.md folders like models** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-05.html)
+- **arXiv study of 84,200 GitHub skills finds most edits are incremental and security fixes barely cut risk** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-05.html)
+- **Copilot CLI 1.0.106-7 to -9 warn about a top-level SKILL.md and explain skills that block model invocation** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-05.html)
 
 ## 2026-Nov-04
 - **Claude Code 2.1.318 makes the claude-api onboarding skill default to auto-approval and hardens how commands and connectors behave** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-04.html)
