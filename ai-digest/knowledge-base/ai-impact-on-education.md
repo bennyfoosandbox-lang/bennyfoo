@@ -2,10 +2,41 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-05
-run_count: 87
-digest_count: 84
+last_run: 2026-11-06
+run_count: 88
+digest_count: 85
 entries:
+  - fingerprint: irish-unions-tui-ifut-ai-academic-integrity-nov2026
+    title: "Irish lecturers' unions: AI is an 'era-defining challenge' for assessment, but banning it is not the answer"
+    first_seen: 2026-11-06
+    digest: ai-impact-on-education-2026-Nov-06.html
+    urls:
+      - https://www.rte.ie/news/education/2026/1106/1598285-ai-students-impact/
+  - fingerprint: stanford-faculty-senate-10m-ai-curriculum-proctoring-bylaw-nov2026
+    title: "Stanford puts $10 million behind department-level AI curriculum redesign and approves a proctoring bylaw"
+    first_seen: 2026-11-06
+    digest: ai-impact-on-education-2026-Nov-06.html
+    urls:
+      - https://news.stanford.edu/stories/2026/11/faculty-senate-discusses-key-issues-in-undergraduate-education
+  - fingerprint: bett-state-of-ai-in-education-2026-uk-teachers-80pct
+    title: "Bett survey: 80% of UK teachers use AI, but only 35% of those say it has cut their hours"
+    first_seen: 2026-11-06
+    digest: ai-impact-on-education-2026-Nov-06.html
+    urls:
+      - https://www.winssolutions.org/bett-survey-uk-teachers-ai-workload-2026/
+      - https://uk.bettshow.com/reports-and-whitepapers/state-of-ai-in-education
+  - fingerprint: openai-australian-universities-ai-native-graduates-nov2026
+    title: "Update: OpenAI says four Australian universities are rolling out ChatGPT Edu to build 'AI-native graduates'"
+    first_seen: 2026-11-06
+    digest: ai-impact-on-education-2026-Nov-06.html
+    urls:
+      - https://openai.com/index/australian-universities-ai-native-graduates/
+  - fingerprint: highereddive-ai-adoption-faculty-student-input-nov2026
+    title: "Higher Ed Dive: AI adoption 'can't just be implemented from the top', and faculty surveys show why"
+    first_seen: 2026-11-06
+    digest: ai-impact-on-education-2026-Nov-06.html
+    urls:
+      - https://www.highereddive.com/news/how-to-navigate-ai-adoption-with-faculty-and-student-input/873900/
   - fingerprint: google-k12-search-ai-ultimatum-edsource-nov2026
     title: "Update: Google's K-12 plan could leave schools choosing between AI search and no search at all"
     first_seen: 2026-11-05
@@ -3091,6 +3122,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-06
+- **Irish lecturers' unions: AI is an "era-defining challenge" for assessment, but banning it is not the answer** — The Teachers' Union of Ireland and the Irish Federation of University Teachers met at TU Dublin's Grangegorman campus on 6 November to discuss what they call the new reality on campuses. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-06.html)
+- **Stanford puts $10 million behind department-level AI curriculum redesign and approves a proctoring bylaw** — At its 5 November meeting the Stanford Faculty Senate heard about a provost-funded $10 million initiative of departmental AI teaching grants, with proposals accepted quarterly from January, and approved a proctoring bylaw. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-06.html)
+- **Bett survey: 80% of UK teachers use AI, but only 35% of those say it has cut their hours** — Bett's "State of AI in Education 2026" report, based on 1,033 UK teachers, finds 80% now use AI for teaching tasks, mostly to create lesson plans, worksheets and other resources (76% of users). [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-06.html)
+- **Update: OpenAI says four Australian universities are rolling out ChatGPT Edu to build "AI-native graduates"** — Building on September's UNSW deal, an OpenAI case study published 5 November names four institutions: UNSW Sydney (access expanding in stages to more than 80,000 students and staff), the University of Sydney (all students from Semester 1, 2027, after a trial), La Trobe (all 3,500 staff already covered, with universal access for 45,000 students and staff planned for Q1 2027) and Adelaide University. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-06.html)
+- **Higher Ed Dive: AI adoption "can't just be implemented from the top", and faculty surveys show why** — A 6 November Higher Ed Dive deep dive on how campuses are handling AI rollouts leans on survey data showing a faculty-leadership gap. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-06.html)
 
 ## 2026-Nov-05
 - **Update: Google's K-12 plan could leave schools choosing between AI search and no search at all** — A day after Google said it would switch Gemini off for student accounts by default, the fuller picture is drawing fire. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-05.html)
