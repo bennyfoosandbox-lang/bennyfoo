@@ -2,10 +2,43 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-05
-run_count: 98
-digest_count: 98
+last_run: 2026-11-06
+run_count: 99
+digest_count: 99
 entries:
+  - fingerprint: miro-survey-9500-individual-productivity-up-org-impact-stalls-nov2026
+    title: "Miro survey: AI lifts individual output, but organizations aren't seeing it"
+    first_seen: 2026-11-06
+    digest: using-ai-for-business-productivity-2026-Nov-06.html
+    urls:
+      - https://www.bnnbloomberg.ca/press-releases/2026/11/03/individual-ai-productivity-soars-but-organizational-impact-stalls/
+  - fingerprint: activtrak-ai-users-90-minutes-longer-days-berkeley-intensity-nov2026
+    title: "AI users are working up to 90 minutes longer each day"
+    first_seen: 2026-11-06
+    digest: using-ai-for-business-productivity-2026-Nov-06.html
+    urls:
+      - https://techradar.com/pro/the-goal-cant-simply-be-ai-usage-new-report-finds-people-using-ai-are-working-up-to-90-minutes-extra-every-day
+      - https://gizmodo.com/ai-users-are-working-up-to-90-minutes-longer-every-day-study-finds-2000833982
+  - fingerprint: tcs-enterprise-ai-study-84pct-productivity-top-benefit-10pct-autonomy-nov2026
+    title: "TCS study: 84% of executives rank productivity as AI's top benefit, but only 10% let agents act unsupervised"
+    first_seen: 2026-11-06
+    digest: using-ai-for-business-productivity-2026-Nov-06.html
+    urls:
+      - https://www.tcs.com/who-we-are/newsroom/press-release/productivity-top-benefit-tcs-enterprise-ai-study
+      - https://irishtechnews.ie/tcs-enterprise-ai-study-productivity-top-benefit/
+      - https://technuter.com/breaking-news/tcs-enterprise-ai-study-84-say-productivity-is-ais-top-benefit-just-10-let-ai-act-without-human-oversight.html
+  - fingerprint: mckinsey-state-of-ai-37pct-ebit-6pct-high-performers-80pct-individual-nov2026
+    title: "McKinsey: 80% say AI boosts their productivity, yet only about 6% are true high performers"
+    first_seen: 2026-11-06
+    digest: using-ai-for-business-productivity-2026-Nov-06.html
+    urls:
+      - https://diginomica.com/were-road-roi-mckinseys-verdict-ai-2026
+  - fingerprint: atlassian-q1-fy27-shares-fall-17pct-slower-subscription-growth-nov2026
+    title: "Atlassian shares drop 17% as slower subscription growth overshadows an earnings beat"
+    first_seen: 2026-11-06
+    digest: using-ai-for-business-productivity-2026-Nov-06.html
+    urls:
+      - https://siliconangle.com/2026/11/05/atlassian-shares-fall-17-as-slower-subscription-growth-forecast-overshadows-earnings-beat
   - fingerprint: intuit-connect-2026-agentic-books-close-agent-studio-nov2026
     title: "Intuit gives accounting firms an agent that runs the monthly close"
     first_seen: 2026-11-05
@@ -4005,6 +4038,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-06
+- **Miro survey: AI lifts individual output, but organizations aren't seeing it** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-06.html)
+- **AI users are working up to 90 minutes longer each day** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-06.html)
+- **TCS study: 84% of executives rank productivity as AI's top benefit, but only 10% let agents act unsupervised** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-06.html)
+- **McKinsey: 80% say AI boosts their productivity, yet only about 6% are true high performers** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-06.html)
+- **Atlassian shares drop 17% as slower subscription growth overshadows an earnings beat** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-06.html)
 
 ## 2026-Nov-05
 - **Intuit gives accounting firms an agent that runs the monthly close** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-05.html)
