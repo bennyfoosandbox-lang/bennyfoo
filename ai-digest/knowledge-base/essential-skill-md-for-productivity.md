@@ -2,10 +2,35 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-05
-run_count: 92
-digest_count: 92
+last_run: 2026-11-06
+run_count: 93
+digest_count: 93
 entries:
+  - fingerprint: hermes-agent-v0-23-0-microsoft-office-skill-curator-lock-nov5
+    title: "Hermes Agent v0.23.0 trims its built-in skills from 58 to 44 and adds a hard lock on hand-curated skills"
+    first_seen: 2026-11-06
+    digest: essential-skill-md-for-productivity-2026-Nov-06.html
+    urls:
+      - https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.0
+  - fingerprint: openclaw-2026-11-1-and-11-5-beta-1-learned-skill-capture-restore-rollback-nov4-5
+    title: "OpenClaw 2026.11.1 protects skills during failed restores, and the next beta improves learned-skill capture"
+    first_seen: 2026-11-06
+    digest: essential-skill-md-for-productivity-2026-Nov-06.html
+    urls:
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.11.1
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.11.5-beta.1
+  - fingerprint: codex-0-167-0-skills-toggle-search-openai-docs-skill-nov6
+    title: "Codex 0.167.0 lets you search the skills toggle view and points the openai-docs skill at replacement models"
+    first_seen: 2026-11-06
+    digest: essential-skill-md-for-productivity-2026-Nov-06.html
+    urls:
+      - https://github.com/openai/codex/releases/tag/rust-v0.167.0
+  - fingerprint: copilot-cli-1-0-106-10-skill-remove-forgets-disabled-state-nov5
+    title: "Copilot CLI 1.0.106-10 fixes a trap where a re-added skill started out disabled"
+    first_seen: 2026-11-06
+    digest: essential-skill-md-for-productivity-2026-Nov-06.html
+    urls:
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.106-10
   - fingerprint: mistral-agents-sdk-skills-skill-md-registry-docs-nov5
     title: "Mistral's Agents SDK documents SKILL.md skills, with a versioned registry, still marked early and 'coming soon'"
     first_seen: 2026-11-05
@@ -2980,6 +3005,12 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-06
+- **Hermes Agent v0.23.0 trims its built-in skills from 58 to 44 and adds a hard lock on hand-curated skills** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-06.html)
+- **OpenClaw 2026.11.1 protects skills during failed restores, and the next beta improves learned-skill capture** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-06.html)
+- **Codex 0.167.0 lets you search the skills toggle view and points the openai-docs skill at replacement models** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-06.html)
+- **Copilot CLI 1.0.106-10 fixes a trap where a re-added skill started out disabled** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-06.html)
 
 ## 2026-Nov-05
 - **Mistral's Agents SDK documents SKILL.md skills, with a versioned registry, still marked early and 'coming soon'** — see digest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-05.html)
