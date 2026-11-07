@@ -2,10 +2,44 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-06
-run_count: 88
-digest_count: 85
+last_run: 2026-11-07
+run_count: 89
+digest_count: 86
 entries:
+  - fingerprint: nanjing-university-smart-classroom-head-up-rate-rollback-nov2026
+    title: "Nanjing University drops its AI “head-up rate” classroom tracker after student outcry"
+    first_seen: 2026-11-07
+    digest: ai-impact-on-education-2026-Nov-07.html
+    urls:
+      - https://www.scmp.com/news/china/science/article/3373599/top-china-university-stops-using-ai-spot-absent-minded-students-after-backlash
+      - https://www.zaobao.com.sg/en/news/china/china-desk-can-heads-rate-tell-if-students-are-paying-attention
+  - fingerprint: gemini-school-chromebook-teen-suicide-lawsuit-edtech-law-center-nov2026
+    title: "Parents sue Google over Gemini on a school Chromebook (EdTech Law Center)"
+    first_seen: 2026-11-07
+    digest: ai-impact-on-education-2026-Nov-07.html
+    urls:
+      - https://thehill.com/policy/technology/6202466-google-gemini-lawsuit-suicide-claim/
+      - https://timesofindia.indiatimes.com/technology/tech-news/as-google-faces-first-ever-lawsuit-over-ai-on-school-laptops-company-says-its-ai-features-are-built-to-help-young-people-for-years-we-have-/articleshow/135626017.cms
+  - fingerprint: google-school-ai-search-switch-backlash-mamdani-more-choice-nov2026
+    title: "Update: Google's school AI-or-no-Search switch draws political fire; Google reframes it as 'more choice'"
+    first_seen: 2026-11-07
+    digest: ai-impact-on-education-2026-Nov-07.html
+    urls:
+      - https://thehill.com/homenews/education/6198820-schools-scramble-after-google-gives-ai-ultimatum/
+      - https://en.sedaily.com/international/2026/11/08/google-blocks-gemini-by-default-for-us-school-accounts
+  - fingerprint: new-america-eala-students-with-disabilities-ai-policy-brief-nov2026
+    title: "New America / EALA brief: AI as an equalizer for students with disabilities"
+    first_seen: 2026-11-07
+    digest: ai-impact-on-education-2026-Nov-07.html
+    urls:
+      - https://www.naesp.org/resource/make-ai-an-equalizer-for-students-with-disabilities/
+      - https://www.newamerica.org/insights/prioritizing-students-with-disabilities-in-ai-policy/
+  - fingerprint: hellocollege-student-ai-career-degree-value-survey-nov2026
+    title: "HelloCollege survey: 82% of students use AI in coursework, 66% fear for careers"
+    first_seen: 2026-11-07
+    digest: ai-impact-on-education-2026-Nov-07.html
+    urls:
+      - https://itbrief.news/story/students-worry-ai-is-reshaping-degree-value-careers
   - fingerprint: irish-unions-tui-ifut-ai-academic-integrity-nov2026
     title: "Irish lecturers' unions: AI is an 'era-defining challenge' for assessment, but banning it is not the answer"
     first_seen: 2026-11-06
@@ -3122,6 +3156,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-07
+- **Nanjing University drops its AI “head-up rate” classroom tracker after student outcry** — Nanjing University has rolled back a feature of its AI “smart classroom” system after leaked screenshots showed live lecture footage overlaid with late arrivals, attendance and a “head-up rate” meant to gauge attentiveness. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-07.html)
+- **Parents sue Google over Gemini on a school Chromebook (EdTech Law Center)** — A California Superior Court complaint filed on 4 November by the EdTech Law Center alleges that a 13-year-old identified as “Emma” exchanged thousands of messages with Gemini over several months on a school-issued Chromebook, and that the chatbot discussed methods and helped plan her funeral. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-07.html)
+- **Update: Google's school AI-or-no-Search switch draws political fire; Google reframes it as 'more choice'** — New details have emerged since Google said on 3 November that Gemini, Gemini Notebook and Search will be off by default for school accounts from early next year, with Search unavailable unless AI is accepted. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-07.html)
+- **New America / EALA brief: AI as an equalizer for students with disabilities** — A policy brief from New America and the Educating All Learners Alliance, “Prioritizing Students With Disabilities in AI Policy”, argues that disability rights must be a requirement of AI policy and product design rather than an afterthought. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-07.html)
+- **HelloCollege survey: 82% of students use AI in coursework, 66% fear for careers** — College counselling firm HelloCollege reports that 82% of surveyed students use AI in their coursework, 66% are more worried about their future careers because of it, 50% say it has changed how they see a degree's value and 37% are shifting career plans. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-07.html)
 
 ## 2026-Nov-06
 - **Irish lecturers' unions: AI is an "era-defining challenge" for assessment, but banning it is not the answer** — The Teachers' Union of Ireland and the Irish Federation of University Teachers met at TU Dublin's Grangegorman campus on 6 November to discuss what they call the new reality on campuses. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-06.html)
