@@ -2,10 +2,43 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-06
-run_count: 93
-digest_count: 93
+last_run: 2026-11-07
+run_count: 94
+digest_count: 94
 entries:
+  - fingerprint: claude-code-2-1-319-skills-hot-reload-fix-claude-api-latency-optimize-nov6
+    title: "Claude Code 2.1.319 fixes skill hot reload and adds a /claude-api latency-optimize command"
+    first_seen: 2026-11-07
+    digest: essential-skill-md-for-productivity-2026-Nov-07.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.319
+      - https://github.com/anthropics/claude-code/releases
+  - fingerprint: copilot-cli-1-0-107-and-1-0-108-0-case-insensitive-skill-names-prompt-path-no-skill-load-nov6-7
+    title: "Copilot CLI 1.0.107 and 1.0.108-0 make skill names case-insensitive and stop prompt paths from triggering skills"
+    first_seen: 2026-11-07
+    digest: essential-skill-md-for-productivity-2026-Nov-07.html
+    urls:
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.108-0
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.107
+      - https://github.com/github/copilot-cli/releases
+  - fingerprint: cloudsmith-agent-skills-supply-chain-dependency-341-malicious-of-2857-nov6
+    title: "Agent skills are the new supply-chain dependency, argues Cloudsmith, citing 341 malicious skills out of 2,857 audited"
+    first_seen: 2026-11-07
+    digest: essential-skill-md-for-productivity-2026-Nov-07.html
+    urls:
+      - https://cloudsmith.com/blog/agent-skills-are-the-newest-dependency-in-your-software-supply-chain
+  - fingerprint: arxiv-2611-07652-skillware-modular-bundles-small-models-nov5
+    title: "Skillware paper: equipping small models with modular skill bundles cut token use by up to 84.8%"
+    first_seen: 2026-11-07
+    digest: essential-skill-md-for-productivity-2026-Nov-07.html
+    urls:
+      - https://arxiv.org/html/2611.07652v1
+  - fingerprint: adversa-nov-2026-agent-skill-security-roundup-openai-render-deploy-pycache-trap-nov4
+    title: "Adversa's November roundup: a leaky official OpenAI skill, scanners fooled by bytecode, 400 confirmed malicious skills"
+    first_seen: 2026-11-07
+    digest: essential-skill-md-for-productivity-2026-Nov-07.html
+    urls:
+      - https://adversa.ai/blog/top-agent-skill-security-resources-november-2026
   - fingerprint: hermes-agent-v0-23-0-microsoft-office-skill-curator-lock-nov5
     title: "Hermes Agent v0.23.0 trims its built-in skills from 58 to 44 and adds a hard lock on hand-curated skills"
     first_seen: 2026-11-06
@@ -3005,6 +3038,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-07
+- **Claude Code 2.1.319 fixes skill hot reload and adds a /claude-api latency-optimize command** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-07.html)
+- **Copilot CLI 1.0.107 and 1.0.108-0 make skill names case-insensitive and stop prompt paths from triggering skills** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-07.html)
+- **Agent skills are the new supply-chain dependency, argues Cloudsmith, citing 341 malicious skills out of 2,857 audited** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-07.html)
+- **Skillware paper: equipping small models with modular skill bundles cut token use by up to 84.8%** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-07.html)
+- **Adversa's November roundup: a leaky official OpenAI skill, scanners fooled by bytecode, 400 confirmed malicious skills** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-07.html)
 
 ## 2026-Nov-06
 - **Hermes Agent v0.23.0 trims its built-in skills from 58 to 44 and adds a hard lock on hand-curated skills** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-06.html)
