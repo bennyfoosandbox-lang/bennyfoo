@@ -2,10 +2,52 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-06
-run_count: 99
-digest_count: 99
+last_run: 2026-11-07
+run_count: 100
+digest_count: 100
 entries:
+  - fingerprint: meta-acquires-conductor-parallel-coding-agents-cloud-shutdown-nov2026
+    title: "Meta buys Conductor, the app that runs teams of coding agents in parallel"
+    first_seen: 2026-11-07
+    digest: using-ai-for-business-productivity-2026-Nov-07.html
+    urls:
+      - https://axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor
+      - https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/
+      - https://aiweekly.co/alerts/meta-buys-conductor-to-run-teams-of-ai-coding-agents-in-parallel
+      - https://runtimewire.com/article/meta-acquires-conductor-november-cloud-shutdown
+  - fingerprint: openai-to-acquire-pierre-computer-code-storage-codex-nov2026
+    title: "OpenAI to acquire Pierre Computer and fold Code Storage into Codex"
+    first_seen: 2026-11-07
+    digest: using-ai-for-business-productivity-2026-Nov-07.html
+    urls:
+      - https://openai.com/index/openai-to-acquire-pierre/
+      - https://devops.com/openai-acquires-pierre-computer-to-expand-codex-challenge-github
+      - https://www.thestack.technology/openai-takes-aim-at-github-with-deal-for-pierre-computer/
+      - https://aiweekly.co/alerts/openai-buys-pierre-computer-folds-code-storage-into-codex
+  - fingerprint: five9-to-acquire-level-ai-325m-cash-nov2026
+    title: "Five9 agrees to buy Level AI for $325 million in cash"
+    first_seen: 2026-11-07
+    digest: using-ai-for-business-productivity-2026-Nov-07.html
+    urls:
+      - https://www.sec.gov/Archives/edgar/data/0001288847/000128884726000141/projectlanderpressreleas.htm
+      - https://www.sec.gov/Archives/edgar/data/0001288847/000128884726000145/fivn-20260930.htm
+  - fingerprint: crowdstrike-ai-kill-switch-falcon-guardian-rogue-agents-nov2026
+    title: "CrowdStrike ships an “AI Kill Switch” to stop rogue internal agents"
+    first_seen: 2026-11-07
+    digest: using-ai-for-business-productivity-2026-Nov-07.html
+    urls:
+      - https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/
+      - https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html
+      - https://www.csoonline.com/article/4244509/crowdstrike-launches-ai-kill-switch-to-shut-down-rogue-agents.html
+      - https://techradar.com/pro/security/crowdstrike-launches-ai-kill-switch-it-claims-can-stop-rogue-agents-and-more
+  - fingerprint: claude-enterprise-chat-cowork-unified-default-nov16-2026
+    title: "Claude Enterprise to merge chat and Cowork by default on 16 November"
+    first_seen: 2026-11-07
+    digest: using-ai-for-business-productivity-2026-Nov-07.html
+    urls:
+      - https://claude.com/blog/unified-claude-enterprise
+      - https://www.aichatdaily.com/ai-tools/anthropic-brings-unified-claude-chat-cowork-enterprise-plans
+      - https://mixed-news.com/en/?p=38069
   - fingerprint: miro-survey-9500-individual-productivity-up-org-impact-stalls-nov2026
     title: "Miro survey: AI lifts individual output, but organizations aren't seeing it"
     first_seen: 2026-11-06
@@ -4038,6 +4080,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-07
+- **Meta buys Conductor, the app that runs teams of coding agents in parallel** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-07.html)
+- **OpenAI to acquire Pierre Computer and fold Code Storage into Codex** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-07.html)
+- **Five9 agrees to buy Level AI for $325 million in cash** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-07.html)
+- **CrowdStrike ships an “AI Kill Switch” to stop rogue internal agents** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-07.html)
+- **Claude Enterprise to merge chat and Cowork by default on 16 November** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-07.html)
 
 ## 2026-Nov-06
 - **Miro survey: AI lifts individual output, but organizations aren't seeing it** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-06.html)
