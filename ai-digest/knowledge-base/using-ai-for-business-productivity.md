@@ -2,10 +2,47 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-07
-run_count: 100
-digest_count: 100
+last_run: 2026-11-08
+run_count: 101
+digest_count: 101
 entries:
+  - fingerprint: cnbc-no-employee-startups-mercatus-26pct-brynjolfsson-hollowing-midsize-nov2026
+    title: "AI is minting “no-employee” businesses — and may be hollowing out the middle"
+    first_seen: 2026-11-08
+    digest: using-ai-for-business-productivity-2026-Nov-08.html
+    urls:
+      - https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html
+      - https://www.mercatus.org/research/research-papers/artificial-intelligence-ai-and-rise-independent-work-early-evidence-solo
+  - fingerprint: bank-of-england-nov2026-mpr-ai-fifth-of-gdp-growth-0-5pct-productivity
+    title: "Bank of England: AI drove nearly a fifth of UK growth, but firms report only ~0.5% productivity gain"
+    first_seen: 2026-11-08
+    digest: using-ai-for-business-productivity-2026-Nov-08.html
+    urls:
+      - https://ppc.land/ai-accounts-for-nearly-a-fifth-of-uk-growth-in-2026-bank-of-england-finds/
+  - fingerprint: leadership-quarterly-supervisors-trust-ai-users-68-to-24pct-policy-fixes-nov2026
+    title: "Study: managers trust employees 68% of the time — but only 24% when AI was used"
+    first_seen: 2026-11-08
+    digest: using-ai-for-business-productivity-2026-Nov-08.html
+    urls:
+      - https://www.peoplematters.in/news/ai-and-emerging-tech/employees-who-use-chatgpt-may-be-trusted-less-by-managers-new-study-reveals-53224
+      - https://futurism.com/artificial-intelligence/bosses-workers-ai-huge-mistake
+  - fingerprint: snowflake-expedition-2026-cowork-coco-bots-always-on-agents-nov2026
+    title: "Snowflake launches CoWork and always-on “Bots” at Expedition 2026"
+    first_seen: 2026-11-08
+    digest: using-ai-for-business-productivity-2026-Nov-08.html
+    urls:
+      - https://timesofindia.indiatimes.com/technology/tech-news/snowflake-launches-ai-agent-innovations-to-power-the-agentic-enterprise-at-expedition-2026/articleshow/135604000.cms
+      - https://techgig.com/news/ai/snowflake-expands-ai-agent-suite-for-enterprise-trust/135624880
+      - https://www.itbeat.id/en/snowflake-agen-ai-dari-uji-coba-ke-produksi/
+      - https://www.justoglobal.com/news/p/snowflake-launches-ai-agent-innovations-for-the-agentic-enterprise-at-expedition-2026-justo-global-news
+  - fingerprint: servicenow-new-layoff-round-severance-87m-q3-ai-efficiency-1b-nov2026
+    title: "ServiceNow starts another layoff round as AI efficiencies top $1B and severance jumps"
+    first_seen: 2026-11-08
+    digest: using-ai-for-business-productivity-2026-Nov-08.html
+    urls:
+      - https://www.peoplematters.in/news/strategic-hr/servicenow-layoffs-hit-uk-us-and-india-as-company-restructures-workforce-53222
+      - https://www.calcalistech.com/ctechnews/article/s1t03axtg
+      - https://www.techinasia.com/news/servicenow-cuts-jobs-in-us-uk-india-in-ai-restructuring
   - fingerprint: meta-acquires-conductor-parallel-coding-agents-cloud-shutdown-nov2026
     title: "Meta buys Conductor, the app that runs teams of coding agents in parallel"
     first_seen: 2026-11-07
@@ -4080,6 +4117,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-08
+- **AI is minting “no-employee” businesses — and may be hollowing out the middle** — CNBC reports that business applications showing no sign of future hiring rose 26.8% in AI-exposed industries between Q1 2024 and Q1 2026 (about 222,000 to 281,000 a quarter), while applications likely to become employer firms fell 6.4%, per a George Mason Mercatus Center analysis of Census data. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-08.html)
+- **Bank of England: AI drove nearly a fifth of UK growth, but firms report only ~0.5% productivity gain** — The Bank of England’s November Monetary Policy Report, published 5 November, says AI-related activity accounts for just under a fifth of UK GDP growth since the start of 2026. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-08.html)
+- **Study: managers trust employees 68% of the time — but only 24% when AI was used** — A six-study paper in The Leadership Quarterly, by researchers at Hebrew University and WHU, found supervisors extended trust to employees who worked independently 68% of the time but just 24% of the time when the employee used an LLM such as ChatGPT. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-08.html)
+- **Snowflake launches CoWork and always-on “Bots” at Expedition 2026** — At its Expedition 2026 event Snowflake unveiled CoWork, a personal productivity agent for knowledge workers, alongside CoCo for coding, and introduced always-on CoCo Bots and CoWork Bots that run in the background and escalate only when human approval is needed. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-08.html)
+- **ServiceNow starts another layoff round as AI efficiencies top $1B and severance jumps** — ServiceNow has begun a fresh round of layoffs in India, the UK and the US without disclosing numbers, while saying it still aims to end 2026 at the same headcount it started with. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-08.html)
 
 ## 2026-Nov-07
 - **Meta buys Conductor, the app that runs teams of coding agents in parallel** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-07.html)
