@@ -2,10 +2,41 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-07
-run_count: 89
-digest_count: 86
+last_run: 2026-11-08
+run_count: 90
+digest_count: 87
 entries:
+  - fingerprint: uk-300-experts-demand-pause-dfe-ai-tutors-burnham-nov2026
+    title: "UK: 300+ teachers, parents and doctors demand a pause on government AI-tutor plans"
+    first_seen: 2026-11-08
+    digest: ai-impact-on-education-2026-Nov-08.html
+    urls:
+      - https://www.mirror.co.uk/news/politics/schools-teachers-artificial-intelligence-tutors-37855104
+  - fingerprint: berkeley-borcherds-stops-grading-homework-correctness-ai-nov2026
+    title: "Fields medallist Richard Borcherds stops grading Berkeley homework for correctness"
+    first_seen: 2026-11-08
+    digest: ai-impact-on-education-2026-Nov-08.html
+    urls:
+      - https://www.thestandard.com.hk/world/article/347901/Berkeley-maths-don-revamps-grading-over-rampant-AI-cheating
+  - fingerprint: sydney-marian-catholic-removes-laptops-years7-10-smh-nov2026
+    title: "Sydney school strips laptops from years 7–10 as Australia’s “digital education revolution” unwinds"
+    first_seen: 2026-11-08
+    digest: ai-impact-on-education-2026-Nov-08.html
+    urls:
+      - https://www.smh.com.au/national/nsw/the-digital-education-revolution-is-over-technology-is-being-purged-from-schools-20261109-p61c0c.html
+      - https://www.abc.net.au/news/2026-11-09/classrooms-are-getting-a-digital-detox/107359784
+  - fingerprint: australia-top-students-lost-edge-alegounarias-assessment-integrity-acute-nov2026
+    title: "Australia: top students fear AI is eroding their edge as assessment-integrity crisis turns acute"
+    first_seen: 2026-11-08
+    digest: ai-impact-on-education-2026-Nov-08.html
+    urls:
+      - https://www.theaustralian.com.au/education/highachievers-fear-ai-is-eroding-academic-edge-as-teachers-back-freeze-on-takehome-assessments/news-story/ff83b297d36eaae7321c5abc0e4324f4
+  - fingerprint: microsoft-philippines-deped-copilot-1m-teachers-2000-trained-nov2026
+    title: "Microsoft Philippines pushes Copilot and teacher training into public schools"
+    first_seen: 2026-11-08
+    digest: ai-impact-on-education-2026-Nov-08.html
+    urls:
+      - https://bworldonline.com/corporate/2026/11/08/792183/microsoft-seeks-wider-ai-adoption-in-phl-schools-through-partnerships/
   - fingerprint: nanjing-university-smart-classroom-head-up-rate-rollback-nov2026
     title: "Nanjing University drops its AI “head-up rate” classroom tracker after student outcry"
     first_seen: 2026-11-07
@@ -3156,6 +3187,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-08
+- **UK: 300+ teachers, parents and doctors demand a pause on government AI-tutor plans** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-08.html)
+- **Fields medallist Richard Borcherds stops grading Berkeley homework for correctness** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-08.html)
+- **Sydney school strips laptops from years 7–10 as Australia’s “digital education revolution” unwinds** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-08.html)
+- **Australia: top students fear AI is eroding their edge as assessment-integrity crisis turns acute** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-08.html)
+- **Microsoft Philippines pushes Copilot and teacher training into public schools** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-08.html)
 
 ## 2026-Nov-07
 - **Nanjing University drops its AI “head-up rate” classroom tracker after student outcry** — Nanjing University has rolled back a feature of its AI “smart classroom” system after leaked screenshots showed live lecture footage overlaid with late arrivals, attendance and a “head-up rate” meant to gauge attentiveness. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-07.html)
