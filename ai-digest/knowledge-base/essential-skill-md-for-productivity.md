@@ -2,10 +2,43 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-07
-run_count: 94
-digest_count: 94
+last_run: 2026-11-08
+run_count: 95
+digest_count: 95
 entries:
+  - fingerprint: apple-siri-ai-developer-preview-app-skills-skill-md-nov3
+    title: "Apple makes SKILL.md the way apps teach Siri AI multi-step tasks"
+    first_seen: 2026-11-08
+    digest: essential-skill-md-for-productivity-2026-Nov-08.html
+    urls:
+      - https://developer.apple.com/documentation/appintents/orchestrating-complex-actions-with-app-skills
+      - https://ppc.land/apple-opens-siri-ai-to-all-developers-but-apps-cant-ship-it-until-spring/
+  - fingerprint: zep-agent-skills-verified-traces-arxiv-2611-01386-nov5
+    title: "Zep Agent Skills compiles verified agent runs into SKILL.md procedures"
+    first_seen: 2026-11-08
+    digest: essential-skill-md-for-productivity-2026-Nov-08.html
+    urls:
+      - https://www.getzep.com/blog/introducing-zep-agent-skills/
+      - https://arxiv.org/abs/2611.01386
+  - fingerprint: google-cloud-alphaevolve-harbor-skill-optimizer-nov5
+    title: "Google evolves a SKILL.md with AlphaEvolve and finds generic advice adds little"
+    first_seen: 2026-11-08
+    digest: essential-skill-md-for-productivity-2026-Nov-08.html
+    urls:
+      - https://cloud.google.com/blog/topics/developers-practitioners/how-to-build-an-agent-skill-optimizer-with-alphaevolve-and-harbor
+  - fingerprint: sophos-decode-then-reason-obfuscated-malicious-skills-bsides-sydney-nov6
+    title: "Sophos pairs a deobfuscator with small LLMs to catch malicious skills"
+    first_seen: 2026-11-08
+    digest: essential-skill-md-for-productivity-2026-Nov-08.html
+    urls:
+      - https://www.sophos.com/en-us/blog/killing-ill-willed-skills-sophos-ai-at-bsides-sydney
+  - fingerprint: linearb-agentic-studio-effort-skill-early-access-nov2
+    title: "LinearB ships an \"effort\" skill that scales a coding agent's work to the risk of the change"
+    first_seen: 2026-11-08
+    digest: essential-skill-md-for-productivity-2026-Nov-08.html
+    urls:
+      - https://thenextweb.com/news/linearb-agentic-studio-coding-agents-engineering-context
+      - https://siliconangle.com/2026/11/02/with-agentic-studio-linearb-provides-the-critical-context-needed-to-accelerate-software-delivery/
   - fingerprint: claude-code-2-1-319-skills-hot-reload-fix-claude-api-latency-optimize-nov6
     title: "Claude Code 2.1.319 fixes skill hot reload and adds a /claude-api latency-optimize command"
     first_seen: 2026-11-07
@@ -3038,6 +3071,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-08
+- **Apple makes SKILL.md the way apps teach Siri AI multi-step tasks** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-08.html)
+- **Zep Agent Skills compiles verified agent runs into SKILL.md procedures** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-08.html)
+- **Google evolves a SKILL.md with AlphaEvolve and finds generic advice adds little** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-08.html)
+- **Sophos pairs a deobfuscator with small LLMs to catch malicious skills** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-08.html)
+- **LinearB ships an "effort" skill that scales a coding agent's work to the risk of the change** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-08.html)
 
 ## 2026-Nov-07
 - **Claude Code 2.1.319 fixes skill hot reload and adds a /claude-api latency-optimize command** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-07.html)
