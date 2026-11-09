@@ -2,10 +2,40 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-08
-run_count: 95
-digest_count: 95
+last_run: 2026-11-09
+run_count: 96
+digest_count: 96
 entries:
+  - fingerprint: claude-code-nested-skills-load-from-launch-folder-hot-reload-fix-nov7
+    title: "Claude Code changes how nested .claude/skills folders load"
+    first_seen: 2026-11-09
+    digest: essential-skill-md-for-productivity-2026-Nov-09.html
+    urls:
+      - https://releasebot.io/updates/anthropic
+      - https://releasebot.io/updates/anthropic/claude
+  - fingerprint: launchdarkly-agentcontrol-agent-skills-versioned-skill-md-ga
+    title: "LaunchDarkly lets teams version SKILL.md files like feature flags"
+    first_seen: 2026-11-09
+    digest: essential-skill-md-for-productivity-2026-Nov-09.html
+    urls:
+      - https://launchdarkly.com/changelog/manage-your-agent-skills-in-agentcontrol/
+      - https://launchdarkly.com/docs/home/agentcontrol/agent-skills
+      - https://launchdarkly.com/docs/sdk/features/agent-skills
+  - fingerprint: dotnet-nuget-packaged-agent-skills-chillicream-agentskills-sdk-token-costs
+    title: ".NET teams start shipping SKILL.md files inside NuGet packages"
+    first_seen: 2026-11-09
+    digest: essential-skill-md-for-productivity-2026-Nov-09.html
+    urls:
+      - https://windowsforum.com/news/ai-agent-skills-in-nuget-packages-net-tools-token-costs-and-security-risks.450790
+      - https://chillicream.com/docs/skills
+      - https://www.nuget.org/packages/AgentSkills.Sdk
+  - fingerprint: opencode-skills-marketplace-490-skills-nov5
+    title: "OpenCode Skills directory reaches 490 free skills"
+    first_seen: 2026-11-09
+    digest: essential-skill-md-for-productivity-2026-Nov-09.html
+    urls:
+      - https://opencodeskills.dev/
+      - https://www.firecrawl.dev/blog/best-opencode-skills
   - fingerprint: apple-siri-ai-developer-preview-app-skills-skill-md-nov3
     title: "Apple makes SKILL.md the way apps teach Siri AI multi-step tasks"
     first_seen: 2026-11-08
@@ -3071,6 +3101,12 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-09
+- **Claude Code changes how nested .claude/skills folders load** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-09.html)
+- **LaunchDarkly lets teams version SKILL.md files like feature flags** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-09.html)
+- **.NET teams start shipping SKILL.md files inside NuGet packages** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-09.html)
+- **OpenCode Skills directory reaches 490 free skills** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-09.html)
 
 ## 2026-Nov-08
 - **Apple makes SKILL.md the way apps teach Siri AI multi-step tasks** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-08.html)
