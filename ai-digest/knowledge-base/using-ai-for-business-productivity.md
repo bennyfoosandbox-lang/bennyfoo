@@ -2,10 +2,55 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-08
-run_count: 101
-digest_count: 101
+last_run: 2026-11-09
+run_count: 102
+digest_count: 102
 entries:
+  - fingerprint: fresh-productivity-q3-2026-bls-3-6pct-unit-labor-costs-fall-ai-debate-nov2026
+    title: "US productivity jumps 3.6% in Q3 as unit labor costs fall — and the AI-credit debate heats up"
+    first_seen: 2026-11-09
+    digest: using-ai-for-business-productivity-2026-Nov-09.html
+    urls:
+      - https://www.axios.com/2026/11/05/labor-output-productivity-ai
+      - https://www.advisorperspectives.com/articles/2026/11/05/us-labor-productivity-increases-fastest-pace
+      - https://www.haver.com/articles/u-s-productivity-jumped-in-q3-unit-labor-costs-fell
+      - https://fourweekmba.com/ai-us-productivity-rose-3-6-as-unit-labor-costs-fell-0-7/
+  - fingerprint: perplexity-teammates-persistent-agents-ongoing-work-max-200-nov2026
+    title: "Perplexity launches “Teammates”: persistent agents for ongoing business projects"
+    first_seen: 2026-11-09
+    digest: using-ai-for-business-productivity-2026-Nov-09.html
+    urls:
+      - https://www.techrepublic.com/article/news-perplexity-teammates-ai-agents-pricing-features/
+      - https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work
+      - https://www.newsbytesapp.com/news/science/perplexity-launches-work-focused-ai-agents-called-teammates/story
+      - https://www.analyticsinsight.net/news/perplexity-expands-ai-computer-with-new-team-based-agent-features
+  - fingerprint: mistral-studio-managed-agents-apps-workflows-otel-evals-nov2026
+    title: "Mistral rebuilds Studio into an enterprise agent platform with managed agents, apps and evals"
+    first_seen: 2026-11-09
+    digest: using-ai-for-business-productivity-2026-Nov-09.html
+    urls:
+      - https://letsdatascience.com/news/mistral-expands-studio-with-managed-agents-workflows-and-app-2bc33868
+      - https://www.technobezz.com/news/mistral-studio-adds-managed-agents-apps
+      - https://expertbeacon.com/mistral-studio-managed-agents-apps/
+      - https://ai-tldr.dev/releases/mistral-studio-managed-agents-apps/
+  - fingerprint: goldman-ai-displaced-workers-month-longer-rehire-older-workers-nov2026
+    title: "Goldman: workers displaced by AI take about a month longer to land new jobs"
+    first_seen: 2026-11-09
+    digest: using-ai-for-business-productivity-2026-Nov-09.html
+    urls:
+      - https://www.axios.com/2026/11/03/ai-employment-technology-goldman-sachs
+      - https://fortune.com/2026/10/30/goldman-sachs-ai-layoffs-displaced-workers-older-workers-past-tech-disruptions/
+      - https://fourweekmba.com/ai-goldman-finds-ai-displaced-workers-jobless-a-month-longer/
+      - https://aiweekly.co/alerts/goldman-ai-displaced-workers-wait-a-month-longer-for-jobs
+  - fingerprint: illumio-licensed-to-act-70pct-ai-decisions-needed-approval-49pct-audit-oct2026
+    title: "Illumio survey: 70% of firms let AI act where humans once signed off, but only 49% can audit every action"
+    first_seen: 2026-11-09
+    digest: using-ai-for-business-productivity-2026-Nov-09.html
+    urls:
+      - https://letsdatascience.com/news/illumio-survey-finds-ai-agent-authority-outpacing-security-a-973e1486
+      - https://itbrief.com.au/story/illumio-warns-ai-authority-is-outpacing-security-controls
+      - https://www.helpnetsecurity.com/?p=388384
+      - https://www.cdomagazine.tech/aiml/ai-agents-gain-authority-faster-than-organizations-can-audit-them
   - fingerprint: cnbc-no-employee-startups-mercatus-26pct-brynjolfsson-hollowing-midsize-nov2026
     title: "AI is minting “no-employee” businesses — and may be hollowing out the middle"
     first_seen: 2026-11-08
@@ -4117,6 +4162,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-09
+- **US productivity jumps 3.6% in Q3 as unit labor costs fall — and the AI-credit debate heats up** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-09.html)
+- **Perplexity launches “Teammates”: persistent agents for ongoing business projects** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-09.html)
+- **Mistral rebuilds Studio into an enterprise agent platform with managed agents, apps and evals** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-09.html)
+- **Goldman: workers displaced by AI take about a month longer to land new jobs** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-09.html)
+- **Illumio survey: 70% of firms let AI act where humans once signed off, but only 49% can audit every action** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-09.html)
 
 ## 2026-Nov-08
 - **AI is minting “no-employee” businesses — and may be hollowing out the middle** — CNBC reports that business applications showing no sign of future hiring rose 26.8% in AI-exposed industries between Q1 2024 and Q1 2026 (about 222,000 to 281,000 a quarter), while applications likely to become employer firms fell 6.4%, per a George Mason Mercatus Center analysis of Census data. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-08.html)
