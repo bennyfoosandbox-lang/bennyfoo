@@ -2,10 +2,42 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-08
-run_count: 90
-digest_count: 87
+last_run: 2026-11-09
+run_count: 91
+digest_count: 88
 entries:
+  - fingerprint: south-portland-me-prek8-genai-moratorium-vote-nov2026
+    title: "South Portland, Maine weighs a pre-K–8 student AI moratorium over cognitive-development worries"
+    first_seen: 2026-11-09
+    digest: ai-impact-on-education-2026-Nov-09.html
+    urls:
+      - https://www.wmtw.com/article/south-portland-schools-to-consider-ai-moratorium-for-grades-pre-k-through-8/74376156
+      - https://wgme.com/news/local/putting-ai-on-pause-south-portland-schools-consider-moratorium-maine-education-students-teachers-artificial-intelligence
+  - fingerprint: chuncheon-korea-st-johns-great-books-ai-npr-nov2026
+    title: "Chuncheon turns to St. John’s College’s “Great Books” model to keep Korean pupils thinking for themselves"
+    first_seen: 2026-11-09
+    digest: ai-impact-on-education-2026-Nov-09.html
+    urls:
+      - https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai
+      - https://www.koreajoongangdaily.com/opinion/schools-need-agebased-rules-for-students-ai-use/12963294
+  - fingerprint: lodge-conversation-universities-failing-adapt-ai-policy-unesco-19pct-nov2026
+    title: "Academic: AI use is near-universal in universities, but only one in five has a formal policy"
+    first_seen: 2026-11-09
+    digest: ai-impact-on-education-2026-Nov-09.html
+    urls:
+      - https://theconversation.com/ai-use-is-now-universal-in-higher-education-why-are-universities-failing-to-adapt-294137
+  - fingerprint: uchicago-center-for-writing-ai-free-first-year-course-eiu-petition-ihe-nov2026
+    title: "UChicago will require an AI-free writing course for all first-years as EIU students push back on faculty AI use"
+    first_seen: 2026-11-09
+    digest: ai-impact-on-education-2026-Nov-09.html
+    urls:
+      - https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/11/09/new-ai-chicago-rethinks-writing-eiu
+  - fingerprint: alpha-miami-sw-miami-dade-opens-two-hour-ai-tutor-wsvn-nov2026
+    title: "Alpha School opens in Southwest Miami-Dade with two-hour AI-tutor mornings and no traditional teachers"
+    first_seen: 2026-11-09
+    digest: ai-impact-on-education-2026-Nov-09.html
+    urls:
+      - https://wsvn.com/news/us-world/ai-school-opens-sw-miami-dade/
   - fingerprint: uk-300-experts-demand-pause-dfe-ai-tutors-burnham-nov2026
     title: "UK: 300+ teachers, parents and doctors demand a pause on government AI-tutor plans"
     first_seen: 2026-11-08
@@ -3187,6 +3219,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-09
+- **South Portland, Maine weighs a pre-K–8 student AI moratorium over cognitive-development worries** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-09.html)
+- **Chuncheon turns to St. John’s College’s “Great Books” model to keep Korean pupils thinking for themselves** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-09.html)
+- **Academic: AI use is near-universal in universities, but only one in five has a formal policy** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-09.html)
+- **UChicago will require an AI-free writing course for all first-years as EIU students push back on faculty AI use** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-09.html)
+- **Alpha School opens in Southwest Miami-Dade with two-hour AI-tutor mornings and no traditional teachers** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-09.html)
 
 ## 2026-Nov-08
 - **UK: 300+ teachers, parents and doctors demand a pause on government AI-tutor plans** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-08.html)
