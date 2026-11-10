@@ -2,10 +2,44 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-09
-run_count: 96
-digest_count: 96
+last_run: 2026-11-10
+run_count: 97
+digest_count: 97
 entries:
+  - fingerprint: claude-code-2-1-321-skill-reload-after-git-stash-worktree-fixes-nov9
+    title: "Claude Code 2.1.321 stops project skills vanishing after git stash or a worktree switch"
+    first_seen: 2026-11-10
+    digest: essential-skill-md-for-productivity-2026-Nov-10.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.321
+      - https://github.com/anthropics/claude-code/releases
+  - fingerprint: anthropics-skills-office-skills-apache-2-0-nov6
+    title: "Anthropic moves its docx, pdf, pptx and xlsx skills to Apache 2.0"
+    first_seen: 2026-11-10
+    digest: essential-skill-md-for-productivity-2026-Nov-10.html
+    urls:
+      - https://github.com/anthropics/skills/pull/2146
+      - https://github.com/anthropics/skills/commits/main
+  - fingerprint: copilot-cli-1-0-108-stable-and-1-0-109-0-skill-problem-list-nov9
+    title: "Copilot CLI 1.0.108 ships and 1.0.109-0 keeps skill problems visible in long lists"
+    first_seen: 2026-11-10
+    digest: essential-skill-md-for-productivity-2026-Nov-10.html
+    urls:
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.108
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.109-0
+      - https://github.com/github/copilot-cli/releases
+  - fingerprint: langfuse-skill-management-beta-nov3
+    title: "Langfuse adds versioned skill management, linked to agent traces"
+    first_seen: 2026-11-10
+    digest: essential-skill-md-for-productivity-2026-Nov-10.html
+    urls:
+      - https://langfuse.com/changelog/2026-11-03-skill-management
+  - fingerprint: anthropics-skills-mcp-builder-v2-typescript-sdk-oct28
+    title: "The mcp-builder skill now teaches version 2 of the MCP TypeScript SDK"
+    first_seen: 2026-11-10
+    digest: essential-skill-md-for-productivity-2026-Nov-10.html
+    urls:
+      - https://github.com/anthropics/skills/commits/main
   - fingerprint: claude-code-nested-skills-load-from-launch-folder-hot-reload-fix-nov7
     title: "Claude Code changes how nested .claude/skills folders load"
     first_seen: 2026-11-09
@@ -3101,6 +3135,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-10
+- **Claude Code 2.1.321 stops project skills vanishing after git stash or a worktree switch** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-10.html)
+- **Anthropic moves its docx, pdf, pptx and xlsx skills to Apache 2.0** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-10.html)
+- **Copilot CLI 1.0.108 ships and 1.0.109-0 keeps skill problems visible in long lists** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-10.html)
+- **Langfuse adds versioned skill management, linked to agent traces** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-10.html)
+- **The mcp-builder skill now teaches version 2 of the MCP TypeScript SDK** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-10.html)
+
+Note: Firecrawl skipped by instruction; ~60 candidates scanned via web search and GitHub release pages.
 
 ## 2026-Nov-09
 - **Claude Code changes how nested .claude/skills folders load** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-09.html)
