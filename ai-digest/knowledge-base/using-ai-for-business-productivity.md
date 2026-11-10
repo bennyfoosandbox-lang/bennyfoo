@@ -2,10 +2,47 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-09
-run_count: 102
-digest_count: 102
+last_run: 2026-11-10
+run_count: 103
+digest_count: 103
 entries:
+  - fingerprint: zendesk-employee-service-ai-agents-slack-teams-0-99-resolution-nov2026
+    title: "Zendesk puts AI agents on the internal-admin queue, priced per resolution"
+    first_seen: 2026-11-10
+    digest: using-ai-for-business-productivity-2026-Nov-10.html
+    urls:
+      - https://uctoday.com/this-week-enterprise-ai-gets-serious-about-action
+      - https://futurumgroup.com/insights/can-zendesk-employee-service-ai-agents-pry-it-work-from-servicenow/
+      - https://support.zendesk.com/hc/en-us/articles/11302848656922-Coming-soon-The-general-availability-of-employee-service-AI-agents
+      - https://www.enjo.ai/post/zendesk-ai-agents
+  - fingerprint: box-architect-agentic-workflows-boxworks-beta-q4-nov2026
+    title: "Box Architect: describe a process in plain language and get a governed agent workflow"
+    first_seen: 2026-11-10
+    digest: using-ai-for-business-productivity-2026-Nov-10.html
+    urls:
+      - https://www.boxinvestorrelations.com/news-and-media/news/press-release-details/2026/Box-Unveils-the-Next-Generation-of-Enterprise-AI-with-New-Agentic-Workflow-Automation-and-Advanced-Threat-Detection/default.aspx
+      - https://www.reworked.co/information-management/box-unveils-architect-to-build-agentic-ai-workflows/
+      - https://www.techzine.eu/news/collaboration/145599/box-architect-builds-agentic-workflows-using-enterprise-content/
+      - https://uctoday.com/this-week-enterprise-ai-gets-serious-about-action
+  - fingerprint: cisco-permission-to-scale-trust-speed-limit-enterprise-ai-nov2026
+    title: "Cisco research: trust, not technology, is now the speed limit on enterprise AI"
+    first_seen: 2026-11-10
+    digest: using-ai-for-business-productivity-2026-Nov-10.html
+    urls:
+      - https://siliconangle.com/2026/11/09/cisco-research-trust-not-technology-is-now-the-speed-limit-on-enterprise-ai/
+      - https://www.prnewswire.com/news-releases/cisco-unveils-frontier-ai-red-teaming-and-agent-observability-to-secure-the-agentic-enterprise-302933708.html
+  - fingerprint: anz-enterprise-ai-control-plane-matos-agents-limits-nov2026
+    title: "ANZ builds an \"enterprise AI control plane\" and says it will stop pursuing AI everywhere"
+    first_seen: 2026-11-10
+    digest: using-ai-for-business-productivity-2026-Nov-10.html
+    urls:
+      - https://www.itnews.com.au/news/anz-stands-up-an-enterprise-ai-control-plane-630221
+  - fingerprint: china-agent-portal-cull-bytedance-coze-tencent-yuanqi-alibaba-qwenwork-nov2026
+    title: "China's agent-portal cull: ByteDance and Tencent retire products as Alibaba bets on QwenWork"
+    first_seen: 2026-11-10
+    digest: using-ai-for-business-productivity-2026-Nov-10.html
+    urls:
+      - https://aimagazine.com/news/alibaba-qwenwork-leads-as-bytedance-tencent-axe-ai-portals
   - fingerprint: fresh-productivity-q3-2026-bls-3-6pct-unit-labor-costs-fall-ai-debate-nov2026
     title: "US productivity jumps 3.6% in Q3 as unit labor costs fall — and the AI-credit debate heats up"
     first_seen: 2026-11-09
@@ -4162,6 +4199,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-10
+- **Zendesk puts AI agents on the internal-admin queue, priced per resolution** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-10.html)
+- **Box Architect: describe a process in plain language and get a governed agent workflow** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-10.html)
+- **Cisco research: trust, not technology, is now the speed limit on enterprise AI** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-10.html)
+- **ANZ builds an "enterprise AI control plane" and says it will stop pursuing AI everywhere** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-10.html)
+- **China's agent-portal cull: ByteDance and Tencent retire products as Alibaba bets on QwenWork** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-10.html)
 
 ## 2026-Nov-09
 - **US productivity jumps 3.6% in Q3 as unit labor costs fall — and the AI-credit debate heats up** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-09.html)
