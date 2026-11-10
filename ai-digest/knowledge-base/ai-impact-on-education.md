@@ -2,10 +2,53 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-09
-run_count: 91
-digest_count: 88
+last_run: 2026-11-10
+run_count: 92
+digest_count: 89
 entries:
+  - fingerprint: anthropic-claude-for-teachers-aft-naai-safety-privacy-terms-nov2026
+    title: "Anthropic signs enforceable safety and privacy terms for teachers using Claude, joining Microsoft in the AFT standard"
+    first_seen: 2026-11-10
+    digest: ai-impact-on-education-2026-Nov-10.html
+    urls:
+      - https://www.edweek.org/technology/anthropic-agrees-to-protections-for-teachers-who-use-claude/2026/11
+      - https://dailycaller.com/2026/11/10/anthropic-teachers-union-aft-uft-randi-weingarten-data-nicole-runyon/
+      - https://fourweekmba.com/ai-anthropic-signs-teachers-union-pact-180-day-data-deletion/
+      - https://aiinstruction.aft.org/partnerships
+  - fingerprint: markey-letter-google-ai-free-search-schools-chicago-blocks-nov2026
+    title: "Update: Sen. Markey gives Google until Nov. 30 to let schools turn off AI and keep Search, as Chicago blocks student chatbots"
+    first_seen: 2026-11-10
+    digest: ai-impact-on-education-2026-Nov-10.html
+    urls:
+      - https://qz.com/senator-markey-google-schools-ai-search-110926
+      - https://www.universityherald.com/articles/80645/20261110/senator-markey-pressures-google-let-schools-disable-ai-features-search.htm
+      - https://boston.com/news/local-news/2026/11/09/markey-google-ai-school-search-policy
+      - https://cbsnews.com/chicago/news/chicago-public-schools-blocks-generative-ai-google-search-access
+      - https://www.paloaltoonline.com/technology/2026/11/09/googles-new-ai-ultimatum-sparks-concern-over-tech-giants-power-in-california-schools/
+  - fingerprint: jed-foundation-student-ai-use-mental-health-report-nov2026
+    title: "JED Foundation: students who turn to AI when struggling report worse mental health"
+    first_seen: 2026-11-10
+    digest: ai-impact-on-education-2026-Nov-10.html
+    urls:
+      - https://www.edweek.org/technology/students-who-turn-to-ai-for-emotional-support-report-worse-mental-health/2026/11
+      - https://jedfoundation.org/understanding-relationships-between-ai-mental-health-students-report/
+      - https://jedfoundation.org/new-jed-research-shows-link-between-teens-ai-use-suicidal-thoughts-and-behaviors/
+      - https://katv.com/news/nation-world/teens-often-turn-to-ai-when-feeling-distressed-report-flags-mental-health-risks-jed-foundation-artificial-intelligence-mental-health-middle-school-high-school-students
+  - fingerprint: bangladesh-ai-curriculum-classes-6-12-from-2027-nov2026
+    title: "Bangladesh will put AI into the curriculum for Classes VI–XII from 2027"
+    first_seen: 2026-11-10
+    digest: ai-impact-on-education-2026-Nov-10.html
+    urls:
+      - https://www.dhakatribune.com/bangladesh/education/424268/government-plans-ai-education-for-classes-vi-xii
+      - https://en.bd-pratidin.com/national/2026/11/10/73201
+  - fingerprint: south-portland-me-prek8-genai-moratorium-rejected-5-1-nov2026
+    title: "Update: South Portland, Maine rejects its pre-K–8 AI moratorium 5–1 and promises a fuller plan in January"
+    first_seen: 2026-11-10
+    digest: ai-impact-on-education-2026-Nov-10.html
+    urls:
+      - https://wgme.com/news/local/south-portland-school-board-votes-down-proposed-ban-on-generative-ai-maine-school-education-artificial-intelligence
+      - https://www.yahoo.com/news/us/articles/south-portland-school-board-rejects-032815887.html
+      - https://www.pressherald.com/2026/11/06/south-portland-schools-may-temporarily-ban-ai/
   - fingerprint: south-portland-me-prek8-genai-moratorium-vote-nov2026
     title: "South Portland, Maine weighs a pre-K–8 student AI moratorium over cognitive-development worries"
     first_seen: 2026-11-09
@@ -3219,6 +3262,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-10
+- **Anthropic signs enforceable safety and privacy terms for teachers using Claude, joining Microsoft in the AFT standard** — Anthropic signs a memorandum with the AFT's National Academy for AI Instruction applying enforceable safety/privacy contract terms to Claude for Teachers district deals (teacher-only product; OpenAI talks continue). [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-10.html)
+- **Update: Sen. Markey gives Google until Nov. 30 to let schools turn off AI and keep Search, as Chicago blocks student chatbots** — Markey's Nov 9 letter asks Pichai to let schools disable AI Overviews/Gemini/Guided Learning without losing Search, answers due Nov 30; Chicago Public Schools keeps student chatbots blocked. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-10.html)
+- **JED Foundation: students who turn to AI when struggling report worse mental health** — JED survey of 5,500+ middle/high schoolers: over half use AI when distressed; that use (not AI use overall) is associated with worse well-being and more suicidal history; association only. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-10.html)
+- **Bangladesh will put AI into the curriculum for Classes VI–XII from 2027** — Education Minister Milon tells parliament AI content (basics, ML, ethics, robotics) enters Classes VI–XII from the 2027 academic year; plan, not final curriculum. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-10.html)
+- **Update: South Portland, Maine rejects its pre-K–8 AI moratorium 5–1 and promises a fuller plan in January** — Board votes 5–1 against the pre-K–8 generative-AI moratorium covered on Nov 9; a broader AI + cybersecurity plan is due in January. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-10.html)
 
 ## 2026-Nov-09
 - **South Portland, Maine weighs a pre-K–8 student AI moratorium over cognitive-development worries** — [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-09.html)
