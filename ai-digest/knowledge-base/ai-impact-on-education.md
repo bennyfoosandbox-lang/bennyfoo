@@ -2,10 +2,52 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-10
-run_count: 92
-digest_count: 89
+last_run: 2026-11-11
+run_count: 93
+digest_count: 90
 entries:
+  - fingerprint: stanford-scale-evidence-base-ai-k12-november-2026-update
+    title: "Stanford's November evidence update: AI tools for teachers show gains in practice, but one study finds students' motivation fell"
+    first_seen: 2026-11-11
+    digest: ai-impact-on-education-2026-Nov-11.html
+    urls:
+      - https://scale.stanford.edu/ai/evidence-base-review/evidence-base-ai-k12-november-review
+      - https://www.nctq.org/research-insights/ai-can-help-students-and-teachers-but-does-it-improve-learning/
+  - fingerprint: university-of-alaska-ai-policy-chatbot-authorship-dispute-regents-nov2026
+    title: "Faculty say a chatbot drafted the University of Alaska's AI policy, as regents take it up"
+    first_seen: 2026-11-11
+    digest: ai-impact-on-education-2026-Nov-11.html
+    urls:
+      - https://www.adn.com/opinions/2026/11/03/opinion-who-wrote-uas-ai-plan-a-chatbot-did/
+      - https://www.adn.com/opinions/2026/11/05/opinion-humans-not-robots-shaped-uas-approach-to-ai/
+      - https://www.alaskasnewssource.com/2026/11/07/tuition-policy-ai-usage-discussed-ua-board-regents-meeting/
+  - fingerprint: microsoft-365-education-licensing-overhaul-a1-retired-a7-copilot-nov2026
+    title: "Microsoft overhauls its education licences: free A1 and the Student Use Benefit go, and an AI-heavy A7 tier arrives"
+    first_seen: 2026-11-11
+    digest: ai-impact-on-education-2026-Nov-11.html
+    urls:
+      - https://www.microsoft.com/en-us/licensing/news/m365education-update
+      - https://www.directionsonmicrosoft.com/microsoft-shakes-up-its-m365-education-portfolio/
+      - https://www.softwareone.com/en/blog/articles/2026/11/06/microsoft-education-licensing-guide
+      - https://www.techpartner.news/news/microsoft-overhauls-microsoft-365-education-portfolio-630237
+      - https://lazyadmin.nl/office-365/microsoft-retires-office-365-a1-and-student-use-benefit/
+  - fingerprint: cornell-multi-vendor-ai-tools-two-year-pilot-phased-access-nov2026
+    title: "Cornell opens a multi-vendor AI pilot: doctoral students get access this month, undergraduates in early 2027"
+    first_seen: 2026-11-11
+    digest: ai-impact-on-education-2026-Nov-11.html
+    urls:
+      - https://news.cornell.edu/node/333837
+      - https://ai.cornell.edu/tools/
+      - https://www.fingerlakes1.com/2026/10/27/cornell-plans-free-ai-accounts-and-research-training-in-two-year-pilot/
+      - https://educationpost.in/news/global-education/north-america/cornell-university-to-offer-students-and-staff-access-to-multiple-ai-tools
+  - fingerprint: sfbu-mba-pro-plus-ai-avatar-faculty-10k-degree-chronicle-nov2026
+    title: "An MBA where avatars of the professors teach: SFBU's $10K AI degree draws scrutiny"
+    first_seen: 2026-11-11
+    digest: ai-impact-on-education-2026-Nov-11.html
+    urls:
+      - https://www.chronicle.com/article/none-of-these-professors-is-human
+      - https://www.sfbu.edu/article/sfbu-launches-10k-ai-enhanced-online-mba-pro
+      - https://poetsandquants.com/2026/07/16/10k-for-an-mba-this-silicon-valley-b-school-aims-to-be-the-ultimate-disruptor/
   - fingerprint: anthropic-claude-for-teachers-aft-naai-safety-privacy-terms-nov2026
     title: "Anthropic signs enforceable safety and privacy terms for teachers using Claude, joining Microsoft in the AFT standard"
     first_seen: 2026-11-10
@@ -3262,6 +3304,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-11
+- **Stanford's November evidence update: AI tools for teachers show gains in practice, but one study finds students' motivation fell** — Four new causal studies; automated feedback lifts teacher questioning 20%, AI summaries raise assignment completion, but one tool cut student motivation; still no long-term learning evidence. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-11.html)
+- **Faculty say a chatbot drafted the University of Alaska's AI policy, as regents take it up** — UAA faculty op-ed alleges the UA system AI statement was chatbot-drafted; Faculty Alliance rebuts; regents discussed AI guidance Nov 5–6. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-11.html)
+- **Microsoft overhauls its education licences: free A1 and the Student Use Benefit go, and an AI-heavy A7 tier arrives** — Nov 5: Office 365 A1, Student Use Benefit and alumni Exchange retired from 2028 renewals; free A0 excludes Teams/SharePoint; A7 bundles Copilot and Agent 365. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-11.html)
+- **Cornell opens a multi-vendor AI pilot: doctoral students get access this month, undergraduates in early 2027** — Two-year pilot of ChatGPT/Codex, Claude Cowork/Code, Copilot and (tentatively) Gemini; PhD access Nov 2026, undergrads early 2027. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-11.html)
+- **An MBA where avatars of the professors teach: SFBU's $10K AI degree draws scrutiny** — Chronicle profile of San Francisco Bay University's $10K online MBA Pro+, taught by AI avatars of real faculty with an AI tutor. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-11.html)
 
 ## 2026-Nov-10
 - **Anthropic signs enforceable safety and privacy terms for teachers using Claude, joining Microsoft in the AFT standard** — Anthropic signs a memorandum with the AFT's National Academy for AI Instruction applying enforceable safety/privacy contract terms to Claude for Teachers district deals (teacher-only product; OpenAI talks continue). [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-10.html)
