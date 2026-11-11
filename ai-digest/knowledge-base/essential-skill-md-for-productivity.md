@@ -2,10 +2,48 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-10
-run_count: 97
-digest_count: 97
+last_run: 2026-11-11
+run_count: 98
+digest_count: 98
 entries:
+  - fingerprint: vercel-labs-skills-cli-1-8-0-lock-v2-computedhash-version-pinning-api-nov10
+    title: "The skills CLI 1.8 adds a verifiable lock file, tag pinning and a programmatic API"
+    first_seen: 2026-11-11
+    digest: essential-skill-md-for-productivity-2026-Nov-11.html
+    urls:
+      - https://github.com/vercel-labs/skills/releases
+      - https://www.npmjs.com/package/skills
+  - fingerprint: copilot-cli-1-0-109-stable-repo-disabled-skills-trust-1-0-110-0-skill-toggle-report-nov10
+    title: "Copilot CLI 1.0.109 keeps repository-disabled skills off, and 1.0.110 pre-releases fix skill toggles"
+    first_seen: 2026-11-11
+    digest: essential-skill-md-for-productivity-2026-Nov-11.html
+    urls:
+      - https://github.com/github/copilot-cli/blob/main/changelog.md
+      - https://github.com/github/copilot-cli/releases
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.109
+  - fingerprint: janestreet-agent-skills-socratic-tutor-mit-nov3
+    title: "Jane Street publishes its first public skill: a strict Socratic tutor"
+    first_seen: 2026-11-11
+    digest: essential-skill-md-for-productivity-2026-Nov-11.html
+    urls:
+      - https://github.com/janestreet/agent_skills
+      - https://app.dealroom.co/news/note/jane-street-s-first-public-ai-skill-is-a-strict-socratic-tutor-not-a-trading-bot
+  - fingerprint: qwen-code-0-26-9-skill-zip-install-bulk-activation-0-27-0-stacked-skills-warning-nov6-7
+    title: "Qwen Code adds Skill ZIP installs, bulk activation and a warning for stacked skills"
+    first_seen: 2026-11-11
+    digest: essential-skill-md-for-productivity-2026-Nov-11.html
+    urls:
+      - https://github.com/QwenLM/qwen-code/blob/main/CHANGELOG.md
+      - https://github.com/QwenLM/qwen-code/releases/tag/v0.26.9
+      - https://github.com/QwenLM/qwen-code/releases/tag/v0.27.0
+  - fingerprint: openclaw-2026-11-2-doctor-keeps-skills-enabled-paired-node-binary-nov8
+    title: "OpenClaw 2026.11.2 stops Doctor from disabling skills whose binary lives on a paired node"
+    first_seen: 2026-11-11
+    digest: essential-skill-md-for-productivity-2026-Nov-11.html
+    urls:
+      - https://github.com/openclaw/openclaw/blob/main/CHANGELOG/2026.11.2.md
+      - https://github.com/openclaw/openclaw/pull/178665
+      - https://docs.openclaw.ai/tools/skills
   - fingerprint: claude-code-2-1-321-skill-reload-after-git-stash-worktree-fixes-nov9
     title: "Claude Code 2.1.321 stops project skills vanishing after git stash or a worktree switch"
     first_seen: 2026-11-10
@@ -3135,6 +3173,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-11
+- **The skills CLI 1.8 adds a verifiable lock file, tag pinning and a programmatic API** — vercel-labs/skills 1.8.0/1.8.1 (10 Nov): lock v2 with portable computedHash, owner/repo@tag checkout, programmatic API, safer install/remove. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-11.html)
+- **Copilot CLI 1.0.109 keeps repository-disabled skills off, and 1.0.110 pre-releases fix skill toggles** — Copilot CLI 1.0.109 stable (10 Nov) keeps repo-disabled skills disabled under session-only folder trust; 1.0.110-0/-1 fix skill enable/disable reporting and MCP results with a top-level skills key. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-11.html)
+- **Jane Street publishes its first public skill: a strict Socratic tutor** — janestreet/agent_skills (MIT, early Nov): socratic-tutor SKILL.md with diagnostic, 0-5 skill map, one question at a time, spaced review, final assessment; ~3.9k stars. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-11.html)
+- **Qwen Code adds Skill ZIP installs, bulk activation and a warning for stacked skills** — Qwen Code 0.26.9 (6 Nov): Skill ZIP upload/install via daemon API, SDK and WebShell, PUT /skills/activation for 1-100 skills; 0.27.0 (7 Nov): warns when a prompt stacks more than five skills. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-11.html)
+- **OpenClaw 2026.11.2 stops Doctor from disabling skills whose binary lives on a paired node** — OpenClaw 2026.11.2 (8 Nov): Doctor repair no longer disables enabled skills just because a required binary is missing locally but may be on a paired node (PR #178665). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-11.html)
 
 ## 2026-Nov-10
 - **Claude Code 2.1.321 stops project skills vanishing after git stash or a worktree switch** [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-10.html)
