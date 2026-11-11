@@ -2,10 +2,62 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-10
-run_count: 103
-digest_count: 103
+last_run: 2026-11-11
+run_count: 104
+digest_count: 104
 entries:
+  - fingerprint: anthropic-claude-sheets-whiteboards-meetings-data-office-suite-nov2026
+    title: "Anthropic moves into the office suite with Claude Sheets, Whiteboards, Meetings and Data"
+    first_seen: 2026-11-11
+    digest: using-ai-for-business-productivity-2026-Nov-11.html
+    urls:
+      - https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/
+      - https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors
+      - https://finance.yahoo.com/technology/article/anthropic-launches-meetings-whiteboards-sheets-data-ahead-of-ipo-190548601.html
+      - https://www.iclarified.com/103419/anthropic-launches-claude-sheets-and-whiteboards-previews-meetings
+      - https://mlq.ai/news/anthropic-launches-claude-sheets-and-meetings-in-a-push-into-office-software-as-microsoft-shares-fall/
+      - https://cryptobriefing.com/anthropic-claude-office-tools-ipo-microsoft/
+  - fingerprint: ibm-microsoft-imagine-enterprise-industry-agent-platform-6000-assets-nov2026
+    title: "IBM and Microsoft launch Imagine Enterprise, a platform of industry agents with engineers attached"
+    first_seen: 2026-11-11
+    digest: using-ai-for-business-productivity-2026-Nov-11.html
+    urls:
+      - https://newsroom.ibm.com/2026-11-10-ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation
+      - https://www.pymnts.com/news/artificial-intelligence/2026/ibm-and-microsoft-launch-ai-agent-platform/
+      - https://runtimewire.com/article/ibm-microsoft-imagine-enterprise-6000-agents-forward-deployed-engineers
+      - https://cryptobriefing.com/ibm-microsoft-imagine-enterprise-ai-agents/
+      - https://www.intelligenthq.com/ibm-microsoft-imagine-enterprise-ai-agents-platform-2026/
+  - fingerprint: openai-businesses-in-chatgpt-business-agents-chatgpt-enterprise-aws-marketplace-nov2026
+    title: "OpenAI gives businesses verified ChatGPT profiles and agents, and puts ChatGPT Enterprise on AWS Marketplace"
+    first_seen: 2026-11-11
+    digest: using-ai-for-business-productivity-2026-Nov-11.html
+    urls:
+      - https://openai.com/index/chatgpt-enterprise-aws-marketplace/
+      - https://aws.amazon.com/marketplace/pp/prodview-sscra4m7iracg
+      - https://ppc.land/aws-customers-can-now-buy-chatgpt-enterprise-against-cloud-commitments/
+      - https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents
+      - https://searchenginewatch.com/chatgpt-business-hub-claim-profile-mentions-clicks/
+      - https://www.webpronews.com/openai-businesses-in-chatgpt-business-hub-business-agents
+      - https://www.mi-3.com.au/11-11-2026/openai-gives-brands-keys-chatgpt-business-profiles-launches-ai-agents-and-new
+  - fingerprint: payscale-ai-workforce-impact-report-productivity-pay-gap-nov2026
+    title: "Payscale: AI is saving time at work, but pay hasn't caught up"
+    first_seen: 2026-11-11
+    digest: using-ai-for-business-productivity-2026-Nov-11.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/11/10/3399638/0/en/payscale-s-ai-workforce-impact-report-ai-is-boosting-productivity-but-employers-struggle-to-put-a-price-on-it.html
+      - https://www.financialcontent.com/article/gnwcq-2026-11-10-payscales-ai-workforce-impact-report-ai-is-boosting-productivity-but-employers-struggle-to-put-a-price-on-it
+      - https://www.payscale.com/press-releases/2026-ai-workforce-impact-preview
+      - https://hrtechedge.com/hr/payscale-finds-ai-skills-are-reshaping-pay-strategies/
+  - fingerprint: bay-50m-ai-agent-action-security-battery-ventures-stealth-nov2026
+    title: "Bay raises $50M to check every AI agent action before it runs"
+    first_seen: 2026-11-11
+    digest: using-ai-for-business-productivity-2026-Nov-11.html
+    urls:
+      - https://venturebeat.com/business/bay-emerges-from-stealth-with-50m-after-fortune-100-companies-used-its-platform-to-triple-autonomous-ai-agent-use
+      - https://www.govinfosecurity.com/bay-security-raises-50m-to-stop-rogue-ai-agent-actions-a-33343
+      - https://en.globes.co.il/en/article-israeli-ai-security-co-bay-raises-50m-1001562757
+      - https://thenextweb.com/news/bay-50m-ai-agent-security-stealth-battery-ventures
+      - https://fourweekmba.com/ai-battery-led-bay-exits-stealth-with-50m-to-secure-ai-agents/
   - fingerprint: zendesk-employee-service-ai-agents-slack-teams-0-99-resolution-nov2026
     title: "Zendesk puts AI agents on the internal-admin queue, priced per resolution"
     first_seen: 2026-11-10
@@ -4199,6 +4251,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-11
+- **Anthropic moves into the office suite with Claude Sheets, Whiteboards, Meetings and Data** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-11.html)
+- **IBM and Microsoft launch Imagine Enterprise, a platform of industry agents with engineers attached** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-11.html)
+- **OpenAI gives businesses verified ChatGPT profiles and agents, and puts ChatGPT Enterprise on AWS Marketplace** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-11.html)
+- **Payscale: AI is saving time at work, but pay hasn't caught up** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-11.html)
+- **Bay raises $50M to check every AI agent action before it runs** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-11.html)
 
 ## 2026-Nov-10
 - **Zendesk puts AI agents on the internal-admin queue, priced per resolution** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-10.html)
