@@ -2,10 +2,52 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-11
-run_count: 104
-digest_count: 104
+last_run: 2026-11-12
+run_count: 105
+digest_count: 105
 entries:
+  - fingerprint: openai-q3-2026-revenue-10b-enterprise-half-loss-widens-nov2026
+    title: "OpenAI's quarterly revenue reportedly tops $10 billion, now split evenly between business and consumer"
+    first_seen: 2026-11-12
+    digest: using-ai-for-business-productivity-2026-Nov-12.html
+    urls:
+      - https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/
+      - https://www.techzine.eu/news/applications/145731/openais-revenue-rises-by-nearly-50-quarterly-to-10-billion/
+      - https://indiantelevision.com/mam/openai-revenue-hits-10-billion-in-q3-as-operating-loss-widens-to-10-9-billion/
+      - https://rollingout.com/2026/11/11/openai-revenue-crosses-10-billion/
+  - fingerprint: australia-ai-washing-job-cuts-offshoring-qantas-telstra-reuters-nov2026
+    title: "Reuters: Australian blue chips accused of \"AI washing\" job cuts that are really offshoring"
+    first_seen: 2026-11-12
+    digest: using-ai-for-business-productivity-2026-Nov-12.html
+    urls:
+      - https://www.investing.com/news/economy-news/australian-companies-face-ai-washing-claims-after-wave-of-job-cuts-offshoring-5019845
+      - https://srnnews.com/australian-companies-face-ai-washing-claims-after-wave-of-job-cuts-offshoring/
+      - https://finimize.com/content/australias-corporate-layoffs-are-being-rebranded-as-ai
+      - https://www.devdiscourse.com/article/international/4005393-australian-companies-face-ai-washing-claims-after-wave-of-job-cuts-offshoring
+  - fingerprint: pwc-critical-thinking-judgment-certificate-85000-staff-nov2026
+    title: "PwC will certify 85,000+ US staff in critical thinking so they check AI output rather than just approve it"
+    first_seen: 2026-11-12
+    digest: using-ai-for-business-productivity-2026-Nov-12.html
+    urls:
+      - https://www.pwc.com/us/en/about-us/newsroom/critical-thinking-and-judgment-certificate-program.html
+      - https://www.inc.com/chloe-rosenberg/pwc-trained-85000-workers-to-use-new-technology-now-its-teaching-them-not-to-trust-it/91433858
+      - https://www.big4news.com/p/pwc-critical-thinking-training-ai-audit
+      - https://creativebrandsmag.com/pwc-launches-100m-drive-to-teach-human-judgement-in-the-age-of-ai/
+  - fingerprint: gartner-barcelona-cio-ai-value-risk-71pct-agentic-21pct-governance-nov2026
+    title: "Gartner: 71% of firms plan agentic AI within a year, but only 21% can govern it"
+    first_seen: 2026-11-12
+    digest: using-ai-for-business-productivity-2026-Nov-12.html
+    urls:
+      - https://www.gartner.com/en/newsroom/press-releases/2026-11-09-gartner-says-aligning-artificial-intelligence-value-risk-and-safety-is-now-the-top-challenge-for-chief-information-officers
+      - https://www.cdomagazine.tech/aiml/gartner-agentic-ai-adoption-is-outpacing-enterprise-governance
+      - https://informationweek.com/responsible-ai/gartner-cios-must-balance-ai-value-with-risk-and-fast
+  - fingerprint: gartner-service-leaders-21pct-cut-headcount-4pct-roi-nov2026
+    title: "Gartner: only 21% of service leaders have cut human agents because of AI, and just 4% hit expected ROI"
+    first_seen: 2026-11-12
+    digest: using-ai-for-business-productivity-2026-Nov-12.html
+    urls:
+      - https://www.gartner.com/en/newsroom/press-releases/2026-11-05-gartner-survey-finds-21-percent-of-service-and-support-leaders-have-reduced-human-agent-headcount-because-of-ai
+      - https://www.gartner.com/en/newsroom/press-releases/2026-11-05-gartner-customer-service-and-support-conference-day-2-highlights
   - fingerprint: anthropic-claude-sheets-whiteboards-meetings-data-office-suite-nov2026
     title: "Anthropic moves into the office suite with Claude Sheets, Whiteboards, Meetings and Data"
     first_seen: 2026-11-11
@@ -4251,6 +4293,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-12
+- **OpenAI's quarterly revenue reportedly tops $10 billion, now split evenly between business and consumer** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-12.html)
+- **Reuters: Australian blue chips accused of "AI washing" job cuts that are really offshoring** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-12.html)
+- **PwC will certify 85,000+ US staff in critical thinking so they check AI output rather than just approve it** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-12.html)
+- **Gartner: 71% of firms plan agentic AI within a year, but only 21% can govern it** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-12.html)
+- **Gartner: only 21% of service leaders have cut human agents because of AI, and just 4% hit expected ROI** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-12.html)
 
 ## 2026-Nov-11
 - **Anthropic moves into the office suite with Claude Sheets, Whiteboards, Meetings and Data** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-11.html)
