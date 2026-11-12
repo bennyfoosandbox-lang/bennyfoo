@@ -2,10 +2,54 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-11
-run_count: 93
-digest_count: 90
+last_run: 2026-11-12
+run_count: 94
+digest_count: 91
 entries:
+  - fingerprint: google-office-protests-seven-cities-ai-free-search-nov11-2026
+    title: "Families rally at Google offices in seven cities, demanding schools be able to keep Search without AI"
+    first_seen: 2026-11-12
+    digest: ai-impact-on-education-2026-Nov-12.html
+    urls:
+      - https://www.chalkbeat.org/chicago/2026/11/12/chicago-ai-protest-against-google-removal-in-school-classrooms/
+      - https://www.motherjones.com/politics/2026/11/google-ai-protests-students-parents-families-new-york-nationwide-search-lawsuit/
+      - https://bostonglobe.com/2026/11/11/metro/google-protest-ai-school
+      - https://blockclubchicago.org/2026/11/12/after-google-warns-schools-about-disabling-ai-feature-protesters-say-we-dont-want-your-gemini/
+      - https://www.wbez.org/education/2026/11/11/what-to-know-about-cps-and-ai-as-chicago-students-risk-losing-access-to-google-search
+      - https://fairplayforkids.org/teachers-and-families-to-protest-googles-ai-changes-for-schools-at-googles-cambridge-office-on-nov-11/
+  - fingerprint: dfe-edtech-ai-product-safety-certification-consultation-nov2026
+    title: "England's DfE proposes a safety certificate for school edtech and pupil-facing AI tools"
+    first_seen: 2026-11-12
+    digest: ai-impact-on-education-2026-Nov-12.html
+    urls:
+      - https://www.gov.uk/government/consultations/introducing-an-edtech-and-ai-product-safety-certification-scheme
+      - https://consult.education.gov.uk/edtech-regulation-policy-team/education-technology-safety-assurance-certificatio/
+      - https://www.tes.com/magazine/news/general/dfe-sets-out-edtech-safety-standards
+      - https://www.resultsense.com/news/2026-11-11-dfe-edtech-ai-safety-certification-consultation/
+      - https://dig.watch/updates/uk-safety-certification-edtech-products
+  - fingerprint: openai-closing-ai-guidance-gap-education-emea-thinkyoung-nov2026
+    title: "OpenAI: 79% of surveyed students use AI for homework, but only 47% have been shown how"
+    first_seen: 2026-11-12
+    digest: ai-impact-on-education-2026-Nov-12.html
+    urls:
+      - https://openai.com/index/closing-ai-guidance-gap-education/
+      - https://www.edtechinnovationhub.com/news/openai-calls-for-teacher-training-as-student-ai-homework-use-outpaces-guidance
+      - https://www.tun.com/home/openai-report-flags-ai-guidance-gap-in-schools/
+  - fingerprint: compass-collaborative-ai-guidance-by-age-matrix-5000-studies-nov2026
+    title: "A matrix built from 5,000 studies sets out what AI may help or harm, by age"
+    first_seen: 2026-11-12
+    digest: ai-impact-on-education-2026-Nov-12.html
+    urls:
+      - https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/11/12/new-ai-learning-matrix-brings-nuance-wild
+      - https://www.edweek.org/technology/harvard-taps-5-000-studies-to-show-how-ai-helps-or-hinders-learning/2026/11
+  - fingerprint: avpn-ai-opportunity-fund-apac-phase-three-28-partners-teachers-nov2026
+    title: "Google.org-backed fund names 28 Asia-Pacific partners, including teacher AI training in India and Korea"
+    first_seen: 2026-11-12
+    digest: ai-impact-on-education-2026-Nov-12.html
+    urls:
+      - https://www.prnewswire.com/apac/news-releases/ai-opportunity-fund-expands-ai-skills-training-across-asia-pacific-with-28-phase-three-local-implementing-partners-302934513.html
+      - https://aninews.in/news/business/ai-opportunity-fund-expands-ai-skills-training-across-asia-pacific-with-28-phase-three-local-implementing-partners20261111103456/
+      - https://www.manilatimes.net/2026/11/11/tmt-newswire/pr-newswire/ai-opportunity-fund-expands-ai-skills-training-across-asia-pacific-with-28-phase-three-local-implementing-partners/2467152
   - fingerprint: stanford-scale-evidence-base-ai-k12-november-2026-update
     title: "Stanford's November evidence update: AI tools for teachers show gains in practice, but one study finds students' motivation fell"
     first_seen: 2026-11-11
@@ -3304,6 +3348,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-12
+- **Families rally at Google offices in seven cities, demanding schools be able to keep Search without AI** — Nov 11 rallies at Google offices in 7 cities (Chicago, Boston, Boulder, NYC, LA, Durham, Portland) demand AI-free school Search; CPS exploring ways to suppress AI Overviews or switch search providers. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-12.html)
+- **England's DfE proposes a safety certificate for school edtech and pupil-facing AI tools** — DfE consultation (Nov 10 – Feb 4, 2027) on voluntary edtech/AI safety certification: filtering, high-risk data processing, pupil-facing genAI and personalised learning; UKAS-overseen assessment, annual recert for genAI. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-12.html)
+- **OpenAI: 79% of surveyed students use AI for homework, but only 47% have been shown how** — OpenAI EMEA report (Nov 10), ThinkYoung data: 79% of students use AI for homework, 47% shown how; unguided students twice as likely to outsource work (36% vs 18%); calls for government-led teacher training. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-12.html)
+- **A matrix built from 5,000 studies sets out what AI may help or harm, by age** — Compass Collaborative's 'AI Guidance by Age' matrix (5,000+ studies, 81 developmental areas) gives role/age-specific guidance on how AI may help or hinder learning; most evidence predates genAI. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-12.html)
+- **Google.org-backed fund names 28 Asia-Pacific partners, including teacher AI training in India and Korea** — AVPN's AI Opportunity Fund phase three (Google.org/ADB, Nov 11): 28 partners across 19 markets; Pratham trains Indian teachers in critical AI use, JA Korea certifies public-school teachers; Google.org total $35M. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-12.html)
 
 ## 2026-Nov-11
 - **Stanford's November evidence update: AI tools for teachers show gains in practice, but one study finds students' motivation fell** — Four new causal studies; automated feedback lifts teacher questioning 20%, AI summaries raise assignment completion, but one tool cut student motivation; still no long-term learning evidence. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-11.html)
