@@ -2,10 +2,41 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-11
-run_count: 98
-digest_count: 98
+last_run: 2026-11-12
+run_count: 99
+digest_count: 99
 entries:
+  - fingerprint: google-chrome-modern-web-guidance-1-0-203-guides-nov10
+    title: "Google ships Modern Web Guidance 1.0, a skill set that stops coding agents writing outdated web code"
+    first_seen: 2026-11-12
+    digest: essential-skill-md-for-productivity-2026-Nov-12.html
+    urls:
+      - https://developer.chrome.com/blog/modern-web-guidance-v1
+      - https://www.searchenginejournal.com/google-releases-modern-web-guidance-1-0-for-ai-coding-agents/596495/
+      - https://coywolf.com/news/web-development/google-releases-modern-web-guidance-10-and-heres-the-best-way-to-use-it/
+      - https://dev.to/alifar/google-modern-web-guidance-10-brings-cross-browser-standards-to-ai-coding-agents-2720
+  - fingerprint: claude-unified-plugins-page-ga-nov9-enterprise-nov30-skills-required
+    title: "Claude puts skills, connectors and plugins on one Plugins page, and Enterprise admins must enable Skills by 30 November"
+    first_seen: 2026-11-12
+    digest: essential-skill-md-for-productivity-2026-Nov-12.html
+    urls:
+      - https://support.claude.com/en/articles/17740565-manage-plugins-skills-and-connectors-from-one-plugins-page
+      - https://superpowerdaily.com/posts/anthropic-puts-claude-s-skills-and-connectors-on-one-plugins-page
+  - fingerprint: shadcn-improve-skill-plans-for-cheaper-executor-models
+    title: "shadcn's improve skill has a strong model write the plans and a cheaper model carry them out"
+    first_seen: 2026-11-12
+    digest: essential-skill-md-for-productivity-2026-Nov-12.html
+    urls:
+      - https://github.com/shadcn/improve
+      - https://www.explainx.ai/blog/shadcn-improve-agent-skill-audit-expensive-execute-cheap-2026
+      - https://saascity.io/blog/shadcn-improve-agent-skill-token-optimization-2026
+  - fingerprint: hackernoon-cuttlefish-md-2806-license-checked-skills-nine-plugins
+    title: "HackerNoon's Cuttlefish.MD library packages 2,806 license-checked skills as installable plugins"
+    first_seen: 2026-11-12
+    digest: essential-skill-md-for-productivity-2026-Nov-12.html
+    urls:
+      - https://github.com/hackernoon/cuttlefish-agent-skills
+      - https://hackernoon.com/cuttlefishmd-skills-library-puts-2806-license-checked-agent-skills-to-work
   - fingerprint: vercel-labs-skills-cli-1-8-0-lock-v2-computedhash-version-pinning-api-nov10
     title: "The skills CLI 1.8 adds a verifiable lock file, tag pinning and a programmatic API"
     first_seen: 2026-11-11
@@ -3173,6 +3204,14 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-12
+- **Google ships Modern Web Guidance 1.0, a skill set that stops coding agents writing outdated web code** — Chrome team's Modern Web Guidance 1.0 (10 Nov): 203 guides, ~250 web features, npx install or agent marketplaces; ~90% vs ~50% checks passed with/without. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-12.html)
+- **Claude puts skills, connectors and plugins on one Plugins page, and Enterprise admins must enable Skills by 30 November** — Unified Plugins page replaces Skills/Connectors/Plugins tabs; GA 9 Nov for Free–Team, Enterprise 30 Nov; plugins stop working in Desktop if Skills are disabled. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-12.html)
+- **shadcn's improve skill has a strong model write the plans and a cheaper model carry them out** — shadcn/improve: read-only audit skill writing self-contained plans in plans/ for cheaper executor models; /improve execute, branch, reconcile; ~10k stars. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-12.html)
+- **HackerNoon's Cuttlefish.MD library packages 2,806 license-checked skills as installable plugins** — hackernoon/cuttlefish-agent-skills: 2,806 redistributable skills from 29 authors in nine category plugins for Claude Code, Codex, Cursor, Gemini CLI. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-12.html)
+
+Note: Firecrawl skipped by instruction; ~100 candidate links from ~30 web searches; only 4 items passed dedup in the 24h window.
 
 ## 2026-Nov-11
 - **The skills CLI 1.8 adds a verifiable lock file, tag pinning and a programmatic API** — vercel-labs/skills 1.8.0/1.8.1 (10 Nov): lock v2 with portable computedHash, owner/repo@tag checkout, programmatic API, safer install/remove. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-11.html)
