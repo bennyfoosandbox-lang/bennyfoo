@@ -2,10 +2,43 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-12
-run_count: 99
-digest_count: 99
+last_run: 2026-11-13
+run_count: 100
+digest_count: 100
 entries:
+  - fingerprint: anthropic-claude-for-manufacturing-plugin-17-skills-4-connectors-nov12
+    title: "Anthropic ships Claude for Manufacturing: 17 skills that turn factory records into quotes and quality reports"
+    first_seen: 2026-11-13
+    digest: essential-skill-md-for-productivity-2026-Nov-13.html
+    urls:
+      - https://www.manufacturingdive.com/news/anthropic-launches-claude-for-manufacturing/874303/
+      - https://tech.yahoo.com/ai/claude/articles/anthropic-launches-claude-manufacturing-170944639.html
+      - https://www.unite.ai/anthropic-launches-claude-for-manufacturing-with-17-workflow-skills/
+      - https://mlq.ai/news/anthropic-launches-claude-for-manufacturing-a-plugin-that-drafts-quotes-and-quality-reports-from-infor-netsuite-and-autodesk-data/
+      - https://www.cryptopolitan.com/anthropic-claude-factories-17-skills/
+      - https://fourweekmba.com/ai-anthropic-launches-claude-for-manufacturing-ipo-roadshow/
+      - https://www.infor.com/news/infor-and-anthropic-announce-partnership
+  - fingerprint: claude-code-2-1-323-plugin-engines-version-gating-validate-hooks-skills-git-worktree-pause-nov12
+    title: "Claude Code 2.1.323 lets plugins declare which versions they support and pauses skills' git commands in unusual worktrees"
+    first_seen: 2026-11-13
+    digest: essential-skill-md-for-productivity-2026-Nov-13.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.323
+      - https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+  - fingerprint: copilot-cli-1-0-110-stable-skills-reload-count-escape-sequence-picker-fix-nov12
+    title: "Copilot CLI 1.0.110 goes stable with consistent skill counts and a fix for skills hidden behind escape sequences"
+    first_seen: 2026-11-13
+    digest: essential-skill-md-for-productivity-2026-Nov-13.html
+    urls:
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.110
+      - https://github.com/github/copilot-cli/releases
+  - fingerprint: qwen-code-0-27-3-managed-agent-exact-skill-revision-import-nov13
+    title: "Qwen Code 0.27.3 lets managed agents import an exact revision of a skill"
+    first_seen: 2026-11-13
+    digest: essential-skill-md-for-productivity-2026-Nov-13.html
+    urls:
+      - https://github.com/QwenLM/qwen-code/releases/tag/v0.27.3
+      - https://github.com/QwenLM/qwen-code/releases
   - fingerprint: google-chrome-modern-web-guidance-1-0-203-guides-nov10
     title: "Google ships Modern Web Guidance 1.0, a skill set that stops coding agents writing outdated web code"
     first_seen: 2026-11-12
@@ -3204,6 +3237,14 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-13
+- **Anthropic ships Claude for Manufacturing: 17 skills that turn factory records into quotes and quality reports** — Team/Enterprise plugin (12 Nov): 17 skills across sales, quality, ops, supply chain, design, setup; connectors Autodesk Fusion, Infor, Microsoft 365, Oracle NetSuite; human review at the end of each skill; Infor partnership the same day. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-13.html)
+- **Claude Code 2.1.323 lets plugins declare which versions they support and pauses skills' git commands in unusual worktrees** — engines["claude-code"] in plugin.json; plugin validate type-checks TS hooks (--strict); agent setting deprecated; /security-review asks first; skills' inline git commands pause in bare-repo worktrees; Cowork plugin secret check; experimental Code Mode. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-13.html)
+- **Copilot CLI 1.0.110 goes stable with consistent skill counts and a fix for skills hidden behind escape sequences** — Stable 12 Nov: /skills reload count matches /skills list; / picker ignores words hidden by terminal escape sequences; refresh completion shown; /context shows custom-instruction tokens; masked password dialog (experimental). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-13.html)
+- **Qwen Code 0.27.3 lets managed agents import an exact revision of a skill** — 13 Nov: managed-agent SPIs import exact Skill/extension revisions from external sources (PR #16882); Desktop imports Skills from original runtime; CLAUDE.md imports AGENTS.md; MCP selection caps 32/16. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-13.html)
+
+Note: Firecrawl skipped by instruction; ~100 candidate links from ~25 web searches plus primary release pages; only 4 items passed dedup in the 24h window. Unconfirmed leads held for later: Snyk skills.sh/ClawHub re-assessment (~1 week old), Microsoft Skills in Copilot Chat (MC1493223), Ambition Scheduled Skills (10 Nov), OpenClaw 2026.11.5-beta.2.
 
 ## 2026-Nov-12
 - **Google ships Modern Web Guidance 1.0, a skill set that stops coding agents writing outdated web code** — Chrome team's Modern Web Guidance 1.0 (10 Nov): 203 guides, ~250 web features, npx install or agent marketplaces; ~90% vs ~50% checks passed with/without. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-12.html)
