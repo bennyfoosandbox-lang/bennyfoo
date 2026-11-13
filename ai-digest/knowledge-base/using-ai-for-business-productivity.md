@@ -2,10 +2,54 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-12
-run_count: 105
-digest_count: 105
+last_run: 2026-11-13
+run_count: 106
+digest_count: 106
 entries:
+  - fingerprint: costco-cio-polit-ai-60pct-productivity-tech-projects-india-hub-nov2026
+    title: "Costco's CIO says AI has lifted productivity up to 60% on some tech projects, and is widening its India build-out"
+    first_seen: 2026-11-13
+    digest: using-ai-for-business-productivity-2026-Nov-13.html
+    urls:
+      - https://www.thestar.com.my/tech/tech-news/2026/11/12/costco-eyes-broader-india-tech-footprint-as-ai-bets-grow
+      - https://finance.yahoo.com/technology/ai/articles/costco-reveals-60-ai-productivity-194445957.html
+      - https://www.gurufocus.com/news/9194990/costco-reveals-60-ai-productivity-gain-in-major-expansion
+      - https://the420.in/costco-eyes-wider-india-technology-expansion-as-ai-and-cybersecurity-investments-grow/
+  - fingerprint: nebuly-21m-series-a-planven-enterprise-ai-agent-roi-measurement-nov2026
+    title: "Nebuly raises $21M to measure what enterprise AI agents are actually worth"
+    first_seen: 2026-11-13
+    digest: using-ai-for-business-productivity-2026-Nov-13.html
+    urls:
+      - https://siliconangle.com/2026/11/12/nebuly-wants-to-help-enterprises-understand-exactly-what-their-ai-investments-are-worth-after-raising-21m/
+      - https://tech.eu/2026/11/12/nebuly-raises-21m-series-a-to-turn-ai-investments-into-measurable-results
+      - https://thenextweb.com/news/nebuly-21m-series-a-enterprise-ai-roi
+      - https://techfundingnews.com/nebuly-ai-roi-platform-enterprise-agents/
+  - fingerprint: openai-upwork-work-at-the-frontier-ai-projects-52pct-higher-budgets-nov2026
+    title: "OpenAI and Upwork study: AI-related freelance projects carry budgets about 52% higher, but hourly rates barely move"
+    first_seen: 2026-11-13
+    digest: using-ai-for-business-productivity-2026-Nov-13.html
+    urls:
+      - https://openai.com/index/ai-effect-on-freelance-work/
+      - https://letsdatascience.com/news/openai-and-upwork-study-how-ai-shifts-freelance-demand-23996bc6
+      - https://aiweekly.co/alerts/openai-upwork-report-ai-freelance-briefs-45-more-diverse
+      - https://beri.net/article/openai-upwork-freelance-study-ai-projects-52-percent-higher-budgets-web-development-content-writing-decline-contingent-labor-planning
+  - fingerprint: shl-ai-rebound-19pct-us-workers-replaced-by-ai-asked-back-nov2026
+    title: "SHL's \"AI Rebound\" survey: nearly 1 in 5 US workers replaced by AI were later asked back"
+    first_seen: 2026-11-13
+    digest: using-ai-for-business-productivity-2026-Nov-13.html
+    urls:
+      - https://fortune.com/2026/11/09/ai-rebounding-20-us-workers-replaced-higher-pay-job-security/
+      - https://itbrief.co.uk/story/shl-survey-finds-ai-replaced-workers-are-being-rehired
+      - https://www.peoplematters.in/news/business/nearly-1-in-5-workers-laid-off-due-to-ai-are-asked-to-return-survey-finds-53098
+      - https://247wallst.com/personal-finance/social-security/2026/11/11/nearly-1-in-5-u-s-workers-say-ai-replaced-them-then-their-boss-asked-them-back-at-64-returning-at-higher-pay-could-lift-his-social-security-check/
+  - fingerprint: linux-foundation-agent-name-service-ans-project-launch-kubecon-nov2026
+    title: "Linux Foundation formally launches Agent Name Service, a DNS-based identity layer for AI agents"
+    first_seen: 2026-11-13
+    digest: using-ai-for-business-productivity-2026-Nov-13.html
+    urls:
+      - https://www.linuxfoundation.org/press/linux-foundation-welcomes-agent-name-service-to-bring-verifiable-identity-and-discovery-to-ai-agents
+      - https://cloudnativenow.com/uncategorized/linux-foundation-launches-agent-name-service-to-give-ai-agents-verifiable-identities/
+      - https://thenewstack.io/can-dns-become-the-basis-for-ai-agent-identity
   - fingerprint: openai-q3-2026-revenue-10b-enterprise-half-loss-widens-nov2026
     title: "OpenAI's quarterly revenue reportedly tops $10 billion, now split evenly between business and consumer"
     first_seen: 2026-11-12
@@ -4293,6 +4337,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-13
+- **Costco's CIO says AI has lifted productivity up to 60% on some tech projects, and is widening its India build-out** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-13.html)
+- **Nebuly raises $21M to measure what enterprise AI agents are actually worth** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-13.html)
+- **OpenAI and Upwork study: AI-related freelance projects carry budgets about 52% higher, but hourly rates barely move** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-13.html)
+- **SHL's "AI Rebound" survey: nearly 1 in 5 US workers replaced by AI were later asked back** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-13.html)
+- **Linux Foundation formally launches Agent Name Service, a DNS-based identity layer for AI agents** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-13.html)
 
 ## 2026-Nov-12
 - **OpenAI's quarterly revenue reportedly tops $10 billion, now split evenly between business and consumer** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-12.html)
