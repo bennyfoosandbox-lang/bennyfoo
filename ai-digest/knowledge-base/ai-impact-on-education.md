@@ -2,10 +2,52 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-12
-run_count: 94
-digest_count: 91
+last_run: 2026-11-13
+run_count: 95
+digest_count: 92
 entries:
+  - fingerprint: ofs-advance-he-making-ai-work-for-students-supervised-assessment-nov2026
+    title: "England's university regulator: many unsupervised assessments can be passed with AI in minutes, so move to AI-free testing"
+    first_seen: 2026-11-13
+    digest: ai-impact-on-education-2026-Nov-13.html
+    urls:
+      - https://www.officeforstudents.org.uk/news-blog-and-events/press-and-media/universities-should-help-students-develop-ai-skills-while-protecting-confidence-in-degrees/
+      - https://www.officeforstudents.org.uk/publications/making-ai-work-for-students-reflections-on-institutional-practice/
+      - https://wonkhe.com/blogs/ofs-and-advance-he-assess-the-state-of-the-sector-for-ai-in-education
+      - https://www.hepi.ac.uk/?p=38976
+      - https://www.techtimes.com/articles/330537/20261112/ai-free-exams-english-regulator-warns-ai-coursework-can-earn-high-marks-escape-detection.htm
+      - https://www.universityherald.com/articles/80655/20261112/uk-regulator-urges-universities-bring-back-traditional-exams-amid-ai-cheating-concerns.htm
+      - https://www.yahoo.com/news/world/articles/students-passing-university-assessments-minutes-002127257.html
+  - fingerprint: rand-higher-income-parents-ai-teens-homework-gap-nov2026
+    title: "RAND: higher-income parents use AI more and push their teens to use it for schoolwork"
+    first_seen: 2026-11-13
+    digest: ai-impact-on-education-2026-Nov-13.html
+    urls:
+      - https://www.rand.org/pubs/research_reports/RRA4742-5.html
+      - https://www.rand.org/news/press/2026/11/higher-income-parents-more-likely-to-use-ai-encourage.html
+  - fingerprint: ifs-yougov-parents-want-ai-blocked-k12-pause-nov2026
+    title: "IFS/YouGov poll: 56% of parents want AI blocked in schools and three in four back a pause"
+    first_seen: 2026-11-13
+    digest: ai-impact-on-education-2026-Nov-13.html
+    urls:
+      - https://ifstudies.org/report-brief/artificial-intelligence-and-the-future-of-k-12-education-what-do-parents-want
+      - https://ifstudies.org/blog/ai-in-the-classroom-new-report-highlights-what-parents-want
+      - https://www.nationalreview.com/news/politically-divided-parents-find-common-ground-in-concerns-about-ai-in-schools
+  - fingerprint: kansas-sboe-instructional-technology-ai-policy-mandate-nov2026
+    title: "Kansas orders every district to adopt a policy covering AI and classroom tech by July 2027"
+    first_seen: 2026-11-13
+    digest: ai-impact-on-education-2026-Nov-13.html
+    urls:
+      - https://www.kwch.com/2026/11/13/kansas-boe-requires-all-school-districts-develop-instructional-technology-policies/
+      - https://www.ksnt.com/news/artificial-intelligence-policy-implemented-by-kansas-board-of-education/
+      - https://johnsoncountypost.com/2026/11/09/state-boe-instructional-technology-policy-301191/
+  - fingerprint: ai-slop-papers-fake-authorship-prominent-academics-journals-nov2026
+    title: "Little-known journals publish AI-generated papers under prominent professors' names"
+    first_seen: 2026-11-13
+    digest: ai-impact-on-education-2026-Nov-13.html
+    urls:
+      - https://www.insidehighered.com/news/faculty/books-publishing/2026/11/13/ai-slop-papers-published-under-prominent-academics-names
+      - https://www.timeshighereducation.com/news/ai-slop-papers-published-under-prominent-academics-names
   - fingerprint: google-office-protests-seven-cities-ai-free-search-nov11-2026
     title: "Families rally at Google offices in seven cities, demanding schools be able to keep Search without AI"
     first_seen: 2026-11-12
@@ -3348,6 +3390,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-13
+- **England's university regulator: many unsupervised assessments can be passed with AI in minutes, so move to AI-free testing** — OfS/Advance HE report (Nov 11): 300+ staff/students, ~120 providers; unsupervised assessments passable with AI in minutes and undetectably; urges far greater AI-free supervised assessment, no mandate; may intervene. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-13.html)
+- **RAND: higher-income parents use AI more and push their teens to use it for schoolwork** — RAND RRA4742-5 (Nov 12): ~1,000 parents/1,800 teens; 67% higher-income vs 45% lower-income parents encourage AI for schoolwork; teen homework AI use 63% vs 40% by parental use; 81% vs 38% by encouragement. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-13.html)
+- **IFS/YouGov poll: 56% of parents want AI blocked in schools and three in four back a pause** — IFS report on YouGov survey of 2,000 K-12 parents (fielded Jul 27–Aug 13): 56% want AI blocked, 26% want less; ~75% back a pause (R 75%, D 72%); only 11% favour AI/tablet-centred schooling. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-13.html)
+- **Kansas orders every district to adopt a policy covering AI and classroom tech by July 2027** — Kansas SBOE (Nov 9–10) requires all districts/accredited nonpublic schools to adopt instructional-tech policies covering AI, posted and filed by Jul 1 2027; parent acknowledgment (not consent) process by 2028-29. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-13.html)
+- **Little-known journals publish AI-generated papers under prominent professors' names** — IHE/THE (Nov 13): obscure journals publishing AI-generated papers credited to academics who didn't write them (Alan Said, Leskovec, Fei-Fei Li, Manning, M. I. Jordan); shared editor, 2026 domains with back-dated archives. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-13.html)
 
 ## 2026-Nov-12
 - **Families rally at Google offices in seven cities, demanding schools be able to keep Search without AI** — Nov 11 rallies at Google offices in 7 cities (Chicago, Boston, Boulder, NYC, LA, Durham, Portland) demand AI-free school Search; CPS exploring ways to suppress AI Overviews or switch search providers. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-12.html)
