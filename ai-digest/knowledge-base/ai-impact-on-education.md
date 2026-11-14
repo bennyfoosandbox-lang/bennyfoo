@@ -2,10 +2,54 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-13
-run_count: 95
-digest_count: 92
+last_run: 2026-11-14
+run_count: 96
+digest_count: 93
 entries:
+  - fingerprint: cft-newsom-three-year-k8-student-genai-pause-letter-nov2026
+    title: "California's biggest faculty-and-teacher union asks Newsom to pause student-facing AI in K-8 for three years"
+    first_seen: 2026-11-14
+    digest: ai-impact-on-education-2026-Nov-14.html
+    urls:
+      - https://www.yahoo.com/news/politics/articles/teachers-union-calls-newsom-3-192119492.html
+      - https://www.yahoo.com/news/politics/articles/california-teachers-urge-3-pause-233845903.html
+      - https://www.govtech.com/education/k-12/california-teachers-union-calls-for-3-year-pause-on-ai-for-k-8
+      - https://californiaglobe.com/fr/california-teachers-union-presses-newsom-for-three-year-ai-classroom-pause/
+      - https://www.independent.com/2026/11/10/state-superintendent-tony-thurmond-convenes-summit-on-ai-in-education-emphasizes-innovation-student-safety-and-educator-leadership/
+  - fingerprint: csu-academic-senate-ai-admin-not-instruction-cfa-strike-vote-ai-nov2026
+    title: "Cal State faculty push back on AI on two fronts: a senate resolution and a strike vote"
+    first_seen: 2026-11-14
+    digest: ai-impact-on-education-2026-Nov-14.html
+    urls:
+      - https://www.yahoo.com/news/politics/articles/professors-urge-csu-system-ai-230000093.html
+      - https://www.calfac.org/vote-yes-on-cfa-strike-authorization-for-our-proposals-including-ai-and-academic-freedom/
+      - https://www.calfac.org/strike-authorization-vote/
+      - https://edsource.org/updates/csu-faculty-union-seeks-strike-authority-as-contract-talks-stall
+      - https://www.ellenadornews.com/2026/11/12/cfa-in-negotiations-strike-still-on-the-table-this-academic-year/
+  - fingerprint: alpha-school-nyt-internal-data-half-k8-miss-math-2x-target-nov2026
+    title: "Alpha School's own data: about half of its K-8 students miss its “2x” math growth target"
+    first_seen: 2026-11-14
+    digest: ai-impact-on-education-2026-Nov-14.html
+    urls:
+      - https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/
+      - https://aiweekly.co/alerts/only-42-of-alpha-school-pupils-hit-2x-growth-nyt-finds
+      - https://buildcognitiveresonance.substack.com/p/the-future-of-education-isnt-here-050
+      - https://matr.net/news/alpha-schools-ai-tuition-fails-most-students-traditional-learning-goals-but-what-about-non-traditional-skills/
+  - fingerprint: anthropic-claude-for-teachers-free-extended-july-2028-nov2026
+    title: "Anthropic extends free Claude for Teachers to July 2028 for US K-12 educators and districts"
+    first_seen: 2026-11-14
+    digest: ai-impact-on-education-2026-Nov-14.html
+    urls:
+      - https://www.anthropic.com/news/claude-for-teachers
+      - https://claude.com/resources/articles/claude-for-teachers-now-available-for-schools-and-districts
+      - https://support.claude.com/en/articles/16559896-set-up-claude-for-teachers-for-your-school-or-district
+  - fingerprint: south-pasadena-bp0441-genai-policy-adopted-martinsville-tables-nov2026
+    title: "District AI policies keep landing: South Pasadena bars student AI unless a teacher assigns it, while Martinsville waits"
+    first_seen: 2026-11-14
+    digest: ai-impact-on-education-2026-Nov-14.html
+    urls:
+      - https://southpasadenan.com/spusd-nov-10-board-meeting-ai-policy-adopted-strategic-plan-approved-46-million-bond-authorized/
+      - https://wset.com/newsletter-daily/martinsville-school-board-to-consider-optional-ai-policy-for-classroom-use-november-2026
   - fingerprint: ofs-advance-he-making-ai-work-for-students-supervised-assessment-nov2026
     title: "England's university regulator: many unsupervised assessments can be passed with AI in minutes, so move to AI-free testing"
     first_seen: 2026-11-13
@@ -3390,6 +3434,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-14
+- **California's biggest faculty-and-teacher union asks Newsom to pause student-facing AI in K-8 for three years** — CFT (≈120,000 educators) letter of Nov 10 from president Jeff Freitas asks Newsom for an executive order before he leaves office in January: a three-year moratorium on student-facing generative-AI tools in K-8; endorses AFT's no-student-AI-in-elementary recommendation; no response from Newsom yet. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-14.html)
+- **Cal State faculty push back on AI on two fronts: a senate resolution and a strike vote** — CSU Academic Senate resolution (ahead of Nov 17–18 trustees meeting) asks leadership to aim AI at faculty admin work, not teaching; CFA strike-authorization vote (Oct 26–Nov 19) includes AI demands (no AI in faculty evaluation or monitoring) that CSU rejected; impasse after 16 months. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-14.html)
+- **Alpha School's own data: about half of its K-8 students miss its “2x” math growth target** — NYT review of Alpha internal data (Oct 23), amplified by Fortune Nov 14: ~half of K-8 at private campuses miss 2x math target, ~1 in 5 miss reading; only 42% hit 2x in both; 37% of below-median starters met math goal; tuition up to $75K; ~1,500 students across ~50 campuses. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-14.html)
+- **Anthropic extends free Claude for Teachers to July 2028 for US K-12 educators and districts** — Nov 13 update on Anthropic's Claude for Teachers page: free access for verified US K-12 educators and qualifying schools/districts extended through July 30, 2028 (earlier guides cited a June 30, 2027 sign-up/one-year window); no training on teacher conversations. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-14.html)
+- **District AI policies keep landing: South Pasadena bars student AI unless a teacher assigns it, while Martinsville waits** — South Pasadena USD (CA) unanimously adopts BP 0441 on generative AI (Nov 10): AI off student devices unless teacher-assigned, student disclosure, staff must cite AI in materials (MLA/APA), detectors can't be sole basis for discipline; Martinsville City (VA) tables optional AI policy until December. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-14.html)
 
 ## 2026-Nov-13
 - **England's university regulator: many unsupervised assessments can be passed with AI in minutes, so move to AI-free testing** — OfS/Advance HE report (Nov 11): 300+ staff/students, ~120 providers; unsupervised assessments passable with AI in minutes and undetectably; urges far greater AI-free supervised assessment, no mandate; may intervene. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-13.html)
