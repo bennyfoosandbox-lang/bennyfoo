@@ -2,10 +2,50 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-13
-run_count: 100
-digest_count: 100
+last_run: 2026-11-14
+run_count: 101
+digest_count: 101
 entries:
+  - fingerprint: claude-code-2-1-325-scheduled-tasks-ask-before-skills-with-allowed-tools-sandbox-skills-dirs-nov13
+    title: "Claude Code 2.1.325 makes scheduled tasks ask before running skills that grant themselves tools"
+    first_seen: 2026-11-14
+    digest: essential-skill-md-for-productivity-2026-Nov-14.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.325
+      - https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+  - fingerprint: codex-0-169-0-claude-code-skills-migration-openai-docs-skill-narrowed-nov13
+    title: "Codex 0.169 adds a migration for Claude Code skills and narrows its built-in docs skill"
+    first_seen: 2026-11-14
+    digest: essential-skill-md-for-productivity-2026-Nov-14.html
+    urls:
+      - https://github.com/openai/codex/releases/tag/rust-v0.169.0
+      - https://github.com/openai/codex/pull/60492
+      - https://github.com/openai/codex/releases
+  - fingerprint: copilot-cli-1-0-111-1-0-112-skills-search-visible-text-plugin-root-hooks-org-required-plugins-nov13
+    title: "Copilot CLI 1.0.111 and 1.0.112 make plugin status honest and skill search ignore hidden text"
+    first_seen: 2026-11-14
+    digest: essential-skill-md-for-productivity-2026-Nov-14.html
+    urls:
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.112
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.111
+      - https://github.com/github/copilot-cli/releases
+  - fingerprint: opencode-2-3-0-code-mode-skill-tool-structured-results-session-fork-hook-nov13
+    title: "OpenCode 2.3 returns skills as structured results in Code Mode and gives plugins a fork hook"
+    first_seen: 2026-11-14
+    digest: essential-skill-md-for-productivity-2026-Nov-14.html
+    urls:
+      - https://github.com/sst/opencode/releases/tag/v2.3.0
+      - https://github.com/sst/opencode/releases
+  - fingerprint: salesforce-agentforce-coworker-ai-skills-ga-185k-users-50-per-user-nov
+    title: "Salesforce makes Skills generally available in Agentforce Coworker as usage passes 185,000 people"
+    first_seen: 2026-11-14
+    digest: essential-skill-md-for-productivity-2026-Nov-14.html
+    urls:
+      - https://www.salesforce.com/blog/ai-skills-in-coworker/
+      - https://www.salesforce.com/news/stories/agentforce-coworker-surpasses-185k-users/
+      - https://www.salesforceben.com/salesforce-launches-ai-skills-in-agentforce-coworker/
+      - https://www.salesforce.com/ap/news/press-releases/2026/11/05/sg-salesforces-agentforce-coworker-usage-soars-21x-in-three-months-as-enterprises-delegate-real-work-to-ai/
+      - https://www.techwyse.com/news/platform-updates/salesforce-agentforce-coworker-ai-workflow-delegation
   - fingerprint: anthropic-claude-for-manufacturing-plugin-17-skills-4-connectors-nov12
     title: "Anthropic ships Claude for Manufacturing: 17 skills that turn factory records into quotes and quality reports"
     first_seen: 2026-11-13
@@ -3237,6 +3277,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-14
+- **Claude Code 2.1.325 makes scheduled tasks ask before running skills that grant themselves tools** — scheduled tasks and /loop now ask before running a skill that declares allowed-tools or hooks; sandbox blocks writes to .claude skills in added directories. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-14.html)
+- **Codex 0.169 adds a migration for Claude Code skills and narrows its built-in docs skill** — local-only Claude Code skill migration (PR #60492), openai-docs skill refocused on Codex/ChatGPT Work, 512-char plugin starter prompts. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-14.html)
+- **Copilot CLI 1.0.111 and 1.0.112 make plugin status honest and skill search ignore hidden text** — skill/plugin/MCP search matches only visible text, ${COPILOT_PLUGIN_ROOT} in plugin hooks, failed plugins no longer shown enabled, org-required plugins prepared once. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-14.html)
+- **OpenCode 2.3 returns skills as structured results in Code Mode and gives plugins a fork hook** — Code Mode's skill tool returns directory + content as structured results; experimental session.fork plugin hook; background subagents by default. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-14.html)
+- **Salesforce makes Skills generally available in Agentforce Coworker as usage passes 185,000 people** — reusable plain-language Skills GA in Agentforce Coworker; run with each user's own permissions; $50/user/month SKU; 185k users, usage up 21x. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-14.html)
+
+Note: Firecrawl skipped by instruction; ~100 candidate links from ~25 web searches plus primary release pages; 4 items in the 24h window plus 1 fallback (Salesforce Coworker Skills, ~10 days old). Leads held: Zhihe AI 70 open-source legal skills (7 Nov, single source, no repo yet), Mercanis procurement Skills (unconfirmed).
 
 ## 2026-Nov-13
 - **Anthropic ships Claude for Manufacturing: 17 skills that turn factory records into quotes and quality reports** — Team/Enterprise plugin (12 Nov): 17 skills across sales, quality, ops, supply chain, design, setup; connectors Autodesk Fusion, Infor, Microsoft 365, Oracle NetSuite; human review at the end of each skill; Infor partnership the same day. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-13.html)
