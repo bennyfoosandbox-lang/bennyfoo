@@ -2,10 +2,56 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-13
-run_count: 106
-digest_count: 106
+last_run: 2026-11-14
+run_count: 107
+digest_count: 107
 entries:
+  - fingerprint: microsoft-365-outage-nov12-13-copilot-exchange-teams-24h-nov2026
+    title: "Microsoft 365's near-24-hour outage takes Copilot down with Outlook and Teams"
+    first_seen: 2026-11-14
+    digest: using-ai-for-business-productivity-2026-Nov-14.html
+    urls:
+      - https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage
+      - https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/
+      - https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html
+      - https://www.euronews.com/2026/11/12/microsoft-outage-hits-outlook-teams-and-copilot-disrupting-thousands
+      - https://betanews.com/article/microsoft-365-outage-network-upgrade/
+      - https://www.businesstoday.in/technology/news/story/claude-ai-outage-anthropic-investigates-login-failures-as-ai-chatbot-and-coding-tools-face-outage-567403-2026-11-13
+  - fingerprint: capgemini-ai-cost-overrun-59pct-24pct-over-budget-multi-model-nov2026
+    title: "Capgemini: nearly 6 in 10 large firms overspent on AI, and two-thirds of them took a cash-flow hit"
+    first_seen: 2026-11-14
+    digest: using-ai-for-business-productivity-2026-Nov-14.html
+    urls:
+      - https://www.capgemini.com/news/press-releases/most-organizations-plan-to-adopt-a-multi-model-ai-strategy-as-nearly-six-in-ten-faced-significantly-higher-ai-costs-than-expected/
+      - https://www.cfodive.com/news/cfos-confront-cash-flow-risks-ai-costs-rise/874554/
+      - https://cfotech.co.uk/story/capgemini-warns-ai-spending-is-running-well-over-budget
+      - https://news.europawire.eu/capgemini-finds-enterprises-turning-to-multi-model-ai-strategies-as-costs-exceed-budgets/eu-press-release/2026/11/13/09/59/05/187722/
+      - https://econotimes.com/58-of-Executives-Asked-About-Model-Portfolios-Expect-More-Open-Weight-AI-Use-Capgemini-Finds-1776015
+  - fingerprint: google-gemini-4-hydrogen-ga-gemini-enterprise-antigravity-orchestrator-nov2026
+    title: "Google makes Gemini 4 Hydrogen generally available for faster, cheaper agentic work"
+    first_seen: 2026-11-14
+    digest: using-ai-for-business-productivity-2026-Nov-14.html
+    urls:
+      - https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/
+      - https://docs.cloud.google.com/gemini/enterprise/docs/release-notes
+      - https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot/
+      - https://www.infoworld.com/article/4248403/google-adds-multi-model-orchestrator-gemini-4-hydrogen-to-antigravity.html
+      - https://www.digitaltrends.com/cool-tech/googles-next-gen-gemini-4-hydrogen-ai-model-is-here-touting-faster-intelligence-for-all/
+  - fingerprint: workday-josh-bersin-galileo-agent-sana-workforce-strategy-nov2026
+    title: "Workday and Josh Bersin bring a 'Galileo' workforce-strategy agent to Workday customers"
+    first_seen: 2026-11-14
+    digest: using-ai-for-business-productivity-2026-Nov-14.html
+    urls:
+      - https://prnewswire.com/news-releases/workday-and-the-josh-bersin-company-bring-galileo-agent-to-workday-customers-in-sana-giving-hr-leaders-instant-access-to-trusted-expertise-302937905.html
+      - https://smallbiztrends.com/workday-unveils-ai-driven-galileo-agent-for-enhanced-hr-decision-making
+      - https://blockonomi.com/workday-inc-wday-stock-partners-with-josh-bersin-to-launch-ai-powered-hr-agent/
+  - fingerprint: gusto-2026-state-of-small-business-67pct-use-ai-1-in-4-ai-policy-nov2026
+    title: "Gusto's 2026 State of Small Business: two-thirds of owners now use AI, and AI policies are spreading"
+    first_seen: 2026-11-14
+    digest: using-ai-for-business-productivity-2026-Nov-14.html
+    urls:
+      - https://www.prnewswire.com/news-releases/small-business-owners-are-more-confident-in-their-own-companies-than-in-the-economy-and-two-thirds-use-ai-gusto-survey-finds-302936587.html
+      - https://lifestyle.middletownlifemagazine.com/story/827485/small-business-owners-are-more-confident-in-their-own-companies-than-in-the-economy-and-two-thirds-use-ai-gusto-survey-finds/
   - fingerprint: costco-cio-polit-ai-60pct-productivity-tech-projects-india-hub-nov2026
     title: "Costco's CIO says AI has lifted productivity up to 60% on some tech projects, and is widening its India build-out"
     first_seen: 2026-11-13
@@ -4337,6 +4383,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-14
+- **Microsoft 365's near-24-hour outage takes Copilot down with Outlook and Teams** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-14.html)
+- **Capgemini: nearly 6 in 10 large firms overspent on AI, and two-thirds of them took a cash-flow hit** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-14.html)
+- **Google makes Gemini 4 Hydrogen generally available for faster, cheaper agentic work** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-14.html)
+- **Workday and Josh Bersin bring a 'Galileo' workforce-strategy agent to Workday customers** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-14.html)
+- **Gusto's 2026 State of Small Business: two-thirds of owners now use AI, and AI policies are spreading** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-14.html)
 
 ## 2026-Nov-13
 - **Costco's CIO says AI has lifted productivity up to 60% on some tech projects, and is widening its India build-out** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-13.html)
