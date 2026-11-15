@@ -2,10 +2,52 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-14
-run_count: 101
-digest_count: 101
+last_run: 2026-11-15
+run_count: 102
+digest_count: 102
 entries:
+  - fingerprint: anthropics-skills-docx-pptx-xlsx-pdf-validation-update-pr2217-nov14
+    title: "Anthropic tightens its Word, PowerPoint, Excel and PDF skills so agents produce files Office won't reject"
+    first_seen: 2026-11-15
+    digest: essential-skill-md-for-productivity-2026-Nov-15.html
+    urls:
+      - https://github.com/anthropics/skills/pull/2217
+      - https://github.com/anthropics/skills/commit/1780c5e
+      - https://github.com/anthropics/skills/commits/main
+  - fingerprint: codex-0-168-0-repository-skills-filesystem-permissions-plugin-guidance-catalog-nov13
+    title: "Codex 0.168 makes repository skills obey the session's file permissions"
+    first_seen: 2026-11-15
+    digest: essential-skill-md-for-productivity-2026-Nov-15.html
+    urls:
+      - https://github.com/openai/codex/releases/tag/rust-v0.168.0
+      - https://github.com/openai/codex/pull/59280
+      - https://github.com/openai/codex/pull/58894
+  - fingerprint: openclaw-2026-11-5-beta-2-beta-3-skills-import-race-clawhub-timeout-retain-nov12-15
+    title: "OpenClaw 2026.11.5 betas fix a skills import race and keep ClawHub installs that time out"
+    first_seen: 2026-11-15
+    digest: essential-skill-md-for-productivity-2026-Nov-15.html
+    urls:
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.11.5-beta.3
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.11.5-beta.2
+      - https://github.com/openclaw/openclaw/releases
+  - fingerprint: google-gemini-for-healthcare-preview-skills-epic-oracle-connectors-nov10
+    title: "Google previews Gemini for healthcare, built on skills that follow a hospital's own procedures"
+    first_seen: 2026-11-15
+    digest: essential-skill-md-for-productivity-2026-Nov-15.html
+    urls:
+      - https://www.googlecloudpresscorner.com/Gemini-for-healthcare
+      - https://www.unite.ai/google-cloud-opens-gemini-for-healthcare-preview-in-the-u-s/
+      - https://tech-ish.com/2026/11/11/gemini-for-healthcare-ai-agent-us-hospitals/
+      - https://www.ithome.com.tw/news/180431
+  - fingerprint: gemini-cli-0-68-0-extensions-validate-manifest-mcp-checks-pr29980-nov10
+    title: "Gemini CLI 0.68 checks extensions before you install or publish them"
+    first_seen: 2026-11-15
+    digest: essential-skill-md-for-productivity-2026-Nov-15.html
+    urls:
+      - https://github.com/google-gemini/gemini-cli/releases/tag/v0.68.0
+      - https://github.com/google-gemini/gemini-cli/pull/29980
+      - https://github.com/google-gemini/gemini-cli/pull/30224
+      - https://geminicli.com/docs/cli/creating-skills/
   - fingerprint: claude-code-2-1-325-scheduled-tasks-ask-before-skills-with-allowed-tools-sandbox-skills-dirs-nov13
     title: "Claude Code 2.1.325 makes scheduled tasks ask before running skills that grant themselves tools"
     first_seen: 2026-11-14
@@ -3277,6 +3319,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-15
+- **Anthropic tightens its Word, PowerPoint, Excel and PDF skills so agents produce files Office won't reject** — PR #2217 (14 Nov): stricter docx/pptx/xlsx validation and tracked-changes checks, chart/animation repair detection, slide_text.py + apply_theme.js, recalc.py writes only computed values, pdf reference renames; 36 files +3,273/-622. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-15.html)
+- **Codex 0.168 makes repository skills obey the session's file permissions** — 13 Nov: skill discovery/loading respects turn filesystem permissions (#59278-#59291), skill read/install outcome metrics (#59295), model catalog overrides for plugin guidance (#58894), message board MCP packaged as plugin (#58908). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-15.html)
+- **OpenClaw 2026.11.5 betas fix a skills import race and keep ClawHub installs that time out** — beta.2 (12 Nov) fixes first-turn workspace-memory/skills import race with TS-source plugins; beta.3 (15 Nov) retains accepted ClawHub attempts after timeouts, preserves external-plugin data in update rehearsals. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-15.html)
+- **Google previews Gemini for healthcare, built on skills that follow a hospital's own procedures** — US preview 10 Nov for Gemini Enterprise Standard/Plus; expert-written skills (records synthesis, pre-appointment prep, coverage review, benefit determination), custom skills, Epic/Oracle Health connectors, InterSystems FHIR MCP. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-15.html)
+- **Gemini CLI 0.68 checks extensions before you install or publish them** — 10 Nov: gemini extensions validate checks manifest context paths, semver, MCP config (#29980); per-extension install lock (#30039); download stream failure handling (#30100). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-15.html)
+
+Note: Firecrawl skipped by instruction; ~100 candidate links from ~25 web searches plus primary release/commit pages; 2 items in the 24h window, Codex 0.168 at ~48h, 2 fallback items (~5 days). Leads held: Zenity Nov 11 talk (100 malicious skills via detonation; secondary write-up only), Google Cloud SC26 Cluster Toolkit skills (single aggregator source), NiCE Cognigy reusable skills (no dated primary).
 
 ## 2026-Nov-14
 - **Claude Code 2.1.325 makes scheduled tasks ask before running skills that grant themselves tools** — scheduled tasks and /loop now ask before running a skill that declares allowed-tools or hooks; sandbox blocks writes to .claude skills in added directories. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-14.html)
