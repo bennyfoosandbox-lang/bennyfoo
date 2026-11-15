@@ -2,10 +2,50 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-14
-run_count: 96
-digest_count: 93
+last_run: 2026-11-15
+run_count: 97
+digest_count: 94
 entries:
+  - fingerprint: nc-child-fatality-task-force-chatbot-limits-gemini-chromebook-nov2026
+    title: "North Carolina's child-death task force backs chatbot limits after hearing about a student and a school Chromebook"
+    first_seen: 2026-11-15
+    digest: ai-impact-on-education-2026-Nov-15.html
+    urls:
+      - https://www.yahoo.com/news/politics/articles/lawmakers-urged-hold-ai-chatbot-210846981.html
+      - https://www.reflector.com/news/local/nc-lawmakers-urged-to-hold-ai-chatbot-companies-accountable-for-risks-to-children/article_bb745747-37ff-5d20-9da4-1271924ba178.html
+      - https://www.govtech.com/education/k-12/nc-task-force-warns-about-targeted-social-media-ai-companions-for-minors
+      - https://www3.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S963v1.pdf
+  - fingerprint: seoul-chaeum-ai-thinking-writing-camp-essay-grading-csat-nov2026
+    title: "Seoul has an AI grade essays from 300 pupils as Korea weighs essay questions on its college entrance exam"
+    first_seen: 2026-11-15
+    digest: ai-impact-on-education-2026-Nov-15.html
+    urls:
+      - https://news.sbs.co.kr/english/article.do?news_id=N1008845914
+      - https://www.asiae.co.kr/en/article/2026020920284269712
+      - https://www.khan.co.kr/en/article/202608071729047
+      - https://www.koreatimes.co.kr/southkorea/education/20261014/7-in-10-teachers-oppose-csat-essay-questions-over-grading-disputes-ai-concerns
+  - fingerprint: oup-mcp-pilot-chatgpt-edu-oxford-harvard-wharton-nov2026
+    title: "Oxford University Press connects its books and journals to ChatGPT Edu in a pilot at Oxford, Harvard and Wharton"
+    first_seen: 2026-11-15
+    digest: ai-impact-on-education-2026-Nov-15.html
+    urls:
+      - https://www.cherwell.org/2026/11/15/oxord-university-press-pilot-scheme-with-chatgpt-edu/
+      - https://www.infodocket.com/2026/11/03/company-news-oxford-university-press-launches-mcp-pilot-partners-include-harvard-library-wharton-school-and-university-of-oxford/
+      - https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/101680-oxford-university-press-tests-connecting-its-content-to-chatgpt-edu.html
+      - https://www.stm-publishing.com/oup-launches-new-pilot-to-connect-trusted-scholarship-with-ai-powered-research/
+  - fingerprint: australia-10000-student-survey-ai-use-limited-accuracy-matthews-fawns-nov2026
+    title: "Survey of 10,000+ Australian students: nearly all use AI, but many hold back because they don't trust its accuracy"
+    first_seen: 2026-11-15
+    digest: ai-impact-on-education-2026-Nov-15.html
+    urls:
+      - https://www.uow.edu.au/media/2026/most-uni-students-now-use-ai-but-that-doesnt-mean-they-likeit.php
+      - https://futurecampus.com.au/?p=14159
+  - fingerprint: unesco-ai-answers-you-decide-mil-guide-educators-nov2026
+    title: "UNESCO publishes a guide for teaching students to question AI answers"
+    first_seen: 2026-11-15
+    digest: ai-impact-on-education-2026-Nov-15.html
+    urls:
+      - https://www.devdiscourse.com/article/education/4005062-ai-answers-people-decide-unesco-releases-new-guide-for-educators-and-learners
   - fingerprint: cft-newsom-three-year-k8-student-genai-pause-letter-nov2026
     title: "California's biggest faculty-and-teacher union asks Newsom to pause student-facing AI in K-8 for three years"
     first_seen: 2026-11-14
@@ -3434,6 +3474,13 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-15
+- **North Carolina's child-death task force backs chatbot limits after hearing about a student and a school Chromebook** — NC task force endorses AI chatbot limits incl. duty of care/financial penalties after testimony on 13-y-o's Gemini use on school Chromebook; Burgin to reintroduce SB 963. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-15.html)
+- **Seoul has an AI grade essays from 300 pupils as Korea weighs essay questions on its college entrance exam** — SMOE Nov 14 Thinking Writing Camp: 300 grade-6/9 pupils, Chaeum AI (Naver) scores essays + feedback; pilot 66→120 schools, all Seoul schools 2027; tied to NEC CSAT essay review. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-15.html)
+- **Oxford University Press connects its books and journals to ChatGPT Edu in a pilot at Oxford, Harvard and Wharton** — OUP MCP pilot (Oct–Dec, Silverchair) puts licensed OUP books/journals inside ChatGPT Edu at Oxford (30 students, diaries), Harvard Library, Wharton (all users). [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-15.html)
+- **Survey of 10,000+ Australian students: nearly all use AI, but many hold back because they don't trust its accuracy** — Matthews (UOW)/Fawns (Monash) 2026 survey, 10,000+ students at Monash/UQ/Deakin/UTS: ~70% use AI to edit writing; 67% of limiters cite accuracy; 15–17% avoid; fear of being caught 56% (−7 vs 2024). [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-15.html)
+- **UNESCO publishes a guide for teaching students to question AI answers** — UNESCO guide 'AI Answers. You Decide.' (Leppäjärvi), MIL in AI-mediated information environments; announced Nov 10 after Global MIL Week. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-15.html)
 
 ## 2026-Nov-14
 - **California's biggest faculty-and-teacher union asks Newsom to pause student-facing AI in K-8 for three years** — CFT (≈120,000 educators) letter of Nov 10 from president Jeff Freitas asks Newsom for an executive order before he leaves office in January: a three-year moratorium on student-facing generative-AI tools in K-8; endorses AFT's no-student-AI-in-elementary recommendation; no response from Newsom yet. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-14.html)
