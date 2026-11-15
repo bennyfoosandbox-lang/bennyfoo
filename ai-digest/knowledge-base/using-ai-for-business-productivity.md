@@ -2,10 +2,60 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-14
-run_count: 107
-digest_count: 107
+last_run: 2026-11-15
+run_count: 108
+digest_count: 108
 entries:
+  - fingerprint: openai-chatgpt-wallet-dots-agent-purchases-united-bans-ai-agents-nov2026
+    title: "OpenAI gives its agents a wallet, just as United Airlines bans agents from buying tickets"
+    first_seen: 2026-11-15
+    digest: using-ai-for-business-productivity-2026-Nov-15.html
+    urls:
+      - https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html
+      - https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
+      - https://thenextweb.com/news/chatgpt-wallet-openai-dots-agents-payments
+      - https://qz.com/openai-chatgpt-wallet-ai-agents-shop-users-111326
+      - https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto
+      - https://skift.com/2026/11/11/united-airlines-moves-to-block-personal-ai-agents-from-booking-flights/
+      - https://airlinegeeks.com/2026/11/11/united-bans-ai-agents-from-booking-flights-for-customers/
+      - https://ppc.land/united-bans-ai-agents-from-buying-its-tickets-seats-and-upgrades/
+  - fingerprint: genpact-79pct-agents-production-15pct-pnl-vida-digital-workforce-survey-nov2026
+    title: "Surveys: most big firms run AI agents in production, but few can tie them to P&L or assign a manager"
+    first_seen: 2026-11-15
+    digest: using-ai-for-business-productivity-2026-Nov-15.html
+    urls:
+      - https://stockhouse.com/news/press-releases/2026/11/12/79-of-enterprises-report-ai-agents-in-production-but-only-15-have-fully-tied-ai
+      - https://www.stocktitan.net/news/G/79-of-enterprises-report-ai-agents-in-production-but-only-15-have-gph77r9m4bky.html
+      - https://stockhouse.com/news/press-releases/2026/11/12/new-vida-survey-finds-businesses-racing-to-build-an-ai-agent-workforce-but
+      - https://www.financialcontent.com/article/bizwire-2026-11-12-new-vida-survey-finds-businesses-racing-to-build-an-ai-agent-workforce-but-traditional-management-practices-still-catching-up
+  - fingerprint: att-agentic-process-redesign-45b-tokens-day-open-model-routing-nov2026
+    title: "AT&T moves from AI copilots to rebuilding whole business processes around agents"
+    first_seen: 2026-11-15
+    digest: using-ai-for-business-productivity-2026-Nov-15.html
+    urls:
+      - https://siliconangle.com/2026/11/14/att-uses-agentic-ai-to-reinvent-business-processes-from-the-ground-up/
+      - https://briefglance.com/articles/atts-ai-overhaul-orchestrating-intelligence-at-45-billion-tokens-a-day
+      - https://www.pymnts.com/artificial-intelligence-2/2026/att-turns-to-autonomous-ai-agents-to-slash-fraud-and-customer-wait-times/
+      - https://www.fierce-network.com/cloud/open-models-are-driving-atts-ai-tokenomics-strategy
+      - https://www.cio.com/article/4122884/att-is-all-in-on-agentic-ai.html
+  - fingerprint: anthropic-ipo-oversubscribed-70-78-range-26b-placement-pricing-nov18-nov2026
+    title: "Anthropic's IPO is reportedly several times oversubscribed ahead of pricing on 18 November"
+    first_seen: 2026-11-15
+    digest: using-ai-for-business-productivity-2026-Nov-15.html
+    urls:
+      - https://stockanalysis.com/news/anthropic-ipo-multiple-times-oversubscribed/
+      - https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1.2-trillion-market-cap
+      - https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx
+      - https://letsdatascience.com/news/anthropic-sets-ipo-range-and-adds-26-billion-private-placeme-f6c67619
+      - https://fastcompany.com/91639303/anthropic-stock-listing-target-price-valuation-as-ipo-date-nears
+      - https://sfstandard.com/2026/11/10/anthropic-ipo-bay-area-ai/
+  - fingerprint: security-bank-philippines-3100-employee-built-ai-agents-copilot-premium-nov2026
+    title: "Security Bank staff have built 3,100 AI agents of their own, and the bank is training more"
+    first_seen: 2026-11-15
+    digest: using-ai-for-business-productivity-2026-Nov-15.html
+    urls:
+      - https://philstar.com/business/2026/11/15/2570124/security-bank-trains-more-staff-develops-ai-agents
+      - https://www.securitybank.com/news/security-bank-one-of-the-first-ph-companies-to-adopt-microsofts-365-copilot-generative-ai
   - fingerprint: microsoft-365-outage-nov12-13-copilot-exchange-teams-24h-nov2026
     title: "Microsoft 365's near-24-hour outage takes Copilot down with Outlook and Teams"
     first_seen: 2026-11-14
@@ -4383,6 +4433,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-15
+- **OpenAI gives its agents a wallet, just as United Airlines bans agents from buying tickets** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-15.html)
+- **Surveys: most big firms run AI agents in production, but few can tie them to P&L or assign a manager** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-15.html)
+- **AT&T moves from AI copilots to rebuilding whole business processes around agents** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-15.html)
+- **Anthropic's IPO is reportedly several times oversubscribed ahead of pricing on 18 November** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-15.html)
+- **Security Bank staff have built 3,100 AI agents of their own, and the bank is training more** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-15.html)
 
 ## 2026-Nov-14
 - **Microsoft 365's near-24-hour outage takes Copilot down with Outlook and Teams** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-14.html)
