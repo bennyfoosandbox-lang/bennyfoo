@@ -2,10 +2,50 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-15
-run_count: 102
-digest_count: 102
+last_run: 2026-11-16
+run_count: 103
+digest_count: 103
 entries:
+  - fingerprint: google-cloud-sc26-agentic-hpc-skills-cluster-toolkit-antigravity-plugin-19-skills-nov12-14
+    title: "Google Cloud brings agent skills to supercomputing at SC26"
+    first_seen: 2026-11-16
+    digest: essential-skill-md-for-productivity-2026-Nov-16.html
+    urls:
+      - https://cloud.google.com/blog/topics/hpc/whats-new-in-hpc-and-ai-at-sc26
+      - https://github.com/GoogleCloudPlatform/scientific-computing-examples/pull/188
+      - https://github.com/google-deepmind/science-skills
+      - https://docs.cloud.google.com/cluster-toolkit/docs/overview
+  - fingerprint: google-skills-cloud-operator-setup-share-context-compute-vm-creation-networking-observability-streamline-nov13-15
+    title: "Google's skills library adds Cloud operator setup and teaches its networking skill to load less"
+    first_seen: 2026-11-16
+    digest: essential-skill-md-for-productivity-2026-Nov-16.html
+    urls:
+      - https://github.com/google/skills/commit/df4595b
+      - https://github.com/google/skills/commit/61d3e26
+      - https://github.com/google/skills/commit/67c4dbc
+      - https://github.com/google/skills/commits/main
+  - fingerprint: claude-plugins-official-auto-close-all-non-member-prs-pr7100-nov13
+    title: "Anthropic's official plugin directory now closes every pull request from outsiders"
+    first_seen: 2026-11-16
+    digest: essential-skill-md-for-productivity-2026-Nov-16.html
+    urls:
+      - https://github.com/anthropics/claude-plugins-official/pull/7100
+      - https://github.com/anthropics/claude-plugins-official/commits/main
+  - fingerprint: microsoft-agent-framework-python-1-26-0-reject-case-colliding-file-skill-names-pr10158-nov13
+    title: "Microsoft Agent Framework rejects skills whose file names differ only by case"
+    first_seen: 2026-11-16
+    digest: essential-skill-md-for-productivity-2026-Nov-16.html
+    urls:
+      - https://github.com/microsoft/agent-framework/releases/tag/python-1.26.0
+      - https://github.com/microsoft/agent-framework/pull/10158
+  - fingerprint: microsoft-postgres-skills-0-3-0-awesome-copilot-pg-graph-migrate-oracle-nov15
+    title: "Microsoft's PostgreSQL skills reach 0.3.0 with graph and Oracle-migration skills"
+    first_seen: 2026-11-16
+    digest: essential-skill-md-for-productivity-2026-Nov-16.html
+    urls:
+      - https://github.com/github/awesome-copilot/pull/6415
+      - https://github.com/microsoft/postgres-skills
+      - https://github.com/github/awesome-copilot/pull/6440
   - fingerprint: anthropics-skills-docx-pptx-xlsx-pdf-validation-update-pr2217-nov14
     title: "Anthropic tightens its Word, PowerPoint, Excel and PDF skills so agents produce files Office won't reject"
     first_seen: 2026-11-15
@@ -3319,6 +3359,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-16
+- **Google Cloud brings agent skills to supercomputing at SC26** — Google Cloud HPC blog (14 Nov, Gawlik/Ma-Weaver): Cluster Toolkit infra skill (quota audit, canary capacity, blueprint match, human approval, gcluster deploy), workload skills (OpenFOAM/STAR-CCM+, GROMACS/AlphaFold 3, Devito/OPM), gke-kueue-debugging; PR #188 merged 12 Nov grows hpc-agent-antigravity-plugin 7->19 skills, v1.4.0, 20 test suites. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-16.html)
+- **Google's skills library adds Cloud operator setup and teaches its networking skill to load less** — google/skills: cloud-operator-setup + cloud-operator-share-context (14 Nov, df4595b, +296/-16; cloud-operator 1.1.0 hands off), compute-vm-creation (13 Nov, 67c4dbc, +806), google-cloud-networking-observability 1.0.7 single-guide routing (15 Nov, 61d3e26, +603/-614), Google Ads skills updates 15-16 Nov. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-16.html)
+- **Anthropic's official plugin directory now closes every pull request from outsiders** — PR #7100 merged 13 Nov: auto-close workflow closes all PRs from users without write access (drops marketplace.json-source exception and scope-guard check), reopen only by maintainers, closes before commenting; bot bump PRs unaffected; same-day bumps for CrowdStrike Falcon, Qodo, BlackRock Advisor Center. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-16.html)
+- **Microsoft Agent Framework rejects skills whose file names differ only by case** — python-1.26.0 (13 Nov): #10158 (merged 10 Nov) rejects file skills whose resource/script names collide case-insensitively in Python and .NET, skips with warning, rejects SKILL.md/skill.md archive collisions; #10156 requires Copilot CLI >=1.0.85; #10273 deprecates MemoryContextProvider after 2026-12-31. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-16.html)
+- **Microsoft's PostgreSQL skills reach 0.3.0 with graph and Oracle-migration skills** — awesome-copilot PR #6415 merged 15 Nov: postgres-skills listing 0.1.2->0.3.0 pinned to b7908c0; skills postgresql-best-practices (23 guides), pg-graph (Apache AGE), migrate-oracle-app; Claude Code/Copilot CLI/Codex CLI; MIT; also azure-advisor external plugin (#6440). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-16.html)
+
+Note: Firecrawl skipped by instruction; ~100 candidate links from ~20 web searches plus primary GitHub release/commit pages; item 2 has last-24h commits, items 1 and 5 ~24-48h, items 3-4 from the 72h fallback. Leads held: Google Open Source Blog AAIF post (11 Nov, host not reachable), GitHub Universe portable-skills talk (secondary only), Qwen Code nightly #17111 skill mutations via REST (minor).
 
 ## 2026-Nov-15
 - **Anthropic tightens its Word, PowerPoint, Excel and PDF skills so agents produce files Office won't reject** — PR #2217 (14 Nov): stricter docx/pptx/xlsx validation and tracked-changes checks, chart/animation repair detection, slide_text.py + apply_theme.js, recalc.py writes only computed values, pdf reference renames; 36 files +3,273/-622. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-15.html)
