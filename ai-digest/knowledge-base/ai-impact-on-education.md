@@ -2,10 +2,55 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-15
-run_count: 97
-digest_count: 94
+last_run: 2026-11-16
+run_count: 98
+digest_count: 95
 entries:
+  - fingerprint: reuters-china-ai-native-generation-literacy-2030-yunnan-cameras-nov2026
+    title: "Reuters looks inside China’s push to make every pupil AI-literate by 2030, and finds no way yet to measure it"
+    first_seen: 2026-11-16
+    digest: ai-impact-on-education-2026-Nov-16.html
+    urls:
+      - https://www.usnews.com/news/top-news/articles/2026-11-15/inside-chinas-drive-to-build-an-ai-native-generation
+      - https://lufkindailynews.com/news_reuters/top_news/inside-chinas-drive-to-build-an-ai-native-generation/article_64ee4329-5551-589c-b7b7-ccf5f09ddc0b.html
+      - https://thenextweb.com/news/china-ai-education-schools-2030-reuters
+      - https://globalbankingandfinance.com/inside-chinas-drive-build-ai-native-generation
+  - fingerprint: korea-csat-eve-ai-glasses-officials-1312-centres-no-postponement-nov2026
+    title: "Update: three days before the Suneung, Korea puts a smart-glasses spotter in all 1,312 exam centres and refuses to delay the test"
+    first_seen: 2026-11-16
+    digest: ai-impact-on-education-2026-Nov-16.html
+    urls:
+      - https://www.koreaherald.com/article/10938746
+      - https://abcnews.com/Technology/wireStory/ai-cheating-fears-spook-south-korea-ahead-high-138171058
+      - https://thepeninsulaqatar.com/article/16/11/2026/republic-of-korea-races-to-curb-ai-cheating-ahead-of-college-entrance-exam
+      - https://www.koreajoongangdaily.com/korea/should-i-replace-my-glasses-fears-of-ai-cheating-accusations-grip-college-admissions-testtakers/12963591
+  - fingerprint: western-ivey-ask-gmm-ai-tutor-72-fee-replaces-textbook-review-nov2026
+    title: "Western’s Ivey Business School reviews a paid AI tutor that replaced a course textbook"
+    first_seen: 2026-11-16
+    digest: ai-impact-on-education-2026-Nov-16.html
+    urls:
+      - https://www.ctvnews.ca/london/article/western-university-business-school-reviewing-use-of-ai-tutor-by-professors/
+      - https://www.thecanadianpressnews.ca/ontario/western-university-business-school-reviewing-use-of-ai-tutor-by-professors/article_1c1897d9-bf01-5812-98d7-cbd1e2f03f1e.html
+      - https://www.cp24.com/news/canada/2026/11/12/western-university-business-school-reviewing-use-of-ai-tutor-by-professors/
+      - https://ca.news.yahoo.com/western-university-business-school-reviewing-164416305.html
+  - fingerprint: duckduckgo-courts-schools-google-ai-search-ultimatum-january-deadline-district-split-nov2026
+    title: "DuckDuckGo pitches AI-free search to schools as Google’s January opt-in deadline splits districts"
+    first_seen: 2026-11-16
+    digest: ai-impact-on-education-2026-Nov-16.html
+    urls:
+      - https://www.ibtimes.co.uk/duckduckgo-urges-schools-leave-google-ai-policy-1830392
+      - https://www.androidheadlines.com/2026/11/duckduckgo-slams-google-school-ai-ultimatum.html
+      - https://www.macobserver.com/news/duckduckgo-calls-out-google-for-forcing-ai-searches-on-schools/
+      - https://www.nbcpalmsprings.com/ca-us-and-world/2026/11/10/google-gives-school-districts-january-deadline-to-accept-ai-features-or-lose-search-access
+      - https://www.the74million.org/article/googles-new-ai-ultimatum-sparks-concern-over-tech-giants-power-in-ca-schools/
+  - fingerprint: nigeria-teachers-rely-on-ai-textbook-shortage-new-curriculum-nan-nov2026
+    title: "Nigeria’s textbook shortage under the new curriculum is pushing teachers onto AI"
+    first_seen: 2026-11-16
+    digest: ai-impact-on-education-2026-Nov-16.html
+    urls:
+      - https://gazettengr.com/nigerian-teachers-relying-more-on-ai-amid-shortage-of-textbooks-say-stakeholders/
+      - https://www.unesco.org/sdg4education2030/en/knowledge-hub/naija-teacher-ai-ai-powered-system-transforming-teacher-capacity-scale
+      - https://edutimesafrica.com/ai-cannot-replace-teachers-apen-tells-nigerian-schools/
   - fingerprint: nc-child-fatality-task-force-chatbot-limits-gemini-chromebook-nov2026
     title: "North Carolina's child-death task force backs chatbot limits after hearing about a student and a school Chromebook"
     first_seen: 2026-11-15
@@ -3474,6 +3519,14 @@ entries:
 # Knowledge Base — AI Impact on Education
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+
+## 2026-Nov-16
+- **Reuters looks inside China’s push to make every pupil AI-literate by 2030, and finds no way yet to measure it** — Reuters investigation: provinces move at different speeds; Shanghai mandates 30 hours a year, Yunnan plans AI-analysed recordings in 14,000 classrooms, ~$31M in procurement, no national literacy measure. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-16.html)
+- **Update: three days before the Suneung, Korea puts a smart-glasses spotter in all 1,312 exam centres and refuses to delay the test** — Exam-eve measures for the 19 Nov CSAT: trained official at each of 1,312 centres, smart glasses read out as banned items, wearing them treated as cheating; minister rejects postponement after a tax-exam AI-cheating confession. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-16.html)
+- **Western’s Ivey Business School reviews a paid AI tutor that replaced a course textbook** — Ask GMM chatbot replaced the Global Macroeconomics for Managers textbook; students charged $72 on top of a $750 materials fee and required to make external accounts; Ivey reviewing. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-16.html)
+- **DuckDuckGo pitches AI-free search to schools as Google’s January opt-in deadline splits districts** — DuckDuckGo CEO publishes switch instructions for schools; reports put Google’s opt-in deadline in January; San Diego Unified keeps AI blocked while Oceanside opts in. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-16.html)
+- **Nigeria’s textbook shortage under the new curriculum is pushing teachers onto AI** — NAN report (12 Nov): textbook gaps under Nigeria’s new national curriculum push teachers to AI for materials, research and lesson prep; stakeholders warn against replacing professional judgment. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-16.html)
 
 ## 2026-Nov-15
 - **North Carolina's child-death task force backs chatbot limits after hearing about a student and a school Chromebook** — NC task force endorses AI chatbot limits incl. duty of care/financial penalties after testimony on 13-y-o's Gemini use on school Chromebook; Burgin to reintroduce SB 963. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-15.html)
