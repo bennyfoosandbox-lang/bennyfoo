@@ -2,10 +2,57 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-15
-run_count: 108
-digest_count: 108
+last_run: 2026-11-16
+run_count: 109
+digest_count: 109
 entries:
+  - fingerprint: anthropic-claude-for-manufacturing-plugin-17-skills-nov2026
+    title: "Anthropic packages Claude for the factory floor with 17 manufacturing skills"
+    first_seen: 2026-11-16
+    digest: using-ai-for-business-productivity-2026-Nov-16.html
+    urls:
+      - https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/
+      - https://dataconomy.com/2026/11/13/anthropic-launches-claude-manufacturing-plugin-with-17-ai/
+      - https://manufacturingdigital.com/news/what-can-anthropics-claude-for-manufacturing-do
+      - https://tech.yahoo.com/ai/claude/articles/anthropic-launches-claude-manufacturing-170944639.html
+      - https://claude.com/solutions/manufacturing
+  - fingerprint: mckinsey-global-banking-review-2026-agentic-ai-10-month-payback-nov2026
+    title: "McKinsey: agentic AI in banking pays back in about ten months"
+    first_seen: 2026-11-16
+    digest: using-ai-for-business-productivity-2026-Nov-16.html
+    urls:
+      - https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/global%20banking%20annual%20review%202026%20part%202/global-banking-annual-review-2026-the-ai-disruption-dividend.pdf
+      - https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review
+      - https://www.secureworld.io/industry-news/agentic-ai-financial-crime-reality-check
+  - fingerprint: vodafone-germany-2300-job-cuts-ai-restructuring-nov2026
+    title: "Vodafone Germany will cut about 2,300 jobs, partly because AI means it needs fewer staff"
+    first_seen: 2026-11-16
+    digest: using-ai-for-business-productivity-2026-Nov-16.html
+    urls:
+      - https://lightreading.com/finance/vodafone-has-much-more-to-do-in-germany-cuts-2300-jobs
+      - https://ppc.land/vodafone-germany-cuts-2-300-jobs-over-two-years-as-ai-use-expands/
+      - https://www.boersen-zeitung.de/unternehmen-branchen/vodafone-baut-in-deutschland-rund-2300-stellen-ab-2
+      - https://placera.se/telegram/vodafone-group-vodafone-skar-ned-2-300-tjanster-i-tyskland-nastan-var-femte-anstalld-berors-20261109
+      - https://www.irishnews.com/news/uk/vodafone-axed-another-3000-jobs-in-first-half-amid-cost-cutting-overhaul-L6734JUQV5MUFIQRBV7WFBO4GM/
+  - fingerprint: jobassist-survey-52pct-use-ai-even-when-slower-nov2026
+    title: "JobAssist survey: half of workers use AI even when they think it slows them down"
+    first_seen: 2026-11-16
+    digest: using-ai-for-business-productivity-2026-Nov-16.html
+    urls:
+      - https://www.techradar.com/pro/workers-feel-pressure-to-use-ai-and-show-off-to-bosses-even-when-it-slows-them-down
+      - https://tech-insider.org/workers-pressure-use-ai-show-off-bosses-jobassist-52-percent-2026/
+  - fingerprint: microsoft-outage-aftermath-ai-staffing-debate-60000-voluntary-exit-nov2026
+    title: "Update: after the outage, Microsoft's AI-era staffing comes under scrutiny as its 60,000-person exit offer runs"
+    first_seen: 2026-11-16
+    digest: using-ai-for-business-productivity-2026-Nov-16.html
+    urls:
+      - https://www.bloomberg.com/opinion/articles/2026-11-13/microsoft-outlook-outage-is-a-bad-look-for-a-ai-layoffs
+      - https://bworldonline.com/bloomberg/2026/11/15/793998/microsoft-discovers-ai-cant-keep-e-mail-going-workers-rejoice/
+      - https://www.bloomberg.com/news/articles/2026-11-13/microsoft-outage-gums-up-markets-forces-traders-to-use-phones
+      - https://www.insurancejournal.com/news/national/2026/11/15/892683.htm
+      - https://cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk
+      - https://www.uctoday.com/unified-communications/microsoft-opens-voluntary-exits-to-copilot-and-ai-teams/
+      - https://runtimewire.com/article/microsoft-voluntary-exit-offer-copilot-ai-teams
   - fingerprint: openai-chatgpt-wallet-dots-agent-purchases-united-bans-ai-agents-nov2026
     title: "OpenAI gives its agents a wallet, just as United Airlines bans agents from buying tickets"
     first_seen: 2026-11-15
@@ -4433,6 +4480,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-16
+- **Anthropic packages Claude for the factory floor with 17 manufacturing skills** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-16.html)
+- **McKinsey: agentic AI in banking pays back in about ten months** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-16.html)
+- **Vodafone Germany will cut about 2,300 jobs, partly because AI means it needs fewer staff** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-16.html)
+- **JobAssist survey: half of workers use AI even when they think it slows them down** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-16.html)
+- **Update: after the outage, Microsoft's AI-era staffing comes under scrutiny as its 60,000-person exit offer runs** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-16.html)
 
 ## 2026-Nov-15
 - **OpenAI gives its agents a wallet, just as United Airlines bans agents from buying tickets** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-15.html)
