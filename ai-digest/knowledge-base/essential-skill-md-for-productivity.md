@@ -2,10 +2,48 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-16
-run_count: 103
-digest_count: 103
+last_run: 2026-11-17
+run_count: 104
+digest_count: 104
 entries:
+  - fingerprint: claude-code-2-1-326-skills-code-mode-inline-bang-plugin-json-malformed-fields-load-nov16
+    title: "Claude Code 2.1.326 lets skills with shell preambles load in Code Mode, and stops refusing plugins over a bad display field"
+    first_seen: 2026-11-17
+    digest: essential-skill-md-for-productivity-2026-Nov-17.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.326
+      - https://code.claude.com/docs/en/changelog
+  - fingerprint: google-skills-cloud-release-radar-368-products-gke-capacity-triage-gce-troubleshooting-nov16
+    title: "Google's skills library adds a Release Radar for Cloud release notes and a batch of GKE and Compute Engine troubleshooters"
+    first_seen: 2026-11-17
+    digest: essential-skill-md-for-productivity-2026-Nov-17.html
+    urls:
+      - https://github.com/google/skills/commit/a58ace0
+      - https://github.com/google/skills/commit/a0344a9
+      - https://github.com/google/skills/commits/main
+  - fingerprint: vercel-skills-cli-1-9-0-commit-pinned-lock-atomic-lockfile-rename-flag-nov16
+    title: "The skills CLI 1.9 pins every lock entry to its installed commit and adds --rename"
+    first_seen: 2026-11-17
+    digest: essential-skill-md-for-productivity-2026-Nov-17.html
+    urls:
+      - https://github.com/vercel-labs/skills/releases/tag/v1.9.0
+      - https://github.com/vercel-labs/skills/pull/2735
+      - https://github.com/vercel-labs/skills/pull/2750
+  - fingerprint: anthropic-office-skills-pr2221-zipfile-unpack-zip-y-soffice-strips-external-links-nov16
+    title: "Anthropic follows up its Office skills update: safer unpacking, and conversions that drop links to outside files"
+    first_seen: 2026-11-17
+    digest: essential-skill-md-for-productivity-2026-Nov-17.html
+    urls:
+      - https://github.com/anthropics/skills/pull/2221
+      - https://github.com/anthropics/skills/commits/main
+  - fingerprint: addyosmani-agent-skills-0-6-16-code-review-verifies-findings-frontend-no-installs-spec-deltas-nov14
+    title: "Addy Osmani's agent-skills 0.6.16 makes code review check its findings and stops the frontend skill installing tools"
+    first_seen: 2026-11-17
+    digest: essential-skill-md-for-productivity-2026-Nov-17.html
+    urls:
+      - https://github.com/addyosmani/agent-skills/releases
+      - https://github.com/addyosmani/agent-skills/pull/736
+      - https://github.com/addyosmani/agent-skills/pull/732
   - fingerprint: google-cloud-sc26-agentic-hpc-skills-cluster-toolkit-antigravity-plugin-19-skills-nov12-14
     title: "Google Cloud brings agent skills to supercomputing at SC26"
     first_seen: 2026-11-16
@@ -3359,6 +3397,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-17
+- **Claude Code 2.1.326 lets skills with shell preambles load in Code Mode, and stops refusing plugins over a bad display field** — 16 Nov: skills/slash commands with inline ! commands load in Code Mode under auto mode; Code Mode bg subagents preload them; plugins with malformed plugin.json display fields now load (admins told to check); first mid-session skill found immediately; /skills Ctrl+C saves; duplicate-name rows fixed; /claude-api defaults to Managed Agents. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-17.html)
+- **Google's skills library adds a Release Radar for Cloud release notes and a batch of GKE and Compute Engine troubleshooters** — 16 Nov: google-cloud-release-radar (278-line SKILL.md, release_radar.py, catalog of 368 products + 4 bundles, watchlist, --since-last-check, --type filters, BigQuery dry-run, Chat webhook on confirm); gke-capacity-triage (+884), gke-unprotected-statefulset, gke-statefulset-without-probes, compute-host-events-troubleshooting, compute-mig-autoscaling-troubleshooting; Ads/IAM/monitoring/Agent Platform refreshes. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-17.html)
+- **The skills CLI 1.9 pins every lock entry to its installed commit and adds --rename** — 16 Nov: lock entries pinned to installed commit (#2735), serialized atomic lockfile writes (#2750), --rename (#2722), symlinked skills dir links (#2283), rate-limit clone fallback warning (#2761). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-17.html)
+- **Anthropic follows up its Office skills update: safer unpacking, and conversions that drop links to outside files** — PR #2221 merged 16 Nov (follow-up to #2217): docx/pptx unpack via zipfile, zip -y; validate.py "cannot unpack" error on unreadable --original; soffice.py strips links to outside files before PDF/image conversion. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-17.html)
+- **Addy Osmani's agent-skills 0.6.16 makes code review check its findings and stops the frontend skill installing tools** — 0.6.16 (14 Nov, 72h fallback): code-review verifies findings vs callers/guards/tests, labels pre-existing defects, accepts zero findings (#736); frontend skill stops installing tools (+0.10 across 11 models, installs 24%->4%, #732); versioned specs with delta files (#383); docs drift (#514); OWASP 2025; skills trigger on pasted code. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-17.html)
+
+Note: Firecrawl skipped by instruction; ~100 candidate links from ~20 web searches plus primary GitHub release/commit pages; items 1-4 from 16 Nov (24h window), item 5 (14 Nov) from the 72h fallback. Leads held: Copilot CLI 1.0.113-0 (no notes), OpenClaw 2026.11.4 stable (publishing only), Qwen Code nightly managed /loop skill (#17272, minor), awesome-copilot azure-cost (#6439) and kody (#6441) external plugins (contents unconfirmed), Acronis 575 malicious OpenClaw skills report (10 Nov; helpnetsecurity.com unreachable).
 
 ## 2026-Nov-16
 - **Google Cloud brings agent skills to supercomputing at SC26** — Google Cloud HPC blog (14 Nov, Gawlik/Ma-Weaver): Cluster Toolkit infra skill (quota audit, canary capacity, blueprint match, human approval, gcluster deploy), workload skills (OpenFOAM/STAR-CCM+, GROMACS/AlphaFold 3, Devito/OPM), gke-kueue-debugging; PR #188 merged 12 Nov grows hpc-agent-antigravity-plugin 7->19 skills, v1.4.0, 20 test suites. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-16.html)
