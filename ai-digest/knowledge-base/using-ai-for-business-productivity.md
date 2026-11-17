@@ -2,10 +2,56 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-16
-run_count: 109
-digest_count: 109
+last_run: 2026-11-17
+run_count: 110
+digest_count: 110
 entries:
+  - fingerprint: microsoft-copilot-accounting-skills-excel-cowork-ga-nov13-2026
+    title: "Copilot's accounting skills in Excel reach general availability, and Frontier enrolment is no longer required"
+    first_seen: 2026-11-17
+    digest: using-ai-for-business-productivity-2026-Nov-17.html
+    urls:
+      - https://mc.merill.net/message/MC1536053
+      - https://cpapracticeadvisor.com/2026/10/30/microsoft-touts-new-accounting-capabilities-in-copilot/192906
+      - https://cfodive.com/news/microsoft-expands-copilot-reach-in-finance-workflows/873239
+      - https://m365admin.handsontek.net/microsoft-365-copilot-microsoft-365-accounting-skills/
+      - https://www.fool.com/investing/2026/11/15/microsoft-ignite-starts-nov-17-will-microsoft-update-its-paid-copilot-seat-count/
+  - fingerprint: databricks-genie-autonomous-always-on-coworker-unity-gateway-nov2026
+    title: "Databricks turns Genie into an always-on coworker that keeps working after the chat ends"
+    first_seen: 2026-11-17
+    digest: using-ai-for-business-productivity-2026-Nov-17.html
+    urls:
+      - https://databricks.com/blog/new-genie-autonomous-ai-complex-enterprise-work
+      - https://www.techtarget.com/news/databricks-turns-genie-into-always-on-agent-for-complex-work/874354/
+      - https://sdtimes.com/data/databricks-launches-new-always-on-genie-autonomous-ai-for-complex-enterprise-work/
+      - https://alphasignal.ai/news/databricks-turns-genie-into-an-autonomous-agent-that-runs-enterprise-work
+  - fingerprint: harvard-jellyfish-coding-agents-more-code-review-bottleneck-nov2026
+    title: "Harvard–Jellyfish study: coding agents add code, but code review caps how much more gets shipped"
+    first_seen: 2026-11-17
+    digest: using-ai-for-business-productivity-2026-Nov-17.html
+    urls:
+      - https://jellyfish.co/blog/harvard-jellyfish-ai-is-making-developers-faster/
+      - https://www.beri.net/article/harvard-jellyfish-study-ai-coding-agents-code-review-bottleneck-output-employment-engineering-org-design
+      - https://letsdatascience.com/news/harvard-study-finds-ai-coding-agents-raise-code-volume-not-o-ea78729b
+      - https://fourweekmba.com/ai-coding-agents-add-30-more-code-not-more-finished-work/
+  - fingerprint: elevenlabs-elevenai-work-app-custom-models-partner-program-nov2026
+    title: "ElevenLabs launches ElevenAI, a workplace app for meeting notes and dictation"
+    first_seen: 2026-11-17
+    digest: using-ai-for-business-productivity-2026-Nov-17.html
+    urls:
+      - https://thenextweb.com/news/elevenlabs-summit-nyc-elevenai-custom-models-partner-program
+      - https://elevenlabs.io/blog/nyc-summit
+      - https://elevenlabs.io/elevenai
+      - https://elevenlabs.io/elevenai-guide
+  - fingerprint: salesforce-agentforce-coworker-185k-users-21x-50-seat-nov2026
+    title: "Salesforce's Agentforce Coworker passes 185,000 users and adds a $50-per-user option"
+    first_seen: 2026-11-17
+    digest: using-ai-for-business-productivity-2026-Nov-17.html
+    urls:
+      - https://www.salesforce.com/news/stories/agentforce-coworker-surpasses-185k-users/
+      - https://www.salesforce.com/ap/news/press-releases/2026/11/05/sg-salesforces-agentforce-coworker-usage-soars-21x-in-three-months-as-enterprises-delegate-real-work-to-ai/
+      - https://fourweekmba.com/ai-salesforces-50-coworker-seat-costs-as-much-as-500-actions/
+      - https://ctol.digital/news/salesforce-agentforce-coworker-pricing-tier/
   - fingerprint: anthropic-claude-for-manufacturing-plugin-17-skills-nov2026
     title: "Anthropic packages Claude for the factory floor with 17 manufacturing skills"
     first_seen: 2026-11-16
@@ -4480,6 +4526,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-17
+- **Copilot's accounting skills in Excel reach general availability, and Frontier enrolment is no longer required** — Accounting skills in Excel and Cowork hit GA on 13 Nov for any Copilot licence (no Frontier needed): reconciliations, journal entries, variance analysis, close and audit prep; drafts only, people approve and post; optional audit trail in Excel, Cowork support planned. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-17.html)
+- **Databricks turns Genie into an always-on coworker that keeps working after the chat ends** — 11 Nov: Genie gains an autonomous mode that runs in the background on its own compute, reacts to schedules or data changes, and hands work to subagents; Unity Gateway sets permissions, budgets and traces; Genie Ontology GA; Genie One free to 31 Jan 2027. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-17.html)
+- **Harvard–Jellyfish study: coding agents add code, but code review caps how much more gets shipped** — Chen & Stratton working paper on Jellyfish telemetry from 700+ firms (revised 7 Nov): agents raise lines of code, commits and PRs, but open-to-merge time rises ~49% and resolved issues barely move; headcount unchanged; review capacity is the binding constraint. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-17.html)
+- **ElevenLabs launches ElevenAI, a workplace app for meeting notes and dictation** — 11 Nov NYC Summit: ElevenAI (Mac) records meetings, writes summaries/action items/follow-ups and offers dictation in 90+ languages on Scribe v3, free early access; plus custom fine-tuned models and a 550+ partner programme with a McKinsey alliance. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-17.html)
+- **Salesforce's Agentforce Coworker passes 185,000 users and adds a $50-per-user option** — 4–5 Nov: Coworker usage up 21x in three months, 185k+ users (Adecco, Fulton Bank, BACA Systems); new $50/user/month seat covering searches and governance, delegated agent work billed separately; Teams, desktop/iOS apps and MCP server slated for November GA. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-17.html)
 
 ## 2026-Nov-16
 - **Anthropic packages Claude for the factory floor with 17 manufacturing skills** — [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-16.html)
