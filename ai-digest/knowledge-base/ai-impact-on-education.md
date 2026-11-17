@@ -2,10 +2,52 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-16
-run_count: 98
-digest_count: 95
+last_run: 2026-11-17
+run_count: 99
+digest_count: 96
 entries:
+  - fingerprint: nigeria-national-edtech-strategy-askfme-chatbot-nedi-portal-nov2026
+    title: "Nigeria launches its first national EdTech strategy, with an AI chatbot for parents, pupils and teachers"
+    first_seen: 2026-11-17
+    digest: ai-impact-on-education-2026-Nov-17.html
+    urls:
+      - https://authorityngr.com/2026/11/17/national-edtech-strategy-to-drive-digital-transformation-of-education-alausa/
+      - https://blueprint.ng/edtech-fg-unveils-first-national-strategy-to-transform-education-sector/
+      - https://www.worldstagenews.com/nigeria-fg-unveils-national-edtech-strategy-ai-chatbot-data-portal-in-abuja-to-boost-education-system/
+      - https://fmcide.gov.ng/fg-global-partners-drive-nigerias-digital-education-transformation/
+      - https://edutimesafrica.com/fg-unveils-national-edtech-strategy-to-expand-access-to-education/
+  - fingerprint: nj-governor-sherrill-objects-google-ai-search-schools-haddonfield-nov2026
+    title: "Update: New Jersey’s governor accuses Google of “strongarming” schools over AI-or-no-Search"
+    first_seen: 2026-11-17
+    digest: ai-impact-on-education-2026-Nov-17.html
+    urls:
+      - https://communitynews.org/sections/news/sherrill-office-objects-as-google-links-school-search-to-ai/
+      - https://www.yahoo.com/news/politics/articles/google-just-told-schools-ai-112820359.html
+      - https://www.inquirer.com/south-jersey/artificial-intelligence-nj-schools-students-teachers-learning-20261021.html
+  - fingerprint: north-dakota-student-legislative-summit-ai-bills-nov2026
+    title: "North Dakota’s first Student Legislative Summit writes its own classroom-AI bills before the 2027 session"
+    first_seen: 2026-11-17
+    digest: ai-impact-on-education-2026-Nov-17.html
+    urls:
+      - https://northdakotamonitor.com/2026/11/17/north-dakota-students-try-on-legislative-roles-tackle-ai/
+      - https://news.prairiepublic.org/local-news/2026-11-17/dya-nodak-north-dakota-students-get-a-voice-in-state-policymaking
+      - https://www.wdayradionow.com/news/local-news/north-dakota-launches-student-legislative-summit-names-local-students-to-state-advisory-cabinet/
+  - fingerprint: georgia-state-ai-assisted-advising-maaps-human-discretion-study-nov2026
+    title: "Algorithm-assisted advising at Georgia State lifted graduation, but advisers’ own judgment did most of the work"
+    first_seen: 2026-11-17
+    digest: ai-impact-on-education-2026-Nov-17.html
+    urls:
+      - https://phys.org/news/2026-11-ai-college.html
+      - https://arxiv.org/abs/2505.13325
+  - fingerprint: oregon-state-genai-cognitive-debt-stem-students-preprint-nov2026
+    title: "Oregon State study: the most AI-confident STEM students fall deepest into “cognitive debt”"
+    first_seen: 2026-11-17
+    digest: ai-impact-on-education-2026-Nov-17.html
+    urls:
+      - https://corvallisadvocate.com/osu-learns-stem-students-lean-on-ai-too-much-new-study-suggests-ways-to-keep-them-thinking/
+      - https://www.klcc.org/podcast/oregon-on-the-record/2026-11-12/over-reliance-on-ai-osu-study-shows-stem-majors-biggest-abusers
+      - https://san.com/cc/americas-stem-students-are-falling-into-an-ai-dependence-spiral/
+      - https://arxiv.org/abs/2601.22430
   - fingerprint: reuters-china-ai-native-generation-literacy-2030-yunnan-cameras-nov2026
     title: "Reuters looks inside China’s push to make every pupil AI-literate by 2030, and finds no way yet to measure it"
     first_seen: 2026-11-16
@@ -3520,6 +3562,13 @@ entries:
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
 
+
+## 2026-Nov-17
+- **Nigeria launches its first national EdTech strategy, with an AI chatbot for parents, pupils and teachers** — Nigeria FME unveils first National EdTech Strategy (17 Nov, Abuja) with Mastercard Foundation/World Bank: five pillars, consolidates 26 federal programmes; AskFME AI chatbot in English + local languages; NEDI public data portal. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-17.html)
+- **Update: New Jersey’s governor accuses Google of “strongarming” schools over AI-or-no-Search** — NJ Gov. Sherrill's office says Google's AI-or-no-Search K-12 policy 'strongarms' districts and puts corporate interests first; no state action yet; Haddonfield (pre-K–5 AI ban) and 600+ NJ districts face the choice. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-17.html)
+- **North Dakota’s first Student Legislative Summit writes its own classroom-AI bills before the 2027 session** — ND DPI's first Student Legislative Summit (Nov 16–17): ~50 student senators pass mock AI bills, incl. 40–8 bill allowing AI from grade 9 but not for assignments, teacher disclosure of allowed use, no AI for final grades; input for 2027 session. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-17.html)
+- **Algorithm-assisted advising at Georgia State lifted graduation, but advisers’ own judgment did most of the work** — Princeton (Schechtman & Liu) reanalysis of Georgia State MAAPS trial: +0.16 GPA, 7% higher 6-yr graduation; GSU only 1 of 11 sites with gains; advisers used info the algorithm lacked in 67% of 8,385 actions; AI can't replace advisers yet. Preprint. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-17.html)
+- **Oregon State study: the most AI-confident STEM students fall deepest into “cognitive debt”** — OSU (Choudhuri et al.) preprint, 299 STEM students at 5 universities: trust + routine GenAI use linked to lower critical thinking/reflection; 'cognitive debt' spiral; most AI-confident students most dependent; recommends critique-style AI. Coverage from Nov 12. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-17.html)
 
 ## 2026-Nov-16
 - **Reuters looks inside China’s push to make every pupil AI-literate by 2030, and finds no way yet to measure it** — Reuters investigation: provinces move at different speeds; Shanghai mandates 30 hours a year, Yunnan plans AI-analysed recordings in 14,000 classrooms, ~$31M in procurement, no national literacy measure. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-16.html)
