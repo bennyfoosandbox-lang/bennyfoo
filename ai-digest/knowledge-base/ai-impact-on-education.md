@@ -2,10 +2,52 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-17
-run_count: 99
-digest_count: 96
+last_run: 2026-11-18
+run_count: 100
+digest_count: 97
 entries:
+  - fingerprint: ofqual-ai-coursework-life-altering-penalties-bauckham-nov2026
+    title: "Ofqual warns pupils that passing off AI work as their own coursework can cost them a whole GCSE or A-level"
+    first_seen: 2026-11-18
+    digest: ai-impact-on-education-2026-Nov-18.html
+    urls:
+      - https://www.tes.com/magazine/news/general/ofqual-using-ai-coursework-risks-life-altering-penalties
+      - https://www.irishnews.com/news/uk/pupils-who-use-ai-to-complete-coursework-face-life-altering-penalties-ofqual-U52PJGG5LZPHXFJY3J2643SK3A/
+      - https://www.resultsense.com/news/2026-11-18-ofqual-ai-coursework-malpractice-penalties/
+      - https://universityherald.com/articles/80678/20261118/england-warns-students-severe-penalties-ai-exam-cheating.htm
+      - https://ofqual.blog.gov.uk/tag/malpractice
+  - fingerprint: instructor-designed-ai-rct-19-universities-arxiv-2611-19099-nov2026
+    title: "A preregistered trial across 19 universities finds instructor-designed AI raised STEM exam scores"
+    first_seen: 2026-11-18
+    digest: ai-impact-on-education-2026-Nov-18.html
+    urls:
+      - https://arxiv.org/abs/2611.19099
+      - https://arxiv.org/html/2611.19099
+      - https://michaelamicangelo.substack.com/p/the-ai-that-worked-was-designed-by
+  - fingerprint: edweek-research-center-teacher-prep-ai-survey-nov2026
+    title: "EdWeek survey: most teacher-prep programs still have no stand-alone AI course"
+    first_seen: 2026-11-18
+    digest: ai-impact-on-education-2026-Nov-18.html
+    urls:
+      - https://www.edweek.org/teaching-learning/ai-raises-big-questions-for-the-future-of-teacher-education/2026/11
+      - https://www.edweek.org/research-center/reports/ai-and-teacher-preparation-results-of-a-national-survey
+  - fingerprint: codeai-hour-of-ai-2026-start-building-openai-nov2026
+    title: "CodeAI launches the 2026 Hour of AI around student building, with OpenAI as a partner"
+    first_seen: 2026-11-18
+    digest: ai-impact-on-education-2026-Nov-18.html
+    urls:
+      - https://www.prnewswire.com/news-releases/start-building-hour-of-ai-gives-students-a-hands-on-first-step-into-understanding-technology-302941388.html
+      - https://openai.com/index/partnering-with-codeai
+      - https://code.org/news/openai-partnership
+      - https://www.geekwire.com/2026/solidifying-its-shift-to-ai-education-code-org-rebrands-as-codeai/
+  - fingerprint: ualberta-learnwise-ai-canvas-pilot-nov2026
+    title: "University of Alberta pilots a course-grounded AI assistant inside Canvas, as faculty critics object"
+    first_seen: 2026-11-18
+    digest: ai-impact-on-education-2026-Nov-18.html
+    urls:
+      - https://www.usnews.com/education/u-s-news-higher-ground/articles/2026-11-16/how-the-university-of-alberta-is-rethinking-the-learning-management-system-with-ai
+      - https://www.ualberta.ca/en/provost/projects-initiatives/learnwise-ai-pilot-project.html
+      - https://artssquared.wordpress.com/2026/09/12/taking-out-humans-ualberta-senior-administration-unilaterally-approves-learnwise-pilot-project-a-three-part-blog-post/
   - fingerprint: nigeria-national-edtech-strategy-askfme-chatbot-nedi-portal-nov2026
     title: "Nigeria launches its first national EdTech strategy, with an AI chatbot for parents, pupils and teachers"
     first_seen: 2026-11-17
@@ -3562,6 +3604,13 @@ entries:
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
 
+
+## 2026-Nov-18
+- **Ofqual warns pupils that passing off AI work as their own coursework can cost them a whole GCSE or A-level** — Ofqual (Bauckham, 18 Nov) publicity campaign: undeclared AI coursework can cost a whole GCSE/A-level; 100 proven AI plagiarism cases summer 2025 (up from 85, ~75% of plagiarism); Teacher Tapp 4,500+ teachers: 70% oppose unsupervised coursework counting; essays may not survive; wearables risk. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-18.html)
+- **A preregistered trial across 19 universities finds instructor-designed AI raised STEM exam scores** — arXiv 2611.19099 (Jun Li + 51 co-authors), preregistered RCT, ~7,200 students, 55 applied-STEM classes, 19 universities, spring 2025–spring 2026; immediate vs one-term-delayed instructor-designed AI; proctored in-person exams; +0.26 SD class, +0.32 SD student. Preprint. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-18.html)
+- **EdWeek survey: most teacher-prep programs still have no stand-alone AI course** — EdWeek Research Center (Nov 16): 268 teacher educators surveyed Aug–Sep 2026; most prep programs lack a stand-alone AI course; ~1/3 cite unsupportive faculty, ~1/3 competing priorities/accreditation; ~1/4 say candidates don't want it; faculty want more AI PD. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-18.html)
+- **CodeAI launches the 2026 Hour of AI around student building, with OpenAI as a partner** — CodeAI (ex-Code.org) launches 2026 Hour of AI 'Start Building' activities (17 Nov), grades 3–12, ahead of CS Ed Week; OpenAI partner (Aug 2026 deal); CodeAI+Microsoft free 30-min teacher module. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-18.html)
+- **University of Alberta pilots a course-grounded AI assistant inside Canvas, as faculty critics object** — U.S. News (Nov 16) on UAlberta LearnWise AI pilot in Canvas (Sep 2026–May 2027): course-grounded tutor, opt-in feedback assistant, campus assistant; no essays/quiz answers; EU-hosted; instructor insights dashboard; faculty opt-in; critics say no consultation with faculty association/GFC. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-18.html)
 
 ## 2026-Nov-17
 - **Nigeria launches its first national EdTech strategy, with an AI chatbot for parents, pupils and teachers** — Nigeria FME unveils first National EdTech Strategy (17 Nov, Abuja) with Mastercard Foundation/World Bank: five pillars, consolidates 26 federal programmes; AskFME AI chatbot in English + local languages; NEDI public data portal. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-17.html)
