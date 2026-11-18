@@ -2,10 +2,55 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-17
-run_count: 110
-digest_count: 110
+last_run: 2026-11-18
+run_count: 111
+digest_count: 111
 entries:
+  - fingerprint: microsoft-ignite-2026-autopilot-frontier-agentic-users-workspaces-cost-management-nov2026
+    title: "Ignite 2026: Microsoft starts rolling out Autopilot, gives agents their own identities in Teams, and adds agent spending caps"
+    first_seen: 2026-11-18
+    digest: using-ai-for-business-productivity-2026-Nov-18.html
+    urls:
+      - https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/
+      - https://news.microsoft.com/events/ignite/2026/book-of-news/
+      - https://www.constellationr.com/insights/news/ignite-2026-microsoft-makes-case-be-your-work-operating-system-intelligence-layer
+      - https://windowsforum.com/news/microsoft-365-copilot-autopilot-rolls-out-to-frontier-always-on-ai-agent-with-entra-id-and-metered-billing.452839/
+      - https://uctoday.com/microsoft-ignite-2026-day-1-agents-teams-roundup
+      - https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/11/17/microsoft-ignite-2026-introducing-dynamics-365-in-copilot/
+  - fingerprint: microsoft-salesforce-copilotforce-salesforce-in-copilot-teams-data360-fabric-nov2026
+    title: "Microsoft and Salesforce launch “Copilotforce”, putting CRM data and sales workflows inside Copilot and Teams"
+    first_seen: 2026-11-18
+    digest: using-ai-for-business-productivity-2026-Nov-18.html
+    urls:
+      - https://news.microsoft.com/source/2026/11/17/microsoft-and-salesforce-announce-copilotforce-bringing-trusted-customer-context-and-action-into-microsoft-ai-experiences
+      - https://www.salesforce.com/news/stories/copilotforce-announcement/
+      - https://timelinedigi.com/news/salesforce-microsoft-copilotforce-salesforce-in-copilot-and-teams-what-it-means
+  - fingerprint: openai-gpt-6-2-astra-sol-chatgpt-work-codex-third-cost-per-task-nov2026
+    title: "OpenAI ships GPT-6.2 Astra and Sol to ChatGPT Work and Codex, claiming top work-eval scores at under a third of the cost per task"
+    first_seen: 2026-11-18
+    digest: using-ai-for-business-productivity-2026-Nov-18.html
+    urls:
+      - https://openai.com/index/introducing-gpt-6-2-astra-sol/
+      - https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/
+      - https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/
+      - https://www.thurrott.com/a-i/344003/openai-launches-gpt-6-2-astra-and-sol-models-in-chatgpt-work-and-codex
+      - https://www.testingcatalog.com/openai-launches-gpt-6-2-astra-and-sol-on-chatgpt-and-apis/
+  - fingerprint: model-ml-250m-series-b-1-5b-valuation-agents-bankers-consultants-nov2026
+    title: "Model ML raises $250M at a $1.5B valuation to automate junior bankers' and consultants' grunt work"
+    first_seen: 2026-11-18
+    digest: using-ai-for-business-productivity-2026-Nov-18.html
+    urls:
+      - https://www.bloomberg.com/news/articles/2026-11-17/ai-startup-for-bankers-raises-funds-at-1-5-billion-value
+      - https://www.generalatlantic.com/media-article/model-ml-raises-250-million-at-1-5-billion-valuation-18-months-after-launching-from-stealth/
+      - https://www.finextra.com/newsarticle/48776/model-ml-raises-250m-to-give-bankers-their-own-personal-agents
+      - https://techfundingnews.com/londons-model-ml-raises-250m-from-general-atlantic-and-qed-to-put-ai-agents-inside-banks/
+  - fingerprint: gallup-ai-time-use-52pct-less-searching-47pct-less-drafting-meetings-unchanged-nov2026
+    title: "Gallup: frequent AI users spend less time searching and drafting, but their meetings and mental load haven't changed"
+    first_seen: 2026-11-18
+    digest: using-ai-for-business-productivity-2026-Nov-18.html
+    urls:
+      - https://www.gallup.com/workplace/716585/ai-changing-employees-spend-time-work.aspx
+      - https://allwork.space/2026/11/half-of-frequent-ai-users-spend-less-time-gathering-information-changing-how-work-gets-done
   - fingerprint: microsoft-copilot-accounting-skills-excel-cowork-ga-nov13-2026
     title: "Copilot's accounting skills in Excel reach general availability, and Frontier enrolment is no longer required"
     first_seen: 2026-11-17
@@ -4526,6 +4571,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-18
+- **Ignite 2026: Microsoft starts rolling out Autopilot, gives agents their own identities in Teams, and adds agent spending caps** — Autopilot to Frontier, Agentic Users preview, Copilot Workspaces, Agent 365 cost controls. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-18.html)
+- **Microsoft and Salesforce launch “Copilotforce”, putting CRM data and sales workflows inside Copilot and Teams** — Salesforce in Copilot public preview, Data 360–Fabric links; ends the Copilot vs. Agentforce standoff for sales teams. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-18.html)
+- **OpenAI ships GPT-6.2 Astra and Sol to ChatGPT Work and Codex, claiming top work-eval scores at under a third of the cost per task** — GPT-6.2 Astra: +5.2 pts on Agents' Last Exam, <1/3 cost per task vs GPT-6 Astra, API 20% cheaper; admin opt-in for Enterprise. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-18.html)
+- **Model ML raises $250M at a $1.5B valuation to automate junior bankers' and consultants' grunt work** — General Atlantic + QED co-lead; ARR up 12x YoY, DAUs up 26x in Q3; total raised $350M. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-18.html)
+- **Gallup: frequent AI users spend less time searching and drafting, but their meetings and mental load haven't changed** — Aug 2026 survey of 2,648 US employees: 52% less info-gathering, 47% less drafting, 83% same meeting time, 65% same mental effort. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-18.html)
 
 ## 2026-Nov-17
 - **Copilot's accounting skills in Excel reach general availability, and Frontier enrolment is no longer required** — Accounting skills in Excel and Cowork hit GA on 13 Nov for any Copilot licence (no Frontier needed): reconciliations, journal entries, variance analysis, close and audit prep; drafts only, people approve and post; optional audit trail in Excel, Cowork support planned. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-17.html)
