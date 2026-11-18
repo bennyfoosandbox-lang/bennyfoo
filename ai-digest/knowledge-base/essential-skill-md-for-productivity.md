@@ -2,10 +2,55 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-17
-run_count: 104
-digest_count: 104
+last_run: 2026-11-18
+run_count: 105
+digest_count: 105
 entries:
+  - fingerprint: microsoft-ignite-2026-dynamics-365-copilot-plugins-100-prebuilt-skills-salesforce-38-nov17
+    title: "Microsoft opens Ignite with more than 100 prebuilt business skills for Copilot"
+    first_seen: 2026-11-18
+    digest: essential-skill-md-for-productivity-2026-Nov-18.html
+    urls:
+      - https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/
+      - https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/11/17/microsoft-ignite-2026-introducing-dynamics-365-in-copilot/
+      - https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/plugins-at-microsoft-ignite-2026/4569951
+      - https://news.microsoft.com/events/ignite/2026/book-of-news/
+  - fingerprint: microsoft-agent-365-plugin-skill-governance-ga-cowork-skills-recorder-edge-azure-custom-skills-ignite-nov17
+    title: "Agent 365 makes skill governance GA, and a skills recorder turns an Edge workflow into a shareable skill"
+    first_seen: 2026-11-18
+    digest: essential-skill-md-for-productivity-2026-Nov-18.html
+    urls:
+      - https://techcommunity.microsoft.com/blog/agent-365-blog/whats-new-in-microsoft-agent-365-ignite-2026/4571753
+      - https://blogs.windows.com/msedgedev/2026/11/17/edge-for-business-ignite-2026-innovations/
+      - https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/whats-new-in-copilot-cowork-at-ignite-2026/4572242
+      - https://www.gethynellis.com/2026/11/microsoft-ignite-2026-day-1-announcements/
+      - https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/
+  - fingerprint: itential-infra-agent-skills-40-capabilities-154-vendor-references-apache-nov17
+    title: "Itential releases 40 open-source infrastructure skills organized by capability, not vendor"
+    first_seen: 2026-11-18
+    digest: essential-skill-md-for-productivity-2026-Nov-18.html
+    urls:
+      - https://github.com/itential/infra-agent-skills
+      - https://github.com/itential/infra-agent-skills/pull/117
+      - https://prnewswire.com/news-releases/itential-introduces-open-source-infrastructure-agent-skills-to-advance-agentic-operations-302941074.html
+      - https://www.futuriom.com/articles/news/itential-launches-open-source-skills-for-agentic-netops/2026/11
+  - fingerprint: google-skills-gerrit-code-review-gke-kueue-troubleshooting-servicehealth-incident-correlation-nov17
+    title: "Google's skills library adds Gerrit code review, Kueue troubleshooting and Service Health incident correlation"
+    first_seen: 2026-11-18
+    digest: essential-skill-md-for-productivity-2026-Nov-18.html
+    urls:
+      - https://github.com/google/skills/commit/92db677
+      - https://github.com/google/skills/commit/a429849
+      - https://github.com/google/skills/commit/739e294
+      - https://github.com/google/skills/commits/main
+  - fingerprint: claude-code-2-1-327-status-lists-broken-skill-files-duplicate-skill-menu-rows-fix-nov17
+    title: "Claude Code 2.1.327 lists broken skill files in /status and fixes duplicate skill rows in the / menu"
+    first_seen: 2026-11-18
+    digest: essential-skill-md-for-productivity-2026-Nov-18.html
+    urls:
+      - https://github.com/anthropics/claude-code/releases/tag/v2.1.327
+      - https://code.claude.com/docs/en/changelog
+      - https://www.npmjs.com/package/@anthropic-ai/claude-code
   - fingerprint: claude-code-2-1-326-skills-code-mode-inline-bang-plugin-json-malformed-fields-load-nov16
     title: "Claude Code 2.1.326 lets skills with shell preambles load in Code Mode, and stops refusing plugins over a bad display field"
     first_seen: 2026-11-17
@@ -3397,6 +3442,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-18
+- **Microsoft opens Ignite with more than 100 prebuilt business skills for Copilot** — Microsoft Copilot blog/Dynamics blog (17 Nov, Ignite): Dynamics 365 plugins GA, 100+ prebuilt skills (sales 44, service 13, finance 30, legal 20+); Salesforce in Copilot plugin 38+ sales skills; vendor-reported 25% less seller effort, 9% faster close. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-18.html)
+- **Agent 365 makes skill governance GA, and a skills recorder turns an Edge workflow into a shareable skill** — Agent 365 plugin+skill governance GA (admin center, per user/group); Cowork skills recorder in Edge for Business (status conflicting: preview vs. by end-2026); Azure Copilot custom skills + spaces public preview; ARM MCP Server experimental Skills toolset (x-mcp-toolset: Skills). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-18.html)
+- **Itential releases 40 open-source infrastructure skills organized by capability, not vendor** — itential/infra-agent-skills (17 Nov, Apache-2.0): 40 capability skills, 154 vendor references; SKILL.md router -> references/INDEX.md -> vendor procedure.md/endpoints.md; spec conformance CI (PR #117); distinct from Builder Skills (Oct 22). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-18.html)
+- **Google's skills library adds Gerrit code review, Kueue troubleshooting and Service Health incident correlation** — google/skills 17 Nov: gerrit-code-review (92db677, stdlib CLI, write confirmations, untrusted tags), gke-kueue-troubleshooting (a429849, 26 files, 6-stage read-only diagnosis), servicehealth-incident-correlation (739e294, IMPACTED/INCONCLUSIVE verdicts). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-18.html)
+- **Claude Code 2.1.327 lists broken skill files in /status and fixes duplicate skill rows in the / menu** — Claude Code 2.1.327 (17 Nov): /status lists broken agent/skill/command/output-style files; fixes duplicate same-name skill rows in / menu; plugin agents kept on --resume; plugin eval keeps deny rules over permission hooks. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-18.html)
+
+Note: Firecrawl skipped by instruction; ~100 candidates from ~20 web searches, npm timestamps and GitHub release/commit pages; all items 17 Nov (24h window). Leads held: Codex 0.169.1, Copilot CLI 1.0.113/1.0.114-0, OpenClaw 2026.11.5 (no skill notes), Qwen Code 0.28.0 managed /loop skill (minor), MaxText skills library PR #6425 (unmerged), Clay Skills Marketplace (29 Sep, out of window); Gems->skills switchover 17 Nov unconfirmed (already covered).
 
 ## 2026-Nov-17
 - **Claude Code 2.1.326 lets skills with shell preambles load in Code Mode, and stops refusing plugins over a bad display field** — 16 Nov: skills/slash commands with inline ! commands load in Code Mode under auto mode; Code Mode bg subagents preload them; plugins with malformed plugin.json display fields now load (admins told to check); first mid-session skill found immediately; /skills Ctrl+C saves; duplicate-name rows fixed; /claude-api defaults to Managed Agents. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-17.html)
