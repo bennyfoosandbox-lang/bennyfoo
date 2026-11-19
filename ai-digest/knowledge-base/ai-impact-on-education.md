@@ -2,10 +2,44 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-18
-run_count: 100
-digest_count: 97
+last_run: 2026-11-19
+run_count: 101
+digest_count: 98
 entries:
+  - fingerprint: baltimore-teens-sue-omnilert-ai-gun-detection-doritos-kenwood-nov2026
+    title: "Four Baltimore-area teens sue after an AI gun detector mistook a bag of chips for a weapon"
+    first_seen: 2026-11-19
+    digest: ai-impact-on-education-2026-Nov-19.html
+    urls:
+      - https://thegrio.com/2026/11/17/baltimore-teens-sue-omnilert-school-district-false-alert/
+      - https://foxbaltimore.com/news/project-baltimore/baltimore-county-student-ai-software-omnilert
+      - https://ipvm.com/reports/omnilert-sued-by-injured-student
+      - https://www.securityinfowatch.com/alarms-monitoring/alarm-systems-intrusion-detection/gunshot-detection/article/55398870/legal-brief-ai-gun-detection-on-trial
+  - fingerprint: college-board-autosat-malware-global-exam-security-crackdown-nov2026
+    title: "AutoSAT malware and a global exam-security arms race: how testing bodies are fighting AI cheating"
+    first_seen: 2026-11-19
+    digest: ai-impact-on-education-2026-Nov-19.html
+    urls:
+      - https://www.koreatimes.co.kr/world/20261117/us-locks-computers-china-deploys-ai-cameras-as-countries-battle-exam-cheating
+      - https://www.koreatimes.co.kr/world/20261117/from-metal-detectors-to-eyeglass-checks-us-exams-confront-ai-cheating
+      - https://biz.heraldcorp.com/article/10940346
+      - https://mbiz.heraldcorp.com/article/10940346
+      - https://www.bostonglobe.com/2026/11/07/nation/ai-cheating-sat-test/
+      - https://www.chronicle.com/newsletter/daily-briefing/2026-11-09
+  - fingerprint: inside-higher-ed-student-voice-ai-changing-college-detectors-writing-nov2026
+    title: "Inside Higher Ed survey: eight in 10 college students now use AI routinely, and a quarter write differently to dodge detectors"
+    first_seen: 2026-11-19
+    digest: ai-impact-on-education-2026-Nov-19.html
+    urls:
+      - https://insidehighered.com/news/student-success/academic-life/2026/11/17/ai-changing-college-old-challenges-persist
+  - fingerprint: pakistan-punjab-25898-teachers-ai-training-nov23-2026
+    title: "Pakistan's Punjab orders AI training for 25,898 public school teachers starting 23 November"
+    first_seen: 2026-11-19
+    digest: ai-impact-on-education-2026-Nov-19.html
+    urls:
+      - https://24newshd.tv/19-Nov-2026/25-000-punjab-teachers-get-ai-training
+      - https://propakistani.pk/2026/09/26/punjab-to-train-160000-teachers-under-ai-curriculum/
+      - https://propakistani.pk/2026/07/30/punjab-failed-to-launch-ai-classes-as-schools-lack-basic-technology/
   - fingerprint: ofqual-ai-coursework-life-altering-penalties-bauckham-nov2026
     title: "Ofqual warns pupils that passing off AI work as their own coursework can cost them a whole GCSE or A-level"
     first_seen: 2026-11-18
@@ -3604,6 +3638,12 @@ entries:
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
 
+
+## 2026-Nov-19
+- **Four Baltimore-area teens sue after an AI gun detector mistook a bag of chips for a weapon** — Lawyers' Committee files 31-page complaint for Taki Allen and three others against Omnilert, Baltimore County Public Schools, police and officers over the Oct 2025 Kenwood High false alert; $2.6M contract runs to 2027. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-19.html)
+- **AutoSAT malware and a global exam-security arms race: how testing bodies are fighting AI cheating** — $499 AutoSAT bypassed Bluebook lockdown to feed questions to a chatbot; four March test-takers caught; College Board sued (reportedly later dropped), bans smart glasses, tracks keystrokes, new 2027 schedule; Korea Times compares China gaokao AI cameras, France phone detectors, Ofqual 2,225 device cases. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-19.html)
+- **Inside Higher Ed survey: eight in 10 college students now use AI routinely, and a quarter write differently to dodge detectors** — ~80% use generative/agentic AI routinely; 65% say responsible use should help them learn; 25% changed their writing to avoid false detector flags. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-19.html)
+- **Pakistan's Punjab orders AI training for 25,898 public school teachers starting 23 November** — First concrete cohort under the 160,000-teacher AI curriculum plan (with UNICEF and the Office of AI); Grade I–V rollout had stalled on infrastructure. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-19.html)
 
 ## 2026-Nov-18
 - **Ofqual warns pupils that passing off AI work as their own coursework can cost them a whole GCSE or A-level** — Ofqual (Bauckham, 18 Nov) publicity campaign: undeclared AI coursework can cost a whole GCSE/A-level; 100 proven AI plagiarism cases summer 2025 (up from 85, ~75% of plagiarism); Teacher Tapp 4,500+ teachers: 70% oppose unsupervised coursework counting; essays may not survive; wearables risk. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-18.html)
