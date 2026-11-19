@@ -2,10 +2,51 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-18
-run_count: 105
-digest_count: 105
+last_run: 2026-11-19
+run_count: 106
+digest_count: 106
 entries:
+  - fingerprint: google-skills-cicd-deploy-pipeline-release-terraform-compute-availability-nov18
+    title: "Google adds four CI/CD skills to its library, with a secret scan required before any deploy"
+    first_seen: 2026-11-19
+    digest: essential-skill-md-for-productivity-2026-Nov-19.html
+    urls:
+      - https://github.com/google/skills/commit/2af5f95
+      - https://github.com/google/skills/commit/d2b18e8
+      - https://github.com/google/skills/commits/main
+  - fingerprint: google-skills-spanner-graph-trio-bigquery-migration-exporter-data-manager-troubleshooting-nov18
+    title: "Google ships three linked Spanner Graph skills, a warehouse export generator and a Data Manager API troubleshooter"
+    first_seen: 2026-11-19
+    digest: essential-skill-md-for-productivity-2026-Nov-19.html
+    urls:
+      - https://github.com/google/skills/commit/212dcc4
+      - https://github.com/google/skills/commit/78cc952
+      - https://github.com/google/skills/commit/da00486
+      - https://github.com/google/skills/commit/fadea16
+      - https://github.com/google/skills/commit/609310d
+  - fingerprint: addyosmani-agent-skills-0-6-17-accessibility-engineering
+    title: "Addy Osmani's agent-skills 0.6.17 adds an accessibility audit skill that fails rather than reporting false clean results"
+    first_seen: 2026-11-19
+    digest: essential-skill-md-for-productivity-2026-Nov-19.html
+    urls:
+      - https://github.com/addyosmani/agent-skills
+      - https://github.com/addyosmani/agent-skills/pull/261
+      - https://github.com/addyosmani/agent-skills/pull/795
+      - https://github.com/addyosmani/agent-skills/blob/main/skills/accessibility-engineering/SKILL.md
+  - fingerprint: claude-code-2-1-328-goal-skill-stop-hook-plugin-manager-fixes
+    title: "Claude Code 2.1.328 fixes /goal deleting a skill's Stop hook and loads managed plugins sooner on new machines"
+    first_seen: 2026-11-19
+    digest: essential-skill-md-for-productivity-2026-Nov-19.html
+    urls:
+      - https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+  - fingerprint: awesome-copilot-agent-session-board-polytype-middleware-new-relic-kafka-nov18
+    title: "awesome-copilot adds an Agent Session Board for supervising several Copilot sessions, plus a .NET API design skill"
+    first_seen: 2026-11-19
+    digest: essential-skill-md-for-productivity-2026-Nov-19.html
+    urls:
+      - https://github.com/github/awesome-copilot/pull/6491
+      - https://github.com/github/awesome-copilot/pull/6414
+      - https://github.com/github/awesome-copilot/pull/6475
   - fingerprint: microsoft-ignite-2026-dynamics-365-copilot-plugins-100-prebuilt-skills-salesforce-38-nov17
     title: "Microsoft opens Ignite with more than 100 prebuilt business skills for Copilot"
     first_seen: 2026-11-18
@@ -3442,6 +3483,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-19
+- **Google adds four CI/CD skills to its library, with a secret scan required before any deploy** — google/skills 18 Nov: google-cicd-deploy (secret scan, SPDX SBOM, Binary Authorization, Agent Registry), -pipeline-design, -release-orchestration, -terraform (2af5f95); compute-resource-availability-troubleshooting for ZONE_RESOURCE_POOL_EXHAUSTED stockouts (d2b18e8). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-19.html)
+- **Google ships three linked Spanner Graph skills, a warehouse export generator and a Data Manager API troubleshooter** — spanner-relational-to-graph (212dcc4), spanner-graph-query-tuning (78cc952), spanner-graph-schema-best-practices (da00486), each routing to the others; bigquery-migration-data-exporter (fadea16, Snowflake/Databricks/Teradata/Oracle/PostgreSQL Parquet SQL, no DB connection); data-manager-api-troubleshooting (609310d) consolidates diagnostics. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-19.html)
+- **Addy Osmani's agent-skills 0.6.17 adds an accessibility audit skill that fails rather than reporting false clean results** — 18 Nov: accessibility-engineering (#261; WCAG 2.2 AA, pinned axe-core/cli 4.13.0 + pa11y 9.1.1, audit-a11y.sh fails on invalid reports, manual keyboard/screen reader/visual audit), accessibility-auditor agent, /a11y command, evals; code review checks clean checkout on reviewed ref (#795). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-19.html)
+- **Claude Code 2.1.328 fixes /goal deleting a skill's Stop hook and loads managed plugins sooner on new machines** — 18 Nov 23:09 UTC: /goal no longer removes a skill's Stop hook; Code Mode keeps loaded skill on resume; /plugin manager fixes; /usage plugin total past 2,000 tokens; managed-settings git-marketplace plugins load sooner/background fetch in -p and SDK; embedded apps can enable allowManagedModsOnly. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-19.html)
+- **awesome-copilot adds an Agent Session Board for supervising several Copilot sessions, plus a .NET API design skill** — PR #6491 (18 Nov): Agent Session Board canvas (decision queue with revision-bound answers, per-PR first unmet merge gate, tracks, merge flow); polytype-middleware skill (#6414); New Relic 0.3.0 with Kafka skill (#6475). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-19.html)
+
+Note: Firecrawl skipped by instruction; ~100 candidate links from ~15 web searches, npm timestamps and primary GitHub commit/changelog pages; all items 18 Nov (24h window). Leads held: Codex 0.170.0, Copilot CLI 1.0.114, Gemini CLI 0.70.0-preview.0 (no skill notes); OpenClaw main library-skill fixes #201491/#201494 (unreleased); Foundry Skills API / Copilot Studio skill catalog status (conflicting sources).
 
 ## 2026-Nov-18
 - **Microsoft opens Ignite with more than 100 prebuilt business skills for Copilot** — Microsoft Copilot blog/Dynamics blog (17 Nov, Ignite): Dynamics 365 plugins GA, 100+ prebuilt skills (sales 44, service 13, finance 30, legal 20+); Salesforce in Copilot plugin 38+ sales skills; vendor-reported 25% less seller effort, 9% faster close. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-18.html)
