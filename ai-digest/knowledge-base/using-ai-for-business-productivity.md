@@ -2,10 +2,55 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-18
-run_count: 111
-digest_count: 111
+last_run: 2026-11-19
+run_count: 112
+digest_count: 112
 entries:
+  - fingerprint: fed-warsh-sf-fed-ai-productivity-jobs-task-force-conference-jefferson-nov2026
+    title: "Fed opens its AI-and-productivity inquiry: Warsh sees an idea boom, Jefferson says the gains aren't visible yet"
+    first_seen: 2026-11-19
+    digest: using-ai-for-business-productivity-2026-Nov-19.html
+    urls:
+      - https://www.cfodive.com/news/warsh-says-fed-examining-ai-boost-jolt-us-economy-cyberattack/874809/
+      - https://www.wsbtv.com/news/business/warsh-grapples-with/6ILLBESOWI76PH3WXILUAK5AS4/
+      - https://newschannel9.com/news/nation-world/federal-reserve-chair-kevin-warsh-to-hear-from-tech-leaders-on-super-intelligence-impact-on-jobs-economy-san-francisco-jobs-task-force-economic-impact
+  - fingerprint: microsoft-nadella-explains-60000-exit-offer-everyone-uses-ai-nov2026
+    title: "Update: Nadella explains Microsoft's 60,000-person exit offer, and won't promise the jobs stay the same"
+    first_seen: 2026-11-19
+    digest: using-ai-for-business-productivity-2026-Nov-19.html
+    urls:
+      - https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/
+      - https://www.windowslatest.com/2026/11/19/asked-if-60000-exit-offers-mean-ai-layoffs-at-microsoft-satya-nadella-said-i-wish-i-could-just-sit-here-and-say-itll-all-be-the-same-i-cannot/
+      - https://fortune.com/2026/10/30/microsoft-voluntary-exit-offer-buyout-60000-employees/
+  - fingerprint: banks-ai-agent-token-costs-20pct-labor-ai-finops-teams-mckinsey-reuters-nov2026
+    title: "Banks put AI agents on a token budget as McKinsey warns agent spend could hit 20% of labour costs"
+    first_seen: 2026-11-19
+    digest: using-ai-for-business-productivity-2026-Nov-19.html
+    urls:
+      - https://www.thestandard.com.hk/finance/article/348107/Banks-seek-to-rein-in-soaring-AI-agent-costs-McKinsey-says
+      - https://live.euronext.com/en/financial-news/banks-seek-rein-soaring-ai-agent-costs-mckinsey-says
+      - https://allwork.space/2026/11/ai-agent-costs-could-reach-20-of-banks-labor-spending-mckinsey-warns/
+      - https://www.analyticsinsight.net/news/ai-agent-spending-pushes-banks-to-reconsider-technology-budgets-mckinsey
+      - https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide
+  - fingerprint: dreamteam-53m-ai-native-crm-company-brain-accel-nov2026
+    title: "Ex-Freshworks team raises $53M for Dreamteam, an AI-native CRM that fills itself in"
+    first_seen: 2026-11-19
+    digest: using-ai-for-business-productivity-2026-Nov-19.html
+    urls:
+      - https://thenextweb.com/news/dreamteam-ai-native-crm-53m-accel
+      - https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding
+      - https://inc42.com/buzz/dreamteam-bags-53-mn-to-disrupt-the-crm-space-with-ai/
+      - https://itbrief.co.uk/story/dreamteam-raises-usd-53-million-to-rework-crm-with-ai
+      - https://aiweekly.co/alerts/dreamteam-raises-53m-for-ai-native-crm-taking-on-salesforce
+  - fingerprint: genpact-onyx-agentic-operations-platform-process-intelligence-core-nov2026
+    title: "Genpact launches Onyx, betting that process know-how, not models, is the last mile for enterprise agents"
+    first_seen: 2026-11-19
+    digest: using-ai-for-business-productivity-2026-Nov-19.html
+    urls:
+      - https://www.constellationr.com/insights/news/genpact-launches-onyx-platform-process-intelligence-last-mile-ai-agents
+      - https://www.placera.se/pressmeddelanden/genpact-genpact-launches-genpact-onyx-the-agentic-operations-platform-for-building-running-and-governing-ai-agents-in-enterprise-operations-20261116
+      - https://www.newsweek.com/genpact-bk-kalra-agentic-ai-enterprise-operations-12050009
+      - https://www.genpact.com/solutions/onyx
   - fingerprint: microsoft-ignite-2026-autopilot-frontier-agentic-users-workspaces-cost-management-nov2026
     title: "Ignite 2026: Microsoft starts rolling out Autopilot, gives agents their own identities in Teams, and adds agent spending caps"
     first_seen: 2026-11-18
@@ -4571,6 +4616,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-19
+- **Fed opens its AI-and-productivity inquiry: Warsh sees an idea boom, Jefferson says the gains aren't visible yet** — Fed Chair Warsh opened an AI productivity conference at the SF Fed on 16 Nov (Productivity and Jobs Task Force). He argued for an AI-driven idea boom but warned of downside risk if AI returns don't arrive. Jefferson: too early to credit AI for productivity, citing a ~0.5% sales-per-employee gain over three years. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-19.html)
+- **Update: Nadella explains Microsoft's 60,000-person exit offer, and won't promise the jobs stay the same** — Nadella (18–19 Nov) framed the 60k-employee voluntary exit offer as reorganising Microsoft so everyone works with AI. He denied simply replacing staff with AI, but wouldn't promise roles stay the same. Updates the Nov-16 outage/staffing item. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-19.html)
+- **Banks put AI agents on a token budget as McKinsey warns agent spend could hit 20% of labour costs** — Reuters/McKinsey: agent token spend could reach ~20% of banks' labour costs. Banks are forming AI FinOps teams, and simple model routing fails once agents talk to each other (Sohoni). McKinsey says optimisation can cut servicing-agent costs by more than 80%. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-19.html)
+- **Ex-Freshworks team raises $53M for Dreamteam, an AI-native CRM that fills itself in** — Accel-led $53M seed+A for Dreamteam (founded 2025 by ex-Freshworks execs). Its Company Brain plus four AI coworkers auto-update the CRM, with reps approving draft cards. Plex chose it over HubSpot. The goal is to replace Salesforce and HubSpot, not add on to them. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-19.html)
+- **Genpact launches Onyx, betting that process know-how, not models, is the last mile for enterprise agents** — Genpact Onyx GA (16 Nov): an agentic operations platform built on a Process Intelligence Core that captures workflows, exceptions and human decisions. Agents handle volume while experts validate. It powers Genpact's finance, supply chain and banking offerings. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-19.html)
 
 ## 2026-Nov-18
 - **Ignite 2026: Microsoft starts rolling out Autopilot, gives agents their own identities in Teams, and adds agent spending caps** — Autopilot to Frontier, Agentic Users preview, Copilot Workspaces, Agent 365 cost controls. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-18.html)
