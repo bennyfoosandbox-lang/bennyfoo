@@ -2,10 +2,55 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-19
-run_count: 101
-digest_count: 98
+last_run: 2026-11-20
+run_count: 102
+digest_count: 99
 entries:
+  - fingerprint: nyt-campus-anti-ai-movement-transylvania-petition-nov2026
+    title: "The New York Times reports a growing anti-AI movement on US campuses, led by a student petition at Transylvania University"
+    first_seen: 2026-11-20
+    digest: ai-impact-on-education-2026-Nov-20.html
+    urls:
+      - https://en.sedaily.com/world/2026/11/19/us-campuses-push-back-against-ai-over-learning-concerns
+      - https://transyrambler.com/2026/03/30/student-led-group-petitions-the-university-to-drop-120000-contracts-with-ai-companies/
+      - https://aiweekly.co/alerts/nyt-anti-ai-campus-movement-grows-after-transylvania-university-petition-draws
+      - https://theprint.in/feature/columbia-anti-ai-american-colleges/2937735/
+      - https://www.kpbs.org/news/education/2026/10/20/sdsu-students-call-on-university-system-to-cancel-contract-with-openai
+  - fingerprint: korea-tax-accountant-exam-ai-cheating-confession-csat-glasses-regime-nov2026
+    title: "Korea’s tax-exam top scorer confesses to AI cheating, and the college entrance exam goes ahead under a ‘wearing glasses voids your test’ rule"
+    first_seen: 2026-11-20
+    digest: ai-impact-on-education-2026-Nov-20.html
+    urls:
+      - https://www.koreajoongangdaily.com/korea/ai-cheating-confession-puts-koreas-exams-under-scrutiny-ahead-of-csat/12974040
+      - https://www.koreajoongangdaily.com/korea/korea-puts-a-lens-on-ai-glasses-cheating-claims-in-tax-exam/12970223
+      - https://www.techrepublic.com/article/news-ai-cheating-exam-checks-apac-south-korea/
+      - https://www.aljazeera.com/news/2026/11/17/south-korea-cheating-scandal-are-ai-smart-glasses-a-threat-to-exams
+      - https://www.ytn.co.kr/_ln/0103_202611091443047005
+  - fingerprint: edweek-teachers-ai-professional-development-gaps-852-educators-nov2026
+    title: "EdWeek: two-thirds of educators have had AI training, but say it skips cheating, drawbacks and hands-on practice"
+    first_seen: 2026-11-20
+    digest: ai-impact-on-education-2026-Nov-20.html
+    urls:
+      - https://www.edweek.org/technology/teachers-pinpoint-whats-missing-in-professional-development-about-ai/2026/11
+      - https://www.edweek.org/teaching-learning/ai-raises-big-questions-for-the-future-of-teacher-education/2026/11
+  - fingerprint: sarasota-county-school-board-adopts-ai-policy-3-1-nov2026
+    title: "Update: Sarasota’s new school board adopts its AI policy 3–1 over student objections that it’s too vague"
+    first_seen: 2026-11-20
+    digest: ai-impact-on-education-2026-Nov-20.html
+    urls:
+      - https://www.wusf.org/education/2026-11-18/sarasota-school-district-board-adopts-ai-policy-students-object
+      - https://www.sarasotacountyschools.net/page/424-artificial-intelligence-acceptable-use
+      - https://www.mysuncoast.com/2026/10/27/sarasota-students-push-back-ai-schools/
+      - https://www.wptv.com/news/state/florida-adopts-classroom-ai-rules-requiring-parental-permission
+  - fingerprint: google-k12-search-ai-overviews-district-workarounds-fairfax-extension-nov2026
+    title: "Update: districts start building workarounds to Google’s AI-or-no-Search rule, from a Fairfax Chrome extension to LAUSD switching off AI Overviews"
+    first_seen: 2026-11-20
+    digest: ai-impact-on-education-2026-Nov-20.html
+    urls:
+      - https://www.edsurge.com/news/google-says-schools-cant-have-search-without-ai-some-are-finding-a-way
+      - https://www.edweek.org/technology/googles-new-rules-hand-schools-hard-choices-about-ai-and-search/2026/11
+      - https://fortune.com/2026/11/06/google-search-schools-banning-ai-edtech-backfire/
+      - https://chicago.suntimes.com/education/2026/11/11/what-to-know-about-cps-and-ai-as-chicago-students-risk-losing-access-to-google-search
   - fingerprint: baltimore-teens-sue-omnilert-ai-gun-detection-doritos-kenwood-nov2026
     title: "Four Baltimore-area teens sue after an AI gun detector mistook a bag of chips for a weapon"
     first_seen: 2026-11-19
@@ -3638,6 +3683,13 @@ entries:
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
 
+
+## 2026-Nov-20
+- **The New York Times reports a growing anti-AI movement on US campuses, led by a student petition at Transylvania University** — NYT: student/faculty AI-refusal movement; Transylvania petition (~1/3 of students) to drop ~$120k ChatGPT/Gemini licences; links to SDSU/CSU, Columbia, UK exemption. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-20.html)
+- **Korea’s tax-exam top scorer confesses to AI cheating, and the college entrance exam goes ahead under a ‘wearing glasses voids your test’ rule** — Tax accountant exam #1 scorer Han confesses (mini camera + gen-AI); YouTuber AI-glasses demo 160/160; CSAT 19 Nov wear=void + 1yr ban, ministry pushing 3yr + criminal referral; 4 school-exam glasses cases. No CSAT-day tally yet. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-20.html)
+- **EdWeek: two-thirds of educators have had AI training, but say it skips cheating, drawbacks and hands-on practice** — EdWeek Research Center (n=852): ~2/3 had >=1 AI PD session; gaps = one-and-done, no peer time/feedback, cheating & drawbacks unaddressed, optional attendance so skeptics skip. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-20.html)
+- **Update: Sarasota’s new school board adopts its AI policy 3–1 over student objections that it’s too vague** — Sarasota board adopts 7-page AI policy 3-1 (Mayberry dissent) on 17 Nov; students call it vague; aligns to Florida rule (districts must adopt by 1 Jul 2027). [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-20.html)
+- **Update: districts start building workarounds to Google’s AI-or-no-Search rule, from a Fairfax Chrome extension to LAUSD switching off AI Overviews** — Workarounds to Google's K-12 AI/Search coupling: Fairfax testing Chrome extension hiding AI Overviews; LAUSD disabled AI Overviews (EdSurge); CPS exploring suppression/alt search. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-20.html)
 
 ## 2026-Nov-19
 - **Four Baltimore-area teens sue after an AI gun detector mistook a bag of chips for a weapon** — Lawyers' Committee files 31-page complaint for Taki Allen and three others against Omnilert, Baltimore County Public Schools, police and officers over the Oct 2025 Kenwood High false alert; $2.6M contract runs to 2027. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-19.html)
