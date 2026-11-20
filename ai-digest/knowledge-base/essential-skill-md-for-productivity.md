@@ -2,10 +2,57 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-19
-run_count: 106
-digest_count: 106
+last_run: 2026-11-20
+run_count: 107
+digest_count: 107
 entries:
+  - fingerprint: google-skills-agent-registry-gemini-api-trim-cloud-operator-org-scoped-nov19
+    title: "Google adds an Agent Registry skill and cuts its Gemini API skill from 272 lines to 106"
+    first_seen: 2026-11-20
+    digest: essential-skill-md-for-productivity-2026-Nov-20.html
+    urls:
+      - https://github.com/google/skills/commit/5fb62c2
+      - https://github.com/google/skills/commit/dbabd35
+      - https://github.com/google/skills/commit/e96f207
+      - https://github.com/google/skills/blob/main/skills/cloud/agent-platform-agent-registry/SKILL.md
+  - fingerprint: awesome-copilot-postman-outlook-docspring-azure-observability-rereview-board-nov19
+    title: "awesome-copilot lists Postman, Outlook, DocSpring and Azure Observability plugins and adds a six-month re-review board"
+    first_seen: 2026-11-20
+    digest: essential-skill-md-for-productivity-2026-Nov-20.html
+    urls:
+      - https://github.com/github/awesome-copilot/pull/6515
+      - https://github.com/github/awesome-copilot/pull/6514
+      - https://github.com/github/awesome-copilot/pull/6513
+      - https://github.com/github/awesome-copilot/pull/6521
+      - https://github.com/littlebearapps/outlook-assistant
+      - https://github.com/DocSpring/skills
+      - https://github.com/microsoft/azure-skills
+  - fingerprint: claude-code-v2-1-329-hook-trust-warning-skills-folder-fix
+    title: "Claude Code 2.1.329 says where a folder's hooks come from and fixes skills folders that went unnoticed"
+    first_seen: 2026-11-20
+    digest: essential-skill-md-for-productivity-2026-Nov-20.html
+    urls:
+      - https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+      - https://code.claude.com/docs/en/changelog
+      - https://www.npmjs.com/package/@anthropic-ai/claude-code
+  - fingerprint: openai-codex-0-171-create-statusline-skill-plugin-skill-picker
+    title: "Codex 0.171.0 bundles a create-statusline skill and keeps plugin skill rankings across version changes"
+    first_seen: 2026-11-20
+    digest: essential-skill-md-for-productivity-2026-Nov-20.html
+    urls:
+      - https://github.com/openai/codex/releases/tag/rust-v0.171.0
+      - https://github.com/openai/codex/pull/62036
+      - https://github.com/openai/codex/pull/61871
+      - https://www.npmjs.com/package/@openai/codex
+  - fingerprint: openclaw-2026-11-10-beta-1-clawhub-agent-templates-claw-md
+    title: "OpenClaw beta installs agent templates, with their skill folders, from ClawHub"
+    first_seen: 2026-11-20
+    digest: essential-skill-md-for-productivity-2026-Nov-20.html
+    urls:
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.11.10-beta.1
+      - https://github.com/openclaw/openclaw/pull/195707
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.11.6
+      - https://www.npmjs.com/package/openclaw
   - fingerprint: google-skills-cicd-deploy-pipeline-release-terraform-compute-availability-nov18
     title: "Google adds four CI/CD skills to its library, with a secret scan required before any deploy"
     first_seen: 2026-11-19
@@ -3483,6 +3530,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-20
+- **Google adds an Agent Registry skill and cuts its Gemini API skill from 272 lines to 106** — On 19 Nov, Google's public skills repo added agent-platform-agent-registry. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-20.html)
+- **awesome-copilot lists Postman, Outlook, DocSpring and Azure Observability plugins and adds a six-month re-review board** — On 19 Nov, GitHub's awesome-copilot catalog approved four new external plugins, each pinned to an exact commit. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-20.html)
+- **Claude Code 2.1.329 says where a folder's hooks come from and fixes skills folders that went unnoticed** — Claude Code 2.1.329 came out on npm at 18:40 UTC on 19 Nov, and its changelog followed at 22:14. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-20.html)
+- **Codex 0.171.0 bundles a create-statusline skill and keeps plugin skill rankings across version changes** — OpenAI released Codex CLI 0.171.0 shortly before 01:00 UTC on 20 Nov, just after 19 Nov ended. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-20.html)
+- **OpenClaw beta installs agent templates, with their skill folders, from ClawHub** — OpenClaw published 2026.11.10-beta.1 on npm at 15:09 UTC on 19 Nov. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-20.html)
 
 ## 2026-Nov-19
 - **Google adds four CI/CD skills to its library, with a secret scan required before any deploy** — google/skills 18 Nov: google-cicd-deploy (secret scan, SPDX SBOM, Binary Authorization, Agent Registry), -pipeline-design, -release-orchestration, -terraform (2af5f95); compute-resource-availability-troubleshooting for ZONE_RESOURCE_POOL_EXHAUSTED stockouts (d2b18e8). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-19.html)
