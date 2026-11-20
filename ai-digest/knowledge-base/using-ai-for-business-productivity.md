@@ -2,10 +2,55 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-19
-run_count: 112
-digest_count: 112
+last_run: 2026-11-20
+run_count: 113
+digest_count: 113
 entries:
+  - fingerprint: kpmg-clara-intelligence-us-audits-ftse250-100-agent-trial-nov2026
+    title: "KPMG puts AI agents into US audits and runs a full FTSE 250 audit with more than 100 of them"
+    first_seen: 2026-11-20
+    digest: using-ai-for-business-productivity-2026-Nov-20.html
+    urls:
+      - https://insidepublicaccounting.com/2026/11/17/kpmg-launches-clara-intelligence-in-u-s/
+      - https://www.unite.ai/kpmg-clara-intelligence-ai-agents-us-audits/
+      - https://itpro.com/technology/artificial-intelligence/kpmg-says-ai-asks-better-questions-than-auditors-during-trial-scheme-but-concerns-remain
+      - https://www.internationalaccountingbulletin.com/news/kpmg-trials-ai-agents-to-audit-uk/
+      - https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/
+  - fingerprint: openai-chatgpt-for-accounting-plugin-quickbooks-xero-netsuite-nov2026
+    title: "OpenAI launches ChatGPT for Accounting, with plugins for QuickBooks, Xero, NetSuite and BILL"
+    first_seen: 2026-11-20
+    digest: using-ai-for-business-productivity-2026-Nov-20.html
+    urls:
+      - https://dataconomy.com/2026/11/19/openai-launches-chatgpt-for-accounting-with-finance/
+      - https://www.aninews.in/news/business/openai-launches-accounting-plugin-for-chatgpt-targets-bookkeeping-and-financial-reporting-tasks20261119123610/
+      - https://businessupturn.com/technology/openai-launches-chatgpt-for-accounting-with-quickbooks-xero-and-netsuite-connections/
+      - https://www.techbooky.com/openai-launches-chatgpt-for-accounting-with-quickbooks-and-xero-plugins/
+  - fingerprint: adecco-global-workforce-of-the-future-2026-integration-time-savings-training-drop-nov2026
+    title: "Adecco's survey of 40,500 workers: AI saves the most time where it is built into the workflow, but training is falling"
+    first_seen: 2026-11-20
+    digest: using-ai-for-business-productivity-2026-Nov-20.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/11/19/3406312/0/en/the-adecco-group-global-study-ai-delivers-more-value-when-people-are-involved-in-work-redesign.html
+      - https://news.europawire.eu/adecco-study-links-greater-ai-productivity-gains-to-integrated-workflows-and-employee-led-work-redesign/eu-press-release/2026/11/19/15/12/03/188735/
+      - https://www.newswire.com/news/the-adecco-group-global-study-ai-delivers-more-value-when-people-are-22890827
+      - https://www.manilatimes.net/2026/11/19/tmt-newswire/pr-newswire/the-adecco-group-global-study-ai-delivers-more-value-when-people-are-involved-in-work-redesign/2473746
+  - fingerprint: meta-ranking-engineer-agent-60pct-ads-technique-propagation-3x-productivity-nov2026
+    title: "Meta says agents now do more than 60% of the work of spreading improvements across its ads models"
+    first_seen: 2026-11-20
+    digest: using-ai-for-business-productivity-2026-Nov-20.html
+    urls:
+      - https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/
+      - https://superpowerdaily.com/posts/meta-says-ai-agents-handle-over-60-of-work-adapting-improvements-across-ad-models
+      - https://techbytes.app/posts/how-meta-uses-ai-agents-to-scale-ml-innovations-across/
+  - fingerprint: replit-missions-agent-swarm-budget-cap-approval-gates-nov2026
+    title: "Replit launches Missions: a team of agents that works toward a business goal within a set budget"
+    first_seen: 2026-11-20
+    digest: using-ai-for-business-productivity-2026-Nov-20.html
+    urls:
+      - https://www.technobezz.com/news/replit-missions-budgets-ai-agent-swarms
+      - https://runtimewire.com/article/replit-launches-missions-an-agent-swarm-that-works-to-a-budget-cap
+      - https://byteiota.com/replit-missions-agent-swarm/
+      - https://fourweekmba.com/ai-replit-says-missions-beat-a-claude-code-build-5x-on-traces/
   - fingerprint: fed-warsh-sf-fed-ai-productivity-jobs-task-force-conference-jefferson-nov2026
     title: "Fed opens its AI-and-productivity inquiry: Warsh sees an idea boom, Jefferson says the gains aren't visible yet"
     first_seen: 2026-11-19
@@ -4616,6 +4661,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-20
+- **KPMG puts AI agents into US audits and runs a full FTSE 250 audit with more than 100 of them** — 17 Nov: KCi rolled out across US audit (125+ US teams, ~500 globally); aims for all private-company audits in 2027. 18 Nov FT: Project Exponential ran a full FTSE 250 audit with 100+ agents next to a human audit; a human had to step in once; up to 20 larger trials planned. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-20.html)
+- **OpenAI launches ChatGPT for Accounting, with plugins for QuickBooks, Xero, NetSuite and BILL** — 18–19 Nov: Accounting plugin v1.0 for ChatGPT Work/Business drafts entries from invoices, categorises, gathers records for reconciliation, month-end reports, audit prep; ~8 partner apps (QuickBooks, Xero, BILL, FreshBooks, NetSuite, Rillet, Campfire); human approval required; Xero US-only. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-20.html)
+- **Adecco's survey of 40,500 workers: AI saves the most time where it is built into the workflow, but training is falling** — 19 Nov, 40,500 workers / 36 countries: well-integrated AI = ~20% more daily time saved, 7x less overwhelm; training participation 77%→67%; trained users 93% more productive vs 47% untrained; 96% vs 29% willing to adapt when involved in redesign. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-20.html)
+- **Meta says agents now do more than 60% of the work of spreading improvements across its ads models** — 18 Nov Meta engineering post: agents handle 60%+ of technique propagation across ads-ranking models since Mar 2026; secondary coverage reports ~3x adaptations per engineer and $45M+ projected compute savings (company estimates). [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-20.html)
+- **Replit launches Missions: a team of agents that works toward a business goal within a set budget** — 17 Nov: agent-swarm harness with objective + spend cap + approval gates and an AI judge; examples include legacy replacement and enterprise sales; vendor claims DataCat built in 2 days on $3k, up to 19x speedup with 32 agents; per-mission pricing unpublished. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-20.html)
 
 ## 2026-Nov-19
 - **Fed opens its AI-and-productivity inquiry: Warsh sees an idea boom, Jefferson says the gains aren't visible yet** — Fed Chair Warsh opened an AI productivity conference at the SF Fed on 16 Nov (Productivity and Jobs Task Force). He argued for an AI-driven idea boom but warned of downside risk if AI returns don't arrive. Jefferson: too early to credit AI for productivity, citing a ~0.5% sales-per-employee gain over three years. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-19.html)
