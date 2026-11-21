@@ -2,10 +2,51 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-20
-run_count: 107
-digest_count: 107
+last_run: 2026-11-21
+run_count: 108
+digest_count: 108
 entries:
+  - fingerprint: claude-code-2-1-330-skill-model-scope-stacked-skills-rewind-30-day-loops-nov20
+    title: "Claude Code 2.1.330 stops a skill's model setting spreading into subagents, and lets scheduled loops run for 30 days"
+    first_seen: 2026-11-21
+    digest: essential-skill-md-for-productivity-2026-Nov-21.html
+    urls:
+      - https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+      - https://code.claude.com/docs/en/changelog
+      - https://www.npmjs.com/package/@anthropic-ai/claude-code
+  - fingerprint: google-skills-event-driven-decoupling-solution-health-developer-plugin-api-gateway-nov20
+    title: "Google adds a 2,450-line Pub/Sub decoupling skill and a Google Health plugin that installs in five agents"
+    first_seen: 2026-11-21
+    digest: essential-skill-md-for-productivity-2026-Nov-21.html
+    urls:
+      - https://github.com/google/skills/commit/bf80eb9
+      - https://github.com/google/skills/commit/59ab873
+      - https://github.com/google/skills/commit/613a392
+      - https://github.com/google/skills/commit/ee54bb3
+      - https://github.com/google/skills/commits/main
+  - fingerprint: qwen-code-managed-agent-default-workspace-skills-pinned-nov20
+    title: "Qwen Code preview gives every new workspace session a set of default skills, pinned to exact revisions"
+    first_seen: 2026-11-21
+    digest: essential-skill-md-for-productivity-2026-Nov-21.html
+    urls:
+      - https://github.com/QwenLM/qwen-code/pull/17703
+      - https://github.com/QwenLM/qwen-code/releases
+      - https://www.npmjs.com/package/@qwen-code/qwen-code
+  - fingerprint: copilot-cli-1-0-115-2-skill-rewind-compaction-manifest-rejection-nov20
+    title: "Copilot CLI 1.0.115-2 keeps a rewound skill gone after compaction, and says why a plugin installed no skills"
+    first_seen: 2026-11-21
+    digest: essential-skill-md-for-productivity-2026-Nov-21.html
+    urls:
+      - https://github.com/github/copilot-cli/releases
+      - https://raw.githubusercontent.com/github/copilot-cli/main/changelog.md
+      - https://www.npmjs.com/package/@github/copilot
+  - fingerprint: mmgordon82-agent-skills-20261120-pack-skill-critique-adversarial-review
+    title: "A community pack of about 70 skills adds a skill-critique command that measures what your installed skills cost per session"
+    first_seen: 2026-11-21
+    digest: essential-skill-md-for-productivity-2026-Nov-21.html
+    urls:
+      - https://github.com/mmgordon82/agent-skills/releases/tag/20261120
+      - https://github.com/mmgordon82/agent-skills
   - fingerprint: google-skills-agent-registry-gemini-api-trim-cloud-operator-org-scoped-nov19
     title: "Google adds an Agent Registry skill and cuts its Gemini API skill from 272 lines to 106"
     first_seen: 2026-11-20
@@ -3530,6 +3571,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-21
+- **Claude Code 2.1.330 stops a skill's model setting spreading into subagents, and lets scheduled loops run for 30 days** — Claude Code 2.1.330 reached npm at 19:16 UTC on 20 Nov. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-21.html)
+- **Google adds a 2,450-line Pub/Sub decoupling skill and a Google Health plugin that installs in five agents** — Google's public skills repo had eight commits on 20 Nov. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-21.html)
+- **Qwen Code preview gives every new workspace session a set of default skills, pinned to exact revisions** — Qwen Code 0.28.1-preview.1 reached npm at 20:11 UTC on 20 Nov. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-21.html)
+- **Copilot CLI 1.0.115-2 keeps a rewound skill gone after compaction, and says why a plugin installed no skills** — GitHub published Copilot CLI 1.0.115-2 at 14:33 UTC on 20 Nov, with 1.0.115-3 following that evening. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-21.html)
+- **A community pack of about 70 skills adds a skill-critique command that measures what your installed skills cost per session** — The mmgordon82/agent-skills project tagged release 20261120 at 15:56 on 20 Nov. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-21.html)
+
+Note: I scanned about 100 candidate links from about 12 web searches, npm registry release timestamps, and recent release and commit pages for Claude Code, Codex, Copilot CLI, Gemini CLI, Qwen Code, OpenClaw, Hermes Agent, google/skills, anthropics/skills, addyosmani/agent-skills, obra/superpowers, vercel-labs/skills and github/awesome-copilot. Firecrawl was skipped as instructed. All five items are from 20 Nov, inside the 24-hour window. I skipped 7 candidates already in the knowledge base, including Codex 0.171.0, OpenClaw 2026.11.6 and 2026.11.10-beta.1, the awesome-copilot Azure Observability listing, the 19 Nov google/skills commits, the skills CLI 1.9 and Claude for Manufacturing. Leads held back: Codex 0.173.0 alphas and Gemini CLI 0.70.0 and 0.71.0-preview.0 had no skill notes. Hermes Agent v0.23.3 had no skill-specific notes in what I could read. The awesome-copilot plugin bumps on 20 Nov (Azure plugin family, Sumo Logic 1.1.0) were version bumps only.
 
 ## 2026-Nov-20
 - **Google adds an Agent Registry skill and cuts its Gemini API skill from 272 lines to 106** — On 19 Nov, Google's public skills repo added agent-platform-agent-registry. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-20.html)
