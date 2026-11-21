@@ -2,10 +2,49 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-20
-run_count: 102
-digest_count: 99
+last_run: 2026-11-21
+run_count: 103
+digest_count: 100
 entries:
+  - fingerprint: korea-csat-2027-98-device-violations-smart-glasses-tally-nov2026
+    title: "Update: Korea’s college entrance exam ends with 98 device violators, but only five caught actually using a device, one in smart glasses"
+    first_seen: 2026-11-21
+    digest: ai-impact-on-education-2026-Nov-21.html
+    urls:
+      - https://www.koreajoongangdaily.com/korea/98-testtakers-caught-cheating-on-college-entrance-exam-under-tightened-measures/12982143
+      - https://www.koreatimes.co.kr/southkorea/education/20261119/98-csat-test-takers-caught-in-cheating-crackdown
+      - https://www.koreaherald.com/article/10943227
+      - https://weekly.khan.co.kr/article/202611191906001
+      - https://www.thestandard.com.hk/world/article/349080/S-Korea-detects-98-violations-in-national-college-exam-including-AI-glasses-cheating
+      - https://www.koreajoongangdaily.com/korea/22-students-caught-with-smartphones-during-college-entrance-exam-after-emergency-alert/12980940
+  - fingerprint: uc-openai-systemwide-chatgpt-edu-codex-1-2m-senate-objects-nov2026
+    title: "University of California signs a $1.2M-a-year OpenAI deal giving every student ChatGPT Edu and Codex, over its Academic Senate’s objections"
+    first_seen: 2026-11-21
+    digest: ai-impact-on-education-2026-Nov-21.html
+    urls:
+      - https://www.universityofcalifornia.edu/press-room/uc-expands-collaboration-openai-offering-free-access-students-faculty-and-staff-secure
+      - https://edsource.org/2026/university-of-california-uc-openai-chatgpt-deal/771049
+      - https://www.yahoo.com/news/politics/articles/uc-inks-1-2m-openai-220030172.html
+      - https://www.oit.uci.edu/2026/11/20/uc-irvines-approach-to-the-uc-systemwide-openai-agreement/
+      - https://edsource.org/2026/cal-state-limits-ai-use/770514
+  - fingerprint: eu-council-education-ministers-ai-skills-conclusions-nov2026
+    title: "EU education ministers adopt conclusions putting AI literacy into curricula, assessment and teacher training across the bloc"
+    first_seen: 2026-11-21
+    digest: ai-impact-on-education-2026-Nov-21.html
+    urls:
+      - https://www.lovguiden.dk/en/det-offentlige/raadet-for-den-europaeiske-union/2026-11-19-eu-education-ministers-approve-conclusions-on-ai-skills-for-all-ages
+      - https://data.consilium.europa.eu/doc/document/ST-14902-2026-INIT/en/pdf
+      - https://polandinsight.com/eu-ai-skills-education-microsoft-365-costs-2026/
+      - https://www.euronews.com/2026/11/05/eu-plans-to-deliver-ai-literacy-certificates-to-students
+      - https://greekreporter.com/2026/11/06/eu-ai-literacy-certificate-education-skills/
+  - fingerprint: emory-claude-for-education-partnership-community-debate-nov2026
+    title: "Emory’s campus-wide Claude rollout draws questions about privacy and classroom oversight"
+    first_seen: 2026-11-21
+    digest: ai-impact-on-education-2026-Nov-21.html
+    urls:
+      - https://www.emorywheel.com/article/community-weighs-benefits-drawbacks-of-university-partnership-with-claude-20261118
+      - https://welcome.ai/content/emory-university-integrates-claude-edu-to-enhance-ai-in-education
+      - https://www.emorywheel.com/article/2025/10/3-years-after-launch-emory-is-still-grappling-with-chatgpt
   - fingerprint: nyt-campus-anti-ai-movement-transylvania-petition-nov2026
     title: "The New York Times reports a growing anti-AI movement on US campuses, led by a student petition at Transylvania University"
     first_seen: 2026-11-20
@@ -3683,6 +3722,12 @@ entries:
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
 
+
+## 2026-Nov-21
+- **Update: Korea’s college entrance exam ends with 98 device violators, but only five caught actually using a device, one in smart glasses** — Update to Nov-20 CSAT item: ministry preliminary tally 98 device violators (93 possession, 5 use: 1 smart glasses S. Chungcheong, 1 mini-camera+earphones Yongin, 1 phone photo of paper, 2 phone in toilet); +14 vs last year; no AI use confirmed; penalties before 11 Dec scores; ban 1→3 yrs pushed. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-21.html)
+- **University of California signs a $1.2M-a-year OpenAI deal giving every student ChatGPT Edu and Codex, over its Academic Senate’s objections** — UCOP 19 Nov: systemwide ChatGPT Edu + Codex for all students/faculty/staff, ~$1.2M/yr, 1-yr from 1 Dec; unlimited base models, 20% credit discount, Codex fee waived; Senate chair Susannah Scott calls it unwise; Milliken proceeds; UCI OIT 20 Nov. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-21.html)
+- **EU education ministers adopt conclusions putting AI literacy into curricula, assessment and teacher training across the bloc** — EYCS Council 19 Nov approves conclusions on AI skills: AI literacy into curricula/assessment/teacher training/adult learning; DigComp 3.0, EU-OECD framework, AI Act; digital sovereignty; follows Commission 5 Nov AI Literacy Certificate (15-year-olds, pilot 2027/28). [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-21.html)
+- **Emory’s campus-wide Claude rollout draws questions about privacy and classroom oversight** — Emory joins Claude for Education (free standard licences, $50/mo premium per secondary report); Emory Wheel 18 Nov: community split on privacy/classroom oversight; no institution-wide AI policy. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-21.html)
 
 ## 2026-Nov-20
 - **The New York Times reports a growing anti-AI movement on US campuses, led by a student petition at Transylvania University** — NYT: student/faculty AI-refusal movement; Transylvania petition (~1/3 of students) to drop ~$120k ChatGPT/Gemini licences; links to SDSU/CSU, Columbia, UK exemption. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-20.html)
