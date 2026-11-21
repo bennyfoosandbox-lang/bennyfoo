@@ -2,10 +2,55 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-20
-run_count: 113
-digest_count: 113
+last_run: 2026-11-21
+run_count: 114
+digest_count: 114
 entries:
+  - fingerprint: citi-citizens-customers-liable-third-party-ai-agents-terms-nov2026
+    title: "Update: Citi and Citizens make customers liable for whatever outside AI agents do in their accounts, hacks included"
+    first_seen: 2026-11-21
+    digest: using-ai-for-business-productivity-2026-Nov-21.html
+    urls:
+      - https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/
+      - https://cryptobriefing.com/citibank-customers-liable-ai-agent-risks/
+      - https://thepaypers.com/fintech/news/citi-and-bank-of-america-restrict-ai-agents-from-accessing-accounts
+      - https://www.americanbanker.com/news/banks-are-blocking-external-ai-agents-is-this-sustainable
+  - fingerprint: microsoft-ai-transparency-initiative-40-partners-see-verify-control-nov2026
+    title: "Microsoft launches an AI Transparency Initiative with 40+ firms to make agent actions auditable across vendors"
+    first_seen: 2026-11-21
+    digest: using-ai-for-business-productivity-2026-Nov-21.html
+    urls:
+      - https://www.prnewswire.com/il/news-releases/microsoft-and-organizations-across-industries-launch-ai-transparency-initiative-to-strengthen-enterprise-trust-in-ai-models-and-agents-302942660.html
+      - https://www.channelinsider.com/ai/news-microsoft-ai-transparency-initiative-msp-agent-governance/
+      - https://yourstory.com/ai-story/ai-transparency-initiative-microsoft-enterprise-trust
+      - https://letsdatascience.com/news/microsoft-launches-ai-transparency-initiative-with-more-than-336eb19d
+  - fingerprint: lse-protiviti-ai-at-work-2026-48pct-judged-not-using-ai-workload-creep-nov2026
+    title: "LSE and Protiviti: AI saves users a fifth of their week, but nearly half fear being judged for not using it enough"
+    first_seen: 2026-11-21
+    digest: using-ai-for-business-productivity-2026-Nov-21.html
+    urls:
+      - https://www.protiviti.com/us-en/press-release-ai-at-work-lse-protiviti-research
+      - https://www.onrec.com/node/130211
+      - https://www.webull.com/news/15937798209138688
+      - https://www.lse.ac.uk/tii/assets/documents/Bridging-the-AI-Generational-Gap.pdf
+  - fingerprint: cognition-devin-bots-manager-agents-supervise-devin-teams-nov2026
+    title: "Cognition launches Devin Bots, long-running manager agents that run teams of coding agents"
+    first_seen: 2026-11-21
+    digest: using-ai-for-business-productivity-2026-Nov-21.html
+    urls:
+      - https://fortune.com/2026/11/17/exclusive-cognition-bets-on-devin-bots-coding-agents-in-challenge-to-anthropics-duet-and-openais-dots/
+      - https://aiweekly.co/alerts/cognition-launches-devin-bots-to-oversee-teams-of-devin-agents
+      - https://alphasignal.ai/news/cognition-s-devin-bots-now-run-parallel-coding-sessions-hitting-2-000-pull
+      - https://cryptobriefing.com/cognition-launches-devin-bots-ai-coding/
+  - fingerprint: nvidia-q3-fy27-earnings-115b-enterprise-bucket-195pct-agentic-demand-nov2026
+    title: "Nvidia's $115.8B quarter: AI demand from enterprises and smaller clouds is now growing faster than from hyperscalers"
+    first_seen: 2026-11-21
+    digest: using-ai-for-business-productivity-2026-Nov-21.html
+    urls:
+      - https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/
+      - https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000088/q3fy27pr.htm
+      - https://pymnts.com/earnings/2026/nvidia-signals-business-as-usual-under-interim-ceo
+      - https://xenospectrum.com/en/nvidia-fy2027-q3-data-center-growth/
   - fingerprint: kpmg-clara-intelligence-us-audits-ftse250-100-agent-trial-nov2026
     title: "KPMG puts AI agents into US audits and runs a full FTSE 250 audit with more than 100 of them"
     first_seen: 2026-11-20
@@ -4661,6 +4706,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-21
+- **Update: Citi and Citizens make customers liable for whatever outside AI agents do in their accounts, hacks included** — 18 Nov (TechCrunch): Citi's new Online User Agreement section makes customers responsible for third-party agent actions, including leaked credentials/hacks; Citi's own agents carry no added liability; Citizens emailed similar warning; PNC reportedly too. Update to Oct-23 bank-block item. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-21.html)
+- **Microsoft launches an AI Transparency Initiative with 40+ firms to make agent actions auditable across vendors** — 17 Nov Ignite: 40+ orgs (Accenture, Adobe, KPMG, Mastercard, Volvo Cars); See/Verify/Control framework for portable evidence of agent identity, delegated intent and actions; more NIST agent-standards work; to fold into Microsoft AI, Foundry, Copilot. No draft spec or dates yet. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-21.html)
+- **LSE and Protiviti: AI saves users a fifth of their week, but nearly half fear being judged for not using it enough** — 17 Nov, 3rd annual LSE Inclusion Initiative/Protiviti report, 3,001 professionals (Mar–May 2026): 74% use AI at work (29% in 2024); users save ~19% of workweek, 72% reinvested into work; 48% fear being judged for not using AI enough vs 20% for using it; 'workload creep' warning. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-21.html)
+- **Cognition launches Devin Bots, long-running manager agents that run teams of coding agents** — 17 Nov: Devin Bots keep project memory, split work and dispatch to Devin instances over days/weeks; pick cheaper models for routine code; QA Bot → Developer Bot handoffs; beta claims 4.5x more merged PRs per message, ~2,000 PRs/week; positioned vs Anthropic Duet / OpenAI Dots. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-21.html)
+- **Nvidia's $115.8B quarter: AI demand from enterprises and smaller clouds is now growing faster than from hyperscalers** — 17 Nov Q3 FY27: revenue $115.8B (+103%), data center $107.6B (+110%); 'AI Clouds, Industrial & Enterprise' $47.5B (+195% vs hyperscale +71%); mgmt expects enterprise revenue to more than double in FY28; agentic workloads ~80% of OpenRouter tokens; Q4 guide $130B; Kress interim CEO. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-21.html)
 
 ## 2026-Nov-20
 - **KPMG puts AI agents into US audits and runs a full FTSE 250 audit with more than 100 of them** — 17 Nov: KCi rolled out across US audit (125+ US teams, ~500 globally); aims for all private-company audits in 2027. 18 Nov FT: Project Exponential ran a full FTSE 250 audit with 100+ agents next to a human audit; a human had to step in once; up to 20 larger trials planned. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-20.html)
