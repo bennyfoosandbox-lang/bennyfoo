@@ -1073,6 +1073,89 @@ textarea.tool-text[readonly] { background: var(--band); }
 
 /* ---------- Responsive ---------- */
 
+/* ---------- Portfolio (portfolio/) — built on .util-hero / .util-section ---------- */
+
+.pf-jump { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 1.8rem; }
+
+.pf-project { margin-bottom: clamp(3rem, 8vh, 5rem); scroll-margin-top: 1.5rem; }
+.pf-project:last-of-type { margin-bottom: 0; }
+
+.pf-head {
+  background: var(--paper-raised);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-card);
+  padding: clamp(1.6rem, 3.5vw, 2.6rem);
+}
+.pf-head h2 { font-size: clamp(1.8rem, 3.4vw, 2.6rem); font-weight: 900; margin: 0.5rem 0 0.8rem; }
+.pf-lede { font-size: clamp(1rem, 1.4vw, 1.12rem); color: var(--text-muted); max-width: 62ch; line-height: 1.55; }
+.pf-head .btn { margin-top: 1.4rem; }
+
+.pf-facts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 1rem 1.5rem;
+  margin-top: 1.8rem;
+  padding-top: 1.4rem;
+  border-top: 1px solid var(--hairline);
+}
+.pf-facts dt {
+  font-family: var(--mono);
+  font-size: 0.74rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--accent);
+}
+.pf-facts dd { margin: 0.3rem 0 0; font-weight: 700; font-size: 0.98rem; line-height: 1.4; }
+
+.pf-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+.pf-block {
+  background: var(--paper-raised);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-card);
+  padding: clamp(1.5rem, 3vw, 2.2rem);
+}
+.pf-block h3 { font-size: 1.25rem; font-weight: 700; margin: 0.5rem 0 0.9rem; }
+.pf-block p, .pf-block li { font-size: 0.96rem; color: var(--text-muted); line-height: 1.55; }
+.pf-block p + p { margin-top: 0.8rem; }
+.pf-block ul { margin: 0; padding-left: 1.1rem; display: flex; flex-direction: column; gap: 0.65rem; }
+.pf-block li::marker { color: var(--accent); }
+.pf-block b { color: var(--text); font-weight: 700; }
+
+.pf-cite {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  color: var(--accent);
+  text-decoration: none;
+  vertical-align: super;
+  line-height: 0;
+  margin-left: 1px;
+}
+.pf-cite:hover { text-decoration: underline; }
+
+.pf-sources {
+  margin-top: 1.5rem;
+  padding: 1.1rem 1.4rem;
+  border: 1px dashed var(--hairline);
+  border-radius: var(--radius-card);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+.pf-sources h4 {
+  font-family: var(--mono);
+  font-size: 0.74rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  margin-bottom: 0.6rem;
+}
+.pf-sources ol { margin: 0; padding-left: 1.4rem; display: flex; flex-direction: column; gap: 0.3rem; }
+.pf-sources a { color: var(--accent); }
+
 @media (max-width: 900px) {
   /* nav: hamburger + dropdown on the light stage */
   .nav { gap: 1rem; }
@@ -1159,6 +1242,7 @@ textarea.tool-text[readonly] { background: var(--band); }
   .tool-grid { grid-template-columns: 1fr; }
   .tool-text { min-height: 220px; }
   .digest-run { flex-direction: column; align-items: flex-start; gap: 0.3rem; }
+  .pf-grid { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 560px) {
