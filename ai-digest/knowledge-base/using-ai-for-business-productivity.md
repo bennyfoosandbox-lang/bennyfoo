@@ -2,10 +2,49 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-21
-run_count: 114
-digest_count: 114
+last_run: 2026-11-22
+run_count: 115
+digest_count: 115
 entries:
+  - fingerprint: conference-board-ai-workforce-planning-11pct-enterprise-wide-5pct-headcount-up-nov2026
+    title: "Conference Board: only 11% of firms have written AI into their workforce plans, and just 5% expect it to add jobs"
+    first_seen: 2026-11-22
+    digest: using-ai-for-business-productivity-2026-Nov-22.html
+    urls:
+      - https://www.conference-board.org/press/ai-implications-workforce-planning
+      - https://www.hcamag.com/au/news/general/only-5-of-leaders-expect-ai-to-hike-headcount-over-the-next-two-years/598012
+      - https://www.hrreporter.com/focus-areas/automation-ai/just-1-in-10-employers-factor-ais-impact-into-workforce-plans-report/395177
+  - fingerprint: snaplogic-agentic-readiness-index-54pct-abandoned-unclear-value-89pct-overspend-nov2026
+    title: "SnapLogic: more than half of enterprises have abandoned agentic AI projects because the business value was unclear"
+    first_seen: 2026-11-22
+    digest: using-ai-for-business-productivity-2026-Nov-22.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/11/17/3404301/0/en/new-research-reveals-54-of-enterprises-have-abandoned-agentic-ai-projects-due-to-unclear-business-value.html
+      - https://techradar.com/pro/enterprises-need-to-connect-ai-to-the-right-data-report-finds-over-half-of-firms-have-abandoned-ai-projects-over-unclear-goals
+      - https://www.cdomagazine.tech/aiml/snaplogic-survey-finds-enterprises-abandon-agentic-ai-projects-over-unclear-business-value
+  - fingerprint: slingshot-digital-work-trends-2026-ai-first-instinct-51pct-68pct-managers-require-nov2026
+    title: "Slingshot: AI has become the first instinct for half of employees, and 68% of managers now require its use"
+    first_seen: 2026-11-22
+    digest: using-ai-for-business-productivity-2026-Nov-22.html
+    urls:
+      - https://globenewswire.com/news-release/2026/11/19/3406624/0/en/ai-is-now-first-instinct-for-51-of-employees-not-a-last-resort.html
+      - https://vmblog.com/?p=92250
+      - https://www.unite.ai/?p=527183
+  - fingerprint: langsmith-tool-gateway-public-beta-agent-tool-credentials-audit-nov2026
+    title: "LangChain opens LangSmith Tool Gateway, one control point for the credentials and tool calls of every agent"
+    first_seen: 2026-11-22
+    digest: using-ai-for-business-productivity-2026-Nov-22.html
+    urls:
+      - https://langchain.com/blog/langsmith-tool-gateway
+      - https://docs.langchain.com/langsmith/tool-gateway
+      - https://www.unite.ai/?p=526485
+  - fingerprint: staffbase-forrester-frontline-information-gap-48pct-productivity-nov2026
+    title: "Staffbase–Forrester: information gaps hurt the productivity of nearly half of frontline workers, who want AI answers to fix it"
+    first_seen: 2026-11-22
+    digest: using-ai-for-business-productivity-2026-Nov-22.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/11/18/3405972/0/en/the-ai-paradox-48-of-operational-workers-see-their-productivity-hindered-by-a-lack-of-information.html
+      - https://chainstoreage.com/survey-frontline-workers-say-information-gaps-lead-decreased-productivity
   - fingerprint: citi-citizens-customers-liable-third-party-ai-agents-terms-nov2026
     title: "Update: Citi and Citizens make customers liable for whatever outside AI agents do in their accounts, hacks included"
     first_seen: 2026-11-21
@@ -4706,6 +4745,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-22
+- **Conference Board: only 11% of firms have written AI into their workforce plans, and just 5% expect it to add jobs** — 18 Nov, Conference Board survey of 775 international leaders + interviews: 11% have built AI's expected effects into enterprise-wide workforce and financial plans; 35% for some functions/units; 34% still discussing; 13% not assessing. 47% expect fewer FTEs over two years, 5% more. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-22.html)
+- **SnapLogic: more than half of enterprises have abandoned agentic AI projects because the business value was unclear** — 17 Nov, SnapLogic 2026 Agentic Enterprise Readiness Index (3GEM, fielded Jul 21–Aug 4): 54% abandoned agentic projects over unclear value; 48% struggle to measure returns; 89% report agent overspend; only 42% can forecast token spend; governance readiness 88/100 vs value-realisation 48/100. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-22.html)
+- **Slingshot: AI has become the first instinct for half of employees, and 68% of managers now require its use** — 19 Nov, Slingshot Digital Work Trends Report 2026 Part 1 (Dynata, Q4 2026, 300 US employees + 200 managers): 51% of employees / 66% of managers use AI habitually; 52% reach for it first; 68% of managers require AI use (59% in 2025); 51% of managers think staff would struggle without AI vs 26% of employees. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-22.html)
+- **LangChain opens LangSmith Tool Gateway, one control point for the credentials and tool calls of every agent** — 19 Nov, LangSmith Tool Gateway public beta (Plus/Enterprise): managed layer between agents and tools; identity/access per tool call; admin credential profiles reused by background agents; metadata traces (no payloads); audit log of calls and config changes (Enterprise); 100 rps, bursts to 1,000. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-22.html)
+- **Staffbase–Forrester: information gaps hurt the productivity of nearly half of frontline workers, who want AI answers to fix it** — 18 Nov, Staffbase-commissioned Forrester Opportunity Snapshot 'The Frontline Experience in 2027' (retail, healthcare, manufacturing, transport/logistics): 48% of frontline workers/managers report lower productivity from information gaps; 35% hit conflicting/outdated info weekly+; 47% rank AI-powered answers/guidance in their top 3 wanted capabilities. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-22.html)
 
 ## 2026-Nov-21
 - **Update: Citi and Citizens make customers liable for whatever outside AI agents do in their accounts, hacks included** — 18 Nov (TechCrunch): Citi's new Online User Agreement section makes customers responsible for third-party agent actions, including leaked credentials/hacks; Citi's own agents carry no added liability; Citizens emailed similar warning; PNC reportedly too. Update to Oct-23 bank-block item. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-21.html)
