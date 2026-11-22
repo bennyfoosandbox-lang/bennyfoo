@@ -2,9 +2,9 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-21
-run_count: 108
-digest_count: 108
+last_run: 2026-11-22
+run_count: 109
+digest_count: 109
 entries:
   - fingerprint: claude-code-2-1-330-skill-model-scope-stacked-skills-rewind-30-day-loops-nov20
     title: "Claude Code 2.1.330 stops a skill's model setting spreading into subagents, and lets scheduled loops run for 30 days"
@@ -3566,11 +3566,60 @@ entries:
     digest: essential-skill-md-for-productivity-2026-Oct-30.html
     urls:
       - https://github.com/SkillMedev/skills
+  - fingerprint: perplexity-brain-self-improving-personal-skills-nov18
+    title: "Perplexity's Brain now writes and updates personal skills for you, on by default for US Max subscribers"
+    first_seen: 2026-11-22
+    digest: essential-skill-md-for-productivity-2026-Nov-22.html
+    urls:
+      - https://www.perplexity.ai/hub/blog/self-improving-skills
+      - https://x.com/perplexity_ai/status/2123449395882701224
+      - https://www.unite.ai/perplexity-brain-creates-and-updates-agent-skills-from-experience/
+      - https://fourweekmba.com/ai-perplexity-brain-writes-skills-for-72-9-of-users-vs-6-5/
+  - fingerprint: google-skills-api-gateway-trim-single-lockdown-command-nov21
+    title: "Google cuts its four API Gateway skills by 176 lines and replaces a multi-step lockdown with one command"
+    first_seen: 2026-11-22
+    digest: essential-skill-md-for-productivity-2026-Nov-22.html
+    urls:
+      - https://github.com/google/skills/commit/4bb21eb
+      - https://github.com/google/skills/commits/main
+  - fingerprint: qwen-code-0-28-3-stable-default-skills-degraded-components-nov21
+    title: "Qwen Code 0.28.3 brings default workspace skills to the stable release, and lets mixed packages load in content-only runtimes"
+    first_seen: 2026-11-22
+    digest: essential-skill-md-for-productivity-2026-Nov-22.html
+    urls:
+      - https://github.com/QwenLM/qwen-code/releases
+      - https://github.com/QwenLM/qwen-code/pull/17944
+      - https://github.com/QwenLM/qwen-code/pull/17703
+      - https://www.npmjs.com/package/@qwen-code/qwen-code
+  - fingerprint: claude-plugins-official-code-modernization-1-1-0-target-version-lookup-nov20
+    title: "Anthropic's code-modernization plugin now looks up supported versions instead of guessing them"
+    first_seen: 2026-11-22
+    digest: essential-skill-md-for-productivity-2026-Nov-22.html
+    urls:
+      - https://github.com/anthropics/claude-plugins-official/pull/7170
+      - https://github.com/anthropics/claude-plugins-official/commit/d7d3279
+      - https://github.com/anthropics/claude-plugins-official/commits/main
+  - fingerprint: copilot-cli-1-0-115-4-6-plugin-init-race-org-required-retry-nov21
+    title: "Copilot CLI 1.0.115-4 and -6 fix a plugin startup race and retry org-required plugin installs straight away"
+    first_seen: 2026-11-22
+    digest: essential-skill-md-for-productivity-2026-Nov-22.html
+    urls:
+      - https://github.com/github/copilot-cli/releases
+      - https://www.npmjs.com/package/@github/copilot
 ---
 
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-22
+- **Perplexity's Brain now writes and updates personal skills for you, on by default for US Max subscribers** — Perplexity Brain auto-creates/updates personal skills from sessions (US Max, default on); proposals + deterministic checks + sampled AI judge, cap 10 auto skills/user; 80,000+ skills for 20,000+ users (1 Aug-14 Nov), 100,000+ updates to 30,000+ skills; RCT 72.9% vs 6.5%; SkillLearnBench 43.8%->62.5%. 18-19 Nov (7d fallback). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-22.html)
+- **Google cuts its four API Gateway skills by 176 lines and replaces a multi-step lockdown with one command** — google/skills 4bb21eb (21 Nov): 4 API Gateway skills, 18 files +224/-400; lockdown replaced by one gcloud run services update --no-allow-unauthenticated after gateway serves config; x-api-key header first; no '- {}' to make OAuth2/JWT optional. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-22.html)
+- **Qwen Code 0.28.3 brings default workspace skills to the stable release, and lets mixed packages load in content-only runtimes** — Qwen Code 0.28.3 (21 Nov 02:07 UTC): default pinned workspace skills to stable (#17703, update of preview item); #17944 content-only runtimes load skill+hook/MCP packages with hooks/MCP inactive and per-package degradedComponents; nightly #15786 UTF-8 BOM manifest fix. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-22.html)
+- **Anthropic's code-modernization plugin now looks up supported versions instead of guessing them** — claude-plugins-official PR #7170 (merged 20 Nov, d7d3279): code-modernization 1.1.0 looks up target versions via shared references/target-versions.md; Target versions table (EOL, source, checked date, status); user-named versions kept with warning; 'unverified' rows need human pin; architecture-critic has no web tools. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-22.html)
+- **Copilot CLI 1.0.115-4 and -6 fix a plugin startup race and retry org-required plugin installs straight away** — Copilot CLI 1.0.115-4 (21 Nov 01:53 UTC) fixes plugin init race blocking new/resumed sessions; 1.0.115-6 (20:57 UTC) org-required plugins install on next attempt after temporary policy change; 1.0.115-5 no skill/plugin changes. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-22.html)
+
+Note: Scanned about 100 candidate links from about 14 web searches, npm registry release timestamps, and recent release and commit pages for Claude Code, Codex, Copilot CLI, Gemini CLI, Qwen Code, OpenClaw, Hermes Agent, google/skills, anthropics/skills, anthropics/claude-plugins-official, addyosmani/agent-skills, vercel-labs/skills, openai/skills and github/awesome-copilot. Firecrawl was skipped as instructed (web search only). 21 Nov was a quiet Saturday, so items 2, 3 and 5 are from the last 24 hours, item 4 from 20 Nov, and item 1 (Perplexity, 18–19 Nov) comes from the 7-day fallback. Skipped 9 candidates already in the knowledge base, including Claude Code 2.1.330, Codex 0.171.0, Hermes Agent v0.23.3, Addy Osmani's agent-skills 0.6.17, the 20 Nov google/skills and awesome-copilot commits, Anthropic's Office skills follow-up, Claude for Manufacturing and the Adversa November security roundup. Leads held back: Kaseya's 17 prebuilt MSP skills with three MCP servers (early access from 17 Nov, alpha), Codex 0.173.0 alphas and Gemini CLI nightlies (no skill notes), and the theme-examples plugin sound update (#7191), which is not about skills.
 
 ## 2026-Nov-21
 - **Claude Code 2.1.330 stops a skill's model setting spreading into subagents, and lets scheduled loops run for 30 days** — Claude Code 2.1.330 reached npm at 19:16 UTC on 20 Nov. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-21.html)
