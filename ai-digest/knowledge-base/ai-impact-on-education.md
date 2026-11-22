@@ -2,10 +2,62 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-21
-run_count: 103
-digest_count: 100
+last_run: 2026-11-22
+run_count: 104
+digest_count: 101
 entries:
+  - fingerprint: korea-education-minister-choi-resigns-csat-ai-cheating-111-cases-bounty-nov2026
+    title: "Update: Korea’s education minister resigns over the exam AI-cheating crackdown, as the final tally reaches 111 cases"
+    first_seen: 2026-11-22
+    digest: ai-impact-on-education-2026-Nov-22.html
+    urls:
+      - https://www.koreajoongangdaily.com/korea/lee-accepts-education-ministers-resignation-after-csat-anticheating-measures-trigger-nationwide-confusion/12984387
+      - https://www.koreajoongangdaily.com/korea/education-minister-offers-to-resign-following-csat-confusion/12984238
+      - https://www.koreatimes.co.kr/southkorea/education/20261122/education-minister-resigns-amid-backlash-over-csat-anti-cheating-measures
+      - https://news.sbs.co.kr/english/article.do?news_id=N1008858088
+      - https://www.yahoo.com/news/world/articles/south-korea-catches-111-students-101730856.html
+      - https://www.koreatimes.co.kr/southkorea/politics/20261121/lee-reiterates-75000-reward-for-reporting-cheating-on-csat
+      - https://www.koreaherald.com/article/10944726
+      - https://www.koreajoongangdaily.com/korea/lee-orders-a-to-z-overhaul-of-state-exams-after-ai-cheating-on-csat/12976880
+      - https://www.khan.co.kr/en/article/202611221707037/
+      - https://tribune.com.pk/story/2641688/south-korean-education-minister-offers-to-resign-amid-ai-assisted-cheating-controversy
+  - fingerprint: google-employees-awu-petition-ai-free-search-schools-nov2026
+    title: "Google’s own employees petition the company to let schools keep Search without its AI"
+    first_seen: 2026-11-22
+    digest: ai-impact-on-education-2026-Nov-22.html
+    urls:
+      - https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy
+      - https://engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools/
+      - https://thenextweb.com/news/google-workers-petition-schools-search-without-ai
+      - https://gizmodo.com/google-employees-petition-to-let-schools-use-search-without-ai-2000842549
+      - https://fortune.com/2026/11/21/google-search-ai-overviews-schools-chicago-nyc-los-angeles-miami/
+  - fingerprint: cfa-97-percent-strike-authorization-ai-protections-csu-nov2026
+    title: "Update: 97% of voting Cal State faculty back a strike, with AI protections among the core demands"
+    first_seen: 2026-11-22
+    digest: ai-impact-on-education-2026-Nov-22.html
+    urls:
+      - https://www.calfac.org/cfa-members-vote-yes-to-authorize-a-strike/
+      - https://timesofsandiego.com/education/2026/11/22/ai-should-be-used-for-administrative-tasks-not-teaching-students-cal-state-faculty-says/
+      - https://laist.com/brief/news/education/csu-faculty-union-seeks-strike-authority-as-contract-talks-stall
+      - https://www.kalw.org/bay-area-news/2026-10-26/california-state-university-faculty-union-prepares-to-strike
+  - fingerprint: woods-charter-nc-ai-deepfake-nudes-47-students-14-staff-nov2026
+    title: "A North Carolina charter school finds AI nude images made from photos of 47 students and 14 staff"
+    first_seen: 2026-11-22
+    digest: ai-impact-on-education-2026-Nov-22.html
+    urls:
+      - https://wral.com/news/local/juvenile-used-ai-make-nude-images-chatham-county-woods-charter-students-staff-november-2026
+      - https://www.wspa.com/news/minor-used-ai-to-make-trade-nude-photos-of-students-and-staff-school-says/
+      - https://thencbeat.com/woods-charter-school-ai-nudes-under-investigation/
+      - https://www.wafb.com/2026/11/20/st-landry-parish-teacher-accused-possessing-producing-child-porn-making-ai-sexual-images/
+  - fingerprint: missouri-st-first-undergrad-ai-degree-lasalle-northwestern-nov2026
+    title: "More AI undergraduate degrees: Missouri S&T gets the state’s first, and Singapore’s LASALLE adds two for artists"
+    first_seen: 2026-11-22
+    digest: ai-impact-on-education-2026-Nov-22.html
+    urls:
+      - https://www.stlpr.org/news-briefs/2026-11-19/missouri-s-t-first-undergraduate-degree-artificial-intelligence
+      - https://www.kcur.org/education/2026-11-22/missouri-s-t-will-soon-offer-the-states-first-undergraduate-degree-in-artificial-intelligence
+      - https://danamic.org/2026/11/20/lasalles-two-new-ai-degrees-open-for-applications-with-classes-from-august-2027/
+      - https://dailynorthwestern.com/2026/11/22/lateststories/years-in-the-making-northwesterns-ai-major-takes-shape-in-its-first-quarter/
   - fingerprint: korea-csat-2027-98-device-violations-smart-glasses-tally-nov2026
     title: "Update: Korea’s college entrance exam ends with 98 device violators, but only five caught actually using a device, one in smart glasses"
     first_seen: 2026-11-21
@@ -3722,6 +3774,13 @@ entries:
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
 
+
+## 2026-Nov-22
+- **Update: Korea’s education minister resigns over the exam AI-cheating crackdown, as the final tally reaches 111 cases** — Update to Nov-21 CSAT tally: Education Minister Choi Kyo-jin resigned 22 Nov (accepted by President Lee) over last-minute anti-cheating changes + Assembly remarks; final 111 suspected device cases (from provisional 98); Lee reiterates >=100M-won whistleblower reward per case x offenders, leniency for self-reporting; 'A to Z' exam overhaul; unions call for assessment reform. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-22.html)
+- **Google’s own employees petition the company to let schools keep Search without its AI** — New angle on Google K-12 AI-or-no-Search rule: Alphabet Workers Union petition (>550 per NPR; 540+ per Bloomberg/TNW; 500+ per Engadget) asks Phillips/Pichai/Search head to allow AI-free Search for schools; Fortune 21 Nov: NYC, LA, Chicago (3 of 4 largest districts) weighing alternatives, Miami-Dade silent. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-22.html)
+- **Update: 97% of voting Cal State faculty back a strike, with AI protections among the core demands** — Update to Nov-14 CSU item: CFA strike authorization result 20 Nov, 97% of voters yes (28k+ eligible, turnout undisclosed); AI demands = arbitrator-enforceable ban on AI evaluation/monitoring of faculty vs management's expiring MOU; fact-finding hearing Dec 10 then 10-day silent period before legal strike. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-22.html)
+- **A North Carolina charter school finds AI nude images made from photos of 47 students and 14 staff** — Woods Charter School (Chatham Co., NC): principal letter says a juvenile allegedly used AI to create 50+ nude images from photos of 47 current/former students + 14 staff, shared online; sheriff investigating; suspect not a student, trespassed. Same day: St. Landry Parish (LA) teacher arrested for AI sexual deepfakes/CSAM (WAFB). [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-22.html)
+- **More AI undergraduate degrees: Missouri S&T gets the state’s first, and Singapore’s LASALLE adds two for artists** — UM Curators unanimously approve Missouri S&T BS in AI (19 Nov; first standalone undergrad AI degree in MO; 120 credits; fall 2027 pending CBHE); LASALLE (Singapore) opens two AI degrees for Aug 2027; Daily Northwestern 22 Nov on AI major's first quarter with required societal-impact course. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-22.html)
 
 ## 2026-Nov-21
 - **Update: Korea’s college entrance exam ends with 98 device violators, but only five caught actually using a device, one in smart glasses** — Update to Nov-20 CSAT item: ministry preliminary tally 98 device violators (93 possession, 5 use: 1 smart glasses S. Chungcheong, 1 mini-camera+earphones Yongin, 1 phone photo of paper, 2 phone in toilet); +14 vs last year; no AI use confirmed; penalties before 11 Dec scores; ban 1→3 yrs pushed. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-21.html)
