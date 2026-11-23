@@ -2,10 +2,57 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-22
-run_count: 104
-digest_count: 101
+last_run: 2026-11-23
+run_count: 105
+digest_count: 102
 entries:
+  - fingerprint: cji-surya-kant-no-penalty-ai-detector-alone-clea-hyderabad-nov2026
+    title: "India’s Chief Justice: no student should be punished on an AI detector’s word alone"
+    first_seen: 2026-11-23
+    digest: ai-impact-on-education-2026-Nov-23.html
+    urls:
+      - https://www.livelaw.in/top-stories/no-student-should-be-penalised-based-on-ai-detection-tool-alone-cji-surya-kant-559448
+      - https://lawbeat.in/top-stories/ai-detectors-cant-brand-students-cheats-says-cji-surya-kant-backs-compulsory-legal-aid-work-to-graduate-1653826
+      - https://thefederal.com/category/news/cji-surya-kant-law-students-learn-to-use-ai-responsibly-not-rely-on-it-263758
+      - https://thelogicalindian.com/cji-surya-kant-on-ai-ban-134787/
+      - https://indianmasterminds.com/news/judiciary/cji-surya-kant-ai-detectors-students-warning-252671/
+  - fingerprint: california-colleges-own-ai-data-centers-chatbots-ccc-21m-tritongpt-calmatters-nov2026
+    title: "California’s public colleges start building their own AI data centers and chatbots instead of relying only on Big Tech"
+    first_seen: 2026-11-23
+    digest: ai-impact-on-education-2026-Nov-23.html
+    urls:
+      - https://calmatters.org/education/higher-education/2026/11/california-colleges-ai/
+      - https://www.kpbs.org/news/science-technology/2026/11/23/why-californias-universities-are-setting-up-their-own-ai-data-centers
+      - https://laist.com/brief/news/education/why-californias-universities-are-setting-up-their-own-ai-data-centers
+      - https://www.paloaltoonline.com/calmatters/2026/11/23/why-californias-universities-are-setting-up-their-own-ai-data-centers/
+      - https://lookout.co/why-californias-universities-are-setting-up-their-own-ai-data-centers/story
+  - fingerprint: karnataka-govt-colleges-ai-facial-recognition-attendance-parent-alerts-nov2026
+    title: "Karnataka plans AI face-recognition attendance for government college students, with alerts sent to parents"
+    first_seen: 2026-11-23
+    digest: ai-impact-on-education-2026-Nov-23.html
+    urls:
+      - https://www.deccanherald.com/india/karnataka/skipping-classes-think-again-karnataka-to-roll-out-ai-based-attendance-system-with-online-updates-for-parents-4226988
+      - https://www.newsbytesapp.com/news/india/karnataka-government-colleges-to-use-ai-facial-recognition-next-semester/tldr
+      - https://theliteraturetoday.com/schools-reopen-in-karnataka-ai-based-attendance-system-introduced-in-pre-university-colleges
+      - https://news.careers360.com/karnataka-scrap-facial-recognition-attendance-govt-school-data-privacy-mid-day-meal-ai-app-digital-madhu-bangarappa-education-news
+  - fingerprint: google-5m-iit-kharagpur-ai-research-education-platinum-jubilee-nov2026
+    title: "Google commits $5 million to IIT Kharagpur for AI research, teaching and campus AI infrastructure"
+    first_seen: 2026-11-23
+    digest: ai-impact-on-education-2026-Nov-23.html
+    urls:
+      - https://www.business-standard.com/technology/tech-news/google-announces-5-mn-funding-for-iit-kharagpur-for-advanced-ai-research-126112100376_1.html
+      - https://www.business-standard.com/industry/news/google-pledges-5-million-to-iit-kharagpur-for-advanced-ai-research-126112200267_1.html
+      - https://www.businesstoday.in/technology/artificial-intelligence/story/from-classroom-to-cloud-google-pours-rs46-crore-into-iit-kharagpurs-ai-research-569114-2026-11-23
+      - https://india.entrepreneur.com/business-news/google-announces-usd-5-mn-for-iit-kharagpur-ai-research
+  - fingerprint: uic-united-faculty-strike-authorization-vote-ai-edtech-protections-nov2026
+    title: "UIC faculty vote on strike authorization with control over AI as a central sticking point"
+    first_seen: 2026-11-23
+    digest: ai-impact-on-education-2026-Nov-23.html
+    urls:
+      - https://uicunitedfaculty.org/news
+      - https://today.uic.edu/update-on-collective-bargaining-with-uic-united-faculty/
+      - https://facultybargaining.uic.edu/news-stories/negotiations-continue-between-uic-uicuf/
+      - https://capitolcitynow.com/news/248842-uis-faculty-use-of-ai-also-a-concern-in-contract-talks/
   - fingerprint: korea-education-minister-choi-resigns-csat-ai-cheating-111-cases-bounty-nov2026
     title: "Update: Korea’s education minister resigns over the exam AI-cheating crackdown, as the final tally reaches 111 cases"
     first_seen: 2026-11-22
@@ -3774,6 +3821,13 @@ entries:
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
 
+
+## 2026-Nov-23
+- **India’s Chief Justice: no student should be punished on an AI detector’s word alone** — CJI Surya Kant, CLEA conference Hyderabad 21 Nov: no student penalised on AI-detection output alone (detectors misflag non-native English writers); blanket AI ban in law schools 'neither practicable nor wise'; rethink exams; asks CLEA for model AI-disclosure guidelines for legal research; backs compulsory legal-aid work to graduate. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-23.html)
+- **California’s public colleges start building their own AI data centers and chatbots instead of relying only on Big Tech** — CalMatters 23 Nov (KPBS, LAist, Palo Alto Online, Lookout): CCC system asks state for $21M next year for an independent shared AI network ('fraction of the cost' of commercial); ~20 CC districts plus UC/CSU campuses already on shared compute; UCSD TritonGPT licensed to Berkeley BearGPT, Merced SCOUT; CSU OpenAI deal ~$56M through 2029; motives cost, data security, power/water tracking via open-weight models. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-23.html)
+- **Karnataka plans AI face-recognition attendance for government college students, with alerts sent to parents** — Deccan Herald ~21 Nov: Karnataka Higher Education dept proposes AI facial-recognition attendance for UG/PG students at government colleges; teacher app updates parents' registered phone; pilots at a few colleges; NewsBytes: statewide from next semester, backed by Commissioner H N Gopalakrishna. Context: Nirantara system in PU colleges; school-level face-scan plan contested on privacy (Careers360). [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-23.html)
+- **Google commits $5 million to IIT Kharagpur for AI research, teaching and campus AI infrastructure** — Google 21 Nov at IIT Kharagpur 75th-anniversary (platinum jubilee): $5M (~Rs 46 crore) across applied AI research (Indic languages, materials, agriculture, edtech), AI education/training + curriculum for students, faculty and teachers, and campus AI infrastructure/tooling; framed as envisaged by alumnus Sundar Pichai; separate $5M alumni data-initiative pledge. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-23.html)
+- **UIC faculty vote on strike authorization with control over AI as a central sticking point** — UIC United Faculty strike-authorization vote 18–20 Nov (union says 18–19); union: management wants top-down/secret decisions on AI & edtech; university: won't let one unit decide AI use for all colleagues; 14 of 23 issues agreed; next session 22 Nov; if authorized, 10-day IELRB notice. Result not yet reported. Joins CSU/CFA, UIS, Rutgers AI-bargaining wave. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-23.html)
 
 ## 2026-Nov-22
 - **Update: Korea’s education minister resigns over the exam AI-cheating crackdown, as the final tally reaches 111 cases** — Update to Nov-21 CSAT tally: Education Minister Choi Kyo-jin resigned 22 Nov (accepted by President Lee) over last-minute anti-cheating changes + Assembly remarks; final 111 suspected device cases (from provisional 98); Lee reiterates >=100M-won whistleblower reward per case x offenders, leniency for self-reporting; 'A to Z' exam overhaul; unions call for assessment reform. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-22.html)
