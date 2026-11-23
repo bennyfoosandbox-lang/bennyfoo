@@ -2,10 +2,45 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-22
-run_count: 109
-digest_count: 109
+last_run: 2026-11-23
+run_count: 110
+digest_count: 110
 entries:
+  - fingerprint: openclaw-2026-11-7-compaction-keeps-selected-skills-sandbox-plugin-sdk-breaking-nov23
+    title: "OpenClaw 2026.11.7 keeps a session's chosen skills after compaction in sandboxes, and breaks three plugin SDK interfaces"
+    first_seen: 2026-11-23
+    digest: essential-skill-md-for-productivity-2026-Nov-23.html
+    urls:
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.11.7
+      - https://github.com/openclaw/openclaw/releases
+      - https://www.npmjs.com/package/openclaw
+  - fingerprint: qwen-code-0-28-4-mcp-servers-hot-reload-async-hook-output-nov22
+    title: "Qwen Code 0.28.4 picks up MCP server changes without a restart, and lets background hook output reach the model"
+    first_seen: 2026-11-23
+    digest: essential-skill-md-for-productivity-2026-Nov-23.html
+    urls:
+      - https://github.com/QwenLM/qwen-code/releases/tag/v0.28.4
+      - https://github.com/QwenLM/qwen-code/pull/17743
+      - https://github.com/QwenLM/qwen-code/pull/17477
+      - https://www.npmjs.com/package/@qwen-code/qwen-code
+  - fingerprint: kaseya-17-msp-skills-three-mcp-servers-alpha
+    title: "Kaseya publishes 17 ready-made skills and three MCP servers for MSP technicians, in alpha"
+    first_seen: 2026-11-23
+    digest: essential-skill-md-for-productivity-2026-Nov-23.html
+    urls:
+      - https://github.com/kaseya/mcp-servers
+      - https://www.kaseya.com/platform/innovations/mcp-server-and-skills/
+      - https://www.kaseya.com/blog/mcp-servers-and-skills
+      - https://www.channelinsider.com/ai/news-kaseya-ai-skills-msp-automation/
+  - fingerprint: sybil-solutions-inference-optimisation-skill-local-llm-ceiling-first
+    title: "An open-source skill teaches coding agents to speed up local LLM serving by measuring the ceiling first"
+    first_seen: 2026-11-23
+    digest: essential-skill-md-for-productivity-2026-Nov-23.html
+    urls:
+      - https://github.com/Sybil-Solutions/inference-optimisation-skill
+      - https://alphasignal.ai/news/sybil-solutions-releases-open-source-agent-skill-that-doubled-local-llm-speed
+      - https://www.developersdigest.tech/blog/local-llm-speed-agent-skill-ceilings-first-inference-optimisation-2026
+      - https://skillsllm.com/skill/inference-optimisation-skill
   - fingerprint: claude-code-2-1-330-skill-model-scope-stacked-skills-rewind-30-day-loops-nov20
     title: "Claude Code 2.1.330 stops a skill's model setting spreading into subagents, and lets scheduled loops run for 30 days"
     first_seen: 2026-11-21
@@ -3611,6 +3646,14 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-23
+- **OpenClaw 2026.11.7 keeps a session's chosen skills after compaction in sandboxes, and breaks three plugin SDK interfaces** — OpenClaw 2026.11.7 (npm 23 Nov 01:21 UTC): selected skills preserved through compaction in sandboxed sessions (#194813, #194722, #198029); partial template creation retryable (#199447); breaking plugin SDK changes (#175837): runAttempt, dispatchGatewayMethod + contracts.gatewayMethodDispatch, expiresAtMs -> startDeadlineAtMs. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-23.html)
+- **Qwen Code 0.28.4 picks up MCP server changes without a restart, and lets background hook output reach the model** — Qwen Code 0.28.4 (npm 22 Nov 12:28 UTC): live mcpServers pickup (#17743); background async hook output reaches model (#17477, Desktop notes); workspace skill settings by name test (#17766); BOM fix repeated (#15786). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-23.html)
+- **Kaseya publishes 17 ready-made skills and three MCP servers for MSP technicians, in alpha** — Kaseya early access (17 Nov, 7d fallback): 3 MCP servers (Autotask 11 tools, Datto RMM 16, IT Glue 20) + 17 skills (9 Datto RMM, 6 IT Glue, 2 Autotask); alpha; Claude Desktop/Code only; skills uploaded as ZIP under Plugins. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-23.html)
+- **An open-source skill teaches coding agents to speed up local LLM serving by measuring the ceiling first** — Sybil Solutions inference-optimisation-skill (~17 Nov, 7d fallback): MIT; ceiling first, one change per run vs interleaved controls, long-context gate; bench.py/ceiling.py/queue.sh/mem.sh; vLLM/SGLang/llama.cpp/ExLlama; B390 256K prefill 297->628 tok/s, startup 113->43 s (author figures). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-23.html)
+
+Note: Scanned about 100 candidate links from about 12 web searches, npm registry timestamps and release/commit pages for the usual agent CLIs and skills repos. Firecrawl skipped as instructed. Quiet weekend: items 1-2 in 24h, items 3-4 from the 7-day fallback; 4 items, not 5. Several news hosts were unreachable from the run network. Skipped 6 already-known candidates (google/skills 4bb21eb, Qwen default workspace skills, Copilot CLI 1.0.115-6, theme-examples #7191, Cuttlefish.MD, Claude for Manufacturing). Held back: Copilot CLI 1.0.115-7 (startup fixes only), Gemini CLI nightlies, Codex 0.173.0-alpha.4, Ethical Institute marketplace (29 Aug), unconfirmed CROO skill.
 
 ## 2026-Nov-22
 - **Perplexity's Brain now writes and updates personal skills for you, on by default for US Max subscribers** — Perplexity Brain auto-creates/updates personal skills from sessions (US Max, default on); proposals + deterministic checks + sampled AI judge, cap 10 auto skills/user; 80,000+ skills for 20,000+ users (1 Aug-14 Nov), 100,000+ updates to 30,000+ skills; RCT 72.9% vs 6.5%; SkillLearnBench 43.8%->62.5%. 18-19 Nov (7d fallback). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-22.html)
