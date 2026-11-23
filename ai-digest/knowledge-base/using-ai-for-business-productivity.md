@@ -2,10 +2,64 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-22
-run_count: 115
-digest_count: 115
+last_run: 2026-11-23
+run_count: 116
+digest_count: 116
 entries:
+  - fingerprint: microsoft-gigaom-copilot-tco-claude-205-anthropic-disputes-mai-code-2-nov2026
+    title: "Microsoft makes price its pitch: a study it paid for puts Claude at $205 a user, and Anthropic says the real figure is under $75"
+    first_seen: 2026-11-23
+    digest: using-ai-for-business-productivity-2026-Nov-23.html
+    urls:
+      - https://www.microsoft.com/en-us/copilot/blog/2026/11/16/what-ai-at-work-really-costs/
+      - https://fourweekmba.com/ai-copilot-study-claude-205-a-month-anthropic-says-under-75/
+      - https://finance.yahoo.com/technology/ai/articles/microsoft-says-copilot-beating-anthropic-193530921.html
+      - https://www.geekwire.com/2026/microsoft-jabs-at-openai-and-anthropic-touting-cheaper-customizable-ai-models-of-its-own/
+      - https://gagadget.com/en/734853-microsoft-says-copilot-costs-less-than-claude-anthropic-disagrees/
+      - https://windowsforum.com/news/microsoft-copilot-vs-claude-and-chatgpt-sponsored-ai-cost-study-meets-anthropic-s-counterclaim.453151/
+      - https://thenewstack.io/microsoft-mai-code-2/
+      - https://www.infoworld.com/article/4250152/microsoft-launches-mai-code-2-models-to-challenge-openai-and-anthropic-in-ai-coding.html
+      - https://www.eesel.ai/blog/mai-code-2-pricing
+  - fingerprint: together-ai-coding-agent-credential-leak-dragos-canary-inference-providers-nov2026
+    title: "A coding agent leaked Together AI's credential, and a Dragos study found three AI hosting providers breached"
+    first_seen: 2026-11-23
+    digest: using-ai-for-business-productivity-2026-Nov-23.html
+    urls:
+      - https://www.startuphub.ai/ai-news/technology/2026/together-ai-says-coding-agent-leaked-user-prompts
+      - https://explainx.ai/blog/together-ai-prompt-leak-xorl-huggingface-coding-agent-november-2026
+      - https://shattered.io/together-ai-prompt-leak-coding-agent-credential-3-models-4-days/
+      - https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens
+      - https://www.unite.ai/openrouter-cuts-three-providers-after-ai-prompt-exposure-findings/
+      - https://www.aichatdaily.com/ai-security/openrouter-drops-three-inference-providers-after-dragos-finds
+  - fingerprint: signal-blocks-screenshots-default-ai-agents-siri-gemini-muse-nov2026
+    title: "Signal now blocks screenshots by default to keep phone AI agents out of chats"
+    first_seen: 2026-11-23
+    digest: using-ai-for-business-productivity-2026-Nov-23.html
+    urls:
+      - https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html
+      - https://www.engadget.com/2323574/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents/
+      - https://cybernews.com/privacy/signal-restricts-screenshots/
+      - https://reclaimthenet.org/signal-blocks-ai-agents-from-reading-screens
+      - https://insideai.news/news/ai-policy-and-regulation/signal-blocks-screenshots-ai-agents/15741/
+  - fingerprint: littler-european-employer-survey-2026-28pct-ai-workforce-cuts-nov2026
+    title: "Littler: the share of European employers cutting staff because of AI has doubled to 28%"
+    first_seen: 2026-11-23
+    digest: using-ai-for-business-productivity-2026-Nov-23.html
+    urls:
+      - https://www.littler.com/press/press-release/european-employers-face-uncertain-outlook-amid-accelerating-ai-adoption-and
+      - https://www.littler.com/2026-european-employer-survey
+      - https://www.littler.com/sites/default/files/2026-11/2026_littler_european_employer_survey_report.pdf
+      - https://www.hr-brew.com/stories/world-of-hr-94-of-employers-in-europe-are-using-ai-in-hr-or-employment-law-functions
+      - https://finance.yahoo.com/sectors/technology/articles/employers-still-playing-catch-ai-155200040.html
+  - fingerprint: ey-technology-services-deal-insights-q3-cy26-ai-deployment-capabilities-nov2026
+    title: "EY: buyers of IT services firms now pay for the ability to deploy AI at scale"
+    first_seen: 2026-11-23
+    digest: using-ai-for-business-productivity-2026-Nov-23.html
+    urls:
+      - https://www.ey.com/en_in/insights/mergers-acquisitions/technology-services-deal-insights-series-q3-cy26
+      - https://www.socialnews.xyz/2026/11/22/enterprise-ai-capabilities-drive-technology-services-ma-activity-in-q3-2026-report/
+      - https://english.punjabkesari.com/business/enterprise-ai-capabilities-drive-technology-services-ma-activity-in-q3-2026-report
+      - https://www.thehawk.in/news/economy-and-business/business/enterprise-ai-capabilities-drive-technology-services-ma-activity-in-q3-2026-report
   - fingerprint: conference-board-ai-workforce-planning-11pct-enterprise-wide-5pct-headcount-up-nov2026
     title: "Conference Board: only 11% of firms have written AI into their workforce plans, and just 5% expect it to add jobs"
     first_seen: 2026-11-22
@@ -4745,6 +4799,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-23
+- **Microsoft makes price its pitch: a study it paid for puts Claude at $205 a user, and Anthropic says the real figure is under $75** — 16 Nov Microsoft blog + 21–22 Nov coverage: Microsoft-commissioned GigaOm TCO study (Oct testing) puts everyday-user monthly cost at Copilot $30 / ChatGPT Enterprise $81 / Claude Enterprise $205 (advanced: $96/$149/$299); Anthropic says non-coding Claude Enterprise users average under $75; inputs not disclosed, no independent audit. Also MAI Code 2 / Code 2 Flash in GitHub Copilot (17 Nov), claimed 96% of Opus 5.5 at ~5% of cost on a 50% promo price ($0.50/$2.50 per M tokens until 17 May 2027). [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-23.html)
+- **A coding agent leaked Together AI's credential, and a Dragos study found three AI hosting providers breached** — 21 Nov Together AI disclosure: coding agent committed credential to public xorl repo → private HF repo of prompt samples (MiniMax M3, GLM-5.2, Kimi K2.6; mostly Jun–Jul 2026) downloaded; intruder tripped 5 Dragos canary credentials; fixes: PR secret scanning, coding-agent rules, ZDR default. Dragos (HD Moore): ~2M canary prompts Jul–Nov 2026, three hosting providers actively breached and unaware; OpenRouter reportedly dropped the three. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-23.html)
+- **Signal now blocks screenshots by default to keep phone AI agents out of chats** — 20 Nov: Signal blocks screenshots by default — iOS 'Block Siri AI' toggle on by default (covers iOS 27 agentic systems), Android auto-enables Screen security on detecting AI assistant; prompted by Reuters report of Meta Muse reading Signal messages; Signal calls the fix incomplete and asks Apple/Google/Microsoft for an OS-level AI opt-out. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-23.html)
+- **Littler: the share of European employers cutting staff because of AI has doubled to 28%** — 18 Nov Littler 2026 European Employer Survey (~500 execs/in-house counsel/HR, fielded Aug–Sep 2026, 51% C-suite): 28% reduced workforce due to AI (vs 13% in 2025); broader reassess-roles/reduce-hiring group roughly doubled; ~3/4 see more employees using AI in complaints/legal claims; EU AI Act employment-rule delays add uncertainty. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-23.html)
+- **EY: buyers of IT services firms now pay for the ability to deploy AI at scale** — 22 Nov EY 'Technology Services Deal Insights: Q3 CY26 Deal Round-up': 247 announced deals (+4.7% QoQ from 236); buyers prioritise AI-led revenue, data engineering and AI-at-scale deployment; cloud services 22% (from 18%), data & analytics 13% (from 10%); PE focus on data, enterprise apps, cybersecurity, managed infra. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-23.html)
 
 ## 2026-Nov-22
 - **Conference Board: only 11% of firms have written AI into their workforce plans, and just 5% expect it to add jobs** — 18 Nov, Conference Board survey of 775 international leaders + interviews: 11% have built AI's expected effects into enterprise-wide workforce and financial plans; 35% for some functions/units; 34% still discussing; 13% not assessing. 47% expect fewer FTEs over two years, 5% more. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-22.html)
