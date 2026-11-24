@@ -2,10 +2,51 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-23
-run_count: 110
-digest_count: 110
+last_run: 2026-11-24
+run_count: 111
+digest_count: 111
 entries:
+  - fingerprint: claude-code-2-1-331-plugin-optional-dependencies-partial-update-skills-fix-nov24
+    title: "Claude Code 2.1.331 lets plugins ship optional dependencies, and stops a failed update from leaving skills missing"
+    first_seen: 2026-11-24
+    digest: essential-skill-md-for-productivity-2026-Nov-24.html
+    urls:
+      - https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+      - https://code.claude.com/docs/en/changelog
+      - https://github.com/anthropics/claude-code/issues/102186
+  - fingerprint: codex-0-172-0-openai-docs-skill-gpt-6-2-migration-lazy-optional-mcp-per-tool-reviewer-nov24
+    title: "Codex 0.172.0 teaches its bundled docs skill the GPT-6.2 migration, and starts optional MCP servers only when first needed"
+    first_seen: 2026-11-24
+    digest: essential-skill-md-for-productivity-2026-Nov-24.html
+    urls:
+      - https://github.com/openai/codex/releases/tag/rust-v0.172.0
+      - https://github.com/openai/codex/releases
+      - https://github.com/openai/codex/pull/62447
+  - fingerprint: openclaw-2026-11-10-beta-2-plugins-fork-live-session-secretref-skill-keys-nov23
+    title: "OpenClaw 2026.11.10-beta.2 lets plugins fork a live session for background work, and keeps skill secrets out of plaintext"
+    first_seen: 2026-11-24
+    digest: essential-skill-md-for-productivity-2026-Nov-24.html
+    urls:
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.11.10-beta.2
+      - https://github.com/openclaw/openclaw/releases
+  - fingerprint: p0-labs-okta-permiso-sandyclaw-1-in-40-skills-malicious-92pct-static-miss-nov18
+    title: "Runtime testing finds about 1 in 40 agent skills act maliciously, and most get past static scanners"
+    first_seen: 2026-11-24
+    digest: essential-skill-md-for-productivity-2026-Nov-24.html
+    urls:
+      - https://www.okta.com/en-in/newsroom/articles/the-1-in-40-risk-hiding-in-your-ai-agents/
+      - https://www.okta.com/de-de/newsroom/articles/the-1-in-40-risk-hiding-in-your-ai-agents/
+      - https://itbrief.news/story/permiso-launches-sandbox-for-ai-agent-skill-security
+  - fingerprint: google-skills-cloud-network-insights-ask-before-destructive-claude-plugins-official-workflow-hardening-nov23
+    title: "Google's cloud-network-insights skill now asks before risky steps, and Anthropic hardens its official plugin scan pipeline"
+    first_seen: 2026-11-24
+    digest: essential-skill-md-for-productivity-2026-Nov-24.html
+    urls:
+      - https://github.com/google/skills/commit/22afb84b8e1afc7bf13dd8854c452fd0a747a01a
+      - https://github.com/google/skills/commit/63934658c2823454a930af50998ff0cdf99e6ebf
+      - https://github.com/google/skills/commit/8123e483e83712ec98ba27c9fb1a3e38aa9f6a1c
+      - https://github.com/anthropics/claude-plugins-official/pull/7206
+      - https://github.com/anthropics/claude-plugins-official/commits/main
   - fingerprint: openclaw-2026-11-7-compaction-keeps-selected-skills-sandbox-plugin-sdk-breaking-nov23
     title: "OpenClaw 2026.11.7 keeps a session's chosen skills after compaction in sandboxes, and breaks three plugin SDK interfaces"
     first_seen: 2026-11-23
@@ -3646,6 +3687,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-24
+- **Claude Code 2.1.331 lets plugins ship optional dependencies, and stops a failed update from leaving skills missing** — Claude Code 2.1.331 (top of CHANGELOG, ~24 Nov): plugin manifest optionalDependencies; fix partial plugin folder after failed update loading with skills missing (#102186); PermissionRequest hooks save Skill(name:*) rules outside local settings; forked-skill stop reason no longer shown twice; managed extraKnownMarketplaces auto-update by default on/after 30 Nov (opt out autoUpdate:false); claude doctor API connectivity. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-24.html)
+- **Codex 0.172.0 teaches its bundled docs skill the GPT-6.2 migration, and starts optional MCP servers only when first needed** — Codex 0.172.0 (24 Nov, Latest): openai-docs skill covers GPT-6.2 Astra/Sol migration (#62447); plugin recommendation latency measured (#62326); optional stdio MCP servers with cached tools start lazily on first call; per-connected-app-tool approval reviewer in config.toml; extensions attach MCP request metadata; slash-command arg Tab completion; exec resume restores sandbox perms. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-24.html)
+- **OpenClaw 2026.11.10-beta.2 lets plugins fork a live session for background work, and keeps skill secrets out of plaintext** — OpenClaw 2026.11.10-beta.2 (pre-release 23 Nov, commit bbcf2a4): plugins fork a session's live context for policy-governed background work; secret-backed skill key edits (Skills page / skills.update) preserve SecretRef not plaintext; subagent results survive Gateway restart; live steering of busy subagents; ClawHub 105 plugins published but workflow failed, @openclaw/diffs republished manually; validation sealed with waivers. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-24.html)
+- **Runtime testing finds about 1 in 40 agent skills act maliciously, and most get past static scanners** — P0 Labs (Permiso, via Okta newsroom, 18 Nov, 7d fallback): 35,286 SandyClaw runs; ~1 in 40 skills malicious (517 of 21,850 runs, 16,836 unique skills); static scanners missed 92% pre-execution (German edition frames subset of 4,773); npm/PyPI 32% malicious (4,037/12,679); Sigma/Yara/Nova/Snort engines; vendor figures. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-24.html)
+- **Google's cloud-network-insights skill now asks before risky steps, and Anthropic hardens its official plugin scan pipeline** — google/skills 23 Nov: cloud-network-insights asks before accepting third-party terms / turning off / deleting, deletes policies & Monitoring Point records one at a time by ID (22afb84); agent-platform-architecture v1.0.2 usage attribution wording (6393465); detection-engineering-coverage-evaluation skill name ref (8123e48). claude-plugins-official PR #7206 (23 Nov): verdict cache + scan policy outside checkout, re-pinned shared actions, scan no longer installs a CLI; security-guidance states hook usage data (fce198c) and names failing Python. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-24.html)
 
 ## 2026-Nov-23
 - **OpenClaw 2026.11.7 keeps a session's chosen skills after compaction in sandboxes, and breaks three plugin SDK interfaces** — OpenClaw 2026.11.7 (npm 23 Nov 01:21 UTC): selected skills preserved through compaction in sandboxed sessions (#194813, #194722, #198029); partial template creation retryable (#199447); breaking plugin SDK changes (#175837): runAttempt, dispatchGatewayMethod + contracts.gatewayMethodDispatch, expiresAtMs -> startDeadlineAtMs. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-23.html)
