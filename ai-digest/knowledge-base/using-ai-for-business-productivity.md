@@ -2,10 +2,57 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-23
-run_count: 116
-digest_count: 116
+last_run: 2026-11-24
+run_count: 117
+digest_count: 117
 entries:
+  - fingerprint: zoom-q3-fy2027-enterprise-ai-upsell-first-dividend-nov2026
+    title: "Zoom's AI shows up in enterprise upsell, not headline growth: enterprise revenue up 8.6% and paid AI in all 10 of its largest CX deals"
+    first_seen: 2026-11-24
+    digest: using-ai-for-business-productivity-2026-Nov-24.html
+    urls:
+      - https://www.stocktitan.net/news/ZM/zoom-communications-reports-financial-results-for-the-third-quarter-9j03x7m447ou.html
+      - https://mlq.ai/news/zoom-raises-its-full-year-outlook-and-starts-a-25-cent-quarterly-dividend-as-enterprise-revenue-grows-86/
+      - https://startupfortune.com/zoom-beats-q3-estimates-and-starts-a-dividend-but-guides-q4-just-short/
+      - https://www.investing.com/news/transcripts/earnings-call-transcript-zoom-beats-q3-2026-estimates-stock-slips-after-hours-93CH-5046680
+      - https://www.marketbeat.com/earnings/reports/2026-11-23-zoom-video-communications-inc-stock/
+  - fingerprint: accounting-today-tokenomics-series-firm-ai-bills-consumption-pricing-nov2026
+    title: "Accounting firms' AI bills have jumped as vendors switch to usage pricing, and one user ran up $600 in a single day"
+    first_seen: 2026-11-24
+    digest: using-ai-for-business-productivity-2026-Nov-24.html
+    urls:
+      - https://www.accountingtoday.com/news/tokenomics-firms-see-surging-ai-costs-compared-to-last-year
+      - https://www.accountingtoday.com/news/tokenomics-controlling-ai-spend-an-exercise-in-governance-training
+      - https://www.accountingtoday.com/news/tokenomics-tech-forward-small-firms-see-higher-ai-bills-but-controls-keep-costs-down
+      - https://www.accountingtoday.com/news/tokenomics-helping-clients-manage-rising-ai-prices
+      - https://www.accountingtoday.com/news/tokenomics-vendors-trade-rising-ai-costs-for-productivity
+  - fingerprint: sumitomo-life-chatgpt-enterprise-203pct-roi-80pct-weekly-usage-nov2026
+    title: "Sumitomo Life puts a 203% estimated ROI on ChatGPT Enterprise, with more than 80% of staff using it every week"
+    first_seen: 2026-11-24
+    digest: using-ai-for-business-productivity-2026-Nov-24.html
+    urls:
+      - https://openai.com/business/customer-stories/sumitomo-life/
+      - https://www.tokenpost.kr/news/ai/440568
+      - https://finance.biggo.com/news/fec5f21e-a165-4201-8d16-89df52b1025e
+      - https://blockchain.news/news/sumitomo-life-chatgpt-enterprise-adoption
+  - fingerprint: levenza-personal-admin-agents-ga-fluid-inference-acquisition-nov2026
+    title: "Levenza launches personal admin agents worldwide inside Teams, Slack and Outlook, and buys a voice-AI lab"
+    first_seen: 2026-11-24
+    digest: using-ai-for-business-productivity-2026-Nov-24.html
+    urls:
+      - https://www.globenewswire.com/news-release/2026/11/23/3408386/0/en/levenza-launches-personal-ai-agents-globally-for-the-enterprise.html
+      - https://customerservicemanager.com/levenza-launches-personal-ai-agents-for-enterprise-users/
+      - https://agilebrandguide.com/levenza-launches-personal-ai-agents-globally-for-the-enterprise/
+  - fingerprint: anthropic-efs-zero-data-retention-public-beta-nov2026
+    title: "Update: Anthropic opens Enterprise Frontier Safeguards to eligible businesses, so regulated firms can keep zero data retention and still get misuse checks"
+    first_seen: 2026-11-24
+    digest: using-ai-for-business-productivity-2026-Nov-24.html
+    urls:
+      - https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards
+      - https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-expands-availability-of-ai-safety-monitoring-with-zero-data-retention/
+      - https://interestingengineering.com/ai-robotics/anthropic-enterprise-safeguards-zero-data-retention
+      - https://alphasignal.ai/news/anthropic-lets-enterprises-catch-multi-step-claude-abuse-without-surrendering
+      - https://fourweekmba.com/ai-anthropic-opens-6-top-claude-models-to-zero-retention-firms/
   - fingerprint: microsoft-gigaom-copilot-tco-claude-205-anthropic-disputes-mai-code-2-nov2026
     title: "Microsoft makes price its pitch: a study it paid for puts Claude at $205 a user, and Anthropic says the real figure is under $75"
     first_seen: 2026-11-23
@@ -4799,6 +4846,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-24
+- **Zoom's AI shows up in enterprise upsell, not headline growth: enterprise revenue up 8.6% and paid AI in all 10 of its largest CX deals** — 23 Nov FQ3 FY27: rev $1,290.6M (+4.9%), non-GAAP EPS $1.59; enterprise rev +8.6% to $805.4M; paid AI in all 10 largest CX deals; FY27 guide raised to $5.100–5.105B; first $0.25 quarterly dividend; Q4 guide slightly below consensus; AI revenue not broken out. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-24.html)
+- **Accounting firms' AI bills have jumped as vendors switch to usage pricing, and one user ran up $600 in a single day** — Nov 2026 Accounting Today series (5 parts): firm AI spend up sharply y/y, driven mostly by the move to consumption pricing while per-token prices fall; IPA: 70% of firms raised AI budgets; one user ran up $600/day; firms add token tracking and governance but risk choking adoption; small tech-forward firms see higher bills but manage them with controls; vendors absorb higher R&D compute and say they won't pass costs on; Pigment: 83% of finance leaders say consumption AI costs exceeded expectations. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-24.html)
+- **Sumitomo Life puts a 203% estimated ROI on ChatGPT Enterprise, with more than 80% of staff using it every week** — OpenAI customer story (c. 23 Nov digests): Sumitomo Life went from a 2025 pilot (100–150 staff) to ChatGPT Enterprise in Jun 2026; 80%+ weekly usage; 203% estimated overall ROI, 524% for users with 101+ uses/month; both based on self-reported time savings, method undisclosed (TokenPost); executive-led adoption; role-by-role task mapping planned for 2H FY2026. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-24.html)
+- **Levenza launches personal admin agents worldwide inside Teams, Slack and Outlook, and buys a voice-AI lab** — 23 Nov: Levenza GA of personal enterprise agents in Teams/Slack/Outlook (scheduling, email, room booking, timesheets; expenses/travel slated for 2027) plus acquisition of voice-AI lab Fluid Inference. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-24.html)
+- **Update: Anthropic opens Enterprise Frontier Safeguards to eligible businesses, so regulated firms can keep zero data retention and still get misuse checks** — Update to Sep 2026 EFS launch: 23 Nov public beta of ZDR + EFS for eligible orgs; encrypted API traffic copies go to customer-owned storage, automated cross-request misuse checks (~15-min cadence) flag risks to customer's security team; built with 100+ customers; reportedly no charge; on Claude Platform, AWS/Bedrock, Google Cloud (Foundry pending); Accenture, Deloitte, KPMG and PwC named as deployment partners. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-24.html)
 
 ## 2026-Nov-23
 - **Microsoft makes price its pitch: a study it paid for puts Claude at $205 a user, and Anthropic says the real figure is under $75** — 16 Nov Microsoft blog + 21–22 Nov coverage: Microsoft-commissioned GigaOm TCO study (Oct testing) puts everyday-user monthly cost at Copilot $30 / ChatGPT Enterprise $81 / Claude Enterprise $205 (advanced: $96/$149/$299); Anthropic says non-coding Claude Enterprise users average under $75; inputs not disclosed, no independent audit. Also MAI Code 2 / Code 2 Flash in GitHub Copilot (17 Nov), claimed 96% of Opus 5.5 at ~5% of cost on a 50% promo price ($0.50/$2.50 per M tokens until 17 May 2027). [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-23.html)
