@@ -2,10 +2,53 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-23
-run_count: 105
-digest_count: 102
+last_run: 2026-11-24
+run_count: 106
+digest_count: 103
 entries:
+  - fingerprint: mcps-md-draft-ai-regulation-teacher-autonomy-public-comment-nov2026
+    title: "Maryland’s largest district drafts AI rules that leave the call to each teacher"
+    first_seen: 2026-11-24
+    digest: ai-impact-on-education-2026-Nov-24.html
+    urls:
+      - https://bethesdamagazine.com/2026/11/24/mcps-ai-regulation/
+      - https://marylandmatters.org/2026/07/06/maryland-school-districts-face-fall-deadline-to-set-ai-policies/
+      - https://wtop.com/montgomery-county/2026/07/maryland-school-districts-face-fall-deadline-to-set-ai-policies/
+  - fingerprint: ihe-faculty-ai-witch-hunt-disclosure-fear-writing-norms-nov2026
+    title: "Most professors now use AI, but murky rules have turned disclosing it into a career risk"
+    first_seen: 2026-11-24
+    digest: ai-impact-on-education-2026-Nov-24.html
+    urls:
+      - https://www.insidehighered.com/news/faculty/2026/11/24/whats-really-fueling-higher-eds-ai-witch-hunt
+      - https://vnews.com/2026/10/28/dartmouth-provost-resigns-ai-misconduct/
+  - fingerprint: nsc-prelim-fall-2026-computer-science-minus-12-4-ai-concentrations-tulane-nov2026
+    title: "Computer-science enrollment drops another 12% as colleges shift students toward AI credentials"
+    first_seen: 2026-11-24
+    digest: ai-impact-on-education-2026-Nov-24.html
+    urls:
+      - https://nscresearchcenter.org/prelim-fall-enrollment-trends/
+      - https://www.studentclearinghouse.org/nscblog/5-highlights-from-the-preliminary-fall-enrollment-trends-report/
+      - https://www.forbes.com/sites/michaeltnietzel/2026/10/29/college-enrollment-holding-steady-according-to-preliminary-report/
+      - https://www.wafb.com/2026/11/24/heres-how-ai-is-impacting-computer-science-student-enrollment/
+      - https://www.fox8live.com/2026/11/24/heres-how-ai-is-impacting-computer-science-student-enrollment/
+  - fingerprint: tamil-nadu-2000-govt-aided-teachers-ai-ict-40-hour-training-nov2026
+    title: "Tamil Nadu starts training 2,000 government-school teachers to teach with AI"
+    first_seen: 2026-11-24
+    digest: ai-impact-on-education-2026-Nov-24.html
+    urls:
+      - https://newstodaynet.com/2026/11/24/tn-trains-2000-teachers-in-ai
+      - https://www.dtnext.in/amp/story/news/chennai/iit-madras-bodhan-ai-literacy-mission-targets-1-million-teachers-by-2027
+  - fingerprint: ny-s9051b-chapter-368-ai-companion-minors-ban-education-exemption-dispute-nov2026
+    title: "New York’s new ban on “AI companion” features for minors leaves schools unsure whether it covers AI tutors"
+    first_seen: 2026-11-24
+    digest: ai-impact-on-education-2026-Nov-24.html
+    urls:
+      - https://www.hklaw.com/en/insights/publications/2026/11/new-york-enacts-ai-chatbot-safeguards-for-minors
+      - https://iapp.org/news/a/new-york-s-governor-signs-youth-ai-chatbot-safety-bill
+      - https://www.governing.com/policy/we-can-keep-ai-companions-from-harming-kids-heres-how
+      - https://fpf.org/blog/back-in-the-chat-california-and-new-york-take-diverging-paths-in-second-wave-of-chatbot-regulations/
+      - https://www.news10.com/capitol/ai-chatbot-baby-monitor-hochul/
+      - https://ppc.land/hochul-signs-law-barring-human-posing-ai-chatbots-for-under-18s/
   - fingerprint: cji-surya-kant-no-penalty-ai-detector-alone-clea-hyderabad-nov2026
     title: "India’s Chief Justice: no student should be punished on an AI detector’s word alone"
     first_seen: 2026-11-23
@@ -3821,6 +3864,13 @@ entries:
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
 
+
+## 2026-Nov-24
+- **Maryland’s largest district drafts AI rules that leave the call to each teacher** — MCPS (MD) 11-page draft AI regulation released ~17 Nov, reported 24 Nov: teachers decide if/when/how students use AI; privacy, vetting, AI-literacy; public comment to December; critics call it 'careless', cite Frederick County ban; implements May 2026 board policy under state mandate. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-24.html)
+- **Most professors now use AI, but murky rules have turned disclosing it into a career risk** — Inside Higher Ed 24 Nov: majority of faculty use AI but no consensus on acceptable AI-assisted writing; fear of anti-AI bias deters disclosure; framed by Dartmouth provost resignation; College Board survey: most negative sentiment at institutions admitting <1/3; EIU senate resolution on faculty AI use. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-24.html)
+- **Computer-science enrollment drops another 12% as colleges shift students toward AI credentials** — NSC preliminary fall 2026 (29 Oct; reported 24 Nov by WAFB/Fox8/KPLC): CIS −12.4% 4-yr, −12.3% 2-yr, −10.4% grad; total +0.2%; health +6.2%, engineering +6.1%; 46% of institutions, final Jan 2027; growth shifts to AI concentrations — Tulane approves AI master's certificate; causation unproven. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-24.html)
+- **Tamil Nadu starts training 2,000 government-school teachers to teach with AI** — Tamil Nadu 24 Nov: statewide PD to train 2,000 govt & aided school teachers in AI/ICT pedagogy; ~40 hrs online + in-person labs over 3 months; context: Karnataka teacher AI training, IIT Madras Bodhan AI 1M-teacher target by 2027. Single primary report. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-24.html)
+- **New York’s new ban on “AI companion” features for minors leaves schools unsure whether it covers AI tutors** — NY Gov. Hochul signs S9051-B (Ch. 368 of 2026, ~28 Oct): bans unsafe AI-companion features for minors (posing as human, secrecy, sexual content, self-harm); AG enforcement, $25k/violation; effective 1 Jan 2027 (News10: 1 Jun); sources split on whether educational/purpose-built tools are exempt. Fallback item (~4 weeks old). [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-24.html)
 
 ## 2026-Nov-23
 - **India’s Chief Justice: no student should be punished on an AI detector’s word alone** — CJI Surya Kant, CLEA conference Hyderabad 21 Nov: no student penalised on AI-detection output alone (detectors misflag non-native English writers); blanket AI ban in law schools 'neither practicable nor wise'; rethink exams; asks CLEA for model AI-disclosure guidelines for legal research; backs compulsory legal-aid work to graduate. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-23.html)
