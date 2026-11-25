@@ -2,10 +2,54 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-24
-run_count: 106
-digest_count: 103
+last_run: 2026-11-25
+run_count: 107
+digest_count: 104
 entries:
+  - fingerprint: edweek-teacher-ai-use-plateaus-62pct-590-teachers-nov2026
+    title: "Teachers’ classroom AI use stalls at 62% after two years of fast growth"
+    first_seen: 2026-11-25
+    digest: ai-impact-on-education-2026-Nov-25.html
+    urls:
+      - https://www.edweek.org/technology/why-teacher-ai-use-has-plateaued-and-what-could-come-next/2026/11
+      - https://wisevoter.com/world/us/2026/11/25/teacher-ai-use-plateaus-classrooms
+      - https://superpowerdaily.com/posts/teacher-ai-use-holds-at-62-in-edweek-survey-after-years-of-rapid-growth
+      - https://www.byteseu.com/2546644/
+  - fingerprint: nber-college-pulse-students-say-peers-misuse-ai-not-themselves-nov2026
+    title: "College students say they use AI responsibly — it’s their classmates who don’t"
+    first_seen: 2026-11-25
+    digest: ai-impact-on-education-2026-Nov-25.html
+    urls:
+      - https://www.insidehighered.com/news/students/academics/2026/11/25/students-say-they-dont-use-ai-harmful-ways-peers-do
+      - https://themorning.science/story/students-say-they-don-t-use-ai-in-harmful-ways-but-their-peers-do-a4915d631e96107e
+      - https://ai.dartmouth.edu/sites/ai/files/2026-10/AIs%20Impacts%20in%20Higher%20Education%20Sacerdote%2010.29.26.pdf
+  - fingerprint: uae-mira-government-ai-assistant-parents-why-child-falling-behind-530-schools-nov2026
+    title: "UAE’s new government AI assistant will tell public-school parents why their child is falling behind"
+    first_seen: 2026-11-25
+    digest: ai-impact-on-education-2026-Nov-25.html
+    urls:
+      - https://www.semafor.com/article/11/24/2026/uae-launches-ai-assistant-to-track-childrens-learning
+      - https://www.thenationalnews.com/news/uae/2026/11/23/uae-unveils-government-ai-assistant-called-mira-to-boost-public-services/
+      - https://dailyaibrief.com/news/uae-education-ministry-mira-ai-assistant-parents-26VKuuhm
+  - fingerprint: ghana-national-education-week-2026-ai-ethical-frameworks-roadmap-2027-2030-apaak-nov2026
+    title: "Ghana’s National Education Week ends with a pledge of strict rules for AI in schools and universities"
+    first_seen: 2026-11-25
+    digest: ai-impact-on-education-2026-Nov-25.html
+    urls:
+      - https://rainbowradioonline.com/2026/11/25/government-pushes-for-strong-ai-policies-to-protect-learners-and-boost-education-quality/
+      - https://rainbowradioonline.com/2026/11/25/ai-must-strengthen-foundational-learning-not-replace-teachers-dr-clement-apaak/
+      - https://rainbowradioonline.com/2026/11/23/moe-partners-to-translate-2026-education-week-talks-into-actionable-policy-aide-memoire/
+      - https://rainbowradioonline.com/2026/11/23/dr-clement-apaak-opens-2026-national-education-week-with-call-to-harness-ai/
+      - https://www.adomonline.com/ghana-to-introduce-ai-robotics-and-coding-in-basic-school-curriculum/
+  - fingerprint: trinity-college-philosophy-department-total-ai-ban-unanimous-nov2026
+    title: "A liberal-arts philosophy department bans AI “in any capacity and for any purpose”"
+    first_seen: 2026-11-25
+    digest: ai-impact-on-education-2026-Nov-25.html
+    urls:
+      - https://www.chronicle.com/article/why-this-philosophy-department-is-banning-ai
+      - https://www.govtech.com/education/higher-ed/trinity-college-conn-philosophy-department-bans-ai
+      - https://trinitytripod.com/news/philosophy-department-becomes-first-at-trinity-to-ban-ai/
+      - https://dailynous.com/2026/11/16/philosophy-department-bans-ai-use/
   - fingerprint: mcps-md-draft-ai-regulation-teacher-autonomy-public-comment-nov2026
     title: "Maryland’s largest district drafts AI rules that leave the call to each teacher"
     first_seen: 2026-11-24
@@ -3864,6 +3908,13 @@ entries:
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
 
+
+## 2026-Nov-25
+- **Teachers’ classroom AI use stalls at 62% after two years of fast growth** — EdWeek Research Center (590 teachers, Aug–Oct 2026; reported 25 Nov): 62% use AI in class, vs 61% in 2025 and 34% in 2023; 64% have had ≥1 AI PD session; plateau partly tied to ed-tech backlash; RAND math-teacher figure (45%→74%) is a separate survey. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-25.html)
+- **College students say they use AI responsibly — it’s their classmates who don’t** — NBER working paper via Inside Higher Ed 25 Nov: College Pulse n=1,003; ~1/3 used AI to draft essays vs ~1/2 say peers do; summarizing readings 39% self vs 60% peers; authors suggest students report the worst behaviour they've seen; echoes March Packback survey. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-25.html)
+- **UAE’s new government AI assistant will tell public-school parents why their child is falling behind** — UAE Education Minister Sarah Al Amiri 24 Nov: from March parents can ask government AI assistant Mira (unveiled 23 Nov) why a child is falling behind and how to fix it; uses classroom observations, project results, benchmark tests; also grades, attendance, teacher meetings; 530+ public schools, ~280k students; private schools optional; Mira across all govt services by end-2027. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-25.html)
+- **Ghana’s National Education Week ends with a pledge of strict rules for AI in schools and universities** — Ghana National Education Week, Accra 23–24 Nov (AI theme): Dep. Minister Clement Apaak pledges strict AI policy/ethical frameworks for pre-tertiary and tertiary; 'governance and readiness, not gadgets'; aide-mémoire finalized 25 Nov; expected National AI in Education Roadmap 2027–2030 and ethics/data-privacy framework; Minister Haruna Iddrisu: AI, coding, robotics in KG–P6. Commitments, not yet adopted. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-25.html)
+- **A liberal-arts philosophy department bans AI “in any capacity and for any purpose”** — Trinity College (Hartford, CT) philosophy dept unanimous blanket ban on deliberate AI use in any capacity (summaries, brainstorming, research, editing, writing); rationale: undermines teaching students to think/read/write/reason; college declined 40-faculty request for campus-wide suspension/divestment; Chronicle: such bans rare. Fallback (~16 Nov). [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-25.html)
 
 ## 2026-Nov-24
 - **Maryland’s largest district drafts AI rules that leave the call to each teacher** — MCPS (MD) 11-page draft AI regulation released ~17 Nov, reported 24 Nov: teachers decide if/when/how students use AI; privacy, vetting, AI-literacy; public comment to December; critics call it 'careless', cite Frederick County ban; implements May 2026 board policy under state mandate. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-24.html)
