@@ -2,10 +2,50 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-24
-run_count: 111
-digest_count: 111
+last_run: 2026-11-25
+run_count: 112
+digest_count: 112
 entries:
+  - fingerprint: claude-code-2-1-332-mcp-server-skills-beta-preskillshellcommand-hook-nov25
+    title: "Claude Code 2.1.332 loads skills straight from MCP servers, and adds a hook that can veto a skill's shell commands"
+    first_seen: 2026-11-25
+    digest: essential-skill-md-for-productivity-2026-Nov-25.html
+    urls:
+      - https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+      - https://code.claude.com/docs/en/changelog
+  - fingerprint: addyosmani-agent-skills-0-6-18-self-contained-shared-references-plan-issue-tracker-nov24
+    title: "addyosmani/agent-skills 0.6.18 makes each skill self-contained, and lets /plan write to your issue tracker"
+    first_seen: 2026-11-25
+    digest: essential-skill-md-for-productivity-2026-Nov-25.html
+    urls:
+      - https://github.com/addyosmani/agent-skills/releases
+      - https://github.com/addyosmani/agent-skills
+  - fingerprint: google-skills-google-cloud-plugin-opencode-pi-agent-platform-gemini-4-argon-plugins-official-bigquery-move-claude-security-0-13-nov24
+    title: "Google's cloud plugin adds OpenCode and Pi, and Anthropic's official marketplace moves BigQuery analytics to Google's own repo"
+    first_seen: 2026-11-25
+    digest: essential-skill-md-for-productivity-2026-Nov-25.html
+    urls:
+      - https://github.com/google/skills/commit/54b61f079019e17ea8922f19a2c506ccdafc9e74
+      - https://github.com/google/skills/commit/089e3cccacf99547898bd513d78cf8efd28da9cf
+      - https://github.com/google/skills/commits/main
+      - https://github.com/anthropics/claude-plugins-official/pull/7217
+      - https://github.com/anthropics/claude-plugins-official/commits/main
+  - fingerprint: openclaw-2026-11-9-stable-11-10-beta-3-library-skills-remote-app-servers-plugin-config-deprecations-nov29-nov25
+    title: "OpenClaw 2026.11.9 ships as stable while beta.3 opens library skills to remote app servers, and plugin config keys face removal from 29 Nov"
+    first_seen: 2026-11-25
+    digest: essential-skill-md-for-productivity-2026-Nov-25.html
+    urls:
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.11.9
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.11.10-beta.3
+      - https://github.com/openclaw/openclaw/releases
+  - fingerprint: hermes-agent-v0-23-4-skills-index-desc-limit-plugins-config-copilot-cli-1-0-116-plugin-mcp-duplicate-warning-nov24
+    title: "Hermes Agent 0.23.4 lets you size the skill index, and Copilot CLI 1.0.116 flags plugins that duplicate an MCP server"
+    first_seen: 2026-11-25
+    digest: essential-skill-md-for-productivity-2026-Nov-25.html
+    urls:
+      - https://github.com/NousResearch/hermes-agent/releases
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.116-2
+      - https://github.com/github/copilot-cli/releases
   - fingerprint: claude-code-2-1-331-plugin-optional-dependencies-partial-update-skills-fix-nov24
     title: "Claude Code 2.1.331 lets plugins ship optional dependencies, and stops a failed update from leaving skills missing"
     first_seen: 2026-11-24
@@ -3687,6 +3727,13 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-25
+- **Claude Code 2.1.332 loads skills straight from MCP servers, and adds a hook that can veto a skill's shell commands** — Claude Code 2.1.332 (top of CHANGELOG, ~25 Nov): skills from MCP servers (beta) shown as server:skill; PreSkillShellCommand hook can refuse inline shell commands as skill loads (older versions open dialog); plugin cache temp_* cleanup; hook flood/large-output freeze fixes; PreToolUse ask reason shown (#102892, #105343). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-25.html)
+- **addyosmani/agent-skills 0.6.18 makes each skill self-contained, and lets /plan write to your issue tracker** — addyosmani/agent-skills 0.6.18 (24 Nov): per-skill copies of shared checklists in references/shared/ with CI drift check; /plan writes to configured issue tracker; floor guard reports file:line without printing values; a11y script resolves from installed skill; SSRF example marked partial; sdd-cache hook handles large WebFetch. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-25.html)
+- **Google's cloud plugin adds OpenCode and Pi, and Anthropic's official marketplace moves BigQuery analytics to Google's own repo** — google/skills 24 Nov: google-cloud plugin copy adds OpenCode + Pi (MCP servers, skills, routing rule, ADC headers), cloud-operator forbids opencode.json/.opencode/.pi (54b61f0); agent-platform-inference v1.0.2 gemini-4-argon global, rag-engine-management v1.0.4 (089e3cc); bigquery troubleshooting/observability/ai-ml, GKE storage/autoscaler, storage-fuse refreshes. claude-plugins-official: bigquery-data-analytics source moved to GoogleCloudPlatform pinned v0.3.0 (#7216); Claude Security plugin v0.13.0 (#7217). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-25.html)
+- **OpenClaw 2026.11.9 ships as stable while beta.3 opens library skills to remote app servers, and plugin config keys face removal from 29 Nov** — OpenClaw 2026.11.9 (Latest, 25 Nov) and 2026.11.8 (24 Nov); 2026.11.10-beta.3 (pre-release 24 Nov): library skills readable to remote app servers, same-name MCP servers handled, hook bodies up to 1 MiB, owed plugin updates retry respecting Hold; plugin config deprecations (registerCliBackend, plugins.entries, SDK session aliases, web search/fetch keys) earliest removal 2026-11-29/30; run openclaw doctor. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-25.html)
+- **Hermes Agent 0.23.4 lets you size the skill index, and Copilot CLI 1.0.116 flags plugins that duplicate an MCP server** — Hermes Agent v0.23.4 (Latest, 24 Nov): skills.index_desc_limit config for skill index description length; hermes plugins config command; plugin-catalog additions. Copilot CLI 1.0.116-0/-1/-2 (pre-release 24-25 Nov): warn when plugin and standalone MCP server share endpoint (disable via /mcp); .mcp.json/.github/mcp.json with comments load; no repeated MCP sign-in across sessions; org-managed MCP warnings skipped. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-25.html)
 
 ## 2026-Nov-24
 - **Claude Code 2.1.331 lets plugins ship optional dependencies, and stops a failed update from leaving skills missing** — Claude Code 2.1.331 (top of CHANGELOG, ~24 Nov): plugin manifest optionalDependencies; fix partial plugin folder after failed update loading with skills missing (#102186); PermissionRequest hooks save Skill(name:*) rules outside local settings; forked-skill stop reason no longer shown twice; managed extraKnownMarketplaces auto-update by default on/after 30 Nov (opt out autoUpdate:false); claude doctor API connectivity. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-24.html)
