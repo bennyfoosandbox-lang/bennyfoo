@@ -2,10 +2,59 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-24
-run_count: 117
-digest_count: 117
+last_run: 2026-11-25
+run_count: 118
+digest_count: 118
 entries:
+  - fingerprint: workday-q3-fy27-earnings-ai-arr-750m-150m-new-acv-nov2026
+    title: "Workday's AI products bring in about $150 million of new contract value in a quarter, triple last year, but the stock falls on a softer outlook"
+    first_seen: 2026-11-25
+    digest: using-ai-for-business-productivity-2026-Nov-25.html
+    urls:
+      - https://www.prnewswire.com/news-releases/workday-announces-fiscal-2027-third-quarter-financial-results-302949793.html
+      - https://www.stocktitan.net/news/WDAY/workday-announces-fiscal-2027-third-quarter-financial-4mz2mnne8pga.html
+      - https://in.investing.com/news/stock-market-news/workday-q3-fy27-slides-ai-arr-surges-130-but-stock-falls-on-outlook-93CH-5724490
+      - https://www.benzinga.com/content/63612143/workday-q3-2027-earnings-call-transcript
+      - https://247wallst.com/cards/workday-q3-2027-earnings-wday-01m87nz6e3htxthz1pvw3sh3dh
+  - fingerprint: sierra-1-75b-series-f-30b-valuation-400m-arr-nov2026
+    title: "Update: Sierra raises $1.75 billion at a $30 billion valuation as its customer-service agents pass $400 million in annual revenue"
+    first_seen: 2026-11-25
+    digest: using-ai-for-business-productivity-2026-Nov-25.html
+    urls:
+      - https://sierra.ai/blog/series-f-30b
+      - https://thenextweb.com/news/sierra-1-75b-series-f-30b-valuation-ai-agents
+      - https://dealroom.co/news/175052-sierra-raises-1-75b-doubling-valuation-to-30b-in-six-months/
+      - https://mlq.ai/news/sierra-says-it-is-finalizing-a-funding-round-led-by-lightspeed-and-greenoaks-at-a-30-billion-valuation/
+      - https://x.com/btaylor/status/2124857330152177927
+  - fingerprint: anthropic-claude-ship-code-review-pr-steward-claude-approvals-nov2026
+    title: "Anthropic's Claude Ship reviews, fixes and, under a team's own policy, approves pull requests"
+    first_seen: 2026-11-25
+    digest: using-ai-for-business-productivity-2026-Nov-25.html
+    urls:
+      - https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/
+      - https://www.technology.org/2026/11/24/anthropic-claude-ship-code-review-pr-steward-claude-approvals/
+      - https://madrobot.blog/2026/11/23/anthropic-claude-ship-ai-approves-pull-requests/
+      - https://tbreak.com/claude-ship-github-pull-request-agents/
+      - https://code.claude.com/docs/en/code-review
+  - fingerprint: openai-openworks-local-ai-partners-small-business-20-city-pilot-nov2026
+    title: "OpenAI's OpenWorks pays local experts up to $8,000 a month to coach small businesses on AI for free"
+    first_seen: 2026-11-25
+    digest: using-ai-for-business-productivity-2026-Nov-25.html
+    urls:
+      - https://help.openai.com/en/articles/20001724-how-to-apply-to-openworks-and-follow-up-on-your-application
+      - https://finance.yahoo.com/small-business/articles/openai-pay-local-ai-experts-184246685.html
+      - https://mlq.ai/news/openai-launches-openworks-to-pay-local-ai-experts-to-coach-small-businesses/
+      - https://www.datastudios.org/post/openai-openworks-ai-partners-8000-a-month-20-us-cities-free-chatgpt-business
+      - https://cryptobriefing.com/openai-launches-openworks-small-businesses/
+  - fingerprint: raise-us-burning-glass-fewer-rungs-new-bridges-entry-level-postings-nov2026
+    title: "Burning Glass and RAISE US find AI-heavy industries are cutting entry-level hiring rather than laying people off"
+    first_seen: 2026-11-25
+    digest: using-ai-for-business-productivity-2026-Nov-25.html
+    urls:
+      - https://www.semafor.com/article/11/23/2026/ai-disrupting-entry-level-work-report-finds
+      - https://www.axios.com/2026/11/23/jobs-hiring-decline-ai
+      - https://www.digitaltrends.com/computing/ai-is-squeezing-entry-level-office-jobs-and-workers-without-degrees-are-most-exposed/
+      - https://www.ccdaily.com/2026/11/ai-shrinks-first-rung-jobs-but-opportunities-exist/
   - fingerprint: zoom-q3-fy2027-enterprise-ai-upsell-first-dividend-nov2026
     title: "Zoom's AI shows up in enterprise upsell, not headline growth: enterprise revenue up 8.6% and paid AI in all 10 of its largest CX deals"
     first_seen: 2026-11-24
@@ -4846,6 +4895,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-25
+- **Workday's AI products bring in about $150 million of new contract value in a quarter, triple last year, but the stock falls on a softer outlook** — 24 Nov FQ3 FY27 (qtr to 31 Oct): rev $2.705B (+11.2%), subscription $2.532B (+12.8%), non-GAAP EPS $2.82; AI products ~$150M new ACV (>3x y/y); AI SKU ARR >$750M (+130% y/y, ~+25% q/q); 2,200+ core customers bought an AI product; FY27 subscription guide raised to $9.958B (~13%), op margin 31.5%; Q4 sub growth guide ~10%; shares fell 7%+ after hours. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-25.html)
+- **Update: Sierra raises $1.75 billion at a $30 billion valuation as its customer-service agents pass $400 million in annual revenue** — Update to May 2026 $200M-ARR entry: 23 Nov Series F $1.75B at $30B (vs ~$15.8B in May), led by Greenoaks and Lightspeed with Benchmark, Sequoia, GV, Tiger Global; ARR >$400M in Oct, +$150M+ in Q3; ~75x ARR; pre/post-money not stated. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-25.html)
+- **Anthropic's Claude Ship reviews, fixes and, under a team's own policy, approves pull requests** — 23 Nov: Claude Ship for GitHub (Team/Enterprise): Code Review GA (verified, severity-ranked inline comments, doesn't approve/block); PR Steward beta (pushes fixes for failing checks/review feedback, doesn't approve); Claude Approvals beta (approves routine changes only under a team-written policy file; observe-only mode advised; gates merges only if made a required check). /ship in Claude Code opens a PR and watches it for up to 7 days. No GitLab/Bitbucket; Anthropic warns agents can miss bugs and vulns. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-25.html)
+- **OpenAI's OpenWorks pays local experts up to $8,000 a month to coach small businesses on AI for free** — 23 Nov: OpenWorks pilot in ~20 US cities; contractor 'OpenWorks Partners' (min. 4 days/month in-person help + monthly workshop), stipends reported up to $8,000/month (not guaranteed); independent small businesses get free hands-on project help + 3 months ChatGPT Business; excludes VC-backed, PE-owned and software firms; budget and city criteria undisclosed. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-25.html)
+- **Burning Glass and RAISE US find AI-heavy industries are cutting entry-level hiring rather than laying people off** — 23 Nov 'Fewer Rungs, New Bridges' (RAISE US + Burning Glass Institute; Semafor exclusive, Axios): in AI-heavy industries entry-level share of postings 3–8% below its 2021–26 average in year to Jun 2026, flat economy-wide; white-collar industries 1.5M jobs short of pre-pandemic trend (net, AI one of several factors incl. offshoring); non-degree workers hold 80% of jobs classed as likely automated. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-25.html)
 
 ## 2026-Nov-24
 - **Zoom's AI shows up in enterprise upsell, not headline growth: enterprise revenue up 8.6% and paid AI in all 10 of its largest CX deals** — 23 Nov FQ3 FY27: rev $1,290.6M (+4.9%), non-GAAP EPS $1.59; enterprise rev +8.6% to $805.4M; paid AI in all 10 largest CX deals; FY27 guide raised to $5.100–5.105B; first $0.25 quarterly dividend; Q4 guide slightly below consensus; AI revenue not broken out. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-24.html)
