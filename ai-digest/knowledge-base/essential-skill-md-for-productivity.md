@@ -2,10 +2,55 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-25
-run_count: 112
-digest_count: 112
+last_run: 2026-11-26
+run_count: 113
+digest_count: 113
 entries:
+  - fingerprint: openclaw-2026-11-10-stable-deep-research-default-knowledge-vault-plugin-templates-2026-10-34-patch-nov25-26
+    title: "OpenClaw 2026.11.10 goes stable with Deep Research on by default and an opt-in Knowledge vault plugin"
+    first_seen: 2026-11-26
+    digest: essential-skill-md-for-productivity-2026-Nov-26.html
+    urls:
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.11.10
+      - https://github.com/openclaw/openclaw/blob/main/CHANGELOG/2026.11.10.md
+      - https://docs.openclaw.ai/releases/2026.11.10
+      - https://github.com/openclaw/openclaw/releases
+  - fingerprint: copilot-cli-1-0-117-0-1-custom-agent-explicit-tool-exposure-subagent-tool-list-trust-folder-hooks-nov25
+    title: "Copilot CLI 1.0.117 lets custom agents opt in to tools explicitly, and subagents now respect their tool lists"
+    first_seen: 2026-11-26
+    digest: essential-skill-md-for-productivity-2026-Nov-26.html
+    urls:
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.117-0
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.117-1
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.116
+      - https://github.com/github/copilot-cli/releases
+  - fingerprint: claude-security-plugin-0-13-1-required-provider-model-base-url-destination-line-nov25
+    title: "Claude Security plugin 0.13.1 makes you name where your scanned code is sent"
+    first_seen: 2026-11-26
+    digest: essential-skill-md-for-productivity-2026-Nov-26.html
+    urls:
+      - https://github.com/anthropics/claude-plugins-official/pull/7224
+      - https://github.com/anthropics/claude-plugins-official/commit/bd81c1af22a21a4466a3bb516b6156064a78551d
+      - https://github.com/anthropics/claude-plugins-official/commits/main
+  - fingerprint: google-skills-cloud-operator-server-not-connected-shared-token-agents-cli-onboarding-1-15-langchain-claude-agent-sdk-pathways-nov25
+    title: "Google's Cloud Operator skills now stop and walk you through reconnecting, and the Agents CLI skill covers LangChain and the Claude Agent SDK"
+    first_seen: 2026-11-26
+    digest: essential-skill-md-for-productivity-2026-Nov-26.html
+    urls:
+      - https://github.com/google/skills/commit/401f4700237d99f612696d99b56d7d03dc2f4458
+      - https://github.com/google/skills/commit/7f996a7743b7615912c607c79e803a68d941f8ce
+      - https://github.com/google/skills/commit/b315c2eea312b624f3fbe60018a6f741dd558ebb
+      - https://github.com/google/skills/commits/main
+  - fingerprint: google-admob-agent-skills-ask-admob-mcp-server-preview-nov16
+    title: "Google AdMob ships agent skills for adding ad code, with an AdMob MCP server in early testing (from 16 Nov)"
+    first_seen: 2026-11-26
+    digest: essential-skill-md-for-productivity-2026-Nov-26.html
+    urls:
+      - https://blog.google/products/publisher-connections/new-google-admob-tools/
+      - https://developers.google.com/admob/android/next-gen/agent-skills
+      - https://developers.google.com/admob/ios/agent-skills
+      - https://www.techrepublic.com/article/news-google-admob-ai-agents-developer-tools/
+      - https://ppc.land/google-to-test-gemini-agent-that-flags-admob-setup-errors/
   - fingerprint: claude-code-2-1-332-mcp-server-skills-beta-preskillshellcommand-hook-nov25
     title: "Claude Code 2.1.332 loads skills straight from MCP servers, and adds a hook that can veto a skill's shell commands"
     first_seen: 2026-11-25
@@ -3727,6 +3772,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-26
+- **OpenClaw 2026.11.10 goes stable with Deep Research on by default and an opt-in Knowledge vault plugin** — OpenClaw 2026.11.10 stable (25 Nov; 7,671 PRs, 349 contributors): Deep Research on by default (cited reports, side-by-side quotes, Unresolved list, 7-day retention); opt-in Knowledge memory plugin (plugins.slots.memory=knowledge, local Markdown vault, Git checkpoints); Agent Templates (lab) install bundled plugins and recommend a ClawHub plugin; 2026.10.34 patch (26 Nov) fixes updates with read-only config or stale plugin leases. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-26.html)
+- **Copilot CLI 1.0.117 lets custom agents opt in to tools explicitly, and subagents now respect their tool lists** — Copilot CLI 1.0.117-0/-1 (pre-releases, 25 Nov): custom agents opt in to tools via explicit tool exposure; subagents respect the tool list in a prompt-less custom agent file; --trust-folder from a subdirectory no longer runs root hooks with --add-dir; single plugin reload on the trust prompt; background agents resume after restart. 1.0.116 Latest: env setting reaches hooks, MCP and LSP servers; .mcp.json with comments loads. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-26.html)
+- **Claude Security plugin 0.13.1 makes you name where your scanned code is sent** — Claude Security plugin v0.13.1 (claude-plugins-official PR #7224, 25 Nov): --provider (anthropic/bedrock/vertex/foundry) required in sandbox; --model-base-url (https or loopback only); destination line printed before confirm; conflicting env/settings/managed settings rejected; --no-sandbox exclusive; CI examples pin @RELEASE_COMMIT. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-26.html)
+- **Google's Cloud Operator skills now stop and walk you through reconnecting, and the Agents CLI skill covers LangChain and the Claude Agent SDK** — google/skills 25 Nov: 401f470 google-cloud plugin shares one sign-in token across MCP servers; cloud-operator 1.3.0 / cloud-operator-setup 1.2.0 'Server not connected' 4-step procedure (explain, sign in, reconnect, retry); 7f996a7 google-agents-cli-onboarding 1.1.0 for Agents CLI v1.15.0 + Extensions (LangChain, LangGraph, Claude Agent SDK; npx skills add google/agents-cli); b315c2e pathways-workload memory-pressure evictions; afc7485 removes data-science workflow skill. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-26.html)
+- **Google AdMob ships agent skills for adding ad code, with an AdMob MCP server in early testing (from 16 Nov)** — Google AdMob AI tools (announced 16 Nov; fallback window): agent skills available now for Antigravity, Claude Code, Codex, Cursor to add and check ad code (npx skills add google/skills/skills/ads; iOS + Android 'Use agent skills' docs); AdMob MCP server in early testing, wider early 2027, changes need approval; Ask AdMob Gemini assistant testing in coming months. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-26.html)
+
+Note: Scanned about 100 candidate links from 6 web searches, npm registry timestamps for 17 agent CLIs, and the latest release, changelog and commit pages for Claude Code, Codex, Copilot CLI, Gemini CLI, OpenClaw, Hermes Agent, google/skills, anthropics/skills and anthropics/claude-plugins-official. Firecrawl was skipped as instructed (web search only). Items 1-4 are from the last 24 hours. Item 5 is from 16 Nov, taken from the fallback window because the 24-hour window held only four new items. Gemini CLI 0.71/0.72 had no skill changes. Some hosts were unreachable from the run environment (blog.google, developers.google.com, docs.factory.ai, docs.augmentcode.com), so the AdMob details rely on corroborating coverage and the Factory and Augment releases went unchecked.
 
 ## 2026-Nov-25
 - **Claude Code 2.1.332 loads skills straight from MCP servers, and adds a hook that can veto a skill's shell commands** — Claude Code 2.1.332 (top of CHANGELOG, ~25 Nov): skills from MCP servers (beta) shown as server:skill; PreSkillShellCommand hook can refuse inline shell commands as skill loads (older versions open dialog); plugin cache temp_* cleanup; hook flood/large-output freeze fixes; PreToolUse ask reason shown (#102892, #105343). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-25.html)
