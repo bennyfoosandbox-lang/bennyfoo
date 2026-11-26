@@ -2,10 +2,58 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-25
-run_count: 107
-digest_count: 104
+last_run: 2026-11-26
+run_count: 108
+digest_count: 105
 entries:
+  - fingerprint: lilly-endowment-aihe-35-implementation-grants-291m-iu-purdue-ivytech-nov2026
+    title: "Lilly Endowment approves $291.7M in AI grants for 35 Indiana colleges"
+    first_seen: 2026-11-26
+    digest: ai-impact-on-education-2026-Nov-26.html
+    urls:
+      - https://casrai.org/news/lilly-endowment-ai-higher-education-implementation-grants-indiana-2026
+      - https://bloomingtonian.com/2026/11/26/iu-receives-25-million-lilly-endowment-grant-for-ai-in-teaching-student-support/
+      - https://www.globenewswire.com/news-release/2026/11/24/3409745/0/en/depauw-university-awarded-5-million-from-lilly-endowment-inc-for-ai-initiatives.html
+      - https://www.usi.edu/news/releases/2026/11/usi-receives-85-million-artificial-intelligence-grant-through-lilly-endowment
+      - https://www.yahoo.com/news/science/articles/vu-receives-12-5m-advance-155606033.html
+      - https://www.prnewswire.com/news-releases/anderson-university-receives-5-million-grant-from-lilly-endowment-to-advance-use-of-artificial-intelligence-302949751.html
+      - https://www.21alivenews.com/2026/11/26/university-saint-francis-receives-5m-grant-lilly-endowment-ai-initiative/
+      - https://lillyendowment.org/artificial-intelligence-in-higher-education/
+  - fingerprint: dfe-warns-ai-wrong-info-results-checking-exercise-100-enquiries-nov2026
+    title: "England’s DfE warns schools that AI tools are giving them wrong answers about results checking"
+    first_seen: 2026-11-26
+    digest: ai-impact-on-education-2026-Nov-26.html
+    urls:
+      - https://schoolsweek.co.uk/ai-gave-schools-wrong-information-on-results-checks-dfe-claims/
+      - https://schoolsweek.co.uk/the-dfes-new-materials-dangerously-underplay-ais-risks
+      - https://www.lexology.com/library/detail.aspx?g=255d83be-d0db-476b-a855-2ede76f2ccae
+  - fingerprint: eedi-deepmind-learnlm-second-rct-1179-students-star-maths-null-nov2026
+    title: "Google DeepMind and Eedi’s bigger AI-tutor trial: wins in lessons, no gain on standardised maths tests"
+    first_seen: 2026-11-26
+    digest: ai-impact-on-education-2026-Nov-26.html
+    urls:
+      - https://www.the74million.org/article/five-things-you-should-know-about-new-ai-tutor-study/
+      - https://services.google.com/fh/files/misc/learnlm_oct26.pdf
+      - https://eedi.substack.com/p/ai-in-education-15-five-things-i-096
+      - https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/
+      - https://tinaaustin.substack.com/p/what-deepmind-and-eedis-uk-learnlm
+  - fingerprint: nyu-tandon-protecting-learning-traffic-light-ai-policy-guide-nov2026
+    title: "NYU Tandon’s traffic-light playbook says the real AI risk is learning loss, not cheating"
+    first_seen: 2026-11-26
+    digest: ai-impact-on-education-2026-Nov-26.html
+    urls:
+      - https://engineering.nyu.edu/news/nyu-tandon-unveils-new-strategy-and-playbook-ai-classroom
+      - https://nyunews.com/news/2026/11/24/tandon-ai-policy-use-guide
+      - https://engineering.nyu.edu/ai-policy-report
+      - https://aiweekly.co/alerts/nyu-tandon-releases-traffic-light-ai-policy-guide-for-faculty
+  - fingerprint: newport-mesa-usd-1400-student-ai-survey-82pct-cite26-nov2026
+    title: "Newport-Mesa asked 1,400 students about AI, and most wanted clearer rules, not a ban"
+    first_seen: 2026-11-26
+    digest: ai-impact-on-education-2026-Nov-26.html
+    urls:
+      - https://govtech.com/education/k-12/cite26-how-students-helped-shape-ai-strategy-at-newport-mesa-usd
+      - https://www.govtech.com/education/k-12/cite26-californias-ai-guidance-meets-local-realities
+      - https://www.govtech.com/education/k-12/california-teachers-union-calls-for-3-year-pause-on-ai-for-k-8
   - fingerprint: edweek-teacher-ai-use-plateaus-62pct-590-teachers-nov2026
     title: "Teachers’ classroom AI use stalls at 62% after two years of fast growth"
     first_seen: 2026-11-25
@@ -3908,6 +3956,13 @@ entries:
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
 
+
+## 2026-Nov-26
+- **Lilly Endowment approves $291.7M in AI grants for 35 Indiana colleges** — Lilly Endowment approves 35 AIHE implementation grants totalling $291.71M ($2.5M–$25M); IU, Purdue, Ivy Tech $25M each; Vincennes $12.5M, USI $8.5M, DePauw/Anderson/Saint Francis $5M. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-26.html)
+- **England’s DfE warns schools that AI tools are giving them wrong answers about results checking** — DfE tells schools to be careful with AI for the autumn results checking exercise after 100+ enquiries; AI tools gave incorrect information. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-26.html)
+- **Google DeepMind and Eedi’s bigger AI-tutor trial: wins in lessons, no gain on standardised maths tests** — Second Google DeepMind–Eedi LearnLM RCT (1,179 students, 10 UK schools): in-lesson gains, 94.7% drafts approved, but null on Star Maths; 15,000-student full-year trial next. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-26.html)
+- **NYU Tandon’s traffic-light playbook says the real AI risk is learning loss, not cheating** — NYU Tandon publishes non-binding “Protecting Learning” red/yellow/green AI-use guide; learning loss, not cheating, is the main worry; revision Jan 2027. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-26.html)
+- **Newport-Mesa asked 1,400 students about AI, and most wanted clearer rules, not a ban** — Newport-Mesa USD (CA) survey of ~1,400 students: 82% used AI in past 30 days; students asked for clearer rules (CITE26). [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-26.html)
 
 ## 2026-Nov-25
 - **Teachers’ classroom AI use stalls at 62% after two years of fast growth** — EdWeek Research Center (590 teachers, Aug–Oct 2026; reported 25 Nov): 62% use AI in class, vs 61% in 2025 and 34% in 2023; 64% have had ≥1 AI PD session; plateau partly tied to ed-tech backlash; RAND math-teacher figure (45%→74%) is a separate survey. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-25.html)
