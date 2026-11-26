@@ -2,10 +2,57 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-25
-run_count: 118
-digest_count: 118
+last_run: 2026-11-26
+run_count: 119
+digest_count: 119
 entries:
+  - fingerprint: fitch-us-productivity-1-9pct-ai-no-aggregate-job-loss-youth-unemployment-nov2026
+    title: "Fitch says US productivity is running at 1.9% a year, but it's too early to credit AI, and AI hasn't cut overall employment"
+    first_seen: 2026-11-26
+    digest: using-ai-for-business-productivity-2026-Nov-26.html
+    urls:
+      - https://www.aa.com.tr/en/americas/us-labor-productivity-growth-rises-to-19-per-year-fitch-says/4136286
+      - https://www.hellenicshippingnews.com/us-productivity-growth-is-improving-steadily/
+      - https://www.indexbox.io/blog/fitch-us-productivity-gains-steady-over-past-four-years-ai-link-still-unclear/
+      - https://cryptobriefing.com/fitch-ratings-ai-us-employment/
+  - fingerprint: atlassian-ai-sdlc-index-70pct-ai-merged-code-review-bottleneck-nov2026
+    title: "Atlassian's first AI SDLC Index: AI now writes 70% of merged code, and the bottleneck has moved to human review"
+    first_seen: 2026-11-26
+    digest: using-ai-for-business-productivity-2026-Nov-26.html
+    urls:
+      - https://www.atlassian.com/blog/company-news/introducing-the-atlassian-ai-sdlc-index
+      - https://sdtimes.com/ai-sdlc/atlassian-ai-sdlc-index-lower-code-costs-fail-to-break-development-bottlenecks/
+      - https://www.techzine.eu/news/devops/145912/atlassian-ai-makes-code-cheaper-bottleneck-shifts/
+      - https://diginomica.com/why-incident-handling-moving-backwards-ai-code-hits-70-merged-commits-reading-atlassian-index
+  - fingerprint: anthropic-skills-over-mcp-beta-mcp-tasks-elicitation-ga-nov2026
+    title: "Anthropic lets MCP servers ship skills to Claude and makes long-running Tasks and mid-task Elicitation generally available"
+    first_seen: 2026-11-26
+    digest: using-ai-for-business-productivity-2026-Nov-26.html
+    urls:
+      - https://claude.com/resources/articles/skills-over-mcp-tasks-and-more
+      - https://www.techtimes.com/articles/331491/20261125/anthropic-launches-skills-over-mcp-beta-server-skills-update-without-reinstall-approval-unstated.htm
+      - https://smartscope.blog/en/blog/claude-skills-over-mcp-public-beta-tasks-elicitation-2026/
+      - https://alphasignal.ai/news/anthropic-expands-mcp-with-skills-background-tasks-and-direct-file-transfers
+      - https://news.sulat.com/2026/11/25/claude-mcp-skills/
+  - fingerprint: automation-anywhere-completes-boost-ai-acquisition-voice-agents-nov2026
+    title: "Automation Anywhere closes its Boost.ai deal, connecting voice and chat agents to the back-office automations that finish the work"
+    first_seen: 2026-11-26
+    digest: using-ai-for-business-productivity-2026-Nov-26.html
+    urls:
+      - https://thenextweb.com/news/automation-anywhere-completes-boost-ai-acquisition-customer-service
+      - https://www.unite.ai/automation-anywhere-closes-boost-ai-deal-to-automate-customer-service/
+      - https://pulse2.com/automation-anywhere-completes-boost-ai-acquisition-to-expand-autonomous-customer-service/
+      - https://cxotoday.com/media-coverage/automation-anywhere-completes-boost-ai-acquisition-challenges-saas-giants-in-the-race-for-autonomous-customer-service-operations/
+      - https://www.automationanywhere.com/company/press-room/conversational-ai-finally-connected-work-automation-anywhere-acquire-boostai
+  - fingerprint: adobe-holiday-2026-ai-referred-retail-traffic-127pct-online-spend-9-1pct-nov2026
+    title: "Adobe: AI-referred visits to US retail sites are up 127% this holiday season, and they now convert better than other traffic"
+    first_seen: 2026-11-26
+    digest: using-ai-for-business-productivity-2026-Nov-26.html
+    urls:
+      - https://www.digitalcommerce360.com/2026/11/25/adobe-online-holiday-spending-data/
+      - https://www.techradar.com/pro/black-friday-2026-could-be-the-biggest-shopping-week-ever-seen-with-ai-agents-playing-a-bigger-role-than-ever
+      - https://ecommerceparadise.com/adobe-online-holiday-spend-ai-traffic/
+      - https://www.shashi.co/2026/11/new-adobe-data-shows-ai-shopping-visits.html
   - fingerprint: workday-q3-fy27-earnings-ai-arr-750m-150m-new-acv-nov2026
     title: "Workday's AI products bring in about $150 million of new contract value in a quarter, triple last year, but the stock falls on a softer outlook"
     first_seen: 2026-11-25
@@ -4895,6 +4942,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-26
+- **Fitch says US productivity is running at 1.9% a year, but it's too early to credit AI, and AI hasn't cut overall employment** — 24 Nov report: US labour productivity ~1.9%/yr over past 4 yrs (above 2010–19); business-sector 2.5% vs 2.1% post-1960 avg; drivers TFP + capital deepening; too early to credit AI (J-curve); no aggregate employment decline or layoff surge; AI net jobs effect ~0 (<0.4% per secondary coverage); youth unemployment +1.2pp since late 2022; risk in high-substitution industries. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-26.html)
+- **Atlassian's first AI SDLC Index: AI now writes 70% of merged code, and the bottleneck has moved to human review** — First edition 18 Nov (analysis 24–25 Nov): telemetry 340k+ engineers, 500+ orgs; surveys 567 cos (2026) vs 382 (2025); AI share of merged code 49% (Apr) → 70% (Oct); AI spend per unit output −27%; reviews/person/month 12.8 (Jan) → 22.3 (Oct); median time to first review 31.2 → 97.8 min when >80% AI-written; AI code survivorship 80% → 59% → 68%; CI/review wait 86.5 h/yr each; incident-handling favourability dipped; quarterly updates. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-26.html)
+- **Anthropic lets MCP servers ship skills to Claude and makes long-running Tasks and mid-task Elicitation generally available** — 24 Nov: Skills over MCP public beta (servers publish skills, update without reinstall; default-on Pro/Max/Ultra, admin opt-in Team, Enterprise coming soon); MCP Tasks (async long-running jobs) and Elicitation (server pauses for user form/link input) GA in Claude, rolling to Team/Enterprise; File Uploads soon; open spec but MCP project still lists Tasks as beta; approval/vetting for server-shipped skills unstated. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-26.html)
+- **Automation Anywhere closes its Boost.ai deal, connecting voice and chat agents to the back-office automations that finish the work** — 24 Nov close (agreed 7 Oct from Nordic Capital; terms undisclosed): Boost.ai 650+ deployments, 36+ languages, >90% resolution claim, regulated-industry focus; to front Automation Anywhere's ~0.5B executions/yr automation platform; follows 2025 Aisera buy; integration largely roadmap. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-26.html)
+- **Adobe: AI-referred visits to US retail sites are up 127% this holiday season, and they now convert better than other traffic** — 25 Nov Adobe data: US online spend $82.5B 1–22 Nov (+9.1% y/y vs 6.7% season forecast); AI-referred retail visits +127% y/y (season forecast +130%; Thanksgiving +159%, Black Friday +95%, Cyber Monday +88%); AI-referred visit value flipped from <0.5x to ~2x non-AI; Salesforce: AI agents ~1/5 of Black Friday sales; clicks not purchases. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-26.html)
 
 ## 2026-Nov-25
 - **Workday's AI products bring in about $150 million of new contract value in a quarter, triple last year, but the stock falls on a softer outlook** — 24 Nov FQ3 FY27 (qtr to 31 Oct): rev $2.705B (+11.2%), subscription $2.532B (+12.8%), non-GAAP EPS $2.82; AI products ~$150M new ACV (>3x y/y); AI SKU ARR >$750M (+130% y/y, ~+25% q/q); 2,200+ core customers bought an AI product; FY27 subscription guide raised to $9.958B (~13%), op margin 31.5%; Q4 sub growth guide ~10%; shares fell 7%+ after hours. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-25.html)
