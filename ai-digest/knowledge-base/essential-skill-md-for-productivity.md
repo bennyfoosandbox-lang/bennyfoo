@@ -2,10 +2,49 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-26
-run_count: 113
-digest_count: 113
+last_run: 2026-11-27
+run_count: 114
+digest_count: 114
 entries:
+  - fingerprint: copilot-cli-1-0-117-2-3-mcp-approval-no-longer-covers-builtins-autopilot-asks-per-extension-forge-skill-assets-nov26
+    title: "Copilot CLI 1.0.117-3 stops an MCP approval from also approving built-in actions, and asks before each extension in autopilot"
+    first_seen: 2026-11-27
+    digest: essential-skill-md-for-productivity-2026-Nov-27.html
+    urls:
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.117-3
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.117-2
+  - fingerprint: qwen-code-0-28-7-loads-claude-code-2-1-332-mods-web-shell-workspace-skills-menu-0-28-6-parked-approvals-nov26
+    title: "Qwen Code 0.28.7 runs mods written for Claude Code 2.1.332 and adds a per-workspace Skills and MCP menu"
+    first_seen: 2026-11-27
+    digest: essential-skill-md-for-productivity-2026-Nov-27.html
+    urls:
+      - https://github.com/QwenLM/qwen-code/releases/tag/v0.28.7
+      - https://github.com/QwenLM/qwen-code/pull/18435
+      - https://github.com/QwenLM/qwen-code/pull/18140
+      - https://github.com/QwenLM/qwen-code/releases/tag/v0.28.6
+  - fingerprint: google-skills-api-gateway-facts-corrected-lockdown-removes-allusers-kueue-1-1-1-hardening-nov26
+    title: "Google corrects its API Gateway skills, including the one-command lockdown we reported on 22 Nov, and hardens its Kueue troubleshooting skill"
+    first_seen: 2026-11-27
+    digest: essential-skill-md-for-productivity-2026-Nov-27.html
+    urls:
+      - https://github.com/google/skills/commit/6ec2bf5
+      - https://github.com/google/skills/commit/c75ad1a
+  - fingerprint: google-skills-cloud-operator-admin-setup-1-0-0-org-settings-explicit-confirmations-nov26
+    title: "A new Google skill helps organization admins turn on Cloud Operator, and asks for explicit confirmation at every step"
+    first_seen: 2026-11-27
+    digest: essential-skill-md-for-productivity-2026-Nov-27.html
+    urls:
+      - https://github.com/google/skills/commit/6dc0d53
+      - https://github.com/google/skills/blob/main/skills/cloud/cloud-operator-admin-setup/SKILL.md
+  - fingerprint: google-skills-google-home-developer-plugin-mcp-docs-diagnostics-six-agents-nov26
+    title: "Google ships a Google Home Developer plugin that installs the same skill and docs MCP server in six coding agents"
+    first_seen: 2026-11-27
+    digest: essential-skill-md-for-productivity-2026-Nov-27.html
+    urls:
+      - https://github.com/google/skills/commit/c413c1f
+      - https://github.com/google/skills/tree/main/plugins/home/google-home-developer
+      - https://developers.home.google.com/mcp/developer
+      - https://developers.home.google.com/reference/home-developers/mcp
   - fingerprint: openclaw-2026-11-10-stable-deep-research-default-knowledge-vault-plugin-templates-2026-10-34-patch-nov25-26
     title: "OpenClaw 2026.11.10 goes stable with Deep Research on by default and an opt-in Knowledge vault plugin"
     first_seen: 2026-11-26
@@ -3772,6 +3811,15 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-27
+- **Copilot CLI 1.0.117-3 stops an MCP approval from also approving built-in actions, and asks before each extension in autopilot** — Copilot CLI 1.0.117-2 (26 Nov ~02:03 UTC) and 1.0.117-3 (~20:17 UTC), pre-releases: MCP server tool approval no longer also approves built-in requests (shell, memory) when names collide, still applies after resume; autopilot asks before each extension instead of denying all; rejecting a Forge draft restores original binary skill assets; starts without plugins if config.json unreadable (file left unchanged); case-insensitive /mcp and --disable-mcp-server names; no repeat org-required plugin notices. 1.0.117-2: PowerShell hooks keep native exit codes (exit 2 = warning/denial). 1.0.117-4/-5 no skill changes. 1.0.116 remains Latest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-27.html)
+- **Qwen Code 0.28.7 runs mods written for Claude Code 2.1.332 and adds a per-workspace Skills and MCP menu** — Qwen Code 0.28.7 (26 Nov ~18:04): PR #18435 (merged 26 Nov, 53d0b5c) loads and draws Mods written for Claude Code 2.1.332 (aliases, isTerminalOnly, Progress element, maxLines/wrap clip), hooks on 25 new 2.1.332 event names load but skip with one-line diagnostic (previously exit 1); PR #18140 Web Shell per-workspace menu for MCP, Skills, Extensions, Channels, Settings (untrusted get Trust action). 0.28.6 (26 Nov ~05:51): extension command approvals park (#18166); managed agents park hook + MCP approvals (#18236); approval validation for durable Hooks/MCP (#18353). [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-27.html)
+- **Google corrects its API Gateway skills, including the one-command lockdown we reported on 22 Nov, and hardens its Kueue troubleshooting skill** — google/skills 26 Nov: 6ec2bf5 four API Gateway skills (18 files +400/-224) fix facts: lockdown waits for every gateway, removes allUsers/allAuthenticatedUsers invoker bindings (gcloud run services update has no --no-allow-unauthenticated; that's a deploy flag) — corrects 4bb21eb reported 22 Nov; roles/run.admin for setIamPolicy; config rolled to every gateway; apiKey with other name/in silently ignored -> test keyless 401; every oauth2 scheme needs x-google-jwks_uri. c75ad1a gke-kueue-troubleshooting v1.1.1 (20 files +5,508/-1,203): approval before pip PyYAML, no stdin logs, symlinks skipped, skipped/unreadable inputs reported, mktemp -d per run, validate_report.py must pass. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-27.html)
+- **A new Google skill helps organization admins turn on Cloud Operator, and asks for explicit confirmation at every step** — google/skills 6dc0d53 (26 Nov, 8 files +630/-151): new cloud-operator-admin-setup 1.0.0 (SKILL.md +320) for org admins: sign in (gcloud + ADC, console fallback), find org ID, read agentAdminSettings, enable/restore Gemini usage (shows preview terms), agent memory, read-only vs read-write actions (write preview), data sharing, summary; explicit 'Enable'/'Restore' reply, type 'disable' to turn off, confirmation to grant roles/geminicloudassist.user, testIamPermissions check; never recommends terms/settings. cloud-operator-setup 1.2.0->1.3.0 and cloud-operator 1.3.0->1.4.0 hand off to it. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-27.html)
+- **Google ships a Google Home Developer plugin that installs the same skill and docs MCP server in six coding agents** — google/skills c413c1f (26 Nov, 13 files +403): google-home-developer plugin 1.0.0 (Apache-2.0, Developer Tools) in .agents and .claude-plugin marketplaces; skill finding-google-skills; HomeDevelopers streamable-HTTP MCP server https://homedevelopers.googleapis.com/mcp (search_documents for Google Home/Matter/OpenThread docs, cloud-to-cloud integration diagnostics); public docs no credentials, API key quota, OAuth/ADC for diagnostics + Partner Program docs; installs: agy plugin install, claude plugin install google-home-developer@google-plugins, codex plugin add, gemini extension/mcp add, .mcp.json + rules/AGENTS.md for VS Code/Copilot and Cursor. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-27.html)
+
+Note: Scanned about 100 candidate links from 8 web searches, npm registry timestamps for 17 agent CLIs, and release/commit pages for the usual agent CLIs and skills repos. Firecrawl skipped as instructed. All five items from 26 Nov (US Thanksgiving, quiet day), inside 24h. Skipped 12 already-known candidates (Claude Code 2.1.332, OpenClaw 2026.11.10/2026.10.34, Copilot CLI 1.0.117-0/-1, Claude Security 0.13.1, Hermes 0.23.4, addyosmani 0.6.18, skills CLI 1.9.0, 25 Nov google/skills commits, AdMob skills). Held back: Crush 0.103.0 (global skill/MCP toggles in every window, MCP output cap), Kilo Code 7.8.36 (MCP cwd fix), Copilot CLI 1.0.117-4/-5, Codex 0.174.0 alphas, aggregator 'Skills over MCP' restating Claude Code 2.1.332. github.blog and munderdiffl.in unreachable.
 
 ## 2026-Nov-26
 - **OpenClaw 2026.11.10 goes stable with Deep Research on by default and an opt-in Knowledge vault plugin** — OpenClaw 2026.11.10 stable (25 Nov; 7,671 PRs, 349 contributors): Deep Research on by default (cited reports, side-by-side quotes, Unresolved list, 7-day retention); opt-in Knowledge memory plugin (plugins.slots.memory=knowledge, local Markdown vault, Git checkpoints); Agent Templates (lab) install bundled plugins and recommend a ClawHub plugin; 2026.10.34 patch (26 Nov) fixes updates with read-only config or stale plugin leases. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-26.html)
