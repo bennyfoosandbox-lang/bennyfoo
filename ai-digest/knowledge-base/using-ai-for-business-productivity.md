@@ -2,10 +2,61 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-26
-run_count: 119
-digest_count: 119
+last_run: 2026-11-27
+run_count: 120
+digest_count: 120
 entries:
+  - fingerprint: fca-our-approach-to-agentic-ai-tech-firms-regulatory-perimeter-nov2026
+    title: "UK's FCA warns tech firms that AI agents doing regulated financial work could bring them under financial regulation"
+    first_seen: 2026-11-27
+    digest: using-ai-for-business-productivity-2026-Nov-27.html
+    urls:
+      - https://www.pymnts.com/cpi-posts/uk-warns-tech-giants-ai-agents-may-fall-under-financial-regulation/
+      - https://www.aiaffairs.com/government/uk-watchdog-ai-agents-financial-regulation-tech-firms/
+      - https://www.freshfields.com/en/our-thinking/blogs/risk-and-compliance/agentic-ai-the-uk-fca-sets-out-expectations-for-firms-and-providers-102ob2g
+      - https://labs.cloudsecurityalliance.org/research/csa-research-note-fca-agentic-ai-accountability-20261126-csa/
+      - https://news.sulat.com/2026/11/25/fca-agentic-ai/
+      - https://www.theepochtimes.com/world/uk-financial-watchdog-warns-tech-companies-over-ai-agents-6129244
+  - fingerprint: openai-private-inference-alpha-confidential-computing-trials-nov2026
+    title: "OpenAI starts testing Private Inference, which aims to keep business prompts hidden from OpenAI while models run"
+    first_seen: 2026-11-27
+    digest: using-ai-for-business-productivity-2026-Nov-27.html
+    urls:
+      - https://www.unite.ai/openai-begins-limited-customer-trials-of-alpha-private-inference/
+      - https://letsdatascience.com/news/openai-tests-private-inference-so-businesses-can-keep-data-f-37b71da7
+      - https://i10x.ai/news/openai-private-inference-alpha-confidential-computing-what-it-covers
+      - https://www.roic.ai/news/openai-begins-testing-private-inference-with-select-customers-11-25-2026
+      - https://venturebeat.com/ai/openais-new-private-intelligence-targets-a-growing-enterprise-concern-who-can-see-your-ai-data/
+  - fingerprint: openai-chatgpt-chat-work-merge-shared-usage-meter-nov2026
+    title: "OpenAI begins merging ChatGPT's Chat and Work into one experience, with one usage allowance shared with Codex"
+    first_seen: 2026-11-27
+    digest: using-ai-for-business-productivity-2026-Nov-27.html
+    urls:
+      - https://theaiinsider.tech/2026/11/26/openai-begins-merging-chatgpts-chat-and-work-into-single-experience-as-heavy-users-voice-limit-concerns/
+      - https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits
+      - https://cryptobriefing.com/openai-merges-chatgpt-chat-work-usage-limits/
+      - https://mlq.ai/news/openai-merges-chatgpts-chat-and-work-tabs-heavy-users-may-hit-limits-sooner/
+      - https://ailookout.news/blog/openai-chat-work-usage-merger
+  - fingerprint: anthropic-claude-rewrites-messages-api-python-to-rust-cpu-cut-nov2026
+    title: "Anthropic used Claude agents to move its Messages API from Python to Rust, and found that checking the work took longer than writing it"
+    first_seen: 2026-11-27
+    digest: using-ai-for-business-productivity-2026-Nov-27.html
+    urls:
+      - https://www.techrepublic.com/article/news-anthropic-claude-messages-api-rust-migration/
+      - https://thenextweb.com/news/anthropic-claude-messages-api-rust-migration
+      - https://www.theneuron.ai/news/anthropic-claude-api-rust-migration/
+      - https://the420.in/anthropic-rebuilds-claude-messages-api-in-rust-using-python-to-verify/
+      - https://digg.com/tech/t9fo4cmd
+  - fingerprint: crosby-law-firm-5m-ai-agent-liability-policy-lloyds-nov2026
+    title: "Law firm Crosby insures its AI paralegal agents for $5M and stops having lawyers review about 20% of its work"
+    first_seen: 2026-11-27
+    digest: using-ai-for-business-productivity-2026-Nov-27.html
+    urls:
+      - https://www.artificiallawyer.com/2026/11/10/crosby-insures-paralegal-agents-interview/
+      - https://www.nonbillable.co.uk/news/crosby-ai-insurance-removes-lawyer-oversight
+      - https://www.mlex.com/pulse/legal-tech/articles/2548170/ai-law-firm-crosby-inks-5m-malpractice-insurance-policy
+      - https://news.bgov.com/legal-ops-and-tech/ai-agent-insurance-points-to-future-of-law-without-lawyers
+      - https://cryptobriefing.com/crosby-ai-agent-liability-insurance/
   - fingerprint: fitch-us-productivity-1-9pct-ai-no-aggregate-job-loss-youth-unemployment-nov2026
     title: "Fitch says US productivity is running at 1.9% a year, but it's too early to credit AI, and AI hasn't cut overall employment"
     first_seen: 2026-11-26
@@ -4942,6 +4993,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-27
+- **UK's FCA warns tech firms that AI agents doing regulated financial work could bring them under financial regulation** — FCA 'Our approach to Agentic AI' (24 Nov): agents that do payments, credit broking, financial promotions or advice may need authorisation; calling yourself a tech provider is no shield; senior managers own third-party agents; no new rules, existing ones apply. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-27.html)
+- **OpenAI starts testing Private Inference, which aims to keep business prompts hidden from OpenAI while models run** — Altman announced 25 Nov a limited alpha of Private Inference (part of Private Intelligence from DevDay): confidential computing so prompts/responses are shielded during processing; separate from Zero Data Retention; no pricing, cohort or GA date. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-27.html)
+- **OpenAI begins merging ChatGPT's Chat and Work into one experience, with one usage allowance shared with Codex** — From 24 Nov a small group of Pro users get combined Chat+Work on one usage meter; Instant stays unlimited; wider rollout in December, with reports that Plus/Pro/Business and Codex will share one token pool; allowance size undisclosed; heavy users push back. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-27.html)
+- **Anthropic used Claude agents to move its Messages API from Python to Rust, and found that checking the work took longer than writing it** — Anthropic engineering report (25 Nov): Claude agents migrated the Messages API from Python to Rust with no downtime or feature freeze; ~70% lower CPU per request in one region (earlier podcast claim was 40–50%); first version in ~a week, verification against the old system took months. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-27.html)
+- **Law firm Crosby insures its AI paralegal agents for $5M and stops having lawyers review about 20% of its work** — AI-native NY law firm Crosby got a $5M policy (Testudo, Lloyd's) covering outputs of its paralegal agents, effective 3 Nov; dropped lawyer review on non-legal tasks (~20% of work); separate from its professional liability cover; regulators haven't ruled on whether agents may give legal advice. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-27.html)
 
 ## 2026-Nov-26
 - **Fitch says US productivity is running at 1.9% a year, but it's too early to credit AI, and AI hasn't cut overall employment** — 24 Nov report: US labour productivity ~1.9%/yr over past 4 yrs (above 2010–19); business-sector 2.5% vs 2.1% post-1960 avg; drivers TFP + capital deepening; too early to credit AI (J-curve); no aggregate employment decline or layoff surge; AI net jobs effect ~0 (<0.4% per secondary coverage); youth unemployment +1.2pp since late 2022; risk in high-substitution industries. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-26.html)
