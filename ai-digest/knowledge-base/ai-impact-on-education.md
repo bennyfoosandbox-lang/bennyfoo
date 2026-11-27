@@ -2,10 +2,50 @@
 topic: "AI Impact on Education"
 topic_slug: ai-impact-on-education
 created: 2026-07-29
-last_run: 2026-11-26
-run_count: 108
-digest_count: 105
+last_run: 2026-11-27
+run_count: 109
+digest_count: 106
 entries:
+  - fingerprint: deped-project-sabay-grade2-ai-screening-talaan-dropout-300-schools-nov2026
+    title: "The Philippines will screen every Grade 2 pupil with an AI speech tool and extend its AI dropout warnings to 300 schools"
+    first_seen: 2026-11-27
+    digest: ai-impact-on-education-2026-Nov-27.html
+    urls:
+      - https://tribune.net.ph/2026/11/19/deped-expands-ai-dropout-warning-system
+      - https://philstarlife.com/news-and-views/331888-deped-ai-app-identify-children-learning-needs
+      - https://newsbytes.ph/?p=113133
+      - https://asianews.network/?p=315841
+  - fingerprint: college-admissions-offices-ai-caltech-authenticity-georgia-tech-transcripts-nov2026
+    title: "Admissions offices turn AI on applicants: Caltech checks research projects for “authenticity”, Georgia Tech reads transcripts"
+    first_seen: 2026-11-27
+    digest: ai-impact-on-education-2026-Nov-27.html
+    urls:
+      - https://www.nbcpalmsprings.com/ca-us-and-world/2026/11/16/as-students-rely-on-ai-in-college-applications-admissions-offices-scramble-to-keep-up
+      - https://krdo.com/?p=1775868
+      - https://wgbh.org/news/education-news/2026-11-13/with-little-oversight-colleges-are-using-ai-to-handle-admissions-work
+  - fingerprint: cite26-santa-barbara-local-ai-models-vs-cloud-iep-privacy-nov2026
+    title: "California county officials tell districts to run their own AI models instead of relying on vendors’ clouds"
+    first_seen: 2026-11-27
+    digest: ai-impact-on-education-2026-Nov-27.html
+    urls:
+      - https://www.govtech.com/education/k-12/cite26-rethinking-schools-reliance-on-cloud-ai
+      - https://www.govtech.com/education/k-12/cite26-how-students-helped-shape-ai-strategy-at-newport-mesa-usd
+  - fingerprint: buffalo-region-techbuffalo-ub-teacher-ai-training-priority-edweek-nov2026
+    title: "Buffalo makes AI training for teachers a regional workforce priority"
+    first_seen: 2026-11-27
+    digest: ai-impact-on-education-2026-Nov-27.html
+    urls:
+      - https://www.edweek.org/leadership/why-this-region-is-making-ai-training-for-teachers-a-top-priority/2026/11
+      - https://www.edweek.org/technology/fast-moving-ai-leaves-teacher-training-struggling-to-keep-up
+  - fingerprint: malaysia-ai-classroom-push-reality-check-scmp-nov2026
+    title: "Malaysia’s classroom AI push meets a reality check over thinking skills, rural access and safeguards"
+    first_seen: 2026-11-27
+    digest: ai-impact-on-education-2026-Nov-27.html
+    urls:
+      - https://scmp.com/week-asia/people/article/3372605/can-ai-teach-kids-think-malaysias-classroom-tech-push-faces-reality-check
+      - https://www.nst.com.my/amp/opinion/letters/2026/11/1576052/repurposing-education-digital-age
+      - https://www.thestar.com.my/news/nation/2026/10/29/over-329000-teachers-have-received-ai-training-says-fadhlina
+      - https://www.malaymail.com/news/what-you-think/2026/09/04/malaysia-must-decide-when-ai-helps-learning-and-when-it-replaces-it/233932
   - fingerprint: lilly-endowment-aihe-35-implementation-grants-291m-iu-purdue-ivytech-nov2026
     title: "Lilly Endowment approves $291.7M in AI grants for 35 Indiana colleges"
     first_seen: 2026-11-26
@@ -3956,6 +3996,13 @@ entries:
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
 
+
+## 2026-Nov-27 (fallback window ~2 weeks)
+- **The Philippines will screen every Grade 2 pupil with an AI speech tool and extend its AI dropout warnings to 300 schools** — DepEd's ECAIR: Project SABAY AI speech screener for Grade 2 learning/communication difficulties (~14.5 min vs up to 2 hrs) goes nationwide in 2027; Talaan AI dropout early-warning system expands to 300 schools. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-27.html)
+- **Admissions offices turn AI on applicants: Caltech checks research projects for “authenticity”, Georgia Tech reads transcripts** — CNN (16 Nov): Caltech launching AI tool to check 'authenticity' of applicants' research projects; Georgia Tech uses AI to review transfer transcripts; WGBH (13 Nov): colleges using AI for admissions work with little oversight. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-27.html)
+- **California county officials tell districts to run their own AI models instead of relying on vendors’ clouds** — GovTech CITE26 session: two Santa Barbara County officials urge districts to build local AI capacity; locally run models for sensitive records like IEPs; start with admin uses before student-facing ones. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-27.html)
+- **Buffalo makes AI training for teachers a regional workforce priority** — EdWeek (16 Nov): Buffalo, NY region — nonprofit TechBuffalo building AI/tech talent pipeline and linking educators with University at Buffalo researchers on how to teach AI skills. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-27.html)
+- **Malaysia’s classroom AI push meets a reality check over thinking skills, rural access and safeguards** — SCMP (Nov 2026) on whether Malaysia's AI-in-schools push can teach kids to think; context: 329k+ teachers trained, AI literacy in curriculum from 2027, rural connectivity gaps, calls for oral/in-class assessment. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-27.html)
 
 ## 2026-Nov-26
 - **Lilly Endowment approves $291.7M in AI grants for 35 Indiana colleges** — Lilly Endowment approves 35 AIHE implementation grants totalling $291.71M ($2.5M–$25M); IU, Purdue, Ivy Tech $25M each; Vincennes $12.5M, USI $8.5M, DePauw/Anderson/Saint Francis $5M. [digest](../ai-impact-on-education/ai-impact-on-education-2026-Nov-26.html)
