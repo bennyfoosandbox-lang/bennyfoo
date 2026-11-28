@@ -2,10 +2,69 @@
 topic: "Using AI for Business Productivity"
 topic_slug: using-ai-for-business-productivity
 created: 2026-07-20
-last_run: 2026-11-27
-run_count: 120
-digest_count: 120
+last_run: 2026-11-28
+run_count: 121
+digest_count: 121
 entries:
+  - fingerprint: sap-weighs-10000-job-cuts-ai-restructuring-bloomberg-nov2026
+    title: "SAP is reportedly weighing at least 10,000 job cuts as it reorganises around AI"
+    first_seen: 2026-11-28
+    digest: using-ai-for-business-productivity-2026-Nov-28.html
+    urls:
+      - https://bworldonline.com/bloomberg/2026/11/27/797239/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring/
+      - https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html
+      - https://taipeitimes.com/News/biz/archives/2026/11/28/2003868515
+      - https://dataconomy.com/2026/11/27/sap-weighs-at-least-10000-job-cuts-in-ai-restructuring/
+      - https://investing.com/news/company-news/sap-reportedly-weighs-at-least-10000-job-cuts-in-ai-restructuring-5052712
+      - https://www.technology.org/2026/11/27/sap-10000-job-cuts-ai-restructuring-saueressig/
+      - https://cxm.world/customer-experience/sap-job-cuts-ai-restructuring/
+  - fingerprint: google-workspace-mcp-servers-cli-ga-agent-controls-rest-cutoff-feb2027-nov2026
+    title: "Google opens Gmail, Drive and Docs to AI agents through official MCP servers, and will require agents to use them from February"
+    first_seen: 2026-11-28
+    digest: using-ai-for-business-productivity-2026-Nov-28.html
+    urls:
+      - https://workspace.google.com/blog/product-announcements/built-for-trust-and-control-new-ai-agent-protections-and-developer-tools-in-google-workspace
+      - https://www.techrepublic.com/article/news-google-workspace-ai-agent-access/
+      - https://i10x.ai/news/analysis-google-workspace-mcp-mandate-ai-agents-2027
+      - https://dataphoenix.info/news/google-workspace-mcp-cli-agent-gateway-availability
+      - https://news.sulat.com/2026/11/25/google-workspace-mcp/
+      - https://www.i-scoop.eu/google-workspace-mcp-ai-agents/
+      - https://techstackups.com/articles/google-workspace-ai-agents-mcp/
+      - https://dev.to/paullovelace/google-workspace-mcp-servers-are-generally-available-and-rest-api-access-for-ai-agents-ends-feb-1-1n43
+  - fingerprint: jpmorgan-wealth-ai-24m-knowledge-jobs-five-years-unfilled-roles-nov2026
+    title: "J.P. Morgan Wealth Management estimates AI could displace 24 million knowledge-worker jobs in five years, mostly as roles left unfilled"
+    first_seen: 2026-11-28
+    digest: using-ai-for-business-productivity-2026-Nov-28.html
+    urls:
+      - https://openthemagazine.com/world/ai-could-put-24-million-jobs-at-risk-in-five-years-many-may-simply-go-unfilled
+      - https://www.newsbytesapp.com/news/business/jpmorgan-wealth-management-warns-ai-could-displace-24-million-knowledge-worker-jobs/tldr
+      - https://newsable.asianetnews.com/business/jp-morgan-report-warns-ai-could-displace-24-million-jobs-globally-soon-articleshow-vca9qog
+      - https://particle.news/story/jpmorgan-says-ai-could-displace-24-million-knowledge-jobs-over-five-years
+      - https://news.webindia123.com/news/Articles/Business/20261127/4525068.html
+      - https://dailyaibrief.com/news/jp-morgan-ai-24-million-knowledge-worker-jobs-risk-zExKgGZI
+  - fingerprint: bain-ai-shopping-agents-0-4pct-orders-retailer-blocks-black-friday-nov2026
+    title: "Black Friday reality check: Bain finds AI shopping agents handle just 0.4% of online orders, and many retailers are blocking them"
+    first_seen: 2026-11-28
+    digest: using-ai-for-business-productivity-2026-Nov-28.html
+    urls:
+      - https://thenextweb.com/news/ai-shopping-agents-black-friday-retailers-trust
+      - https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html
+      - https://en.sedaily.com/world/2026/11/28/ai-shopping-agents-account-for-just-04-percent-of-sales-on
+      - https://startupfortune.com/shopify-says-black-friday-ai-agent-sales-rose-33x-but-gives-no-dollar-figure/
+      - https://aiweekly.co/alerts/amazon-blocks-shopping-agents-as-shopify-sees-33x-agent-sales
+      - https://digestai.news/story/ai-shopping-agents-face-retailer-blocks-and-errors-as-adoption-stalls
+      - https://capitaldigest.com/ai-shopping-bots-promise-effortless-buys-as-amazon-and-retailers-shut-them-out/
+  - fingerprint: anthropic-working-with-ai-58-customers-two-thirds-hiring-less-offshore-cuts-nov2026
+    title: "Anthropic interviewed 58 business customers: two-thirds are hiring less because of AI, but layoffs are rare"
+    first_seen: 2026-11-28
+    digest: using-ai-for-business-productivity-2026-Nov-28.html
+    urls:
+      - https://www.anthropic.com/research/working-with-ai
+      - https://runtimewire.com/article/anthropic-interviews-at-58-companies-find-ai-cutting-hiring-and-offshore
+      - https://mlq.ai/news/anthropic-study-of-58-business-customers-finds-top-down-ai-rollouts-raise-surveillance-fears-and-worker-resistance/
+      - https://madrobot.blog/2026/11/25/anthropic-working-with-ai-hiring-less-offshore/
+      - https://remunerationlabs.substack.com/p/ai-is-not-causing-mass-layoffs-yet
+      - https://explainx.ai/blog/anthropic-working-with-ai-enterprise-adoption-study-november-2026
   - fingerprint: fca-our-approach-to-agentic-ai-tech-firms-regulatory-perimeter-nov2026
     title: "UK's FCA warns tech firms that AI agents doing regulated financial work could bring them under financial regulation"
     first_seen: 2026-11-27
@@ -4993,6 +5052,13 @@ entries:
 # Knowledge Base — Using AI for Business Productivity
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in. Future runs read the YAML `entries` above as the dedup set so nothing here is reported twice.
+
+## 2026-Nov-28
+- **SAP is reportedly weighing at least 10,000 job cuts as it reorganises around AI** — Bloomberg (26–27 Nov, unnamed sources): SAP weighing ≥10,000 cuts, ≥9% of ~110k staff; every department asked to find cuts, focus on product/engineering and sales; total not final, subject to labour talks; SAP declined to comment; follows 2024 restructuring (9–10k roles) and a July 2026 hiring freeze; German employment guarantee to 2028 may push cuts abroad. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-28.html)
+- **Google opens Gmail, Drive and Docs to AI agents through official MCP servers, and will require agents to use them from February** — 24 Nov: Google Workspace MCP servers (Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat, Tasks; Keep soon) and gwscli GA; admins trust/limit/block agent client IDs under API Controls, set confirmation rules, audit logs flag agent actions; from 1 Feb 2027 agents must use MCP/CLI not REST; free Standard tier 5,000 req/day/project/product, paid Scaled tier from Apr 2027; message/file-level blocks still coming. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-28.html)
+- **J.P. Morgan Wealth Management estimates AI could displace 24 million knowledge-worker jobs in five years, mostly as roles left unfilled** — 27 Nov J.P. Morgan Wealth Management scenario: ~24M knowledge-worker jobs globally over 5 yrs (~1.3%/yr of knowledge workforce), assuming half of enterprise AI spend replaces would-be hires at half the worker's cost; ~16M in US if two-thirds lands there; mostly roles left unfilled not layoffs; ~2/3 of tasks exposed but US workers use AI ~6% of hours; likelier outcome is change within jobs. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-28.html)
+- **Black Friday reality check: Bain finds AI shopping agents handle just 0.4% of online orders, and many retailers are blocking them** — Black Friday (27–28 Nov): Bain: AI agents ~0.4% of global e-commerce transactions, ~0.2% of value; Human Forward test of 200 sites: ~half of big retailers block AI shoppers; Amazon blocks outside agents (reported talks with Meta Muse), eBay/United/Kohl's restrict, Walmart/Sephora open, Coach/Gap browse-only; Visa tests: agents failed 43% of tasks; 23% of US shoppers trust AI to pay; Shopify: agent sales ~3.3x y/y, no dollar figure. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-28.html)
+- **Anthropic interviewed 58 business customers: two-thirds are hiring less because of AI, but layoffs are rare** — Anthropic economics team 'Working with AI' (23 Nov): 66 interviews at 58 enterprise customers (non-representative, qualitative); very few AI-driven domestic layoffs, only 2 firms said AI fully eliminated a role; two-thirds report reduced hiring; 10 hiring more (implementation/IT); 9 cut contracted devs, customer service, legal, back office, often offshore — possible early warning for business-services outsourcing; top-down rollouts raised surveillance fears. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-28.html)
 
 ## 2026-Nov-27
 - **UK's FCA warns tech firms that AI agents doing regulated financial work could bring them under financial regulation** — FCA 'Our approach to Agentic AI' (24 Nov): agents that do payments, credit broking, financial promotions or advice may need authorisation; calling yourself a tech provider is no shield; senior managers own third-party agents; no new rules, existing ones apply. [digest](../using-ai-for-business-productivity/using-ai-for-business-productivity-2026-Nov-27.html)
