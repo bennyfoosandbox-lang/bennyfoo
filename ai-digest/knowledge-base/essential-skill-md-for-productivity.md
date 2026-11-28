@@ -2,10 +2,41 @@
 topic: "Essential SKILL.md Skills for Improving Productivity"
 topic_slug: essential-skill-md-for-productivity
 created: 2026-07-20
-last_run: 2026-11-27
-run_count: 114
-digest_count: 114
+last_run: 2026-11-28
+run_count: 115
+digest_count: 115
 entries:
+  - fingerprint: copilot-cli-1-0-117-stable-1-0-118-0-1-org-agent-models-sandbox-hooks-readonly-mcp-enable-disable-nov27
+    title: "Copilot CLI 1.0.117 reaches stable with tighter MCP and extension approvals, and 1.0.118 pre-releases keep Git hooks read-only in sandboxes"
+    first_seen: 2026-11-28
+    digest: essential-skill-md-for-productivity-2026-Nov-28.html
+    urls:
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.117
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.118-0
+      - https://github.com/github/copilot-cli/releases/tag/v1.0.118-1
+      - https://www.npmjs.com/package/@github/copilot
+  - fingerprint: vercel-skills-cli-1-9-1-remove-symlink-safety-frozen-lockfile-locked-commit-compare-links-nov27
+    title: "The skills CLI 1.9.1 stops removals from deleting the wrong copy of a skill and makes frozen-lockfile installs truly reproducible"
+    first_seen: 2026-11-28
+    digest: essential-skill-md-for-productivity-2026-Nov-28.html
+    urls:
+      - https://github.com/vercel-labs/skills/releases/tag/v1.9.1
+      - https://www.npmjs.com/package/skills
+  - fingerprint: openclaw-2026-12-1-beta-1-clawhub-category-browse-skill-pages-per-plugin-tool-control-doctor-deadlines-nov29
+    title: "OpenClaw 2026.12.1-beta.1 lets you browse ClawHub skills by category and turn individual plugin tools on or off, a day before old config stops working"
+    first_seen: 2026-11-28
+    digest: essential-skill-md-for-productivity-2026-Nov-28.html
+    urls:
+      - https://github.com/openclaw/openclaw/releases/tag/v2026.12.1-beta.1
+      - https://www.npmjs.com/package/openclaw
+  - fingerprint: google-skills-cloud-operator-org-only-calls-home-org-access-wait-retry-honest-status-1-5-0-1-6-0-nov27
+    title: "Google fixes its Cloud Operator skills to always call at organization level, wait out access delays, and not claim work has started too early"
+    first_seen: 2026-11-28
+    digest: essential-skill-md-for-productivity-2026-Nov-28.html
+    urls:
+      - https://github.com/google/skills/commit/4d3b452
+      - https://github.com/google/skills/commit/10c799e
+      - https://github.com/google/skills/commit/27c1bea
   - fingerprint: copilot-cli-1-0-117-2-3-mcp-approval-no-longer-covers-builtins-autopilot-asks-per-extension-forge-skill-assets-nov26
     title: "Copilot CLI 1.0.117-3 stops an MCP approval from also approving built-in actions, and asks before each extension in autopilot"
     first_seen: 2026-11-27
@@ -3811,6 +3842,14 @@ entries:
 # Knowledge Base — Essential SKILL.md Skills for Improving Productivity
 
 Running log of everything already covered, newest first. Future runs read the YAML `entries` above as the dedup set.
+
+## 2026-Nov-28
+- **Copilot CLI 1.0.117 reaches stable with tighter MCP and extension approvals, and 1.0.118 pre-releases keep Git hooks read-only in sandboxes** — Copilot CLI 1.0.117 stable (27 Nov ~13:04 UTC, npm Latest): promotes 1.0.117-x fixes (MCP approval no longer covers built-ins, autopilot asks per extension, Forge reject restores skill assets, starts without plugins on bad config.json); custom agents explicit tool opt-in, subagents honour agent-file tool list without prompt, background agents resume after restart, Assisted Permissions asks before branch/package install in plan mode, retry once on request. 1.0.118-0 (27 Nov ~20:09): org custom agents use configured model without --model; readwritePaths sandbox keeps Git config + hooks read-only; null anyOf MCP output schema fix; Windows marketplace git auth no extra console. 1.0.118-1 (~23:01): concurrent copilot mcp enable/disable preserved. 1.0.118-2 (28 Nov ~00:57) history-nav fix only. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-28.html)
+- **The skills CLI 1.9.1 stops removals from deleting the wrong copy of a skill and makes frozen-lockfile installs truly reproducible** — vercel-labs/skills CLI v1.9.1 (27 Nov ~05:08 UTC, Latest, 13 fixes, 8 contributors): #2804 remove no longer deletes canonical skill through symlinked agent dir; #2801 global removal preserves project skills; #2671 symlinked skill paths collapsed; #2776 --frozen-lockfile sync fetches remote skills at locked commit; #2779 refuses to rewrite unreadable global lock; #2792 update lists skipped global skills; #2787 check shows GitHub compare links; #2822 times out stalled well-known downloads; #2847 skips missing project agent dirs in copy mode; #2846 recognises versioned Claude Code AI_AGENT; #2821 path shortening on whole segments; #2768 duplicate validation on rename. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-28.html)
+- **OpenClaw 2026.12.1-beta.1 lets you browse ClawHub skills by category and turn individual plugin tools on or off, a day before old config stops working** — OpenClaw 2026.12.1-beta.1 (pre-release, GitHub 28 Nov ~00:21 UTC; npm 27 Nov 22:56): ClawHub catalog browse/search by category + installed skills as full pages (#202756, #202581); per-plugin-tool control in Settings (#201453); harness choice for primary/fallback models (#203358); Templates share/preview/automation cards (#201644, #202060, #202126); subagent completion settle/no duplicate finals (#204260, #204178); /codex review branch/commit targets (#202114); bundled Codex app-server/ACP 0.172.0. Doctor deprecations deadline 2026-11-29: bundled plugin load paths, cli-backends plugin registration, web-fetch/web-search/x-search plugin config, mcp.servers.*.transport alias, MCP connectionTimeoutMs/requestTimeoutMs aliases; plugin-sdk deprecations 29 Nov-1 Dec. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-28.html)
+- **Google fixes its Cloud Operator skills to always call at organization level, wait out access delays, and not claim work has started too early** — google/skills 27 Nov: 4d3b452 (5 files +116/-65) cloud-operator + cloud-operator-setup (1.4.0) always call operator with organization, never project; project 'not available' no longer read as org unavailable; saved notes retried; project optional, org discovered from named/saved project. 10c799e (4 files +36/-17) cloud-operator-setup 1.5.0 / cloud-operator 1.6.0: 'org-level agents not enabled' = not available yet (no role/retry); home-org permission error -> wait ~2 min, retry up to ~10 min before admin path; after admin enables, recheck every ~2 min up to ~15 min. 27c1bea (2 files +11/-9) cloud-operator 1.4.1: don't say operator started before call sent/approved; background checks use context_id session. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-28.html)
+
+Note: Scanned about 100 candidate links from 7 web searches, npm registry timestamps for 11 agent CLIs and the skills CLI, and the latest release and commit pages for Copilot CLI, Codex, Gemini CLI, Qwen Code, OpenClaw, Hermes Agent, Crush, Kilo Code, google/skills, anthropics/skills, anthropics/claude-plugins-official, addyosmani/agent-skills, obra/superpowers, openai/skills and github/awesome-copilot. Firecrawl was skipped as instructed (web search only). All four items are from 27 Nov, inside the 24-hour window. It was a quiet day after US Thanksgiving, so this digest has four items instead of five rather than padding. Skipped 12 candidates already in the knowledge base, including Claude Code 2.1.332, Qwen Code 0.28.7, the Copilot CLI 1.0.117 pre-releases, Gemini CLI 0.71.1 and 0.72.0-preview.0, Hermes Agent 0.23.4, addyosmani/agent-skills 0.6.18, Codex 0.172.0, superpowers 7.0.2, the 26 Nov google/skills commits, and Google's AdMob and Firebase skills. Held back: Crush 0.104.0 (onboarding only), Kilo Code 7.8.38 and 7.8.40 (no skill changes), Codex 0.174.0 alphas (no notes), Qwen Code SDK 0.1.39 (bundles 0.28.7) and Copilot CLI 1.0.118-2 (history fix only). arxiv.org and cursor.com were unreachable from the run network, so new papers and Cursor's changelog were not checked.
 
 ## 2026-Nov-27
 - **Copilot CLI 1.0.117-3 stops an MCP approval from also approving built-in actions, and asks before each extension in autopilot** — Copilot CLI 1.0.117-2 (26 Nov ~02:03 UTC) and 1.0.117-3 (~20:17 UTC), pre-releases: MCP server tool approval no longer also approves built-in requests (shell, memory) when names collide, still applies after resume; autopilot asks before each extension instead of denying all; rejecting a Forge draft restores original binary skill assets; starts without plugins if config.json unreadable (file left unchanged); case-insensitive /mcp and --disable-mcp-server names; no repeat org-required plugin notices. 1.0.117-2: PowerShell hooks keep native exit codes (exit 2 = warning/denial). 1.0.117-4/-5 no skill changes. 1.0.116 remains Latest. [digest](../essential-skill-md-for-productivity/essential-skill-md-for-productivity-2026-Nov-27.html)
